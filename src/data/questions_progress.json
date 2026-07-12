@@ -23,7 +23,8 @@
     "f87e8f5a53b06003ba60a1dea9777cf1": true,
     "6dcc13644f049fd318bfad6b9ff1dd73": true,
     "26d32d550b5b49d527d54de26343cd39": true,
-    "2867810f3533fd9cdf14f28c76fea029": true
+    "2867810f3533fd9cdf14f28c76fea029": true,
+    "dd56fceca9279e66c01434f85df4b1d5": true
   },
   "questions": [
     {
@@ -4678,6 +4679,266 @@
       "correctAnswer": "a",
       "explanation": "El texto afirma que la 'Ley de Ordenación Bancaria o Ley Cambó, de 29 de diciembre [de 1921], (...) configura la función del Banco de España como auténtico banco central', detallando que 'reorganiza el sistema financiero y regula por primera vez las relaciones entre el Banco de España como banco central y la banca privada' y 'le asignó la inspección de la banca privada'. Las otras leyes corresponden a la nacionalización, autonomía o reconocimiento de autonomía parcial en años posteriores.\n\n\nEjemplo: La asignación de funciones específicas a un banco central, como la inspección bancaria y la regulación de su relación con la banca privada, es un paso fundamental en la modernización financiera. Esta configuración (ej. Ley de Ordenación Bancaria de 1921) es comparable a la creación de marcos regulatorios modernos que definen las responsabilidades de los bancos centrales en la supervisión del sistema financiero.",
       "id": "q_f2c9e14224",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según la Ley de 21 de junio de Órganos Rectores del Banco de España de 1980, ¿qué grado de autonomía se reconoció al Banco de España?",
+      "options": {
+        "a": "Un grado limitado de autonomía funcional, supeditado a la aprobación del Ministerio de Economía.",
+        "b": "Un grado sustancial de autonomía, tanto funcional (ej. política monetaria) como orgánica.",
+        "c": "Un reconocimiento formal de autonomía únicamente en aspectos administrativos, sin injerencia en política monetaria.",
+        "d": "Una autonomía transitoria, pendiente de la futura integración en la Comunidad Económica Europea."
+      },
+      "correctAnswer": "b",
+      "explanation": "La Ley de 21 de junio de Órganos Rectores del Banco de España de 1980 supuso el reconocimiento de un sustancial grado de autonomía del Banco, tanto desde un punto de vista funcional (por ejemplo, en el ámbito de la política monetaria), como orgánico.\n\n\nEjemplo: Tras la aprobación de esta ley, el Banco de España pudo tomar decisiones sobre la política monetaria con mayor independencia, sin necesidad de consultar cada paso con el Gobierno, lo que marcó un hito en su desarrollo institucional.",
+      "id": "q_c31b5ffc64",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En virtud de la Ley de Disciplina e Intervención Bancaria de 1988, ¿cuál fue el alcance de la labor supervisora del Banco de España?",
+      "options": {
+        "a": "Se limitaba a las entidades bancarias dentro del territorio nacional, excluyendo cooperativas de crédito y establecimientos financieros.",
+        "b": "Se extendió a todas las oficinas de las entidades de crédito (bancos, cajas, cooperativas y establecimientos financieros de crédito) dentro o fuera del territorio nacional, y con responsabilidades limitadas a las sucursales de entidades comunitarias que operan en España.",
+        "c": "Se aplicó exclusivamente a las sucursales de entidades de crédito españolas en el extranjero, dejando la supervisión nacional al Gobierno.",
+        "d": "Contemplaba la supervisión de bancos y cajas de ahorros, pero no incluía las cooperativas de crédito hasta una reforma posterior."
+      },
+      "correctAnswer": "b",
+      "explanation": "La Ley de Disciplina e Intervención Bancaria de 1988 desarrolló la labor supervisora del Banco de España, extendiéndola a todas las oficinas de las entidades de crédito (bancos, cajas, cooperativas y establecimientos financieros de crédito), tanto dentro como fuera del territorio nacional, y con responsabilidades limitadas a las sucursales de entidades comunitarias que operan en España.\n\n\nEjemplo: Si una cooperativa de crédito española abría una oficina en París, esta oficina quedaba bajo la supervisión del Banco de España conforme a esta ley, mientras que una sucursal de un banco francés en Madrid sería supervisada por el Banco de España con responsabilidades limitadas.",
+      "id": "q_b9440e646b",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según la Ley de Autonomía del Banco de España de 1994, ¿cuál era la duración y el régimen de renovación de los mandatos del gobernador y el subgobernador?",
+      "options": {
+        "a": "Mandatos de cinco años, renovables una vez.",
+        "b": "Mandatos de cuatro años, sin posibilidad de renovación.",
+        "c": "Mandatos de seis años, no renovables.",
+        "d": "Mandatos de siete años, con posibilidad de reelección ilimitada."
+      },
+      "correctAnswer": "c",
+      "explanation": "La Ley de Autonomía del Banco de España de 1994 estableció mandatos relativamente largos y no renovables, fijados en seis años, tanto para el gobernador como para el subgobernador del Banco.\n\n\nEjemplo: Un gobernador que asume su cargo en 2023 lo desempeñará hasta 2029, y al finalizar este periodo, no podrá ser designado nuevamente para el mismo puesto, garantizando así la independencia del cargo.",
+      "id": "q_4f19119aa3",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Una de las modificaciones sustanciales de las relaciones entre el Banco de España y el Gobierno, establecida por la Ley de Autonomía de 1994, fue:",
+      "options": {
+        "a": "La facultad del Banco de España para financiar directamente déficits puntuales de las Administraciones Públicas en situaciones de emergencia.",
+        "b": "La prohibición explícita de la financiación a las Administraciones Públicas por parte del Banco de España.",
+        "c": "La obligación del Banco de España de solicitar y acatar instrucciones del Gobierno en la ejecución de la política monetaria.",
+        "d": "La limitación del Banco de España a informar al Gobierno únicamente sobre los aspectos operativos, sin compartir los objetivos estratégicos de la política monetaria."
+      },
+      "correctAnswer": "b",
+      "explanation": "La Ley de Autonomía del Banco de España de 1994 modificó sustancialmente las relaciones del banco emisor con el Gobierno, quedando prohibida la financiación a las Administraciones Públicas y limitándose el Banco a informar al Gobierno de los objetivos y ejecución de la política monetaria, sin recabar ni aceptar instrucciones procedentes del Gobierno ni de ningún otro órgano nacional o comunitario.\n\n\nEjemplo: Tras la entrada en vigor de esta ley, el Tesoro Público no podía recurrir al Banco de España para cubrir un descubierto en sus cuentas, debiendo financiarse a través de los mercados o con otras fuentes permitidas.",
+      "id": "q_4a9666c2be",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el contexto de la constitución de la Unión Económica y Monetaria (UEM) y la integración en el SEBC, ¿cuándo optó España por otorgar un régimen de autonomía al Banco de España?",
+      "options": {
+        "a": "En 1998, coincidiendo con la creación formal del SEBC.",
+        "b": "En 1991, tras la firma del Tratado de la Unión Europea.",
+        "c": "Desde el comienzo de la segunda etapa de la UEM, en enero de 1994.",
+        "d": "En 2002, con la puesta en circulación de los billetes y monedas en euros."
+      },
+      "correctAnswer": "c",
+      "explanation": "Aunque la autonomía del Banco de España podría haberse postergado hasta la creación del SEBC en 1998, la exposición de motivos de la Ley de Autonomía indica que se optó por otorgar este régimen desde el comienzo de la segunda etapa de la UEM, en enero de 1994.\n\n\nEjemplo: La decisión de conceder la autonomía en 1994, en lugar de esperar a 1998, permitió al Banco de España adaptarse con antelación a las exigencias de independencia requeridas para la futura integración en el Eurosistema, preparando el terreno para la Unión Monetaria.",
+      "id": "q_18f775f62a",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "La Ley 12/1998, de 28 de abril, tuvo como principal efecto para el Banco de España:",
+      "options": {
+        "a": "La prohibición de toda labor supervisora sobre cajas de ahorros y cooperativas de crédito.",
+        "b": "La plena asunción de la responsabilidad sobre la supervisión macroprudencial en la UE.",
+        "c": "La reforma de la Ley de Autonomía y su integración en el Sistema Europeo de Bancos Centrales (SEBC).",
+        "d": "La consolidación de su presupuesto con los restantes presupuestos del sector público estatal."
+      },
+      "correctAnswer": "c",
+      "explanation": "La Ley 12/1998, de 28 de abril, reformó la Ley de Autonomía y estableció que el Banco de España se integraba en el Sistema Europeo de Bancos Centrales (SEBC), junto con los otros bancos centrales nacionales de los países de la Unión Europea (UE) y el Banco Central Europeo (BCE).\n\n\nEjemplo: Desde la promulgación de esta ley, el Banco de España no solo continuó con sus funciones nacionales, sino que también comenzó a participar activamente en las decisiones y operaciones coordinadas del SEBC, contribuyendo a la política monetaria común de la Unión Europea.",
+      "id": "q_fbc248697a",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuántos países de la UE adoptaron el euro como moneda única desde el 1 de enero de 1999, y cuál de los siguientes países no formó parte de este grupo inicial?",
+      "options": {
+        "a": "12 países; Grecia.",
+        "b": "11 países; Grecia.",
+        "c": "15 países; Reino Unido.",
+        "d": "10 países; Portugal."
+      },
+      "correctAnswer": "b",
+      "explanation": "Desde el 1 de enero de 1999, el euro se convirtió en la moneda de 11 países de la UE, entre ellos España, Alemania, Austria, Bélgica, Finlandia, Francia, Irlanda, Italia, Luxemburgo, los Países Bajos y Portugal. Grecia se añadió dos años más tarde.\n\n\nEjemplo: En 1999, un ciudadano español que viajaba a Alemania podía pagar con euros, pero si visitaba Grecia, aún necesitaría cambiar a dracmas griegas hasta la adhesión de este país a la moneda única en 2001.",
+      "id": "q_741f7d13d6",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según la definición proporcionada, ¿cuál es la diferencia fundamental entre el Sistema Europeo de Bancos Centrales (SEBC) y el Eurosistema?",
+      "options": {
+        "a": "El SEBC incluye solo a los bancos centrales de los países fundadores de la UE, mientras que el Eurosistema abarca a todos los miembros actuales.",
+        "b": "El SEBC está formado por el BCE y los bancos centrales nacionales de todos los Estados miembros de la Unión Europea, mientras que el Eurosistema lo forman el BCE y los bancos centrales nacionales de los Estados miembros cuya moneda es el euro.",
+        "c": "El Eurosistema es una subdivisión del SEBC que se encarga exclusivamente de la supervisión bancaria, mientras que el SEBC define la política monetaria.",
+        "d": "El SEBC se ocupa de la política monetaria, y el Eurosistema es el encargado de la supervisión macroprudencial del sistema financiero de la UE."
+      },
+      "correctAnswer": "b",
+      "explanation": "El SEBC está formado por el BCE y los bancos centrales nacionales de todos los Estados miembros de la Unión Europea; mientras que el Eurosistema está formado por el BCE y los bancos centrales nacionales de los Estados miembros cuya moneda es el euro. Esta distinción es clave dado que no todos los Estados miembros de la UE han adoptado el euro.\n\n\nEjemplo: El Banco Nacional de Suecia, cuya moneda no es el euro, es parte del SEBC pero no del Eurosistema. Sin embargo, el Banco de España, al haber adoptado el euro, es miembro de ambos sistemas.",
+      "id": "q_5fd822716c",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿En qué fecha se pusieron en circulación los billetes y monedas en euros que sustituyeron a las monedas nacionales en los países participantes?",
+      "options": {
+        "a": "1 de enero de 1999.",
+        "b": "1 de enero de 2000.",
+        "c": "1 de enero de 2002.",
+        "d": "1 de enero de 2007."
+      },
+      "correctAnswer": "c",
+      "explanation": "El proceso de integración europea culminó el 1 de enero de 2002, cuando se pusieron en circulación los nuevos billetes y monedas en euros, que sustituyeron a los nacionales.\n\n\nEjemplo: A partir de esa fecha, los ciudadanos de los 12 países de la zona euro (los 11 iniciales más Grecia) comenzaron a utilizar exclusivamente los billetes y monedas de euro para todas sus transacciones diarias, dejando de usar pesetas, marcos alemanes, francos franceses, etc.",
+      "id": "q_a196fd417c",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En 2010, ¿qué institución fue creada con la función de supervisión macroprudencial del sistema financiero de la UE y de prevención y mitigación del riesgo sistémico?",
+      "options": {
+        "a": "La Autoridad Bancaria Europea (ABE).",
+        "b": "El Comité de Supervisión Bancaria de Basilea.",
+        "c": "La Junta Europea de Riesgo Sistémico (JERS).",
+        "d": "La Autoridad Europea de Valores y Mercados (ESMA)."
+      },
+      "correctAnswer": "c",
+      "explanation": "La Junta Europea de Riesgo Sistémico (JERS o ESRB, por sus siglas en inglés), creada en 2010, se encarga de la supervisión macroprudencial del sistema financiero de la UE y contribuye a la prevención y mitigación del riesgo sistémico.\n\n\nEjemplo: En una situación donde se detecta un posible riesgo de burbuja inmobiliaria a nivel europeo que podría afectar a la estabilidad financiera, la JERS sería la institución encargada de emitir advertencias y recomendaciones para prevenir una crisis sistémica.",
+      "id": "q_869af14683",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuántas autoridades supervisoras europeas fueron creadas en 2011, y cuáles son sus áreas de competencia?",
+      "options": {
+        "a": "Dos: la Autoridad Bancaria Europea (banca) y la Autoridad Europea de Valores y Mercados (mercados financieros).",
+        "b": "Tres: la Autoridad Bancaria Europea (banca), la Autoridad Europea de Valores y Mercados (valores y mercados financieros) y la Autoridad Europea de Seguros y Pensiones de Jubilación (pensiones y seguros).",
+        "c": "Cuatro: incluyendo las mencionadas en la opción 'b' más la Junta Europea de Riesgo Sistémico (riesgo sistémico).",
+        "d": "Una: la Autoridad Europea de Supervisión Financiera, que centraliza todas las funciones supervisoras."
+      },
+      "correctAnswer": "b",
+      "explanation": "En 2011 se crearon tres autoridades supervisoras europeas: la Autoridad Bancaria Europea (ABE), que se ocupa de la regulación y supervisión prudencial en el sector bancario; la Autoridad Europea de Valores y Mercados (ESMA), que supervisa valores y mercados financieros; y la Autoridad Europea de Seguros y Pensiones de Jubilación (EIOPA), que supervisa las pensiones y seguros a nivel europeo.\n\n\nEjemplo: Si un banco necesita una nueva autorización para operar en varios países de la UE, la ABE trabajaría para asegurar que se apliquen estándares de regulación coherentes en todo el proceso.",
+      "id": "q_59f49e09c3",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Qué instituciones constituyen el Sistema Europeo de Supervisión Financiera (SESF), encargado de la supervisión macroprudencial y microprudencial?",
+      "options": {
+        "a": "Únicamente el Banco Central Europeo (BCE) y las tres Autoridades Supervisoras Europeas (ABE, ESMA, EIOPA).",
+        "b": "La Junta Europea de Riesgo Sistémico (JERS) y las tres Autoridades Supervisoras Europeas (ABE, ESMA, EIOPA), junto con las autoridades nacionales de supervisión.",
+        "c": "El Banco de Pagos Internacionales (BIS), el Fondo Monetario Internacional (FMI) y el Comité de Supervisión Bancaria de Basilea.",
+        "d": "El Banco Central Europeo (BCE) y los bancos centrales nacionales de los Estados miembros de la zona euro."
+      },
+      "correctAnswer": "b",
+      "explanation": "El Sistema Europeo de Supervisión Financiera (SESF) está constituido por la Junta Europea de Riesgo Sistémico (JERS), las tres Autoridades Supervisoras Europeas (la ABE, la ESMA y la EIOPA), y las autoridades nacionales de supervisión, y se ocupa tanto de la supervisión macroprudencial como de la supervisión microprudencial.\n\n\nEjemplo: Cuando se evalúa la estabilidad financiera global de un país de la UE, el SESF coordina la información y las acciones de todas estas entidades, desde la JERS analizando riesgos sistémicos hasta las autoridades nacionales supervisando bancos individuales.",
+      "id": "q_ad2e9e4eb3",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuándo y qué institución asumió la supervisión directa de las entidades significativas de crédito de la zona euro, marcando el inicio del Mecanismo Único de Supervisión (MUS)?",
+      "options": {
+        "a": "En enero de 2011, la Autoridad Bancaria Europea (ABE).",
+        "b": "En noviembre de 2014, el Banco Central Europeo (BCE).",
+        "c": "En enero de 2015, el Mecanismo Único de Resolución (MUR).",
+        "d": "En 2010, la Junta Europea de Riesgo Sistémico (JERS)."
+      },
+      "correctAnswer": "b",
+      "explanation": "En noviembre de 2014, el BCE asumió la competencia para la supervisión directa de las entidades significativas de crédito de la zona euro, permaneciendo el resto de entidades bajo la supervisión del Banco de España. La creación del Mecanismo Único de Supervisión europeo (MUS) instaura un nuevo sistema de supervisión bancaria y constituye el primer paso hacia la denominada unión bancaria.\n\n\nEjemplo: A partir de noviembre de 2014, un banco español considerado 'significativo' pasó a ser supervisado directamente por el BCE, mientras que un banco más pequeño, aunque también español, siguió siendo supervisado por el Banco de España.",
+      "id": "q_0ea8d34528",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Desde enero de 2015, ¿con qué mecanismo se complementa la unión bancaria para centralizar el proceso de resolución de entidades en la eurozona?",
+      "options": {
+        "a": "El Mecanismo Europeo de Estabilidad (MEDE).",
+        "b": "El Fondo Monetario Internacional (FMI).",
+        "c": "El Mecanismo Único de Resolución (MUR).",
+        "d": "El Sistema Europeo de Supervisión Financiera (SESF)."
+      },
+      "correctAnswer": "c",
+      "explanation": "Desde enero de 2015, la unión bancaria se complementa con un Mecanismo Único de Resolución (MUR), que centraliza el proceso de toma de decisiones en materia de resolución de entidades en el ámbito de la unión bancaria y garantiza su uniformidad.\n\n\nEjemplo: Si un banco significativo en la zona euro se encuentra en una situación de inviabilidad, el MUR es el organismo que decide su resolución, con el objetivo de minimizar el impacto en la estabilidad financiera y en el uso de fondos públicos.",
+      "id": "q_7e5881ff25",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "A finales de 2024, ¿qué plan estratégico aprobó el Consejo de Gobierno del Banco de España, y cuál es su horizonte temporal?",
+      "options": {
+        "a": "El Plan Estratégico 2025, con un horizonte de un año para su ejecución.",
+        "b": "El Plan de Estabilización Financiera, con un horizonte hasta 2030.",
+        "c": "El Plan Estratégico 2030, que guiará el diseño y la ejecución de la estrategia de la institución hasta 2030.",
+        "d": "El Marco Estratégico para la Integración Europea, sin un horizonte temporal definido."
+      },
+      "correctAnswer": "c",
+      "explanation": "A finales de 2024, el Consejo de Gobierno del Banco de España aprobó el marco estratégico que guiará el diseño y la ejecución del nuevo plan estratégico de la institución: el Plan Estratégico 2030. Este marco estratégico recoge la misión, los valores, la visión y los objetivos del Banco hasta el año 2030.\n\n\nEjemplo: Las directrices sobre digitalización, sostenibilidad o innovación que el Banco de España implemente en los próximos años estarán alineadas con los objetivos y la visión establecidos en este Plan Estratégico 2030.",
+      "id": "q_e6f7587768",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el ejercicio de sus potestades administrativas, ¿a qué ley específica está sometido el Banco de España, según la Ley de Autonomía?",
+      "options": {
+        "a": "A la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+        "b": "A la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en su totalidad.",
+        "c": "Al Código de Comercio, dado su carácter de entidad de Derecho público con actividad económica.",
+        "d": "A una normativa propia, sin sujeción a las leyes administrativas generales del Estado."
+      },
+      "correctAnswer": "a",
+      "explanation": "En el ejercicio de las potestades administrativas conferidas por la Ley de Autonomía u otras leyes, al Banco de España le resultará de aplicación la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.\n\n\nEjemplo: Si el Banco de España impone una sanción a una entidad financiera en el ejercicio de sus funciones supervisoras, el procedimiento para recurrir dicha sanción seguirá los cauces y garantías establecidos en la Ley 39/2015.",
+      "id": "q_aac84b1028",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es el régimen tributario del Banco de España, de acuerdo con el artículo 5 de su Ley de Autonomía?",
+      "options": {
+        "a": "Goza de exención total de impuestos, al ser una entidad de Derecho público.",
+        "b": "Está sujeto a un régimen tributario especial establecido por el Ministerio de Hacienda.",
+        "c": "Goza del mismo régimen tributario que el Estado.",
+        "d": "Está sometido al mismo régimen tributario que el resto de las entidades de crédito privadas."
+      },
+      "correctAnswer": "c",
+      "explanation": "El artículo 5 de la Ley de Autonomía indica que el Banco de España gozará del mismo régimen tributario que el Estado.\n\n\nEjemplo: En el pago de impuestos como el Impuesto de Sociedades o el Impuesto sobre el Valor Añadido, el Banco de España se rige por las mismas normas y exenciones que se aplican a la Administración General del Estado.",
+      "id": "q_84e9a11ae4",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe correctamente la naturaleza del presupuesto de gastos de funcionamiento e inversiones del Banco de España?",
+      "options": {
+        "a": "Tiene carácter limitativo y es objeto de consolidación con los restantes presupuestos del sector público estatal.",
+        "b": "Tiene carácter estimativo y no es objeto de consolidación con los restantes presupuestos del sector público estatal.",
+        "c": "Es aprobado directamente por el Consejo de Gobierno del Banco de España sin necesidad de remisión a las Cortes Generales.",
+        "d": "Su aprobación corresponde al Ministerio de Economía, sin intervención de las Cortes Generales."
+      },
+      "correctAnswer": "b",
+      "explanation": "Respecto al régimen económico (artículo 4 de la Ley de Autonomía), la propuesta de presupuesto de gastos de funcionamiento e inversiones del Banco de España, una vez aprobada por su Consejo de Gobierno, será remitida al Gobierno, que la trasladará a las Cortes Generales para su aprobación. Dicho presupuesto tendrá carácter estimativo y no será objeto de consolidación con los restantes presupuestos del sector público estatal.\n\n\nEjemplo: Si el presupuesto del Banco de España prevé unos gastos de 100 millones de euros, esta cifra es una estimación. Además, a diferencia de otras entidades públicas, sus cuentas no se suman directamente a las del Estado para calcular el déficit público consolidado.",
+      "id": "q_dcf1e69e9f",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿En qué fecha y por qué órgano fue aprobado el Reglamento Interno del Banco de España (RIBE)?",
+      "options": {
+        "a": "El 28 de abril de 1998, por el Gobernador del Banco de España.",
+        "b": "El 1 de junio de 1994, por la Comisión Ejecutiva.",
+        "c": "El 28 de marzo de 2000, por el Consejo de Gobierno del Banco de España, a propuesta de su Comisión Ejecutiva y de acuerdo con el Consejo de Estado.",
+        "d": "El 1 de enero de 1999, por el Sistema Europeo de Bancos Centrales (SEBC)."
+      },
+      "correctAnswer": "c",
+      "explanation": "De acuerdo con el artículo 21.1.f) de la Ley de Autonomía (capítulo III, de Órganos rectores), el Consejo de Gobierno del Banco de España, a propuesta de su Comisión Ejecutiva y de acuerdo con el Consejo de Estado, aprobó el Reglamento Interno del Banco de España (RIBE) el 28 de marzo de 2000.\n\n\nEjemplo: Cualquier modificación o nueva disposición que afecte a la organización interna o al funcionamiento administrativo del Banco de España debe realizarse siguiendo los procedimientos establecidos en este Reglamento Interno, que fue aprobado en la fecha y por los órganos indicados.",
+      "id": "q_9ebc3629c9",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En lo no previsto por su normativa específica y en cuanto sea compatible con su naturaleza y funciones, ¿qué ley es de aplicación al Banco de España según la disposición adicional decimonovena de la Ley 40/2015?",
+      "options": {
+        "a": "La Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+        "b": "El Código Civil, como norma supletoria para entidades de Derecho público.",
+        "c": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+        "d": "La Ley Orgánica del Banco de España de 1980."
+      },
+      "correctAnswer": "c",
+      "explanation": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en su disposición adicional decimonovena, dispone que el Banco de España se regirá, por lo dispuesto en el Tratado de Funcionamiento de la Unión Europea, los Estatutos del Sistema Europeo de Bancos Centrales y del Banco Central Europeo, el Reglamento (UE) n.º 1024/2013 del Consejo, de 15 de octubre de 2013 y la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España. En lo no previsto en las referidas normas y en cuanto sea compatible con su naturaleza y funciones será de aplicación lo previsto en la Ley 40/2015.\n\n\nEjemplo: Si surge una cuestión de régimen jurídico interno del Banco de España que no está explícitamente regulada en su Ley de Autonomía ni en las normas europeas, se recurrirá a la Ley 40/2015 siempre que sea compatible con su naturaleza de banco central autónomo.",
+      "id": "q_5e8dac46f9",
       "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
     }
   ]
