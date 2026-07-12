@@ -756,3 +756,36 @@ button, input, select {
   z-index: 1000;
   pointer-events: none;
 }
+
+/* Interactive Option Feedback Styles */
+.option-item.correct-feedback {
+  border-color: var(--color-success) !important;
+  background-color: var(--color-success-bg) !important;
+  color: var(--color-success) !important;
+}
+.option-item.correct-feedback .option-prefix {
+  background-color: var(--color-success) !important;
+  color: #ffffff !important;
+  border-color: var(--color-success) !important;
+}
+
+.option-item.incorrect-feedback {
+  border-color: var(--color-error) !important;
+  background-color: var(--color-error-bg) !important;
+  color: var(--color-error) !important;
+}
+.option-item.incorrect-feedback .option-prefix {
+  background-color: var(--color-error) !important;
+  color: #ffffff !important;
+  border-color: var(--color-error) !important;
+}
+
+.option-item.disabled-feedback {
+  opacity: 0.6;
+  cursor: default;
+}
+.option-item.disabled-feedback:hover {
+  border-color: var(--border-color) !important;
+  background-color: var(--bg-primary) !important;
+}
+

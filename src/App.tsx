@@ -518,24 +518,88 @@ export default function App() {
             </div>
 
             {/* Question Card */}
-            <div className="card" style={{ marginBottom: "1.5rem" }}>
-              <div className="question-text">
-                {activeQuestions[currentIdx].question}
-              </div>
+            {(() => {
+              const q = activeQuestions[currentIdx];
+              const selectedOpt = userAnswers[q.id];
+              const isAnswered = !!selectedOpt;
+              const { theory, example } = parseExplanation(q.explanation);
 
-              <div className="options-list">
-                {(["a", "b", "c", "d"] as const).map((key) => (
-                  <div
-                    key={key}
-                    onClick={() => selectOption(activeQuestions[currentIdx].id, key)}
-                    className={`option-item ${userAnswers[activeQuestions[currentIdx].id] === key ? "selected" : ""}`}
-                  >
-                    <div className="option-prefix">{key.toUpperCase()}</div>
-                    <div className="option-content">{activeQuestions[currentIdx].options[key]}</div>
+              return (
+                <div className="card" style={{ marginBottom: "1.5rem" }}>
+                  {/* Question ID and Source */}
+                  <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.75rem", color: "var(--text-tertiary)", marginBottom: "0.75rem", borderBottom: "1px dashed var(--border-color)", paddingBottom: "0.5rem" }}>
+                    <span>ID: <strong style={{ color: "var(--text-secondary)" }}>{q.id}</strong></span>
+                    <span>Temario: {q.source.replace(".md", "").replace(/_/g, " ").toUpperCase()}</span>
                   </div>
-                ))}
-              </div>
-            </div>
+
+                  <div className="question-text">
+                    {q.question}
+                  </div>
+
+                  <div className="options-list">
+                    {(["a", "b", "c", "d"] as const).map((key) => {
+                      const isCurrentCorrect = key === q.correctAnswer;
+                      const isCurrentSelected = key === selectedOpt;
+                      
+                      let optionClass = "option-item";
+                      if (isAnswered) {
+                        if (isCurrentCorrect) {
+                          optionClass += " correct-feedback";
+                        } else if (isCurrentSelected) {
+                          optionClass += " incorrect-feedback";
+                        } else {
+                          optionClass += " disabled-feedback";
+                        }
+                      } else if (isCurrentSelected) {
+                        optionClass += " selected";
+                      }
+
+                      return (
+                        <div
+                          key={key}
+                          onClick={() => {
+                            if (!isAnswered) {
+                              selectOption(q.id, key);
+                            }
+                          }}
+                          className={optionClass}
+                          style={isAnswered ? { cursor: "default" } : undefined}
+                        >
+                          <div className="option-prefix">{key.toUpperCase()}</div>
+                          <div className="option-content">{q.options[key]}</div>
+                          {isAnswered && isCurrentCorrect && (
+                            <Check size={16} style={{ marginLeft: "auto", color: "var(--color-success)", flexShrink: 0 }} />
+                          )}
+                          {isAnswered && isCurrentSelected && !isCurrentCorrect && (
+                            <X size={16} style={{ marginLeft: "auto", color: "var(--color-error)", flexShrink: 0 }} />
+                          )}
+                        </div>
+                      );
+                    })}
+                  </div>
+
+                  {/* Immediate Explanation Feedback */}
+                  {isAnswered && (
+                    <div style={{ marginTop: "1.5rem", borderTop: "1px solid var(--border-color)", paddingTop: "1.25rem" }}>
+                      <div className="explanation-content" style={{ display: "block", borderRadius: "var(--border-radius-sm)", margin: 0 }}>
+                        <div style={{ marginBottom: "1rem" }}>
+                          <strong style={{ color: "var(--text-primary)" }}>Justificación Teórica:</strong>
+                          <p style={{ marginTop: "0.25rem", color: "var(--text-secondary)" }}>{theory}</p>
+                        </div>
+                        {example && (
+                          <div>
+                            <strong style={{ color: "var(--text-primary)" }}>Ejemplo Práctico:</strong>
+                            <p style={{ marginTop: "0.25rem", color: "var(--text-secondary)", fontStyle: "italic" }}>
+                              {example}
+                            </p>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              );
+            })()}
 
             {/* Navigation Bar */}
             <div className="navigation-bar">

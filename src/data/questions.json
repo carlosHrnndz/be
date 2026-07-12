@@ -7798,5 +7798,1695 @@
     "explanation": "El texto concluye sobre la situación de la UE afirmando: \"La UE resulta ser, por ello, una mezcla entre las fases cuarta y quinta.\" Esto se debe a que la mayoría de los países han adoptado el euro (quinta fase), pero algunos aún conservan su moneda y política monetaria nacional (cuarta fase).nnnEjemplo: La coexistencia de la Eurozona con países como Suecia o Polonia que mantienen sus propias divisas y políticas monetarias, a pesar de ser parte del mercado único, es lo que configura a la UE como una mezcla entre estas dos etapas avanzadas de integración.",
     "id": "q_2456162ac9",
     "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año fue creado el Sistema Europeo de Bancos Centrales (SEBC)?",
+    "options": {
+      "a": "1957",
+      "b": "1979",
+      "c": "1994",
+      "d": "1998"
+    },
+    "correctAnswer": "d",
+    "explanation": "El texto establece explícitamente que el Sistema Europeo de Bancos Centrales (SEBC) es relativamente moderno y que su creación data del año 1998.\n\n\nEjemplo: Si un examen de historia de la Unión Europea preguntara por la fecha de establecimiento de una de sus instituciones monetarias clave, la respuesta correcta para el SEBC sería 1998, según la información oficial.",
+    "id": "q_bea9e62c63",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año se estableció la Comunidad Europea del Carbón y del Acero (CECA), también conocida como Tratado de París?",
+    "options": {
+      "a": "1945",
+      "b": "1951",
+      "c": "1957",
+      "d": "1965"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que en 1951 se considera como embrión de la futura Unión Europea a la Comunidad Europea del Carbón y del Acero (CECA), también conocido como Tratado de París.\n\n\nEjemplo: Al estudiar los orígenes de la integración europea, un historiador señalaría que la CECA, precursora de la UE, fue formalmente constituida mediante el Tratado de París en 1951.",
+    "id": "q_6d3d45627c",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuáles fueron los seis países fundadores que firmaron el acuerdo de la Comunidad Europea del Carbón y del Acero (CECA) en 1951?",
+    "options": {
+      "a": "Francia, Alemania del Este, Italia, Bélgica, Países Bajos y Luxemburgo.",
+      "b": "Francia, República Federal de Alemania, Italia, España, Países Bajos y Luxemburgo.",
+      "c": "Francia, República Federal de Alemania, Italia, Bélgica, Países Bajos y Luxemburgo.",
+      "d": "Francia, Reino Unido, Italia, Bélgica, Países Bajos y Luxemburgo."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que los seis países que firmaron el acuerdo de la CECA fueron Francia, República Federal de Alemania, Italia, Bélgica, Países Bajos y Luxemburgo.\n\n\nEjemplo: Para un politólogo analizando la conformación inicial de las comunidades europeas, identificar correctamente a la República Federal de Alemania como país fundador de la CECA es crucial, en contraste con Alemania del Este.",
+    "id": "q_5f56a33e2e",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año se firmaron los Tratados de Roma, que establecieron la Comunidad Económica Europea (CEE) y la Comunidad Europea de la Energía Atómica (CEEA o Euratom)?",
+    "options": {
+      "a": "1951",
+      "b": "1957",
+      "c": "1965",
+      "d": "1973"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto menciona que en 1957 los mismos países que fundaron la CECA firmaron los Tratados de Roma, estableciendo la CEE y la CEEA (Euratom).\n\n\nEjemplo: En una cronología de la construcción europea, la firma de los Tratados de Roma en 1957 es un hito fundamental que marcó la creación de un mercado común y la cooperación en energía atómica.",
+    "id": "q_55e8bdff1e",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según los Tratados de Roma, ¿cuál fue el período transitorio establecido para la supresión total de las barreras arancelarias entre los Estados miembros de la CEE?",
+    "options": {
+      "a": "5 años",
+      "b": "8 años",
+      "c": "10 años",
+      "d": "12 años"
+    },
+    "correctAnswer": "d",
+    "explanation": "El texto señala que los Tratados de Roma establecieron para la CEE, o Mercado Común, un período transitorio de 12 años para la supresión total de las barreras arancelarias entre los Estados miembros.\n\n\nEjemplo: Un especialista en derecho económico europeo que estudie la formación de la unión aduanera de la CEE destacará que se fijó un plazo de 12 años para la eliminación de los aranceles internos.",
+    "id": "q_9ec292c962",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año se firmó el Tratado de Bruselas, también conocido como Tratado de Fusión, que unificó el Consejo y la Comisión de las Comunidades Europeas?",
+    "options": {
+      "a": "1957",
+      "b": "1965",
+      "c": "1973",
+      "d": "1979"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que en 1965 se firmó el Tratado de Bruselas, por el que se constituyó un Consejo único y una Comisión única de las Comunidades Europeas, conocido como Tratado de Fusión.\n\n\nEjemplo: Un analista de la evolución institucional de la UE mencionaría que el Tratado de Fusión de 1965 fue clave para simplificar la estructura ejecutiva al unificar los órganos de las tres Comunidades existentes.",
+    "id": "q_00849a3b4d",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Qué países se adhirieron a las Comunidades Europeas en 1973, conformando la denominada 'Europa de los nueve'?",
+    "options": {
+      "a": "Dinamarca, Noruega y Reino Unido.",
+      "b": "Irlanda, Noruega y Reino Unido.",
+      "c": "Dinamarca, Irlanda y Reino Unido.",
+      "d": "Austria, Finlandia y Suecia."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que en 1972/1973, Dinamarca, Irlanda, Noruega y el Reino Unido firmaron los Tratados de Adhesión, pero Noruega no aceptó su entrada en referéndum. Por tanto, los tres países que finalmente se adhirieron fueron Dinamarca, Irlanda y el Reino Unido, dando lugar a la Europa de los nueve.\n\n\nEjemplo: Si se presenta un mapa político de Europa de 1973, los países recién integrados a la CEE que marcarían la ampliación a nueve miembros serían Dinamarca, Irlanda y el Reino Unido.",
+    "id": "q_cb5aa8feba",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál era el margen de fluctuación de las monedas establecido por la 'serpiente monetaria' creada en 1972/1973?",
+    "options": {
+      "a": "+/- 1,50%",
+      "b": "+/- 2,00%",
+      "c": "+/- 2,25%",
+      "d": "+/- 3,00%"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma que la 'serpiente monetaria' fue un acuerdo consistente en limitar al +/- 2,25% el margen de fluctuación de las monedas de los países de la Comunidad.\n\n\nEjemplo: Un experto en historia monetaria europea, al explicar los primeros intentos de estabilidad cambiaria, señalaría que el mecanismo de la 'serpiente monetaria' fijó una banda de fluctuación del 2,25% para las divisas participantes.",
+    "id": "q_7bca5b6b83",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año comenzó a funcionar el Sistema Monetario Europeo (SME)?",
+    "options": {
+      "a": "1973",
+      "b": "1979",
+      "c": "1981",
+      "d": "1986"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que en 1979 comenzó a funcionar el Sistema Monetario Europeo (SME), cuyo objetivo era crear una zona de estabilidad monetaria.\n\n\nEjemplo: En un curso sobre la evolución económica de la Unión Europea, se destacaría que el SME inició sus operaciones en 1979 como un esfuerzo para estabilizar los tipos de cambio entre las monedas de los países miembros.",
+    "id": "q_80dd9a2db3",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año se adhirió Grecia a la CEE, convirtiéndose en su décimo miembro?",
+    "options": {
+      "a": "1979",
+      "b": "1981",
+      "c": "1986",
+      "d": "1999"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que en 1981 Grecia se convirtió en el miembro número diez de la CEE.\n\n\nEjemplo: Si se elabora un listado de las ampliaciones de la CEE, la entrada de Grecia en 1981 es un punto clave que incrementó el número de Estados miembros a diez.",
+    "id": "q_8bea954d58",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año se adhirieron España y Portugal a la CEE, resultando en la 'Europa de los doce'?",
+    "options": {
+      "a": "1981",
+      "b": "1986",
+      "c": "1992",
+      "d": "1995"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que en 1986 España y Portugal se adhirieron a la CEE, tras lo cual se empezó a hablar de la Europa de los doce.\n\n\nEjemplo: La incorporación de España y Portugal en 1986 supuso la mayor ampliación de la CEE hasta ese momento, consolidando la denominación de 'Europa de los doce'.",
+    "id": "q_305e66756c",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año se firmó el Acta Única Europea (AUE), que reactivó la integración europea y amplió las competencias comunitarias?",
+    "options": {
+      "a": "1981",
+      "b": "1986",
+      "c": "1988",
+      "d": "1992"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto señala que en 1986 se firmó el Acta Única Europea (AUE), un hecho de crucial importancia que revisó los Tratados de Roma para reactivar la integración europea y llevar a cabo la realización del mercado interior.\n\n\nEjemplo: Un jurista que estudie el derecho comunitario señalará que el Acta Única Europea de 1986 fue fundamental para la ampliación de las competencias de la Comunidad en áreas como el medio ambiente y la investigación.",
+    "id": "q_ce5ba4bcf4",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año se designó el comité presidido por Jacques Delors para guiar la consecución de la Unión Económica y Monetaria (UEM)?",
+    "options": {
+      "a": "1986",
+      "b": "1988",
+      "c": "1989",
+      "d": "1990"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que en 1988 se designó un comité, presidido por Jacques Delors, con el objetivo de servir de guía hacia la consecución de la unión monetaria.\n\n\nEjemplo: La formación del Comité Delors en 1988 bajo la presidencia de Jacques Delors fue el primer paso formal para la elaboración de un plan de tres fases hacia la moneda única.",
+    "id": "q_73893767ef",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año se publicó el Informe Delors, que plasmó las fases para llegar a la moneda única?",
+    "options": {
+      "a": "1988",
+      "b": "1989",
+      "c": "1992",
+      "d": "1994"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que en 1989 los trabajos del comité presidido por Jacques Delors se plasmaron en el Informe Delors, que delineaba las tres fases para alcanzar la moneda única.\n\n\nEjemplo: Un economista que estudie la génesis del euro referenciaría el Informe Delors de 1989 como el documento maestro que estableció la hoja de ruta para la Unión Económica y Monetaria.",
+    "id": "q_8e8f1f0d16",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál fue el período establecido para la primera fase de la consecución de la Unión Económica y Monetaria (UEM) según el Informe Delors?",
+    "options": {
+      "a": "1 de enero de 1990 al 31 de diciembre de 1992.",
+      "b": "1 de julio de 1990 al 31 de diciembre de 1993.",
+      "c": "1 de enero de 1991 al 31 de diciembre de 1994.",
+      "d": "1 de julio de 1991 al 31 de diciembre de 1995."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Informe Delors, según el texto, estableció la primera fase de la UEM entre el 1 de julio de 1990 y el 31 de diciembre de 1993.\n\n\nEjemplo: Al analizar la implementación del plan Delors, se observa que durante el período de julio de 1990 a diciembre de 1993 se llevaron a cabo acciones como la liberalización de transacciones de capital.",
+    "id": "q_ba36b4f5b8",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones fue un objetivo clave de la primera fase de la consecución de la Unión Económica y Monetaria (UEM)?",
+    "options": {
+      "a": "La creación del Instituto Monetario Europeo (IME).",
+      "b": "La prohibición de la concesión de créditos por parte de los bancos centrales.",
+      "c": "La liberalización completa de las transacciones de capital.",
+      "d": "La introducción del euro como moneda única."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto enumera entre los objetivos de la primera fase la 'liberalización de forma completa las transacciones de capital'. Las otras opciones corresponden a fases posteriores.\n\n\nEjemplo: Un inversor que operase en la Unión Europea a principios de los 90 se beneficiaría directamente de la liberalización de las transacciones de capital, una medida fundamental de la primera fase de la UEM.",
+    "id": "q_f241df4181",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál fue el período establecido para la segunda fase de la consecución de la Unión Económica y Monetaria (UEM) según el Informe Delors?",
+    "options": {
+      "a": "1 de julio de 1990 y el 31 de diciembre de 1993.",
+      "b": "1 de enero de 1994 y el 31 de diciembre de 1998.",
+      "c": "1 de enero de 1999 y el 1 de marzo de 2002.",
+      "d": "1 de enero de 1993 y el 31 de diciembre de 1997."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Informe Delors, según el texto, estableció la segunda fase de la UEM entre el 1 de enero de 1994 y el 31 de diciembre de 1998.\n\n\nEjemplo: La creación del Instituto Monetario Europeo (IME) en 1994 marcó el inicio de la segunda fase de la UEM, un período centrado en la coordinación y preparación para la moneda única.",
+    "id": "q_20158a5877",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones se estableció como un objetivo fundamental de la segunda fase de la Unión Económica y Monetaria (UEM)?",
+    "options": {
+      "a": "La fijación irrevocable de los tipos de conversión del euro.",
+      "b": "La ejecución de la política monetaria única por parte del SEBC.",
+      "c": "La creación del Instituto Monetario Europeo (IME).",
+      "d": "La entrada en circulación de los billetes y monedas de euro."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que la segunda fase incluía la 'Creación del Instituto Monetario Europeo (IME)'. Las otras opciones corresponden a la tercera fase.\n\n\nEjemplo: Durante la segunda fase de la UEM, la institución que asumió las labores preparatorias para la política monetaria única fue el IME, fundado en Fráncfort del Meno.",
+    "id": "q_e942d61938",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál fue el período establecido para la tercera fase de la consecución de la Unión Económica y Monetaria (UEM) según el Informe Delors?",
+    "options": {
+      "a": "1 de julio de 1990 y el 31 de diciembre de 1993.",
+      "b": "1 de enero de 1994 y el 31 de diciembre de 1998.",
+      "c": "1 de enero de 1999 y el 1 de marzo de 2002.",
+      "d": "1 de enero de 2000 y el 31 de diciembre de 2003."
+    },
+    "correctAnswer": "c",
+    "explanation": "El Informe Delors, según el texto, estableció la tercera fase de la UEM entre el 1 de enero de 1999 y el 1 de marzo de 2002.\n\n\nEjemplo: La introducción del euro como moneda única y la circulación física de billetes y monedas en 2002 son hitos que se enmarcan dentro del período de la tercera fase de la UEM.",
+    "id": "q_01615da348",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones fue un elemento central de la tercera fase de la Unión Económica y Monetaria (UEM)?",
+    "options": {
+      "a": "La liberalización completa de las transacciones de capital.",
+      "b": "El incremento de la cooperación entre los bancos centrales nacionales.",
+      "c": "La introducción del euro como moneda única.",
+      "d": "La implementación de la independencia de los bancos centrales nacionales."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que la tercera fase incluía la 'Introducción del euro como moneda única'. Las otras opciones pertenecen a fases anteriores o son parte de los preparativos.\n\n\nEjemplo: A partir del 1 de enero de 1999, los mercados financieros operaron con el euro como moneda única, un evento definitorio de la tercera fase de la UEM.",
+    "id": "q_e4696d2d80",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Quiénes fueron los signatarios del Tratado de la Unión Económica y Monetaria Europea, firmado en Maastricht en 1992/93?",
+    "options": {
+      "a": "Los Jefes de Estado y de Gobierno de los países miembros.",
+      "b": "Los Ministros de Asuntos Exteriores y de Economía de los doce Estados miembros.",
+      "c": "Los presidentes de los bancos centrales nacionales y la Comisión Europea.",
+      "d": "Los representantes del Parlamento Europeo y del Consejo Europeo."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que el Tratado de la Unión Económica y Monetaria Europea (Maastricht) fue firmado por los Ministros de Asuntos Exteriores y de Economía de los doce Estados miembros.\n\n\nEjemplo: En el contexto de la firma del Tratado de Maastricht, los Ministros de Asuntos Exteriores y de Economía de España, Francia, Alemania, etc., asumieron la responsabilidad de rubricar este acuerdo trascendental.",
+    "id": "q_58640a3bf5",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año y ciudad se creó el Instituto Monetario Europeo (IME)?",
+    "options": {
+      "a": "1989, Bruselas.",
+      "b": "1994, Fráncfort del Meno.",
+      "c": "1998, Estrasburgo.",
+      "d": "1999, La Haya."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que la segunda fase de la UEM, que comenzó en 1994, coincidió con la creación del Instituto Monetario Europeo (IME) en Fráncfort del Meno.\n\n\nEjemplo: Si se visita la sede del Banco Central Europeo en Fráncfort, se puede aprender que el IME fue su precursor y se estableció en esa misma ciudad en 1994 como preparación para la moneda única.",
+    "id": "q_cbd1240e28",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Qué países se adhirieron a la Unión Europea en 1995?",
+    "options": {
+      "a": "Dinamarca, Irlanda y Reino Unido.",
+      "b": "España y Portugal.",
+      "c": "Austria, Finlandia y Suecia.",
+      "d": "Grecia, Portugal y España."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que en 1995 Austria, Finlandia y Suecia se convirtieron en miembros de la UE.\n\n\nEjemplo: Tras la ampliación de 1995, la bandera de la UE empezó a incluir los símbolos de Austria, Finlandia y Suecia, reflejando su nueva membresía.",
+    "id": "q_95324309c6",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué mes y año se creó el Banco Central Europeo (BCE) y se conformó el Sistema Europeo de Bancos Centrales (SEBC)?",
+    "options": {
+      "a": "Enero de 1999.",
+      "b": "Julio de 1990.",
+      "c": "Junio de 1998.",
+      "d": "Enero de 1994."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma que en el mes de junio de 1998, se creó el Banco Central Europeo (BCE) y, consecuentemente, los bancos centrales de todos los países de la Unión Europea conformaron el Sistema Europeo de Bancos Centrales (SEBC).\n\n\nEjemplo: Un hito crucial en la fase final hacia el euro fue el establecimiento del BCE en junio de 1998, que marcó la consolidación del marco institucional del SEBC.",
+    "id": "q_6dd3e9387b",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué fecha entró en vigor el Tratado de la Eurozona y cuántos países de la UE adoptaron el euro como moneda única inicialmente?",
+    "options": {
+      "a": "1 de enero de 1998, 10 países.",
+      "b": "1 de julio de 1999, 12 países.",
+      "c": "1 de enero de 1999, 11 países.",
+      "d": "1 de marzo de 2002, 15 países."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece que el 1 de enero de 1999 entró en vigor el Tratado de la Eurozona (Tratado de Ámsterdam), y el euro se convirtió en la moneda de 11 países de la UE.\n\n\nEjemplo: A partir del primer día de 1999, las transacciones financieras en los 11 países que inicialmente adoptaron el euro se realizaron en la nueva moneda, un cambio significativo impulsado por el Tratado de la Eurozona.",
+    "id": "q_615937b4dd",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Para qué instituciones se convirtió el euro en unidad de cuenta a partir del 1 de enero de 1999?",
+    "options": {
+      "a": "Solo para el Banco Central Europeo.",
+      "b": "Para el Banco Central Europeo y los bancos comerciales nacionales.",
+      "c": "Para el Banco Central Europeo y los bancos centrales nacionales.",
+      "d": "Para todas las instituciones financieras de la Eurozona."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que a partir del 1 de enero de 1999, 'El euro se convierte en la unidad de cuenta del BCE y de los bancos centrales nacionales'.\n\n\nEjemplo: Desde 1999, el Banco de España, como banco central nacional, así como el BCE, han utilizado el euro como su unidad contable para todas sus operaciones y balances, reflejando su rol en el Eurosistema.",
+    "id": "q_73032b16ac",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el índice de la Unidad Didáctica 2, ¿cuáles son los Órganos Rectores del Banco Central Europeo (BCE) listados?",
+    "options": {
+      "a": "El Consejo de Gobierno, la Junta Directiva y el Comité de Supervisión.",
+      "b": "El Comité Ejecutivo, el Consejo General y el Foro de Estabilidad Financiera.",
+      "c": "El Consejo de Gobierno, el Comité Ejecutivo y el Consejo General.",
+      "d": "El Consejo Económico y Financiero, el Comité de Riesgos y el Consejo de Administración."
+    },
+    "correctAnswer": "c",
+    "explanation": "El índice de la Unidad Didáctica 2, bajo el apartado '4.5 Órganos Rectores del BCE', enumera específicamente '4.5.1 El Consejo de Gobierno', '4.5.2 El Comité Ejecutivo' y '4.5.3 El Consejo General'.\n\n\nEjemplo: En una reunión del Banco Central Europeo, las decisiones de política monetaria son tomadas por el Consejo de Gobierno, mientras que la gestión ordinaria recae en el Comité Ejecutivo, y el Consejo General aborda asuntos de transición.",
+    "id": "q_75f8881d75",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el texto, ¿qué instituciones son actualmente las garantes en la Unión Europea del diseño, ejecución y control de la estabilidad de precios, y de la política monetaria, cambiaria y de supervisión?",
+    "options": {
+      "a": "La Comisión Europea, el Parlamento Europeo y el Consejo Europeo.",
+      "b": "El Banco Central Europeo, el Sistema Europeo de Bancos Centrales y el Eurosistema.",
+      "c": "El Tribunal de Justicia de la Unión Europea, el Tribunal de Cuentas y el Comité Económico y Social.",
+      "d": "Los bancos centrales nacionales, los ministerios de finanzas y las autoridades de supervisión nacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto en la introducción de la Unidad Didáctica 2 afirma que 'Las tres instituciones [el Banco Central Europeo, el Sistema Europeo de Bancos Centrales y el Eurosistema] son, hoy en día, las garantes en la Unión Europea del diseño, ejecución y control de la estabilidad de precios, y de la política monetaria, cambiaria y de supervisión'.\n\n\nEjemplo: Cuando el Banco de España colabora en la formulación de políticas monetarias, lo hace como parte del Eurosistema y el SEBC, contribuyendo a los objetivos de estabilidad de precios que estas instituciones garantizan en la UE.",
+    "id": "q_5f1a82e1e2",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿A través de qué instrumentos se regulan las funciones y organización interna del Banco Central Europeo, el Sistema Europeo de Bancos Centrales y el Eurosistema?",
+    "options": {
+      "a": "Únicamente por sus reglamentos internos.",
+      "b": "Por el Tratado de Lisboa y las directivas comunitarias.",
+      "c": "Por el Tratado de Constitución de la Unión Europea o de Maastricht y sus propios reglamentos internos.",
+      "d": "Por la legislación nacional de cada Estado miembro y acuerdos bilaterales."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece que 'Las funciones y organización interna de estas instituciones se regulan a través del Tratado de Constitución de la Unión Europea o de Maastricht y de sus propios reglamentos internos'.\n\n\nEjemplo: Si un jurista quisiera entender la estructura legal del BCE, consultaría el Tratado de Maastricht y los reglamentos internos del propio Banco Central Europeo para encontrar la normativa aplicable.",
+    "id": "q_00518c1424",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el texto, ¿en qué año se creó el Instituto Monetario Europeo (IME) y cuál era su propósito principal?",
+    "options": {
+      "a": "En 1992, con el objetivo de supervisar la ratificación del Tratado de la Unión Europea.",
+      "b": "En 1994, con la misión de contribuir a establecer las condiciones necesarias para el paso a la tercera fase de la Unión Económica y Monetaria.",
+      "c": "En 1995, con la finalidad de gestionar la incorporación de nuevos estados miembros a la Unión Europea.",
+      "d": "En 1998, como precursor directo del Banco Central Europeo para la implantación del euro."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que en 1994 se creó el Instituto Monetario Europeo (IME) en Fráncfort del Meno, cuya actividad fue considerada transitoria y su objetivo era contribuir a establecer las condiciones necesarias para el paso a la tercera fase de la Unión Económica y Monetaria. \n\n\nEjemplo: En el camino hacia la adopción del euro, antes de la creación formal del BCE y la introducción de la moneda única, el IME actuó como un 'puente' institucional, preparando el terreno técnico y operativo para la convergencia económica y monetaria de los estados miembros.",
+    "id": "q_3fccbd9514",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "En 1999, con la entrada en vigor del Tratado de la Eurozona, ¿cuántos países de la Unión Europea adoptaron el euro como su moneda y qué país no pudo ingresar inicialmente?",
+    "options": {
+      "a": "Diez países; Portugal no cumplió los criterios de convergencia de Maastricht.",
+      "b": "Doce países; España no satisfizo los requisitos de estabilidad de precios.",
+      "c": "Once países; Grecia no cumplió los criterios de convergencia de Maastricht.",
+      "d": "Catorce países; Italia presentó desequilibrios fiscales significativos."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que el 1 de enero de 1999, con la entrada en vigor del Tratado de la Eurozona (Tratado de Ámsterdam), el euro se convirtió en la moneda de 11 países de la UE. Además, se menciona explícitamente que Grecia no pudo ingresar en ese momento porque no cumplía los criterios de convergencia de Maastricht.\n\n\nEjemplo: En 1999, mientras países como Alemania, Francia y España adoptaban el euro, Grecia, a pesar de ser miembro de la UE, tuvo que esperar dos años más debido a que sus indicadores económicos, como la deuda pública o la inflación, superaban los límites establecidos en los criterios de convergencia.",
+    "id": "q_7049602ed6",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el documento, ¿cuál fue el vigésimo Estado miembro en incorporarse a la Eurozona y en qué año se produjo este acontecimiento?",
+    "options": {
+      "a": "Letonia, en enero de 2014.",
+      "b": "Lituania, en 2015.",
+      "c": "Croacia, en 2023.",
+      "d": "Eslovenia, en 2007."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece que Croacia se incorporó a la Eurozona como vigésimo Estado miembro en el año 2023. Las otras opciones se refieren a ingresos de otros países en años distintos y posiciones diferentes en la secuencia de adopción.\n\n\nEjemplo: Después de haber ingresado en la Unión Europea en 2013, Croacia trabajó durante una década para cumplir los criterios económicos y monetarios necesarios, logrando finalmente en 2023 la adopción del euro como su moneda oficial, marcando un hito importante en su integración europea.",
+    "id": "q_a291dfa48f",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "De acuerdo con el texto, ¿cuál es la composición exacta del Eurosistema?",
+    "options": {
+      "a": "Está formado por el Banco Central Europeo (BCE) y los bancos centrales nacionales (BCN) de la totalidad de Estados miembros de la UE.",
+      "b": "Comprende el Banco Central Europeo (BCE) y los BCN de los Estados miembros que han adoptado el euro.",
+      "c": "Se integra por el Banco Central Europeo (BCE) y los bancos centrales nacionales de los países que no han adoptado el euro.",
+      "d": "Lo conforman exclusivamente el Banco Central Europeo (BCE) y el Banco de España, dada su relevancia histórica."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto distingue claramente entre el Eurosistema y el SEBC. Define el Eurosistema como \"el BCE y los BCN de los Estados miembros que han adoptado el euro\", mientras que el SEBC incluye a la totalidad de los Estados miembros de la UE, independientemente de si han adoptado el euro.\n\n\nEjemplo: Cuando se habla de decisiones sobre tipos de interés en la Eurozona, estas son tomadas por el Consejo de Gobierno del BCE y ejecutadas conjuntamente con los bancos centrales nacionales de países como Alemania, Francia o España, que forman parte del Eurosistema. Los bancos centrales de países de la UE que no utilizan el euro, como el de Polonia, no participan en estas decisiones del Eurosistema.",
+    "id": "q_37dcb7bfde",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el Tratado de la Unión Europea, ¿cuál es el objetivo primordial del Sistema Europeo de Bancos Centrales (SEBC)?",
+    "options": {
+      "a": "Promover el crecimiento económico y el pleno empleo en la Comunidad.",
+      "b": "Mantener la estabilidad de precios.",
+      "c": "Salvaguardar la credibilidad del euro y gestionar los tipos de cambio.",
+      "d": "Coordinar las políticas fiscales de los Estados miembros de la UE."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece explícitamente que, según el Tratado, \"El objetivo primordial del SEBC será mantener la estabilidad de precios\" y, \"sin perjuicio de este objetivo, el SEBC apoyará las políticas generales de la Comunidad\".\n\n\nEjemplo: Cuando el SEBC decide ajustar su política monetaria, por ejemplo, elevando o reduciendo los tipos de interés, su principal motivación es asegurar que la inflación se mantenga bajo control y dentro de su objetivo, previniendo así una pérdida significativa del poder adquisitivo de la moneda.",
+    "id": "q_9196903c6b",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "En octubre de 1998, el Consejo de Gobierno del BCE formuló una definición cuantitativa de estabilidad de precios. ¿Cómo se definió en aquel momento?",
+    "options": {
+      "a": "Un incremento interanual del Índice de Precios al Consumo (IPC) inferior al 3% para el conjunto de la zona del euro.",
+      "b": "Una tasa de inflación anual del 2% con una banda de fluctuación de +/- 0.5%.",
+      "c": "Un incremento interanual del Índice Armonizado de Precios de Consumo (IAPC) inferior al 2% para el conjunto de la zona del euro.",
+      "d": "Un incremento interanual del IAPC entre el 1% y el 2% para evitar deflación y alta inflación."
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento indica que, en octubre de 1998, el Consejo de Gobierno del BCE \"formuló una definición cuantitativa de estabilidad de precios: 'Un incremento interanual del Índice Armonizado de Precios de Consumo (IAPC) inferior al 2% para el conjunto de la zona del euro'\".\n\n\nEjemplo: Tras la adopción inicial del euro, para que la población y los mercados tuvieran una referencia clara de lo que el BCE consideraba 'estabilidad', se comunicó este umbral del 2% del IAPC. Si las previsiones de inflación superaban este nivel, el BCE estaría justificado para aplicar medidas restrictivas de política monetaria.",
+    "id": "q_99eb43bea6",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Qué concepto describe el efecto distorsionador en los sistemas impositivos donde un incremento salarial puramente monetario para compensar la inflación puede llevar a una tributación a tipos superiores?",
+    "options": {
+      "a": "Curva de Laffer.",
+      "b": "Ilusión monetaria.",
+      "c": "Progresión fría.",
+      "d": "Efecto de renta."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto explica que \"Los incrementos salariales que tienen como objetivo compensar a los trabajadores por el aumento de la inflación podrían tener como consecuencia que al trabajador se le aplique un tipo impositivo más elevado; a este efecto se le denomina 'progresión fría'\".\n\n\nEjemplo: Un empleado recibe un aumento de salario del 3% para compensar una inflación del 3%. Su poder adquisitivo real no ha cambiado. Sin embargo, al cruzar un umbral de renta superior debido a ese incremento nominal, es posible que ahora tribute a un tipo marginal de IRPF más alto, lo que reduce su renta disponible real y genera una mayor recaudación fiscal para el estado sin un aumento real de la capacidad económica del contribuyente.",
+    "id": "q_425373cd09",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la misión principal del Eurosistema, según su declaración de propósitos estratégicos?",
+    "options": {
+      "a": "Fomentar la integración fiscal entre los Estados miembros de la zona del euro.",
+      "b": "Mantener la estabilidad de precios.",
+      "c": "Gestionar las reservas de divisas de todos los países de la Unión Europea.",
+      "d": "Promover la competitividad económica de la zona del euro a nivel global."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece de forma explícita que \"La misión del Eurosistema es mantener la estabilidad de precios\". Este es el objetivo primordial que persigue a través de sus acciones y propósitos estratégicos.\n\n\nEjemplo: Ante un escenario de alta inflación, como el observado en ciertos periodos recientes, el Eurosistema, en cumplimiento de su misión principal, implementa medidas de política monetaria como el aumento de los tipos de interés para controlar el crecimiento de los precios y devolver la inflación al objetivo del 2%.",
+    "id": "q_0c023a8aae",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el texto, ¿cuál es la misión primordial del Eurosistema?",
+    "options": {
+      "a": "Promover la integración económica y financiera europea.",
+      "b": "Mantener la estabilidad de precios.",
+      "c": "Garantizar la independencia de los bancos centrales nacionales.",
+      "d": "Supervisar las operaciones de cambio de divisas de la Zona euro."
+    },
+    "correctAnswer": "b",
+    "explanation": "La misión fundamental del Eurosistema, según lo establecido en el texto, es mantener la estabilidad de precios. Este propósito es el eje central de todas sus actuaciones.\n\n\nEjemplo: El Eurosistema monitorea de cerca la inflación para asegurar que los precios se mantengan estables, interviniendo con políticas monetarias si se detectan desviaciones significativas que puedan afectar el poder adquisitivo de los ciudadanos.",
+    "id": "q_94d8656d83",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "El Eurosistema se compromete a cumplir con ciertos objetivos para lograr su misión. ¿Cuántos propósitos estratégicos y principios organizativos se propone alcanzar, según el texto?",
+    "options": {
+      "a": "Tres propósitos estratégicos y ocho principios organizativos.",
+      "b": "Cuatro propósitos estratégicos y nueve principios organizativos.",
+      "c": "Cinco propósitos estratégicos y siete principios organizativos.",
+      "d": "Cuatro propósitos estratégicos y ocho principios organizativos."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece explícitamente que el Eurosistema se propone el cumplimiento de cuatro propósitos estratégicos y nueve principios organizativos para alcanzar sus objetivos.\n\n\nEjemplo: En una reunión del Consejo de Gobierno del BCE, se revisa el progreso en la implementación del principio organizativo de 'Cohesión y unidad' y el propósito estratégico de 'Estabilidad financiera e integración financiera europea', asegurando que se cumplan las metas cuantitativas y cualitativas definidas para cada uno.",
+    "id": "q_94722405ed",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones se corresponde con el principio organizativo de 'Diferenciación de las actividades del Eurosistema'?",
+    "options": {
+      "a": "Todos los miembros del Eurosistema deben actuar como una entidad cohesionada y unida.",
+      "b": "Las actividades realizadas por los bancos centrales nacionales para el Eurosistema deben estar claramente identificadas y diferenciadas de sus responsabilidades nacionales.",
+      "c": "Los procesos de decisión deben permitir la expresión de opiniones diversas.",
+      "d": "El BCE y los BCN deben contar con sistemas de control para medir el cumplimiento de las funciones."
+    },
+    "correctAnswer": "b",
+    "explanation": "El principio organizativo de 'Diferenciación de las actividades del Eurosistema' estipula que las actividades que los bancos centrales nacionales realizan en nombre del Eurosistema deben estar claramente identificadas y, en la medida de lo posible, diferenciadas de aquellas que corresponden a sus responsabilidades nacionales.\n\n\nEjemplo: El Banco de España, como BCN, gestiona la emisión de moneda euro (actividad del Eurosistema) de forma distinguible de su función de supervisión de entidades financieras nacionales (responsabilidad nacional), aunque ambas contribuyan a la estabilidad general.",
+    "id": "q_75a2a91d36",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el texto, ¿en qué fecha comenzó la tercera fase de la Unión Económica y Monetaria (UEM), estableciendo al BCE como autoridad monetaria junto con los bancos centrales nacionales?",
+    "options": {
+      "a": "El 1 de enero de 2002.",
+      "b": "El 1 de enero de 1999.",
+      "c": "El 1 de julio de 1998.",
+      "d": "El 1 de enero de 1997."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que la tercera fase de la Unión Económica y Monetaria (UEM) comenzó el día 1 de enero de 1999, fecha en la que el BCE, junto con los bancos centrales nacionales de los países miembros de la UEM, asumió la autoridad monetaria.\n\n\nEjemplo: A partir del 1 de enero de 1999, los ciudadanos de los países que adoptaron el euro comenzaron a ver cómo las decisiones sobre los tipos de interés, que antes tomaban sus bancos centrales nacionales, pasaban a ser una potestad del recién creado Banco Central Europeo.",
+    "id": "q_ef5409977f",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuántos países integran la Zona Euro, cuya política monetaria es administrada por el Banco Central Europeo, según la información proporcionada?",
+    "options": {
+      "a": "Diecinueve países.",
+      "b": "Veinte países.",
+      "c": "Veintiuno países.",
+      "d": "Veinticinco países."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que el Banco Central Europeo es la institución encargada de administrar la política monetaria de los veinte países que integran la Zona euro.\n\n\nEjemplo: Croacia, al unirse a la zona euro en enero de 2023, se convirtió en el vigésimo país en utilizar el euro como moneda oficial, pasando su política monetaria a ser gestionada por el BCE.",
+    "id": "q_7d0c6feda2",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de los siguientes no es uno de los instrumentos de política monetaria utilizados por el BCE, según el texto?",
+    "options": {
+      "a": "Operaciones de mercado abierto.",
+      "b": "Facilidades permanentes.",
+      "c": "Reservas mínimas.",
+      "d": "Operaciones de compraventa de activos financieros gubernamentales secundarios."
+    },
+    "correctAnswer": "d",
+    "explanation": "El texto enumera claramente tres instrumentos de política monetaria utilizados por el BCE: las operaciones de mercado abierto, las facilidades permanentes y las reservas mínimas. Las operaciones de compraventa de activos financieros gubernamentales secundarios no se mencionan explícitamente como uno de los instrumentos principales definidos.\n\n\nEjemplo: Cuando el BCE necesita inyectar liquidez en el sistema, puede recurrir a las operaciones principales de financiación, que son un tipo de operación de mercado abierto, en lugar de realizar una compra directa de bonos específicos no detallada como instrumento base.",
+    "id": "q_4371734471",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Dentro de las operaciones de mercado abierto del Eurosistema, las operaciones principales de financiación se caracterizan por:",
+    "options": {
+      "a": "Ser de periodicidad mensual y con vencimiento de tres meses.",
+      "b": "Ejecutarse de forma ad hoc para suavizar las fluctuaciones inesperadas de liquidez.",
+      "c": "Ser operaciones temporales de inyección de liquidez, de carácter regular, periodicidad semanal y vencimiento de una semana.",
+      "d": "Ajustar la posición estructural de liquidez del Eurosistema frente al sector financiero."
+    },
+    "correctAnswer": "c",
+    "explanation": "Las operaciones principales de financiación se describen como operaciones temporales de inyección de liquidez de carácter regular, con periodicidad semanal y un vencimiento de una semana. Son el instrumento más importante para controlar los tipos de interés y gestionar la liquidez.\n\n\nEjemplo: El BCE anuncia cada martes la subasta de operaciones principales de financiación, a través de la cual los bancos comerciales pueden solicitar liquidez por una semana, pagando un tipo de interés preestablecido, lo que impacta directamente en la liquidez disponible en el mercado.",
+    "id": "q_f07a6c9d70",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "En junio de 2025, ¿cuál era el tipo de interés de la facilidad marginal de crédito y la remuneración de la facilidad marginal de depósito, respectivamente, según el texto?",
+    "options": {
+      "a": "2,4% y 2%.",
+      "b": "2% y 2,4%.",
+      "c": "1% y 0%.",
+      "d": "0% y 1%."
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto especifica que en junio de 2025, el tipo de interés de la facilidad marginal de crédito se situaba en el 2,4%, mientras que la remuneración de la facilidad marginal de depósito era del 2%.\n\n\nEjemplo: Un banco comercial que necesita liquidez a un día el 15 de junio de 2025 podría solicitarla a través de la facilidad marginal de crédito al 2,4%. Por otro lado, si tuviera un excedente de liquidez, podría depositarlo en la facilidad marginal de depósito obteniendo una remuneración del 2%.",
+    "id": "q_0bfd891c0e",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Respecto al sistema de reservas mínimas exigidas por el Eurosistema, ¿cuál es el coeficiente que se aplica sobre la mayoría de las partidas que constituyen la base de dichas reservas y cuál es su remuneración?",
+    "options": {
+      "a": "El coeficiente es del 2% y su remuneración es del 0,5%.",
+      "b": "El coeficiente es del 1% y su remuneración es del 0%.",
+      "c": "El coeficiente es del 0,5% y su remuneración es del 1%.",
+      "d": "El coeficiente es del 1% y su remuneración es del 0,25%."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica claramente que el coeficiente que se aplica sobre la mayoría de las partidas que constituyen la base de las reservas mínimas es del 1%, y su remuneración es del 0%.\n\n\nEjemplo: Un banco comercial con depósitos elegibles por valor de 100 millones de euros debe mantener 1 millón de euros (1%) como reserva mínima en su cuenta del Banco Central, por el cual no recibirá ningún interés.",
+    "id": "q_a0ccaaae51",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Una de las funciones básicas del BCE es realizar operaciones de cambio de divisas. ¿Cómo pueden realizarse estas intervenciones en cuanto a su ámbito de actuación?",
+    "options": {
+      "a": "Exclusivamente de forma unilateral.",
+      "b": "De forma centralizada o descentralizada.",
+      "c": "Solo de forma concertada con bancos centrales asiáticos.",
+      "d": "Únicamente a través de operaciones simples."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto detalla que las intervenciones de cambio de divisas pueden realizarse de forma centralizada (directamente por el BCE) y/o descentralizada (por los bancos centrales nacionales actuando por cuenta del BCE).\n\n\nEjemplo: Si el BCE decide intervenir en el mercado de divisas para fortalecer el euro, puede instruir a los bancos centrales nacionales, como el Banco de España o el Deutsche Bundesbank, para que realicen las operaciones de venta o compra de divisas en su nombre, operando de forma descentralizada.",
+    "id": "q_03f28045b9",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Quién ostenta la soberanía última en lo relativo a la política cambiaria en la zona del euro y es responsable de la definición de sus líneas?",
+    "options": {
+      "a": "El Banco Central Europeo (BCE).",
+      "b": "Los bancos centrales nacionales (BCN).",
+      "c": "Los gobiernos, correspondiendo al Consejo Europeo la definición de las líneas de política cambiaria.",
+      "d": "La Comisión Europea, en colaboración con el BCE."
+    },
+    "correctAnswer": "c",
+    "explanation": "La soberanía última en la política cambiaria reside en los gobiernos, y la definición de las líneas de política cambiaria, así como la formulación de acuerdos específicos, corresponde al Consejo Europeo. El BCE debe ser consultado para asegurar la compatibilidad con la estabilidad de precios.\n\n\nEjemplo: Si hay una necesidad de establecer una nueva política cambiaria frente a una divisa importante como el dólar, la decisión final sobre las líneas estratégicas de esta política recaerá en el Consejo Europeo, tras consultar al Banco Central Europeo para garantizar que no comprometa la estabilidad de precios del euro.",
+    "id": "q_69cec61119",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuáles son los objetivos principales de la gestión de las reservas exteriores del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "Estabilidad de precios, crecimiento económico y pleno empleo.",
+      "b": "Seguridad, liquidez y rentabilidad de la inversión.",
+      "c": "Facilidad del comercio exterior, atracción de inversión extranjera y control de la oferta monetaria.",
+      "d": "Financiación de las intervenciones en divisas, gestión de activos y pasivos y emisión de billetes."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece explícitamente que los objetivos de la gestión de las reservas exteriores del BCE son 'seguridad, liquidez y rentabilidad de la inversión'. Estos principios guían cómo el BCE administra estos activos.\n\n\nEjemplo: El BCE mantiene una parte significativa de sus reservas exteriores en bonos del Tesoro de EE. UU. a corto plazo, priorizando la seguridad y la liquidez para poder realizar operaciones de divisa en cualquier momento, aunque esto pueda significar una rentabilidad moderada en comparación con inversiones de mayor riesgo.",
+    "id": "q_272c90209a",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Qué activos NO forman parte de la composición de la cartera de reservas exteriores del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "Dólares estadounidenses.",
+      "b": "Bonos soberanos denominados en euros.",
+      "c": "Oro.",
+      "d": "Derechos especiales de giro (DEG)."
+    },
+    "correctAnswer": "b",
+    "explanation": "La cartera de reservas exteriores del BCE se compone de dólares estadounidenses, renmimbis chinos, yenes, oro y derechos especiales de giro (DEG). Los activos de renta fija denominados en euros se mencionan específicamente como parte de la cartera de recursos propios, no de las reservas exteriores.\n\n\nEjemplo: Si un analista estuviera revisando los informes financieros del BCE, esperaría ver las tenencias de yenes japoneses o dólares americanos como parte de las reservas exteriores, pero no bonos emitidos por un país de la eurozona y denominados en euros, ya que estos últimos son parte de la cartera de recursos propios.",
+    "id": "q_c5ab57bf18",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué tipo de activos se invierten los fondos de la cartera de recursos propios del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "Activos de renta variable con alta rentabilidad.",
+      "b": "Activos de renta fija denominados en dólares estadounidenses.",
+      "c": "Activos de renta fija denominados en euros.",
+      "d": "Oro y otros metales preciosos."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica claramente que 'Los fondos de esta cartera [de recursos propios] se invierten en activos de renta fija denominados en euros'.\n\n\nEjemplo: Para cubrir sus gastos operativos y construir un fondo de reserva, el BCE podría adquirir bonos del gobierno alemán o francés denominados en euros, ya que son considerados activos de renta fija seguros y cumplen con el criterio de denominación en la moneda de la Unión.",
+    "id": "q_db2cb57074",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el texto, ¿qué implica la función del BCE de 'promover el buen funcionamiento de los sistemas de pago'?",
+    "options": {
+      "a": "Garantizar la rentabilidad de las inversiones en los sistemas.",
+      "b": "Velar por la garantía de su seguridad y eficiencia.",
+      "c": "Autorizar la creación de nuevos sistemas de pago en la zona euro.",
+      "d": "Liquidar todas las transacciones interbancarias del Eurosistema."
+    },
+    "correctAnswer": "b",
+    "explanation": "El fragmento define esta función de manera explícita: '«Promover el buen funcionamiento de los sistemas de pago» significa velar por la garantía de su seguridad y eficiencia.'\n\n\nEjemplo: Al implementar y supervisar el sistema TARGET2, el BCE se asegura de que las transferencias de fondos entre bancos en la zona euro se realicen de manera rápida, segura y fiable, minimizando riesgos operativos y maximizando la fluidez de las transacciones interbancarias.",
+    "id": "q_01b9fa2951",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones describe correctamente el sistema TARGET2?",
+    "options": {
+      "a": "Es un sistema de liquidación neta en tiempo diferido de carácter centralizado.",
+      "b": "Es el sistema de pago interbancario en euros del Eurosistema, de liquidación bruta en tiempo real y descentralizado.",
+      "c": "Es un sistema de pago exclusivo para transacciones de divisas gestionado por el BCE de forma centralizada.",
+      "d": "Es un sistema de compensación de pagos minoristas gestionado por los bancos centrales nacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto describe TARGET2 como 'el sistema de pago interbancario en euros del Eurosistema. Es un sistema de liquidación bruta en tiempo real de carácter descentralizado.'\n\n\nEjemplo: Un banco en Madrid que necesita transferir una gran suma de euros a un banco en Berlín para liquidar una operación bursátil utilizaría TARGET2, que procesaría la transferencia individualmente (liquidación bruta) y al instante (tiempo real), permitiendo que los fondos estén disponibles de inmediato para el banco receptor.",
+    "id": "q_94d930ba30",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "En relación con la emisión de billetes en la zona del euro, ¿cuál es la distribución de responsabilidades entre el BCE y los bancos centrales nacionales (BCN)?",
+    "options": {
+      "a": "El BCE es el único responsable de la emisión y puesta en circulación de billetes.",
+      "b": "Los BCNs aprueban el volumen de emisión, y el BCE se encarga de la puesta en circulación.",
+      "c": "El BCE aprueba el volumen de emisión, y los BCNs llevan a cabo la puesta en circulación.",
+      "d": "Ambas funciones son responsabilidad exclusiva de los gobiernos nacionales."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que 'El BCE aprueba el volumen de emisión de billetes, mientras que la puesta en circulación propiamente dicha la llevan a cabo los bancos centrales nacionales'.\n\n\nEjemplo: Si el Consejo de Gobierno del BCE determina que es necesario aumentar la cantidad de billetes de 50 euros en circulación, el Banco de España, como BCN, será el responsable de distribuir físicamente esos billetes a las entidades financieras para que lleguen al público.",
+    "id": "q_21feb2a14f",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cómo se define la 'supervisión prudencial' en el sector financiero, según el texto proporcionado?",
+    "options": {
+      "a": "El conjunto de normas que regulan la emisión de billetes y monedas.",
+      "b": "El proceso de seguimiento de las políticas fiscales de los estados miembros.",
+      "c": "El conjunto de normas que garantizan la solvencia y la liquidez de las entidades financieras, protegiendo a inversores y ahorradores.",
+      "d": "La autorización para realizar operaciones de cambio de divisas."
+    },
+    "correctAnswer": "c",
+    "explanation": "La supervisión prudencial se define en el texto como 'el conjunto de normas que garantizan la solvencia y la liquidez de las entidades que lo componen; de esta forma se intentan evitar prácticas imprudentes [...] y de esta forma conseguir una protección adecuada para los inversores y ahorradores.'\n\n\nEjemplo: Cuando una entidad bancaria debe cumplir con requisitos mínimos de capital o mantener un determinado nivel de activos líquidos para hacer frente a posibles retiradas de depósitos, estas son medidas de supervisión prudencial destinadas a asegurar su solvencia y proteger a sus clientes.",
+    "id": "q_6bb843fb4b",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuándo y por qué organismo fue aprobado el Mecanismo Único de Supervisión (MUS)?",
+    "options": {
+      "a": "En enero de 2010 por el Consejo Europeo.",
+      "b": "En diciembre de 2012 por el ECOFIN.",
+      "c": "En marzo de 2013 por el Banco Central Europeo.",
+      "d": "En julio de 2011 por la Comisión Europea."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'En el mes de diciembre de 2012 el ECOFIN (Consejo de asuntos económicos y financieros de la Unión Europea) aprobó el Mecanismo Único de Supervisión (MUS).'\n\n\nEjemplo: Tras la crisis financiera, los ministros de economía y finanzas de la UE, reunidos en el ECOFIN en diciembre de 2012, tomaron la decisión de establecer el MUS para centralizar la supervisión de los bancos más grandes de la zona euro, buscando evitar futuras crisis y fortalecer la unión bancaria.",
+    "id": "q_e340126a14",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el Mecanismo Único de Supervisión (MUS), ¿cuál de las siguientes condiciones NO es un criterio para que una entidad de crédito sea considerada significativa?",
+    "options": {
+      "a": "Que el valor total de sus activos supere los 30 mil millones de euros.",
+      "b": "Que el valor total de sus activos supere el 20% del PIB nacional, incluso si es inferior a 5 mil millones de euros.",
+      "c": "Que sea una de las tres entidades de crédito más significativas establecidas en un Estado miembro.",
+      "d": "Que haya solicitado o recibido financiación del Mecanismo Europeo de Estabilidad Financiera."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que una entidad es significativa si el valor total de sus activos supera el 20% del PIB nacional, pero con la salvedad 'a menos que el valor total de sus activos sea inferior a 5 mm de euros'. La opción 'b' ignora esta excepción, haciéndola incorrecta como criterio de significatividad bajo todas las circunstancias.\n\n\nEjemplo: Una pequeña entidad de crédito con activos de 4 mil millones de euros que, por una peculiaridad de un Estado miembro con un PIB muy bajo, superara el 20% del PIB nacional, no sería considerada significativa por el MUS, ya que el valor total de sus activos es inferior a 5 mil millones de euros.",
+    "id": "q_d47c423c11",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Una entidad de crédito se considera significativa bajo el Mecanismo Único de Supervisión (MUS) si el valor total de sus activos excede los 5.000 millones de euros y cumple, además, qué otra condición?",
+    "options": {
+      "a": "Que la ratio entre sus activos/pasivos transfronterizos y sus activos/pasivos totales sea inferior al 20%.",
+      "b": "Que la ratio entre sus activos/pasivos transfronterizos y sus activos/pasivos totales sea superior al 20%.",
+      "c": "Que su cuota de mercado en depósitos minoristas supere el 10%.",
+      "d": "Que sea la única entidad de crédito en su Estado miembro con operaciones internacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica: 'Si el valor total de sus activos excede los 5.000 millones de euros y: a) la ratio entre sus activos/pasivos transfronterizos y sus activos/pasivos totales es superior al 20%.'\n\n\nEjemplo: Un banco con 6.000 millones de euros en activos que mantiene el 25% de sus activos o pasivos con entidades en otros países de la eurozona (operaciones transfronterizas) cumpliría este criterio y, por tanto, sería considerado una entidad significativa bajo la supervisión directa del BCE.",
+    "id": "q_e494417f16",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Qué institución creó la Junta Europea de Riesgo Sistémico (JERS) y desde qué fecha ostenta el Banco Central Europeo (BCE) su secretaría?",
+    "options": {
+      "a": "El Consejo Europeo en 2009, y el BCE desde el 1 de enero de 2010.",
+      "b": "La Comisión Europea en respuesta a la crisis de 2008, y el BCE desde el 16 de diciembre de 2010.",
+      "c": "El ECOFIN en 2010, y el BCE desde el 1 de julio de 2011.",
+      "d": "El Parlamento Europeo en 2008, y el BCE desde el 31 de diciembre de 2009."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'En respuesta a la crisis financiera mundial de 2008, la Comisión Europea crea la Junta Europea de Riesgo Sistémico (JERS)' y que 'Desde el 16 de diciembre de 2010, el BCE ostenta la secretaría de la Junta Europea de Riesgo Sistémico'.\n\n\nEjemplo: Tras las lecciones aprendidas de la crisis de 2008, la Comisión Europea propuso la creación de JERS como parte de la reforma de la supervisión financiera de la UE, y el BCE asumió un papel central en su funcionamiento diario al encargarse de la secretaría a finales de 2010.",
+    "id": "q_49fc573e7c",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Quién ocupa la presidencia de la Junta Europea de Riesgo Sistémico (JERS)?",
+    "options": {
+      "a": "El gobernador del Banco de Suecia, como primer vicepresidente.",
+      "b": "El presidente de la Comisión Europea.",
+      "c": "El presidente del Banco Central Europeo (BCE).",
+      "d": "El presidente del Eurogrupo."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma claramente que la JERS, cuya secretaría ostenta el BCE, tiene como presidente al 'presidente del BCE'.\n\n\nEjemplo: Si la presidenta del Banco Central Europeo, Christine Lagarde, preside una reunión de la JERS, lo hace en su capacidad dual como máxima autoridad del BCE y como presidenta de este órgano encargado de la vigilancia macroprudencial de la UE.",
+    "id": "q_ea119d13ec",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la principal función de la Junta Europea de Riesgo Sistémico (JERS)?",
+    "options": {
+      "a": "Definir la política monetaria de la zona euro y ejecutarla.",
+      "b": "Realizar la supervisión microprudencial de las entidades bancarias.",
+      "c": "Velar por la salvaguarda general de la estabilidad financiera mediante la supervisión macroprudencial a nivel comunitario, previniendo y atenuando riesgos sistémicos.",
+      "d": "Gestionar las reservas oficiales de divisas de los países de la zona del euro."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto describe la JERS como 'un órgano independiente de la Unión Europea, responsable de la vigilancia macroprudencial del sistema financiero dentro de la Unión contribuyendo a la prevención y mitigación de los riesgos sistémicos para la estabilidad financiera de la Unión'.\n\n\nEjemplo: La JERS podría emitir una advertencia sobre el riesgo creciente de una burbuja inmobiliaria en varios países de la UE, instando a las autoridades nacionales a adoptar medidas macroprudenciales como el endurecimiento de los requisitos de capital para los bancos que otorgan préstamos hipotecarios, con el fin de prevenir una crisis sistémica.",
+    "id": "q_a5d9198c16",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Cuando el Eurosistema decide realizar intervenciones en divisas, ¿qué modalidades puede adoptar dicha intervención según el texto?",
+    "options": {
+      "a": "Únicamente centralizada y unilateral, para asegurar el control total del BCE.",
+      "b": "Unilateral o concertada, y a su vez centralizada o descentralizada.",
+      "c": "Exclusivamente descentralizada, a través de los bancos centrales nacionales.",
+      "d": "Siempre concertada con bancos centrales de otras zonas monetarias, para compartir el riesgo."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto detalla dos pares de modalidades para las intervenciones en divisas: 'Unilateral o concertada' (el Eurosistema por sí mismo o en coordinación con otros bancos centrales) y 'Centralizada o descentralizada' (directamente el BCE o por medio de los BCNs actuando por cuenta del BCE). Ambas clasificaciones son posibles y pueden combinarse.\n\n\nEjemplo: Para fortalecer el euro frente al dólar, el BCE podría decidir comprar euros y vender dólares de forma unilateral, pero coordinada con los bancos centrales nacionales que ejecutarían las operaciones en sus respectivos mercados (intervención unilateral y descentralizada). Alternativamente, podría acordar una intervención conjunta con la Reserva Federal de EE. UU. (concertada) y ejecutarla directamente desde su sede (centralizada).",
+    "id": "q_6021d0b099",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "En relación con la Junta Europea de Riesgo Sistémico (JERS), ¿cuál de las siguientes afirmaciones es correcta respecto a su creación y función?",
+    "options": {
+      "a": "Fue creada por el Banco Central Europeo en 2008 para asesorar en política monetaria.",
+      "b": "Fue establecida por la Comisión Europea en respuesta a la crisis financiera mundial de 2008 para la vigilancia macroprudencial.",
+      "c": "Se constituyó en 2010 bajo la presidencia del Banco de Suecia para coordinar la supervisión microprudencial.",
+      "d": "Es un comité interno del BCE cuya principal función es la gestión de las reservas exteriores de la Unión Europea."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que la JERS fue creada por la Comisión Europea en respuesta a la crisis financiera mundial de 2008, siendo su principal responsabilidad la vigilancia macroprudencial del sistema financiero para prevenir y mitigar riesgos sistémicos.\n\n\nEjemplo: Tras una burbuja inmobiliaria global que puso en jaque la estabilidad financiera, la Unión Europea decidió crear un organismo que pudiera anticipar y gestionar riesgos que afectasen a la totalidad del sistema financiero, no solo a entidades individuales. La JERS cumple precisamente esta misión.",
+    "id": "q_1e41c49ff2",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Desde el 16 de diciembre de 2010, ¿quién ostenta la presidencia de la Junta Europea de Riesgo Sistémico (JERS) y quién ejerce como primer vicepresidente?",
+    "options": {
+      "a": "El gobernador del Banco de Suecia es el presidente, y el presidente del BCE es el primer vicepresidente.",
+      "b": "El presidente del BCE es el presidente, y el gobernador del Banco Central de Alemania es el primer vicepresidente.",
+      "c": "El presidente del BCE es el presidente, y el gobernador del Banco de Suecia es el primer vicepresidente.",
+      "d": "El comisario europeo de Asuntos Económicos es el presidente, y un miembro del Comité Ejecutivo del BCE es el primer vicepresidente."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que el presidente de la JERS es el presidente del BCE, y el primer vicepresidente es el gobernador del Banco de Suecia, cargo que ostentan desde el 16 de diciembre de 2010, fecha en la que el BCE asumió la secretaría de la JERS.\n\n\nEjemplo: En una reunión de la JERS para evaluar los riesgos de un aumento repentino de los tipos de interés, la sesión estaría dirigida por Christine Lagarde en su rol de presidenta del BCE, y le acompañaría como primer adjunto el gobernador del Banco Central de Suecia, Erik Thedéen, en su función de primer vicepresidente de la JERS.",
+    "id": "q_66ad6be940",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la definición exacta de 'riesgo sistémico' según el texto proporcionado?",
+    "options": {
+      "a": "El riesgo de fluctuación en los precios de los activos financieros que puede paliarse con una cartera de inversión diversificada.",
+      "b": "El riesgo inherente a la operativa de una entidad financiera específica, que afecta únicamente a sus estados contables.",
+      "c": "El riesgo de perturbación del sistema financiero que puede tener repercusiones negativas graves sobre el mercado interior y la economía real, afectando al conjunto del sistema.",
+      "d": "El riesgo de impago de un deudor que, si bien es significativo, no tiene capacidad de contagio a otras instituciones."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto define el «riesgo sistémico» como 'el riesgo de perturbación del sistema financiero que puede tener repercusiones negativas graves sobre el mercado interior y la economía real', enfatizando que 'afecta al conjunto del sistema financiero'.\n\n\nEjemplo: La quiebra de un gran banco de inversión que, debido a sus interconexiones con otras entidades financieras, provoca una cascada de insolvencias y congelación del crédito en el mercado, es un claro ejemplo de riesgo sistémico, ya que sus efectos se extienden por todo el sistema financiero.",
+    "id": "q_eb973d153f",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la diferencia fundamental entre la supervisión macroprudencial y la supervisión microprudencial?",
+    "options": {
+      "a": "La supervisión macroprudencial se centra en la solvencia de los gobiernos, mientras que la microprudencial se enfoca en las empresas no financieras.",
+      "b": "La supervisión microprudencial examina el sistema financiero en su conjunto, mientras que la macroprudencial se centra en la solidez financiera de cada entidad.",
+      "c": "La supervisión macroprudencial examina el sistema financiero en su conjunto, mientras que la microprudencial se centra en la solidez financiera de cada entidad.",
+      "d": "La supervisión microprudencial tiene por objetivo la estabilidad de precios, y la macroprudencial la estabilidad del empleo."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece claramente que 'la supervisión microprudencial [...] se centra en la solidez financiera de cada entidad', mientras que 'la supervisión macroprudencial examina el sistema financiero en su conjunto'.\n\n\nEjemplo: Cuando la Autoridad Bancaria Europea evalúa el capital de un banco específico para asegurar que puede resistir shocks, está realizando supervisión microprudencial. En contraste, si el Banco Central Europeo analiza el nivel de endeudamiento hipotecario agregado en un país para evitar una crisis de crédito generalizada, está aplicando supervisión macroprudencial.",
+    "id": "q_9b05c66a22",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es el objetivo principal del Banco Central Europeo?",
+    "options": {
+      "a": "Fomentar el crecimiento económico y el empleo en la Unión Europea.",
+      "b": "Mantener el poder adquisitivo del euro.",
+      "c": "Supervisar todas las instituciones financieras de la zona euro.",
+      "d": "Gestionar la política fiscal de los Estados miembros de la eurozona."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto afirma explícitamente que el principal objetivo del Banco Central Europeo es 'mantener el poder adquisitivo del euro'.\n\n\nEjemplo: Si la inflación en la eurozona comienza a subir de forma descontrolada, el BCE implementaría medidas de política monetaria, como el incremento de los tipos de interés, con el fin de reducir el exceso de liquidez en la economía y, de esta forma, preservar el valor del euro y su capacidad de compra.",
+    "id": "q_eb9e2c3491",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué fecha se inició la tercera fase de la Unión Económica y Monetaria (UEM), estableciendo al BCE y los bancos centrales nacionales como la autoridad monetaria de los Estados miembros?",
+    "options": {
+      "a": "El 1 de enero de 2002.",
+      "b": "El 1 de enero de 1999.",
+      "c": "El 16 de diciembre de 2010.",
+      "d": "El 1 de enero de 1992."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'A partir de la fecha de comienzo de la tercera fase de la Unión Económica y Monetaria, el primero de enero de 1999, la autoridad monetaria de los Estados miembros de la UEM la constituye el BCE y los bancos centrales nacionales'.\n\n\nEjemplo: A partir del 1 de enero de 1999, las decisiones sobre los tipos de interés en países como España o Alemania dejaron de ser tomadas por sus respectivos bancos centrales nacionales de manera independiente y pasaron a ser competencia del Banco Central Europeo, en coordinación con esos bancos centrales nacionales.",
+    "id": "q_2b9c78c3f4",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la cuantía actual del capital del Banco Central Europeo, según la información proporcionada?",
+    "options": {
+      "a": "1.082,5 millones de euros.",
+      "b": "108.250 millones de euros.",
+      "c": "10.825 millones de euros.",
+      "d": "10.000 millones de euros."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que 'En la actualidad su cuantía es de 10.825 millones de euros', refiriéndose al capital del BCE.\n\n\nEjemplo: Para calcular la aportación de capital que corresponde a cada banco central nacional, se toma como base la cifra de 10.825 millones de euros, distribuyéndola según la clave que refleja la participación de cada país en la población y el PIB de la Unión Europea.",
+    "id": "q_c3b443a2d9",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según los Estatutos del BCE, ¿qué porcentaje del capital suscrito están obligados a desembolsar los bancos centrales nacionales que forman parte del Eurosistema?",
+    "options": {
+      "a": "El 3,75%.",
+      "b": "El 50%.",
+      "c": "El 100%.",
+      "d": "El 20%."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece que 'Los bancos centrales que forman parte del Eurosistema están obligados a desembolsar el 100% del capital suscrito'.\n\n\nEjemplo: El Banco de España, como miembro del Eurosistema, debe haber desembolsado la totalidad de su participación en el capital suscrito del BCE, a diferencia de un banco central de un país de la UE que no haya adoptado el euro.",
+    "id": "q_ccf00b6563",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el artículo 28 de los Estatutos del SEBC, ¿qué porcentaje del capital suscrito están obligados a desembolsar los bancos centrales de los países del SEBC que no forman parte del Eurosistema?",
+    "options": {
+      "a": "El 100%.",
+      "b": "El 20%.",
+      "c": "El 3,75%.",
+      "d": "El 10%."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto señala que 'aquellos países del SEBC que no forman parte del Eurosistema sólo están obligados a desembolsar el 3,75% del capital suscrito'.\n\n\nEjemplo: El Banco Central de Dinamarca, al ser parte del SEBC pero no del Eurosistema, solo está obligado a desembolsar un porcentaje minoritario (el 3,75%) de su capital suscrito al BCE, lo que refleja su menor integración operativa en el sistema monetario del euro.",
+    "id": "q_22c2bc9af9",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el Artículo 33 de los Estatutos del SEBC, ¿cuál es el límite máximo que el Consejo de Gobierno puede destinar anualmente al fondo de reserva general de los beneficios netos del BCE?",
+    "options": {
+      "a": "Un 10% de los beneficios netos, con un límite equivalente al 50% del capital.",
+      "b": "Un 20% de los beneficios netos, con un límite equivalente al 100% del capital.",
+      "c": "Un 25% de los beneficios netos, sin límite en relación con el capital.",
+      "d": "Un 50% de los beneficios netos, con un límite equivalente al 200% del capital."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Artículo 33 de los Estatutos del SEBC establece que 'El Consejo de Gobierno aprueba, anualmente, un importe que no puede exceder del 20% de los beneficios netos y que se destinan al fondo de reserva general, con un límite equivalente al 100% del capital'.\n\n\nEjemplo: Si el BCE obtiene 1.000 millones de euros de beneficios netos en un año y su capital es de 10.825 millones de euros, el Consejo de Gobierno podría decidir destinar un máximo de 200 millones de euros (20% de 1.000 millones) al fondo de reserva general, siempre y cuando este fondo no supere el 100% del capital (es decir, 10.825 millones de euros).",
+    "id": "q_d9d0fa298d",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es el orden de prelación para la cobertura de las pérdidas netas del Banco Central Europeo, según lo dispuesto en el Artículo 33 de sus Estatutos?",
+    "options": {
+      "a": "Primero se cubren con los ingresos monetarios del ejercicio, y si no es suficiente, con el fondo de reserva general.",
+      "b": "Primero se cubren con aportaciones extraordinarias de los Estados miembros, y luego con el fondo de reserva general.",
+      "c": "Primero se cubren utilizando el fondo de reserva general del BCE, y si este no es suficiente, destinando parte de los ingresos monetarios del ejercicio.",
+      "d": "Las pérdidas se cubren exclusivamente con las ganancias futuras del propio BCE, sin recurrir a reservas ni ingresos."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que las pérdidas se cubren de dos maneras: '1º Utilizando el fondo de reserva general del BCE. 2º Si el fondo de reserva no fuera suficiente, es necesario que el Consejo de Gobierno apruebe destinar parte de los ingresos monetarios del ejercicio'.\n\n\nEjemplo: Si el BCE registra pérdidas en un ejercicio, primero se agotaría el fondo de reserva general acumulado. Si las pérdidas superan este fondo, el Consejo de Gobierno deliberaría sobre la posibilidad de emplear una porción de los ingresos monetarios que se generan en el año para cubrir el remanente, evitando así nuevas inyecciones de capital por parte de los BCN.",
+    "id": "q_b9b77b62e5",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "En el Consejo General del BCE, ¿cuál es el número máximo de votos que se permite ejercer a los gobernadores de los bancos centrales nacionales del Eurosistema, y cómo se gestiona esta limitación?",
+    "options": {
+      "a": "Se limita a 20 votos, y todos los gobernadores votan en cada reunión.",
+      "b": "Se limita a 15 votos, y se establece un sistema de rotación entre los gobernadores.",
+      "c": "No hay límite de votos, cada gobernador tiene un voto y votan todos.",
+      "d": "Se limita a 10 votos, y la presidencia del BCE tiene un voto de calidad."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'se limita a 15 el número de votos, por lo que al existir 20 gobernadores de bancos centrales nacionales en el Eurosistema, se establece un sistema de rotación de forma que el número de votos siempre sea quince'.\n\n\nEjemplo: Si hay una reunión del Consejo General donde se requiere una votación, y al haber 20 gobernadores de BCN en el Eurosistema, no todos podrán emitir su voto. En cambio, 15 de ellos lo harán según un sistema de rotación preestablecido, lo cual asegura que el número de votos sea siempre constante.",
+    "id": "q_161326d5da",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuáles son los tres órganos rectores del Banco Central Europeo, que constituyen la más alta jerarquía en la institución?",
+    "options": {
+      "a": "El Consejo de Supervisión, el Comité de Resolución y el Comité de Estabilidad Financiera.",
+      "b": "El Comité Ejecutivo, el Comité de Auditoría y el Consejo General.",
+      "c": "El Consejo de Gobierno, el Comité Ejecutivo y el Consejo General.",
+      "d": "El Consejo de Administración, la Junta de Directores y el Comité de Políticas Monetarias."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto menciona explícitamente que 'El BCE se ha dotado de tres órganos rectores que constituyen la más alta jerarquía en la institución': El Consejo de Gobierno, El Comité Ejecutivo y El Consejo General.\n\n\nEjemplo: En una decisión crucial sobre política monetaria, como la modificación de los tipos de interés, la responsabilidad recae en el Consejo de Gobierno. La implementación de esa política sería supervisada por el Comité Ejecutivo, mientras que el Consejo General se reuniría para abordar otras cuestiones más amplias relacionadas con la gobernanza.",
+    "id": "q_d93e789f44",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En quién recae la responsabilidad del funcionamiento de los servicios del BCE, agrupados en direcciones generales, direcciones y divisiones?",
+    "options": {
+      "a": "En la Presidenta del BCE.",
+      "b": "En los miembros del Consejo General.",
+      "c": "En los gobernadores de los bancos centrales nacionales.",
+      "d": "En los distintos miembros del Comité Ejecutivo."
+    },
+    "correctAnswer": "d",
+    "explanation": "El texto afirma que 'la responsabilidad de su funcionamiento recae en los distintos miembros del Comité Ejecutivo' en lo que respecta a los servicios del BCE organizados en direcciones generales, direcciones y divisiones.\n\n\nEjemplo: Si la Dirección General de Operaciones del BCE necesita implementar una nueva normativa técnica, la supervisión de su correcto funcionamiento y la resolución de cualquier incidencia recaerá en el miembro del Comité Ejecutivo al que se le haya asignado esa área de responsabilidad.",
+    "id": "q_98eddecb7a",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el artículo 10.2.1, hasta que el número de gobernadores del Banco Central Europeo alcance un determinado umbral, estos se distribuirán en grupos de acuerdo con diversos criterios. ¿Cuál de los siguientes no es un criterio para dicha distribución?",
+    "options": {
+      "a": "El tamaño de la participación del Estado miembro correspondiente a su banco central nacional.",
+      "b": "El volumen de comercio exterior del Estado miembro con terceros países.",
+      "c": "El peso del Producto Interior Bruto total a precios de mercado del Estado miembro.",
+      "d": "El balance agregado total de las instituciones financieras monetarias de los Estados miembros que hayan adoptado el euro."
+    },
+    "correctAnswer": "b",
+    "explanation": "El artículo 10.2.1 del Banco Central Europeo establece que la distribución de los gobernadores en grupos, hasta que el número total llegue a 22, se realizará con base en tres criterios: la participación del Estado miembro en su banco central nacional, el peso de su PIB total a precios de mercado y el balance agregado total de las instituciones financieras monetarias de los Estados miembros de la zona del euro. El volumen de comercio exterior no es uno de estos criterios.\n\n\nEjemplo: Si un Estado miembro tiene una participación considerable en su BCN, un PIB elevado y un balance robusto de sus instituciones financieras monetarias, estos factores influyen en la asignación de su gobernador a un grupo específico dentro del sistema de votación ponderada del BCE, mientras que sus exportaciones o importaciones no son relevantes para esta clasificación.",
+    "id": "q_9a0bd0be11",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Respecto a los bancos centrales de los países no pertenecientes a la Zona euro, ¿qué afirmación es correcta en relación con su participación en el Sistema Europeo de Bancos Centrales (SEBC)?",
+    "options": {
+      "a": "Tienen derecho a participar en los beneficios, pero no son responsables de cubrir las pérdidas.",
+      "b": "No tienen derecho a participar en los beneficios ni son responsables de cubrir sus pérdidas.",
+      "c": "Son responsables de cubrir las pérdidas, pero no tienen derecho a participar en los beneficios.",
+      "d": "Tienen derecho a participar tanto en los beneficios como en la cobertura de las pérdidas."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica explícitamente que 'Los bancos centrales de los países no pertenecientes a la Zona euro no tienen derecho a participar en los beneficios ni son responsables de cubrir sus pérdidas'. Esta disposición subraya la diferencia de estatus entre los BCNs de la Eurozona y los de fuera de ella dentro del SEBC en términos financieros.\n\n\nEjemplo: El Banco Nacional de Polonia, al ser de un país de la UE que no ha adoptado el euro, forma parte del SEBC, pero si el BCE generara beneficios, el Banco Nacional de Polonia no recibiría una cuota, y si hubiera pérdidas, no tendría que contribuir a cubrirlas.",
+    "id": "q_f5d5ddce5a",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuáles son los tres órganos rectores que constituyen la más alta jerarquía en el Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "El Comité de Supervisión, el Consejo de Administración y el Comité de Auditoría.",
+      "b": "El Consejo de Gobierno, el Comité Ejecutivo y el Consejo General.",
+      "c": "El Consejo de Estabilidad Financiera, el Comité de Riesgos y la Junta de Directores.",
+      "d": "El Consejo de Política Monetaria, el Comité de Operaciones y el Consejo de Asuntos Jurídicos."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que el BCE se ha dotado de tres órganos rectores que representan la máxima jerarquía: el Consejo de Gobierno, el Comité Ejecutivo y el Consejo General. Estos son los responsables de la dirección y representación del organismo.\n\n\nEjemplo: Al revisar la estructura organizativa del BCE, un nuevo empleado aprendería que las decisiones estratégicas de política monetaria se discuten y aprueban en el Consejo de Gobierno, se ejecutan por el Comité Ejecutivo, y que el Consejo General tiene funciones de asesoramiento, especialmente para los países no euro.",
+    "id": "q_4f5af02eff",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Quién preside tanto el Consejo de Gobierno como el Comité Ejecutivo del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "El/la vicepresidente/a del BCE.",
+      "b": "El/la gobernador/a del Banco de España.",
+      "c": "La presidenta del BCE.",
+      "d": "El miembro más antiguo del órgano."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece claramente que 'El Consejo de Gobierno, presidido por la presidenta del BCE' y 'El Comité Ejecutivo, presidido por la presidenta del BCE'. Esto indica la centralidad del rol del presidente/a en la dirección de los dos órganos rectores clave.\n\n\nEjemplo: En una cumbre financiera europea, cuando se presentan las decisiones del Consejo de Gobierno del BCE, es la Presidenta del BCE quien las anuncia, reafirmando su rol como líder de dicho órgano.",
+    "id": "q_2ae2339ebe",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es el órgano rector del Banco Central Europeo (BCE) que tiene la responsabilidad de crear y disolver comités especializados en distintas áreas de trabajo?",
+    "options": {
+      "a": "El Comité Ejecutivo.",
+      "b": "El Consejo General.",
+      "c": "El Consejo de Gobierno.",
+      "d": "La División de Formación."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto señala que el organigrama del BCE 'se complementa con una serie de comités, que se crean y disuelven por decisión del Consejo de Gobierno'. Esto subraya la autoridad del Consejo de Gobierno en la estructuración y adaptación de los comités de trabajo internos.\n\n\nEjemplo: Si surgiera una nueva necesidad de especialización en ciberseguridad financiera dentro del BCE, la decisión de establecer un nuevo comité dedicado a este tema sería tomada por el Consejo de Gobierno.",
+    "id": "q_4208c9551d",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la composición correcta del Consejo de Gobierno del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "Los gobernadores de los BCN de todos los Estados miembros de la Unión Europea y el presidente del BCE.",
+      "b": "Los seis miembros del Comité Ejecutivo y los gobernadores de los BCN de los Estados miembros que han adoptado el euro.",
+      "c": "El presidente del BCE, el vicepresidente del BCE y los gobernadores de los BCN de los Estados miembros que han adoptado el euro.",
+      "d": "Los gobernadores de los BCN de los países que no han adoptado el euro y los miembros del Comité Ejecutivo."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que el Consejo de Gobierno está compuesto por 'Los seis miembros del Comité Ejecutivo' y 'Los gobernadores de los BCN de los Estados miembros que han adoptado el euro'. Esta es la composición exacta del máximo órgano rector del BCE.\n\n\nEjemplo: En una reunión del Consejo de Gobierno, estarían presentes la Presidenta del BCE, el Vicepresidente, los otros cuatro miembros del Comité Ejecutivo y, por ejemplo, el gobernador del Banco de España y el gobernador del Bundesbank, representando a sus respectivos países de la eurozona.",
+    "id": "q_3994a1f1e4",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una responsabilidad principal del Consejo de Gobierno del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "Poner en práctica la política monetaria de conformidad con las orientaciones del Comité Ejecutivo.",
+      "b": "Gestionar el día a día del BCE y sus divisiones.",
+      "c": "Formular la política monetaria de la zona del euro y establecer sus orientaciones.",
+      "d": "Recopilar información estadística y elaborar la normativa de contratación del personal."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que entre las principales responsabilidades del Consejo de Gobierno se encuentra 'Formular la política monetaria de la zona del euro, incluidas, en su caso, las decisiones relativas a los objetivos monetarios intermedios (...), los tipos de interés oficiales y el suministro de reservas al SEBC, así como establecer las orientaciones necesarias para su cumplimiento'. Esta función es la de diseño estratégico de la política monetaria.\n\n\nEjemplo: Si el BCE decide aumentar los tipos de interés para controlar la inflación en la eurozona, esta decisión fundamental es tomada por el Consejo de Gobierno tras un exhaustivo análisis de la situación económica.",
+    "id": "q_5d72552ab2",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Con qué periodicidad se reúne generalmente el Consejo de Gobierno del Banco Central Europeo y dónde tiene su sede principal?",
+    "options": {
+      "a": "Una vez al mes, en Bruselas, Bélgica.",
+      "b": "Generalmente dos veces al mes, en Fráncfort del Meno, Alemania.",
+      "c": "Cada tres meses, alternando entre las capitales de los Estados miembros del euro.",
+      "d": "Semanalmente, mediante teleconferencia."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que 'El Consejo de Gobierno se reúne con la periodicidad fijada previamente al inicio del año, generalmente dos veces al mes en la sede del BCE, en Fráncfort del Meno, Alemania'. Además, menciona la posibilidad de teleconferencias, pero la sede y frecuencia general son las indicadas.\n\n\nEjemplo: La agenda anual del BCE publicaría las fechas de las reuniones del Consejo de Gobierno, mostrando que, por lo general, se programan dos sesiones cada mes en sus instalaciones de Fráncfort.",
+    "id": "q_9f13de5919",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la composición correcta del Comité Ejecutivo del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "El/la presidente/a, el/la vicepresidente/a y seis otros miembros.",
+      "b": "El/la presidente/a, el/la vicepresidente/a y cuatro otros miembros.",
+      "c": "El/la presidente/a y los gobernadores de los BCN de los Estados miembros que han adoptado el euro.",
+      "d": "Los seis gobernadores de los bancos centrales con mayor participación en el capital del BCE."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto detalla que el Comité Ejecutivo está compuesto por 'El/la presidente/a del BCE', 'El/la vicepresidente/a del BCE' y 'Otros cuatro miembros'. Esto suma un total de seis miembros para este órgano.\n\n\nEjemplo: Tras un proceso de selección y nombramiento, el Comité Ejecutivo del BCE se configuraría con la Presidenta, el Vicepresidente y cuatro expertos en banca central y política económica, cada uno con una cartera de responsabilidades.",
+    "id": "q_bdbde42f58",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Quién tiene la potestad de nombrar a los miembros del Comité Ejecutivo del Banco Central Europeo?",
+    "options": {
+      "a": "El Consejo de Gobierno del BCE por mayoría cualificada.",
+      "b": "El Parlamento Europeo, previa consulta con el Consejo de la UE.",
+      "c": "Los gobiernos de los Estados miembros participantes, representados por sus jefes de Estado o Gobierno, de común acuerdo.",
+      "d": "El presidente del BCE, con el aval del Consejo General."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que 'Todos sus miembros son nombrados de común acuerdo por los gobiernos de los Estados miembros participantes, representados por sus jefes de Estado o Gobierno'. Esto refleja un proceso de decisión intergubernamental a nivel de los máximos dirigentes de los países de la eurozona.\n\n\nEjemplo: Cuando se abrió una vacante en el Comité Ejecutivo, los jefes de Estado y de Gobierno de los países del euro se reunieron para debatir y finalmente acordar por unanimidad el nombramiento del nuevo miembro, como ocurrió con Yves Mersch en el ejemplo proporcionado.",
+    "id": "q_c6db0d85f5",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una responsabilidad primordial del Comité Ejecutivo del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "Aprobar las cuentas anuales de la institución.",
+      "b": "Establecer los tipos de interés oficiales para la zona del euro.",
+      "c": "Poner en práctica la política monetaria de conformidad con las orientaciones del Consejo de Gobierno.",
+      "d": "Asesorar a los Estados miembros no participantes en los preparativos para fijar irrevocablemente sus tipos de cambio."
+    },
+    "correctAnswer": "c",
+    "explanation": "Una de las principales responsabilidades del Comité Ejecutivo es 'Poner en práctica la política monetaria de conformidad con las orientaciones y decisiones adoptadas por el Consejo de Gobierno. Para ello impartirá las instrucciones necesarias a los BCN de la zona del euro'. Este órgano es el brazo ejecutor de la política monetaria diseñada por el Consejo de Gobierno.\n\n\nEjemplo: Una vez que el Consejo de Gobierno ha decidido un cambio en la facilidad de depósito, el Comité Ejecutivo es el encargado de dar las instrucciones operativas a los BCN nacionales para que implementen este cambio en sus respectivas jurisdicciones.",
+    "id": "q_759b80187e",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes funciones es exclusiva del Presidente del Banco Central Europeo (o del Vicepresidente en su ausencia)?",
+    "options": {
+      "a": "Preparar las reuniones del Consejo de Gobierno.",
+      "b": "Representar al BCE en el exterior.",
+      "c": "Asumir poderes delegados de carácter normativo.",
+      "d": "Impartir instrucciones a los BCN de la zona del euro."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que el Presidente del BCE (o el Vicepresidente en su ausencia) 'ejerce de forma exclusiva determinadas funciones que le están reservadas', entre las cuales se incluye 'Representar al BCE en el exterior'. Las otras opciones son responsabilidades generales del Comité Ejecutivo o del Consejo de Gobierno.\n\n\nEjemplo: Cuando el BCE participa en cumbres económicas internacionales, como las del G20, es el Presidente del BCE quien asiste y comunica la postura de la institución, actuando como su máximo representante.",
+    "id": "q_823babd66c",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la composición correcta del Consejo General del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "El presidente/a del BCE, el vicepresidente/a del BCE y los/las gobernadores/as de los BCN de los Estados miembros de la eurozona.",
+      "b": "El presidente/a del BCE, el vicepresidente/a del BCE y los/las gobernadores/as de los BCN de todos los Estados miembros de la Unión Europea.",
+      "c": "Los seis miembros del Comité Ejecutivo y los presidentes de los bancos centrales de los países no pertenecientes a la UE.",
+      "d": "El presidente del BCE y un representante de cada gobierno de los Estados miembros de la UE."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que el Consejo General está compuesto por 'El/la presidente/a del BCE', 'El/la vicepresidente/a del BCE' y 'Los/las gobernadores/as de los BCN que forman parte de la Unión Europea'. Esto incluye a representantes tanto de los países de la zona del euro como del resto de países no pertenecientes a la misma.\n\n\nEjemplo: En una reunión del Consejo General, además del Presidente y Vicepresidente del BCE, estaría presente el gobernador del Banco de Francia (miembro de la eurozona) y el gobernador del Banco Nacional de Suecia (miembro de la UE, pero no de la eurozona).",
+    "id": "q_f54f395fe4",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el texto, ¿por qué se define el Consejo General del BCE como un órgano transitorio?",
+    "options": {
+      "a": "Porque sus responsabilidades están siendo gradualmente transferidas al Comité Ejecutivo.",
+      "b": "Porque desarrolla cometidos del antiguo Instituto Monetario Europeo mientras no todos los Estados miembros de la UE hayan adoptado el euro.",
+      "c": "Porque solo se activa en periodos de crisis económica para coordinar respuestas.",
+      "d": "Porque su existencia depende de la ratificación anual de todos los BCN del SEBC."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto afirma que 'el Consejo General puede definirse como un órgano transitorio. Desarrolla los cometidos desempeñados anteriormente por el Instituto Monetario Europeo y que el BCE ha de seguir ejerciendo en la tercera fase de la UEM, debido a que no todos los Estados miembros de la UE han adoptado aún el euro'. Su naturaleza transitoria está directamente ligada a la finalización del proceso de adopción del euro por todos los Estados miembros de la UE.\n\n\nEjemplo: Mientras que países como Dinamarca, Polonia o Hungría sigan manteniendo sus propias monedas nacionales, el Consejo General continuará operando para gestionar las funciones relacionadas con estos países en el marco del SEBC, manteniendo así su carácter transitorio.",
+    "id": "q_eeb67d8182",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuándo se disolverá el Consejo General del Banco Central Europeo, según los Estatutos del SEBC y del BCE?",
+    "options": {
+      "a": "Cuando el número de Estados miembros de la Unión Europea supere los 30.",
+      "b": "Cuando el Comité Ejecutivo asuma plenamente todas sus funciones.",
+      "c": "Cuando todos los Estados miembros de la UE hayan adoptado la moneda única.",
+      "d": "Al finalizar la tercera fase de la Unión Económica y Monetaria."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que 'Los Estatutos del SEBC y del BCE recogen que el Consejo General será disuelto cuando todos los Estados miembros de la UE hayan adoptado la moneda única'. Esta es la condición explícita para el cese de este órgano transitorio.\n\n\nEjemplo: Si, en un futuro hipotético, Dinamarca, Suecia, Polonia y todos los demás países de la UE que actualmente no usan el euro decidieran y cumplieran con los requisitos para adoptar la moneda única, el Consejo General dejaría de existir.",
+    "id": "q_34031d514a",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Quién decide la creación y disolución de los comités del SEBC, y a través de qué órgano informan al Consejo de Gobierno?",
+    "options": {
+      "a": "Decisión del Comité Ejecutivo; informan directamente al Consejo de Gobierno.",
+      "b": "Decisión del Consejo General; informan a través del Presidente del BCE.",
+      "c": "Decisión del Consejo de Gobierno; informan por medio del Comité Ejecutivo.",
+      "d": "Decisión de los gobernadores de los BCN; informan a través de la Conferencia sobre Recursos Humanos."
+    },
+    "correctAnswer": "c",
+    "explanation": "El artículo 9 del Reglamento interno del BCE establece que 'El Consejo de Gobierno creará y disolverá comités'. Además, detalla que 'Los comités colaborarán con los órganos rectores del BCE e informarán al Consejo de Gobierno por medio del Comité Ejecutivo'.\n\n\nEjemplo: Si el Consejo de Gobierno del BCE considera necesario un nuevo comité para abordar la digitalización de los pagos en el Eurosistema, este lo creará. Una vez operativo, los informes y recomendaciones de este nuevo comité sobre digitalización se presentarían al Consejo de Gobierno después de pasar por el Comité Ejecutivo.",
+    "id": "q_73efb30287",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según el Reglamento interno del Banco Central Europeo, ¿cuál es el número máximo de miembros que pueden tener los comités del SEBC procedentes de cada Banco Central Nacional del Eurosistema y del BCE?",
+    "options": {
+      "a": "Un máximo de tres miembros.",
+      "b": "Un máximo de un miembro.",
+      "c": "Un máximo de dos miembros.",
+      "d": "El número es ilimitado, dependiendo de la necesidad de la tarea."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto del artículo 9 del Reglamento interno del BCE establece que los comités 'Estarán compuestos por un máximo de dos miembros de cada BCN del Eurosistema y del BCE, nombrados por cada gobernador y por el Comité Ejecutivo, respectivamente'.\n\n\nEjemplo: Para el Comité de Auditoría Interna (IAC), el Banco de España, como BCN del Eurosistema, designaría hasta dos expertos para representarlo, al igual que los demás BCNs de la zona euro y el propio BCE.",
+    "id": "q_9f4e20146e",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la función principal asignada al Consejo de Gobierno del BCE, al Comité Ejecutivo y al Consejo General, respectivamente, según el resumen proporcionado?",
+    "options": {
+      "a": "Diseñar la política monetaria, gestionar las operaciones de mercado y supervisar a las instituciones financieras.",
+      "b": "Diseñar la política monetaria, ponerla en práctica y asesorar e informar.",
+      "c": "Establecer la estrategia a largo plazo, preparar las reuniones y elaborar el informe anual.",
+      "d": "Aprobar las cuentas, recopilar estadísticas y coordinar las relaciones internacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El resumen final de la sección 4.6 establece que 'Los órganos rectores del BCE son el Consejo de Gobierno, el Comité Ejecutivo y el Consejo General. Se encargan respectivamente de diseñar la política monetaria, ponerla en práctica y asesorar e informar'. Esta es la descripción concisa de sus roles principales.\n\n\nEjemplo: Si se necesita una decisión sobre el tipo de interés (diseño), esta la toma el Consejo de Gobierno; la implementación de esta decisión en el mercado (práctica) recae en el Comité Ejecutivo; y la provisión de análisis y recomendaciones a los países no euro (asesoramiento) es función del Consejo General.",
+    "id": "q_fc7d014fe5",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año y con qué país tuvo lugar la última ampliación de la Unión Europea mencionada en el texto, y cuál fue uno de sus impactos?",
+    "options": {
+      "a": "Enero de 2012 con Rumanía, incrementando el PIB comunitario en 150 mil millones de euros.",
+      "b": "Julio de 2013 con Bulgaria, implicando un aumento poblacional de 3 millones de personas.",
+      "c": "Enero de 2013 con Croacia, implicando un incremento poblacional de más de 4 millones de personas.",
+      "d": "Abril de 2011 con Malta, aumentando el PIB comunitario en 50 mil millones de euros."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto señala que 'La última ampliación de la UE, en enero de 2013 (Croacia), implicó para la UE un incremento poblacional de más de 4 millones de personas así como un aumento del PIB comunitario de 200 mil millones de euros'.\n\n\nEjemplo: A partir de enero de 2013, los bancos centrales croatas comenzaron a formar parte del SEBC, y los datos demográficos y económicos de Croacia se integraron en las estadísticas agregadas de la UE, reflejando el incremento poblacional y del PIB mencionado.",
+    "id": "q_6f8183afe4",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Según la síntesis del documento, ¿cuántos países conforman el Eurosistema?",
+    "options": {
+      "a": "Todos los Estados miembros de la Unión Europea.",
+      "b": "El BCE y los bancos centrales de 20 países de la zona Euro.",
+      "c": "El BCE y todos los bancos centrales que forman parte del SEBC.",
+      "d": "Los países que han adoptado el euro y tienen una participación mínima en el capital del BCE."
+    },
+    "correctAnswer": "b",
+    "explanation": "La síntesis al final del fragmento indica que el 'Eurosistema, integrado por el BCE y el resto de bancos centrales de los países de la zona Euro (20)'. Es importante destacar que el número de países puede variar a lo largo del tiempo, pero el texto especifica '20' en este contexto.\n\n\nEjemplo: Actualmente, países como España, Alemania, Francia, Italia, y otros 16, forman parte del Eurosistema. Sus bancos centrales, junto con el BCE, son los responsables de la política monetaria de la eurozona.",
+    "id": "q_63e1f1879d",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿En qué año fue creado el Banco Central Europeo, proporcionando el impulso definitivo para la creación de la moneda única y la armonización de la política monetaria de la zona Euro?",
+    "options": {
+      "a": "1992",
+      "b": "1998",
+      "c": "2002",
+      "d": "1999"
+    },
+    "correctAnswer": "b",
+    "explanation": "Según el texto, la creación en 1998 del Banco Central Europeo dio el empuje definitivo para la creación de la moneda única y la armonización de la política monetaria de la zona Euro. Esta fecha marca un hito crucial en la integración monetaria europea.\n\n\nEjemplo: La creación del BCE en 1998 fue un paso esencial, análogo a la fecha de fundación de una empresa que define el inicio de sus operaciones principales y la dirección de su estrategia fundamental.",
+    "id": "q_239687d51e",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "El camino hacia la moneda única y la armonización de la política monetaria de la zona Euro se estableció siguiendo una hoja de ruta específica. ¿En qué informe se fijó dicha hoja de ruta?",
+    "options": {
+      "a": "Informe Werner",
+      "b": "Informe Maastrich",
+      "c": "Informe Delors",
+      "d": "Informe Padoa-Schioppa"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que la hoja de ruta establecida para la creación de la moneda única y la armonización de la política monetaria en la zona Euro se siguió a partir del informe Delors. Este informe fue fundamental para la planificación de la Unión Económica y Monetaria.\n\n\nEjemplo: Un plan de proyecto para una nueva infraestructura crítica del Banco de España se basaría en un informe técnico detallado, de forma análoga a cómo el Informe Delors sirvió de base para la introducción del euro.",
+    "id": "q_3092c50a4e",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuántos países miembros de la zona Euro integran el Eurosistema junto con el Banco Central Europeo, según la información más reciente proporcionada en el texto?",
+    "options": {
+      "a": "19",
+      "b": "20",
+      "c": "27",
+      "d": "28"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que el Eurosistema está integrado por el BCE y el resto de bancos centrales de los países de la zona Euro, cifrando dicho número en 20 países. Es crucial diferenciarlo del SEBC que abarca todos los países de la UE.\n\n\nEjemplo: Si el Banco de España quisiera conocer el número exacto de sus homólogos que operan bajo el paraguas del Eurosistema para coordinar una política específica, se referiría a este dato de 20 bancos centrales nacionales, además del BCE.",
+    "id": "q_f61ae6ded3",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es la composición actual del Sistema Europeo de Bancos Centrales (SEBC) en términos de países miembros de la Unión Europea?",
+    "options": {
+      "a": "El BCE y los bancos centrales nacionales de los 20 países de la zona Euro.",
+      "b": "El BCE y los bancos centrales nacionales de los 27 países miembros de la Unión Europea.",
+      "c": "Los bancos centrales nacionales de los países que no han adoptado el euro.",
+      "d": "El BCE y los bancos centrales nacionales de los 19 países de la Unión Económica y Monetaria."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que el Sistema Europeo de Bancos Centrales (SEBC) está integrado por el BCE y la totalidad de los bancos centrales de los países miembros de la Unión Europea, que en la actualidad son 27. Esto incluye tanto a los países de la zona euro como a los que no la han adoptado.\n\n\nEjemplo: Para entender el alcance geográfico y funcional completo de la supervisión monetaria en Europa, es esencial reconocer que el SEBC abarca a todos los 27 bancos centrales nacionales de la UE, a diferencia del Eurosistema, que se centra solo en la zona euro.",
+    "id": "q_bfd83ed26c",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es el principal objetivo del tratado constitutivo de la Comunidad Europea en relación con el Sistema Europeo de Bancos Centrales (SEBC), y en qué valor se cifra?",
+    "options": {
+      "a": "Conseguir el pleno empleo, cifrado en una tasa de desempleo del 3% para la zona Euro.",
+      "b": "Fomentar el crecimiento económico, cifrado en un incremento anual del PIB del 2% para el conjunto de la zona Euro.",
+      "c": "Conseguir la estabilidad de precios, cifrada en un incremento anual del Índice de Precios Armonizado del 2% para el conjunto de la zona Euro.",
+      "d": "Mantener la estabilidad financiera, cifrada en una ratio de capital Tier 1 del 10% para las entidades significativas."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma que el principal objetivo del tratado constitutivo es conseguir la estabilidad de precios, la cual se cifra en un incremento anual del Índice de Precios Armonizado (IPCA) del 2% para el conjunto de la zona euro. Este es el mandato primordial del Eurosistema.\n\n\nEjemplo: Cuando el Banco de España evalúa las perspectivas inflacionarias para el próximo año, siempre tiene en mente este objetivo del 2% del IPCA, ya que cualquier desviación significativa podría implicar ajustes en la política monetaria del Eurosistema.",
+    "id": "q_caf6b12091",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "A partir de qué año el Banco Central Europeo recibió el encargo de realizar la supervisión prudencial de las entidades significativas de la Unión Europea?",
+    "options": {
+      "a": "2010",
+      "b": "2012",
+      "c": "2014",
+      "d": "2016"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que el BCE recibió el encargo de realizar la supervisión prudencial de las entidades significativas de la Unión a partir de 2014. Esto marcó un cambio significativo en las responsabilidades del BCE en el ámbito de la supervisión bancaria.\n\n\nEjemplo: Una entidad bancaria española clasificada como 'significativa' sabe que, desde 2014, su principal supervisor prudencial es el BCE, no exclusivamente la autoridad nacional, lo que implica una armonización en los estándares de supervisión a nivel europeo.",
+    "id": "q_b4925b5587",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Qué órgano de la UE es responsable de la vigilancia macroprudencial del sistema financiero de la Unión y ostenta su secretaría el Banco Central Europeo?",
+    "options": {
+      "a": "El Comité Ejecutivo del BCE",
+      "b": "El Consejo de Gobierno del BCE",
+      "c": "La Junta Europea de Riesgo Sistémico (JERS)",
+      "d": "El Consejo Europeo"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que el BCE ostenta la secretaría de la Junta Europea de Riesgo Sistémico (JERS), que es un órgano independiente de la UE responsable de la vigilancia macroprudencial del sistema financiero de la Unión. Esta es una función clave para prevenir crisis financieras sistémicas.\n\n\nEjemplo: Si surgiera una preocupación por la burbuja inmobiliaria en varios países de la UE, la JERS sería el órgano encargado de analizar el riesgo sistémico y emitir advertencias o recomendaciones, con el apoyo de la secretaría que ostenta el BCE.",
+    "id": "q_cb1ed47daa",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuáles son los tres órganos rectores del Banco Central Europeo, encargados del diseño y puesta en marcha de la política monetaria?",
+    "options": {
+      "a": "El Consejo Económico y Social, el Comité de Asesoramiento Financiero y la Comisión de Supervisión.",
+      "b": "El Comité de Estabilidad Financiera, la Junta de Directores y el Grupo de Expertos.",
+      "c": "El Consejo de Gobierno, el Comité Ejecutivo y el Consejo General.",
+      "d": "El Eurogrupo, el Comité de Política Económica y la Conferencia de Presidentes."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto enumera explícitamente los órganos rectores del BCE como el Consejo de Gobierno, el Comité Ejecutivo y el Consejo General. Estos tres pilares son fundamentales para la gobernanza y la toma de decisiones en política monetaria del Eurosistema.\n\n\nEjemplo: Para implementar un cambio en los tipos de interés de referencia, se requiere la deliberación y decisión del Consejo de Gobierno del BCE, que es uno de los órganos rectores esenciales que se mencionan.",
+    "id": "q_7e7318297f",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Respecto a la política cambiaria del Banco Central Europeo (BCE), ¿quién posee la soberanía última para la definición de sus líneas y la formulación de acuerdos específicos?",
+    "options": {
+      "a": "El Comité Ejecutivo del BCE.",
+      "b": "El Consejo de Gobierno del BCE.",
+      "c": "Los gobiernos de los estados miembros y el Consejo Europeo.",
+      "d": "La Comisión Europea."
+    },
+    "correctAnswer": "c",
+    "explanation": "La solución a la prueba de autoevaluación indica claramente que 'En política cambiaria, la soberanía sigue en manos de los gobiernos y del Consejo Europeo.' Esto significa que, a diferencia de la política monetaria, la política cambiaria mantiene una mayor influencia por parte de las autoridades políticas de la Unión.\n\n\nEjemplo: Si existiera la necesidad de una intervención coordinada en los mercados de divisas que afectase significativamente al euro, la decisión última no recaería únicamente en el BCE, sino que requeriría la concertación y aprobación de los gobiernos de la UE a través del Consejo Europeo.",
+    "id": "q_55528827e4",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "Con respecto a los bancos centrales nacionales agrupados en el Sistema Europeo de Bancos Centrales (SEBC), ¿es correcto afirmar que todos tienen como moneda nacional el euro?",
+    "options": {
+      "a": "Sí, todos los bancos centrales nacionales del SEBC han adoptado el euro.",
+      "b": "No, algunos bancos centrales nacionales del SEBC pueden tener una moneda diferente al euro.",
+      "c": "Solo los bancos centrales nacionales que forman parte del Eurosistema tienen el euro como moneda nacional.",
+      "d": "La moneda nacional depende de si el país pertenece al Espacio Económico Europeo."
+    },
+    "correctAnswer": "b",
+    "explanation": "La solución a la prueba de autoevaluación establece que 'Los bancos centrales nacionales pertenecientes al SEBC no necesariamente tienen como moneda nacional el euro.' Esto es debido a que el SEBC incluye a todos los países de la UE (27), mientras que el Eurosistema solo incluye a los países de la zona euro (20).\n\n\nEjemplo: El Banco Nacional de Polonia, como miembro del SEBC pero no del Eurosistema, opera con el zloty polaco, lo que ilustra que no todos los bancos centrales nacionales dentro del SEBC utilizan el euro como su moneda nacional.",
+    "id": "q_724380f1de",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Qué grupos de países están representados en el Consejo General del Banco Central Europeo?",
+    "options": {
+      "a": "Solo los representantes de los países de la Zona euro.",
+      "b": "Solo los representantes de los países que no han adoptado el euro.",
+      "c": "Los representantes de los países de la Zona euro y los de los países de la Unión Europea no pertenecientes a la misma.",
+      "d": "Los representantes de los países fundadores de la Unión Europea."
+    },
+    "correctAnswer": "c",
+    "explanation": "La solución a la prueba de autoevaluación indica que 'En el Consejo General está representados tanto los países de la Zona euro como los países que no tienen el euro como moneda nacional.' Este órgano asegura la representación de todos los Estados miembros de la UE, independientemente de su participación en la moneda única.\n\n\nEjemplo: Cuando se debate una cuestión que podría afectar a la integración financiera de toda la UE, la participación en el Consejo General de representantes de países como Suecia (que no usa el euro) junto a los de Alemania (que sí lo usa), permite una visión más completa y equilibrada.",
+    "id": "q_f984a208bb",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una finalidad principal de las operaciones de mercado abierto del Eurosistema?",
+    "options": {
+      "a": "Establecer la política fiscal de los Estados miembros.",
+      "b": "Gestionar la situación de liquidez del mercado monetario.",
+      "c": "Regular las tasas de desempleo en la zona euro.",
+      "d": "Controlar directamente el tipo de cambio del euro frente a otras divisas."
+    },
+    "correctAnswer": "b",
+    "explanation": "Según la solución a la prueba de autoevaluación, las operaciones de mercado abierto se utilizan para controlar los tipos de interés, gestionar la situación de liquidez del mercado monetario y señalar la orientación de la política monetaria. La gestión de la liquidez es esencial para el funcionamiento fluido del mercado.\n\n\nEjemplo: Si hay un exceso de liquidez en el mercado monetario que podría presionar a la baja los tipos de interés interbancarios, el Eurosistema puede realizar operaciones de mercado abierto para absorber esa liquidez y mantener los tipos de interés en línea con sus objetivos de política monetaria.",
+    "id": "q_ad650db961",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es el plazo de instrumentación de la facilidad marginal de depósito que las entidades de crédito pueden utilizar en los bancos centrales nacionales?",
+    "options": {
+      "a": "Una semana.",
+      "b": "Un día.",
+      "c": "Un mes.",
+      "d": "Tres meses."
+    },
+    "correctAnswer": "b",
+    "explanation": "La solución a la prueba de autoevaluación especifica que 'La facilidad marginal de depósito la pueden utilizar las entidades de crédito para efectuar depósitos a un día en los bancos centrales nacionales.' Esta facilidad es una de las facilidades permanentes del Eurosistema.\n\n\nEjemplo: Un banco comercial que al final del día tiene un excedente de liquidez que no ha podido colocar en el mercado interbancario, puede recurrir a la facilidad marginal de depósito en su banco central nacional para depositar esos fondos a un día, obteniendo una rentabilidad mínima y de bajo riesgo.",
+    "id": "q_6be027471b",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cómo se han constituido las reservas exteriores del Banco Central Europeo?",
+    "options": {
+      "a": "Mediante préstamos concedidos al BCE por el Eurosistema.",
+      "b": "A través de la transferencia de activos al BCE realizada por el Consejo Europeo de la UE.",
+      "c": "Por la transferencia de activos al BCE realizada por los bancos centrales nacionales.",
+      "d": "Mediante la emisión de bonos del BCE en los mercados internacionales."
+    },
+    "correctAnswer": "c",
+    "explanation": "La solución a la prueba de autoevaluación indica que 'Así se han constituido las reservas exteriores del BCE', refiriéndose a la opción 'Por la transferencia de activos al BCE realizada por los bancos centrales nacionales'. Esta es la forma principal en que el BCE acumula sus reservas.\n\n\nEjemplo: Cuando un país se unió a la zona euro, su banco central nacional transfirió una parte de sus reservas de divisas al BCE, contribuyendo así a la constitución del pool común de reservas exteriores gestionado por el BCE.",
+    "id": "q_56367268f0",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Tiene derecho un país que no pertenece al Eurosistema a participar en el reparto de beneficios del Banco Central Europeo (BCE)?",
+    "options": {
+      "a": "Sí, siempre que sea miembro de la Unión Europea.",
+      "b": "No, en ningún caso.",
+      "c": "Sí, si lo decide el Consejo de Gobierno del BCE.",
+      "d": "Sí, pero solo si contribuye al capital del BCE."
+    },
+    "correctAnswer": "b",
+    "explanation": "La solución a la prueba de autoevaluación es categórica: 'Un país que no pertenece al Eurosistema no tiene derecho a participar en el reparto de beneficios del BCE.' Los beneficios del BCE se distribuyen entre los bancos centrales nacionales del Eurosistema de acuerdo con su participación en el capital.\n\n\nEjemplo: Suecia, como país miembro de la UE pero no de la zona euro, no recibe una parte de los beneficios anuales del BCE, a diferencia de España cuyo banco central nacional sí participa en dicho reparto como miembro del Eurosistema.",
+    "id": "q_2b227aea52",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cómo se define una actuación de cambios de divisas descentralizada en el contexto del Eurosistema?",
+    "options": {
+      "a": "Es una operación de cambio realizada directamente por el Banco Central Europeo.",
+      "b": "Es una operación de cambio realizada por un banco central nacional de forma unilateral.",
+      "c": "Es una operación de cambio realizada por un banco central nacional por cuenta del Banco Central Europeo.",
+      "d": "Es una operación de cambio coordinada por el Consejo Europeo entre varios bancos centrales nacionales."
+    },
+    "correctAnswer": "c",
+    "explanation": "La solución a la prueba de autoevaluación define una actuación de cambio de divisas descentralizada como 'la realizada por un banco central nacional por cuenta del BCE'. Esto permite al Eurosistema llevar a cabo operaciones en el mercado de divisas de manera eficiente a través de sus bancos centrales nacionales, pero bajo la dirección del BCE.\n\n\nEjemplo: Si el BCE decide intervenir en el mercado para influir en el tipo de cambio del euro, podría encargar al Banco de Francia que realice la compra o venta de una cantidad específica de divisas en nombre y por cuenta del BCE, lo que constituiría una actuación descentralizada.",
+    "id": "q_52335ecd8b",
+    "source": "GDN13_Banco_Espana_SEBC_2025.md"
+  },
+  {
+    "question": "¿Cuál es una de las prioridades estratégicas del Banco de España en relación con los foros internacionales de regulación y supervisión bancarias?",
+    "options": {
+      "a": "Reducir su participación en dichos foros para optimizar recursos internos.",
+      "b": "Fomentar la creación de nuevos foros internacionales especializados en regulación tecnológica.",
+      "c": "Incrementar su capacidad de influencia en los foros internacionales para acordar estándares de regulación y supervisión.",
+      "d": "Limitar su cooperación a foros exclusivamente europeos, dada la complejidad global."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece que la participación en foros internacionales de regulación y de supervisión bancarias es una de las prioridades estratégicas del Banco de España, y que resulta imprescindible preservar y aumentar la capacidad de influencia en estos foros para acordar los estándares del sistema financiero. La pandemia ha acentuado esta necesidad al evidenciar el entorno globalizado.\n\n\nEjemplo: Ante un nuevo desafío como la regulación de los criptoactivos a nivel mundial, el Banco de España destina recursos y personal cualificado para asegurar que las normativas que se discuten en organismos como el Consejo de Estabilidad Financiera reflejen la perspectiva española y europea, influyendo en la configuración de estándares globales para mitigar riesgos sistémicos.",
+    "id": "q_1bc61f2b69",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Cuáles son las dos principales áreas de trabajo destacadas para el Consejo de Estabilidad Financiera (FSB) en el contexto de la participación del Banco de España en organismos internacionales?",
+    "options": {
+      "a": "La implementación de políticas fiscales restrictivas y el control de la inflación global.",
+      "b": "El impacto de la pandemia y la identificación, seguimiento y evaluación de vulnerabilidades, incluyendo la intermediación financiera no bancaria.",
+      "c": "La reforma de los sistemas de pensiones nacionales y la armonización de las tasas de interés interbancarias.",
+      "d": "El desarrollo de programas de asistencia financiera a países en vías de desarrollo y la promoción del comercio internacional."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que los trabajos destacados del Consejo de Estabilidad Financiera (FSB) son: 'i) impacto de la pandemia, medidas adoptadas y lecciones sobre sus efectos, fomentando la cooperación internacional, y ii) identiﬁcación, seguimiento y evaluación de vulnerabilidades, incluida la intermediación ﬁnanciera no bancaria'.\n\n\nEjemplo: Durante 2021, el FSB analizó cómo las inyecciones masivas de liquidez para paliar la pandemia impactaron en la estabilidad financiera global y, simultáneamente, se centró en la supervisión de entidades de inversión no bancarias para prevenir riesgos sistémicos derivados de su creciente peso en el ecosistema financiero.",
+    "id": "q_9fffa05016",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Según el texto, ¿qué prioritario aborda el Comité de Supervisión Bancaria de Basilea (BCBS) en relación con las tendencias estructurales y la mitigación de riesgos?",
+    "options": {
+      "a": "El fomento del uso de efectivo y la restricción de pagos digitales.",
+      "b": "La monitorización de la digitalización, criptoactivos, resiliencia operacional y cambio climático.",
+      "c": "La estandarización de los sistemas contables para pequeñas y medianas empresas.",
+      "d": "La promoción de fusiones bancarias transfronterizas para reducir la fragmentación."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que las prioridades del Comité de Supervisión Bancaria de Basilea (BCBS) incluyen 'ii) monitorización de tendencias estructurales y mitigación de riesgos (digitalización, criptoactivos, resiliencia operacional, cambio climático)'.\n\n\nEjemplo: En 2021, el BCBS publicó una propuesta sobre el tratamiento prudencial de las exposiciones bancarias a criptoactivos, lo que demuestra su enfoque en la mitigación de riesgos emergentes asociados a las nuevas tecnologías financieras.",
+    "id": "q_683bffc877",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una prioridad clave para la Autoridad Bancaria Europea (EBA) mencionada en el texto?",
+    "options": {
+      "a": "La creación de un fondo de rescate bancario exclusivo para entidades no sistémicas.",
+      "b": "La realización del ejercicio de estrés aplazado por la pandemia y el avance en el paquete de reducción de riesgos.",
+      "c": "El establecimiento de un tipo de interés de referencia único para todos los préstamos hipotecarios en la UE.",
+      "d": "La supervisión directa de las filiales bancarias de terceros países en la Unión Europea."
+    },
+    "correctAnswer": "b",
+    "explanation": "Las prioridades de la Autoridad Bancaria Europea (EBA) se centran en 'i) la realización del ejercicio de estrés aplazado por la pandemia; ii) el avance en la implementación del paquete de reducción de riesgos y en el proyecto para convertirse en un centro de datos integrado en toda la UE, y iii) los trabajos en áreas de innovación ﬁnanciera y riesgos tecnológicos, riesgos ESG y PBC/FT, y la mitigación de las consecuencias de la pandemia'.\n\n\nEjemplo: Tras el aplazamiento inicial, la EBA coordinó el ejercicio de estrés bancario de 2021 para evaluar la resiliencia del sistema bancario europeo frente a escenarios macroeconómicos adversos, incluyendo los derivados de la pandemia, lo cual es una de sus prioridades principales.",
+    "id": "q_0514b19a11",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿En qué áreas se orientan principalmente los trabajos de la Junta Europea de Riesgo Sistémico (JERS)?",
+    "options": {
+      "a": "Regulación de las telecomunicaciones y políticas de empleo.",
+      "b": "Análisis del mercado de la vivienda, ciberriesgo, fondos del mercado monetario y consecuencias del brexit.",
+      "c": "Implementación de subsidios agrícolas y control de emisiones de carbono.",
+      "d": "Promoción del turismo y desarrollo de infraestructuras de transporte."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que los trabajos de la Junta Europea de Riesgo Sistémico (JERS) 'se orientan al análisis del mercado de la vivienda, el ciberriesgo, la reforma de los fondos del mercado monetario y las consecuencias del brexit sobre las infraestructuras de mercado'.\n\n\nEjemplo: La JERS publicó en 2021 un informe detallado sobre la posible sobrevaloración en ciertos mercados de vivienda europeos, alertando a las autoridades nacionales sobre riesgos sistémicos y recomendando medidas macroprudenciales para asegurar la estabilidad financiera.",
+    "id": "q_603aded89c",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Además de los principales foros, ¿en cuál de las siguientes organizaciones participa activamente el Banco de España, según el texto?",
+    "options": {
+      "a": "Organización Mundial de la Salud (OMS).",
+      "b": "Network for Greening the Financial System (NGFS).",
+      "c": "Organización de las Naciones Unidas (ONU).",
+      "d": "Fondo Monetario Internacional (FMI)."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que el Banco de España participa activamente en FinCoNet, en el Comité de Pagos e Infraestructuras del Mercado y en la Network for Greening the Financial System (NGFS), esta última sobre cambio climático.\n\n\nEjemplo: La participación en la NGFS implica que el Banco de España colabora en el desarrollo de metodologías para evaluar el impacto del cambio climático en el sector financiero y promueve la integración de consideraciones ESG (ambientales, sociales y de gobernanza) en las políticas bancarias y de supervisión.",
+    "id": "q_922fc582fc",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Según el Esquema 7.1, ¿cuál de los siguientes organismos se clasifica como un 'Foro Europeo' en el que participa el Banco de España?",
+    "options": {
+      "a": "Consejo de Estabilidad Financiera (FSB).",
+      "b": "Comité de Supervisión Bancaria de Basilea (BCBS).",
+      "c": "Autoridad Bancaria Europea (EBA).",
+      "d": "Comité de Pagos e Infraestructuras del Mercado (CPMI) del BIS."
+    },
+    "correctAnswer": "c",
+    "explanation": "El Esquema 7.1 del texto clasifica claramente los foros, situando la 'Autoridad Bancaria Europea (EBA)' bajo el epígrafe de 'FOROS EUROPEOS'.\n\n\nEjemplo: En el contexto de la supervisión bancaria europea, la EBA ejerce un papel crucial en la armonización de las regulaciones y prácticas supervisoras en la Unión Europea, siendo un foro de influencia directa para las entidades financieras españolas y para el Banco de España.",
+    "id": "q_57cc53eb63",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Durante 2021, ¿cuál fue uno de los principales focos de la agenda del Consejo de Estabilidad Financiera (FSB) en relación con la pandemia de COVID-19?",
+    "options": {
+      "a": "La creación de nuevos impuestos para financiar la recuperación económica.",
+      "b": "La publicación de un informe sobre consideraciones para la extensión, ajuste y retirada de las medidas de apoyo adoptadas.",
+      "c": "La promoción de la vacunación a nivel global como medida de estabilización económica.",
+      "d": "El desarrollo de un marco regulatorio para la prohibición de las operaciones de venta en corto."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto menciona que durante 2021, el FSB 'ha continuado centrando buena parte de su agenda en cuestiones relativas al impacto de la pandemia y en las medidas de respuesta adoptadas', incluyendo 'la publicación de un informe sobre consideraciones que se deben tener en cuenta en relación con la extensión, el ajuste y la retirada de las medidas de apoyo adoptadas según la evolución de la pandemia'.\n\n\nEjemplo: Ante la mejora de la situación sanitaria y económica en algunos países en 2021, el FSB orientó su trabajo a analizar cómo los gobiernos y bancos centrales podían retirar gradualmente las moratorias de préstamos o las garantías crediticias sin desestabilizar la recuperación económica.",
+    "id": "q_0fb7c55105",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Según el Esquema 7.2 del informe del FSB sobre las medidas de apoyo frente a la pandemia, ¿cuál es la consideración principal respecto al momento de la retirada de dichas medidas?",
+    "options": {
+      "a": "La retirada debe ser siempre temprana para evitar el sobreendeudamiento público.",
+      "b": "La mayoría de las autoridades consideran que los costes de una retirada prematura pueden ser más significativos que los de una tardía.",
+      "c": "La retirada debe ser automática una vez que la pandemia se declare oficialmente terminada.",
+      "d": "El momento de la retirada es irrelevante si la comunicación es clara."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Esquema 7.2, bajo el epígrafe 'RETIRADA TEMPRANA FRENTE A RETIRADA TARDÍA', establece que 'La mayor parte de las autoridades consideran que los costes de una retirada prematura de las medidas de apoyo pueden ser más signiﬁcativos que los de una retirada tardía'.\n\n\nEjemplo: Un banco central, siguiendo esta premisa, podría decidir mantener las líneas de liquidez de emergencia más tiempo de lo esperado, priorizando evitar un colapso de crédito sobre el riesgo de un ligero retraso en el saneamiento fiscal, basándose en la experiencia de que una crisis de liquidez prematuramente desatendida puede tener consecuencias mucho peores.",
+    "id": "q_08e6c28ab9",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "En 2021, ¿qué tipo de trabajo concluyó el FSB en relación con la intermediación financiera no bancaria?",
+    "options": {
+      "a": "Un estudio sobre el impacto de los fondos de capital riesgo en la economía real.",
+      "b": "Un informe de viabilidad para la creación de un nuevo organismo supervisor global para fondos de inversión.",
+      "c": "Trabajo sobre propuestas de medidas para abordar vulnerabilidades en el sector de los fondos del mercado monetario.",
+      "d": "La evaluación de la rentabilidad de los fondos de cobertura durante períodos de volatilidad."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma que 'En 2021, el FSB concluyó el trabajo sobre propuestas de medidas para abordar vulnerabilidades en el sector de los fondos del mercado monetario'. Este trabajo forma parte del plan más amplio para abordar las vulnerabilidades detectadas en la intermediación financiera no bancaria durante las turbulencias de marzo de 2020.\n\n\nEjemplo: Tras las dislocaciones observadas en el mercado de fondos monetarios en marzo de 2020, el FSB propuso un catálogo de opciones regulatorias, como mecanismos para reducir la transformación de liquidez, para que las jurisdicciones puedan implementar y prevenir futuras inestabilidades en este sector clave.",
+    "id": "q_084486dc1a",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Qué desarrolló el FSB en 2021 para la identificación, seguimiento y evaluación de vulnerabilidades?",
+    "options": {
+      "a": "Un nuevo programa de incentivos para la denuncia de prácticas financieras irregulares.",
+      "b": "Un marco de vigilancia que incluye una terminología y una taxonomía de las vulnerabilidades comunes.",
+      "c": "Una base de datos pública de entidades financieras con alto riesgo de incumplimiento.",
+      "d": "Un sistema de alerta temprana basado en inteligencia artificial para predecir crisis."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'Con este fin, el FSB desarrolló en 2021 un marco de vigilancia que incluye una terminología y una taxonomía de las vulnerabilidades comunes'. Esto se hizo como parte de su labor continua de identificación, seguimiento y evaluación de vulnerabilidades.\n\n\nEjemplo: Al implementar este marco, los supervisores de diferentes jurisdicciones pueden utilizar un lenguaje y una clasificación uniformes para discutir y evaluar riesgos como el ciberriesgo o la exposición al cambio climático, facilitando la cooperación y la respuesta coordinada a nivel global.",
+    "id": "q_265844bf8f",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Según el texto, ¿cuáles son algunas de las vulnerabilidades emergentes identificadas por el FSB?",
+    "options": {
+      "a": "Las asociadas a la inflación de precios de bienes básicos y la escasez de mano de obra.",
+      "b": "Las asociadas a la innovación financiera, al cambio climático o a los pagos transfronterizos.",
+      "c": "Las asociadas a la deuda pública excesiva y a la inestabilidad política regional.",
+      "d": "Las asociadas a las fluctuaciones del tipo de cambio y a la liberalización comercial."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que 'Entre las vulnerabilidades emergentes identificadas destacan las asociadas a la innovación financiera, al cambio climático o a los pagos transfronterizos'.\n\n\nEjemplo: El FSB, al identificar la innovación financiera como una vulnerabilidad, dedicó esfuerzos a supervisar las 'stablecoins' de alcance global, evaluando los riesgos que estas nuevas formas de activos digitales podrían introducir en la estabilidad financiera.",
+    "id": "q_a50c8e9dd8",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "A finales de 2021, ¿qué evento significativo ocurrió en relación con el líbor (LIBOR)?",
+    "options": {
+      "a": "Se anunció su adopción como índice de referencia universal para todas las transacciones financieras.",
+      "b": "Parte de sus tipos dejaron de publicarse, lo que llevó al FSB a trabajar en la transición a nuevos índices de referencia.",
+      "c": "Se reintrodujo como el principal índice de referencia para hipotecas en la eurozona.",
+      "d": "Se declaró su total invalidez retroactiva para todos los contratos existentes."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto menciona que 'ante la inminente desaparición del líbor (parte de sus tipos dejaron de publicarse a finales de 2021), el FSB siguió trabajando para facilitar la transición a nuevos índices de referencia'.\n\n\nEjemplo: Un banco español que tenía contratos de préstamos referenciados al líbor tuvo que activar un plan de contingencia para modificar esos contratos, migrándolos a índices alternativos como el SOFR o el €STR, en línea con la orientación del FSB para una transición ordenada.",
+    "id": "q_b797717b21",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Qué periodo abarcan las prioridades estratégicas del Comité de Supervisión Bancaria de Basilea (BCBS) mencionadas en el texto?",
+    "options": {
+      "a": "2020 y 2021.",
+      "b": "2021 y 2022.",
+      "c": "2022 y 2023.",
+      "d": "Únicamente 2021."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que el BCBS 'ha desarrollado su programa de trabajo de acuerdo con las prioridades estratégicas que se ha marcado para 2021 y 2022'.\n\n\nEjemplo: El BCBS, en su reunión anual de 2021, estableció un plan de trabajo plurianual que abarcaba la monitorización del impacto de la pandemia y el avance en la regulación de riesgos emergentes, con hitos definidos para finales de 2022.",
+    "id": "q_ec726bee08",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Qué tipo de informe publicó el Comité de Supervisión Bancaria de Basilea (BCBS) sobre los efectos de la pandemia y el marco de Basilea?",
+    "options": {
+      "a": "Un informe final y vinculante sobre la modificación permanente del marco de capital.",
+      "b": "Un informe de evaluación preliminar sobre lecciones aprendidas.",
+      "c": "Un análisis exhaustivo sobre la necesidad de un nuevo marco regulatorio.",
+      "d": "Un estudio sobre la eliminación total de los colchones de capital para facilitar la recuperación."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que el BCBS publicó 'un informe de evaluación preliminar sobre lecciones aprendidas de los efectos de la pandemia y el marco de Basilea'.\n\n\nEjemplo: Este informe preliminar analizó cómo los bancos utilizaron (o no) sus colchones de capital y liquidez durante la fase inicial de la pandemia, proporcionando una base para futuras discusiones sobre la efectividad de las herramientas macroprudenciales en tiempos de crisis.",
+    "id": "q_6e7412d5c1",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Según la nota a pie de página 2, ¿qué define a las 'stablecoins'?",
+    "options": {
+      "a": "Son monedas digitales emitidas exclusivamente por bancos centrales.",
+      "b": "Son criptoactivos que vinculan su valor al de un activo tradicional o a una cesta de activos tradicionales a través de un mecanismo de estabilización.",
+      "c": "Son instrumentos financieros que no tienen ningún respaldo y operan de forma totalmente descentralizada.",
+      "d": "Son activos tradicionales que han sido digitalizados para facilitar su comercialización, sin perder su naturaleza original."
+    },
+    "correctAnswer": "b",
+    "explanation": "La nota a pie de página 2 (footnote 2) define las stablecoins como 'criptoactivos que vinculan su valor al de un activo tradicional o a una cesta de activos tradicionales a través de un mecanismo de estabilización'.\n\n\nEjemplo: Una stablecoin como Tether (USDT) intenta mantener su valor en paridad con el dólar estadounidense, lo que la diferencia de criptoactivos más volátiles como Bitcoin, proporcionando una mayor estabilidad para ciertas transacciones financieras y usos en el ecosistema cripto.",
+    "id": "q_61e5e64ede",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Qué tipo de propuesta publicó el BCBS en relación con el tratamiento prudencial de las exposiciones bancarias a criptoactivos?",
+    "options": {
+      "a": "Una propuesta preliminar que excluye las monedas digitales emitidas por bancos centrales.",
+      "b": "Una propuesta final y vinculante para la prohibición total de la tenencia de criptoactivos por parte de los bancos.",
+      "c": "Una recomendación para que los bancos inviertan masivamente en criptoactivos para diversificar sus carteras.",
+      "d": "Un estudio sobre el impacto de las monedas digitales de banco central en el sistema financiero global."
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto indica que el BCBS 'publicó una propuesta preliminar sobre el tratamiento prudencial de las exposiciones bancarias a criptoactivos (excluyendo las monedas digitales emitidas por bancos centrales)'.\n\n\nEjemplo: Esta propuesta busca establecer cómo los bancos deben medir y gestionar los riesgos asociados a la tenencia de criptoactivos como Bitcoin o ciertas stablecoins, aplicando requisitos de capital adecuados para proteger la estabilidad financiera sin incluir las CBDC, que tienen un tratamiento distinto.",
+    "id": "q_47c38180a7",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "En la propuesta preliminar del BCBS, ¿cómo se clasificarían los criptoactivos?",
+    "options": {
+      "a": "En un solo grupo, sin distinciones, dado su carácter novedoso.",
+      "b": "En dos grupos, en función de una serie de condiciones, donde el Grupo 1 abarcaría activos tradicionales tokenizados y determinadas stablecoins.",
+      "c": "En tres grupos, según su capitalización de mercado y volumen de negociación.",
+      "d": "En cuatro grupos, diferenciando entre activos de utilidad, de seguridad, de pago y de inversión."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que en la propuesta del BCBS, 'Se propone su clasificación en dos grupos en función de una serie de condiciones 4. El grupo 1, que incorporaría los criptoactivos que cumplen con esas condiciones, abarcaría activos tradicionales tokenizados y determinadas stablecoins5'.\n\n\nEjemplo: Bajo este esquema, un bono corporativo que ha sido tokenizado en una blockchain, y que otorga los mismos derechos legales que su versión tradicional, sería clasificado dentro del Grupo 1, recibiendo un tratamiento prudencial similar al del bono físico, siempre que cumpla las condiciones establecidas.",
+    "id": "q_cfaf467e06",
+    "source": "MemoriaSupervision2021_Cap7.md"
   }
 ]
