@@ -44,7 +44,7 @@ interface TestHistoryEntry {
   questions: Question[];
   userAnswers: { [qId: string]: string };
   passed: boolean;
-  type: "random" | "mistakes";
+  type: "random" | "mistakes" | "all" | "study";
 }
 
 interface QuestionStats {
@@ -76,7 +76,7 @@ export default function App() {
   const [markedForLater, setMarkedForLater] = useState<{ [qId: string]: boolean }>({});
   const [timeLeft, setTimeLeft] = useState(5400); // 1h 30m in seconds
   const [isTestActive, setIsTestActive] = useState(false);
-  const [testType, setTestType] = useState<"random" | "mistakes">("random");
+  const [testType, setTestType] = useState<"random" | "mistakes" | "all" | "study">("random");
   
   // History and Stats states
   const [history, setHistory] = useState<TestHistoryEntry[]>([]);
@@ -118,11 +118,11 @@ export default function App() {
 
   // Timer effect
   useEffect(() => {
-    if (isTestActive && timeLeft > 0) {
+    if (isTestActive && testType !== "study" && timeLeft > 0) {
       timerRef.current = setTimeout(() => {
         setTimeLeft((prev) => prev - 1);
       }, 1000);
-    } else if (isTestActive && timeLeft === 0) {
+    } else if (isTestActive && testType !== "study" && timeLeft === 0) {
       finishTest(true); // Auto-finish when time is up
     }
 
@@ -158,7 +158,7 @@ export default function App() {
   };
 
   // Start Test
-  const startNewTest = (type: "random" | "mistakes") => {
+  const startNewTest = (type: "random" | "mistakes" | "all" | "study") => {
     if (dbQuestions.length === 0) return;
 
     let selectedQuestions: Question[] = [];
@@ -167,6 +167,12 @@ export default function App() {
       // Shuffle and pick 50
       const shuffled = [...dbQuestions].sort(() => 0.5 - Math.random());
       selectedQuestions = shuffled.slice(0, Math.min(50, shuffled.length));
+    } else if (type === "all" || type === "study") {
+      // All questions sequential (sorted by ID or source for clean order)
+      selectedQuestions = [...dbQuestions].sort((a, b) => {
+        if (a.source !== b.source) return a.source.localeCompare(b.source);
+        return a.id.localeCompare(b.id);
+      });
     } else {
       // Mistakes mode: pick top failed questions
       // Sort questions by failure count, minimum 1 failure
@@ -270,6 +276,11 @@ export default function App() {
   const finishTest = (_timeExpired = false) => {
     if (timerRef.current) clearTimeout(timerRef.current);
     setIsTestActive(false);
+
+    if (testType === "study") {
+      setView("dashboard");
+      return;
+    }
 
     const timeSpent = Math.floor((Date.now() - testStartTimeRef.current) / 1000);
     const results = calculateScore(activeQuestions, userAnswers);
@@ -436,14 +447,23 @@ export default function App() {
                 </div>
               </div>
 
-              <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-                <button onClick={() => startNewTest("random")} className="action-btn action-btn-primary">
+              <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "0.75rem" }}>
+                <button onClick={() => startNewTest("random")} className="action-btn action-btn-primary" style={{ gridColumn: "span 2" }}>
                   <BookOpen size={18} /> Iniciar Test Rápido (50 preg.)
+                </button>
+                
+                <button onClick={() => startNewTest("all")} className="action-btn action-btn-secondary">
+                  <BookOpen size={18} /> Test Completo ({dbQuestions.length} preg.)
+                </button>
+
+                <button onClick={() => startNewTest("study")} className="action-btn action-btn-secondary">
+                  <BookOpen size={18} style={{ color: "var(--color-gold)" }} /> Modo Estudio
                 </button>
                 
                 <button
                   onClick={() => startNewTest("mistakes")}
                   className="action-btn action-btn-secondary"
+                  style={{ gridColumn: "span 2" }}
                   disabled={!Object.values(questionStats).some((s) => s.failures > 0)}
                 >
                   <AlertCircle size={18} /> Repasar Fallos Comunes
@@ -479,7 +499,11 @@ export default function App() {
                         })}
                       </div>
                       <div className="history-subtitle">
-                        {entry.type === "random" ? "Test Aleatorio" : "Repaso de Fallos"} • {formatTime(entry.timeSpent)}
+                        {entry.type === "random"
+                          ? "Test Rápido"
+                          : entry.type === "all"
+                          ? "Test Completo"
+                          : "Repaso de Fallos"} • {formatTime(entry.timeSpent)}
                       </div>
                     </div>
                     
@@ -501,12 +525,47 @@ export default function App() {
         {/* 2. TEST VIEW */}
         {!dbLoading && view === "test" && activeQuestions.length > 0 && (
           <div>
-            <div className="test-header">
-              <span>Pregunta {currentIdx + 1} de {activeQuestions.length}</span>
-              <div className={`timer-box ${timeLeft < 600 ? "timer-warning" : ""}`}>
-                <Clock size={14} />
-                <span>{formatTime(timeLeft)}</span>
+            <div className="test-header" style={{ alignItems: "center" }}>
+              <div style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
+                <span>Pregunta</span>
+                <input
+                  type="number"
+                  min={1}
+                  max={activeQuestions.length}
+                  value={currentIdx + 1}
+                  onChange={(e) => {
+                    const val = parseInt(e.target.value, 10);
+                    if (!isNaN(val) && val >= 1 && val <= activeQuestions.length) {
+                      setCurrentIdx(val - 1);
+                    }
+                  }}
+                  className="jump-input"
+                  style={{
+                    width: "55px",
+                    textAlign: "center",
+                    padding: "0.25rem",
+                    borderRadius: "var(--border-radius-sm)",
+                    border: "1px solid var(--border-color)",
+                    backgroundColor: "var(--bg-secondary)",
+                    color: "var(--text-primary)",
+                    fontSize: "0.85rem",
+                    fontWeight: "600"
+                  }}
+                />
+                <span>de {activeQuestions.length}</span>
               </div>
+              
+              {testType !== "study" ? (
+                <div className={`timer-box ${timeLeft < 600 ? "timer-warning" : ""}`}>
+                  <Clock size={14} />
+                  <span>{formatTime(timeLeft)}</span>
+                </div>
+              ) : (
+                <div className="timer-box" style={{ background: "var(--color-gold-bg)", color: "var(--color-gold)", borderColor: "var(--color-gold)" }}>
+                  <BookOpen size={14} />
+                  <span>Modo Estudio</span>
+                </div>
+              )}
             </div>
 
             {/* Progress Bar */}
@@ -521,7 +580,8 @@ export default function App() {
             {(() => {
               const q = activeQuestions[currentIdx];
               const selectedOpt = userAnswers[q.id];
-              const isAnswered = !!selectedOpt;
+              const isStudyMode = testType === "study";
+              const isAnswered = isStudyMode ? true : !!selectedOpt;
               const { theory, example } = parseExplanation(q.explanation);
 
               return (
@@ -632,7 +692,9 @@ export default function App() {
               ) : (
                 <button
                   onClick={() => {
-                    if (window.confirm("¿Estás seguro de que deseas finalizar y corregir el examen?")) {
+                    if (testType === "study") {
+                      finishTest();
+                    } else if (window.confirm("¿Estás seguro de que deseas finalizar y corregir el examen?")) {
                       finishTest();
                     }
                   }}
@@ -640,7 +702,7 @@ export default function App() {
                   style={{ padding: "0.6rem 1.2rem", width: "auto" }}
                 >
                   <CheckCircle2 size={16} />
-                  <span>Finalizar</span>
+                  <span>{testType === "study" ? "Salir" : "Finalizar"}</span>
                 </button>
               )}
             </div>
@@ -668,7 +730,10 @@ export default function App() {
             {/* Quick action to force end */}
             <button
               onClick={() => {
-                if (window.confirm("¿Estás seguro de que deseas salir del test? No se guardará tu progreso.")) {
+                const confirmMsg = testType === "study"
+                  ? "¿Deseas salir del modo estudio y volver al menú principal?"
+                  : "¿Estás seguro de que deseas salir del test? No se guardará tu progreso.";
+                if (window.confirm(confirmMsg)) {
                   setIsTestActive(false);
                   setView("dashboard");
                 }
@@ -676,7 +741,7 @@ export default function App() {
               className="action-btn action-btn-secondary"
               style={{ marginTop: "2rem", borderColor: "rgba(239, 68, 68, 0.4)", color: "var(--color-error)" }}
             >
-              <X size={16} /> Cancelar Examen
+              <X size={16} /> {testType === "study" ? "Salir del Estudio" : "Cancelar Examen"}
             </button>
           </div>
         )}

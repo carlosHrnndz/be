@@ -9488,5 +9488,434 @@
     "explanation": "El texto especifica que en la propuesta del BCBS, 'Se propone su clasificación en dos grupos en función de una serie de condiciones 4. El grupo 1, que incorporaría los criptoactivos que cumplen con esas condiciones, abarcaría activos tradicionales tokenizados y determinadas stablecoins5'.\n\n\nEjemplo: Bajo este esquema, un bono corporativo que ha sido tokenizado en una blockchain, y que otorga los mismos derechos legales que su versión tradicional, sería clasificado dentro del Grupo 1, recibiendo un tratamiento prudencial similar al del bono físico, siempre que cumpla las condiciones establecidas.",
     "id": "q_cfaf467e06",
     "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Según el documento, ¿cuál es la definición precisa de las stablecoins?",
+    "options": {
+      "a": "Son criptoactivos que establecen un valor fijo respecto a una divisa fiduciaria mediante algoritmos complejos.",
+      "b": "Son criptoactivos cuyo valor está vinculado a un activo tradicional o a una cesta de activos tradicionales a través de un mecanismo de estabilización.",
+      "c": "Son instrumentos financieros que representan una participación en una empresa mediante tecnología de registro distribuido, con valor estable.",
+      "d": "Son monedas digitales emitidas por bancos centrales diseñadas para mantener un valor constante frente a una moneda nacional."
+    },
+    "correctAnswer": "b",
+    "explanation": "La definición proporcionada en la nota 2 y reiterada en la nota 5 del texto establece que las stablecoins son criptoactivos que vinculan su valor al de un activo tradicional o a una cesta de activos tradicionales a través de un mecanismo de estabilización.\n\n\nEjemplo: Una stablecoin como Tether (USDT) o USD Coin (USDC) se diseñan para mantener su valor vinculado al dólar estadounidense, un activo tradicional, mediante mecanismos de reserva y estabilización.",
+    "id": "q_b069721e05",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "En el marco de la propuesta preliminar del BCBS sobre el tratamiento prudencial de las exposiciones bancarias a criptoactivos, ¿en cuántos grupos se propone su clasificación?",
+    "options": {
+      "a": "Tres grupos, distinguiendo entre activos tokenizados, stablecoins y criptoactivos de alta volatilidad.",
+      "b": "Un único grupo, con subcategorías para diferentes tipos de criptoactivos según su riesgo inherente.",
+      "c": "Dos grupos, en función de una serie de condiciones preestablecidas.",
+      "d": "Cuatro grupos, considerando el tipo de red blockchain y el mecanismo de consenso empleado."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica explícitamente que la propuesta preliminar del BCBS clasifica las exposiciones bancarias a criptoactivos 'en dos grupos en función de una serie de condiciones'.\n\n\nEjemplo: El BCBS propone que un banco que tenga exposiciones a Bitcoin (un criptoactivo sin mecanismo de estabilización) y a un bono corporativo tokenizado (un activo tradicional tokenizado) clasifique estas exposiciones en dos grupos distintos para su tratamiento prudencial, siguiendo las condiciones establecidas.",
+    "id": "q_c9df46bb7f",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Respecto al tratamiento prudencial de los activos tradicionales tokenizados que forman parte del grupo 1, ¿qué condición principal deben cumplir para recibir el mismo tratamiento que su versión tradicional?",
+    "options": {
+      "a": "Deben ser custodiados por entidades reguladas por el BCBS.",
+      "b": "Deben otorgar los mismos derechos legales que su versión tradicional.",
+      "c": "Su emisión debe estar respaldada por un banco central o una autoridad monetaria.",
+      "d": "La tecnología de registro distribuido subyacente debe ser de código abierto y descentralizada."
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento especifica que para los activos tradicionales tokenizados del grupo 1, 'en la medida en que otorguen los mismos derechos legales que su versión tradicional, recibirían igual tratamiento' prudencial.\n\n\nEjemplo: Si un banco posee un activo inmobiliario tradicional y una representación tokenizada del mismo activo que confiere exactamente los mismos derechos de propiedad y usufructo que la versión no tokenizada, el BCBS propone que ambos reciban el mismo tratamiento a efectos de requisitos de capital.",
+    "id": "q_a700161f8c",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Una de las condiciones para que un criptoactivo sea clasificado en el Grupo 1 por el BCBS es que los derechos legales deben quedar claramente definidos y ser legalmente ejecutables. Adicionalmente, ¿qué se exige a aquellos con mecanismos de estabilización?",
+    "options": {
+      "a": "Deben asegurar su convertibilidad a efectivo en un plazo máximo de 24 horas.",
+      "b": "Han de garantizar un retorno de inversión mínimo anual para los tenedores.",
+      "c": "Deben asegurar su reembolso en todo momento.",
+      "d": "Han de estar respaldados por un colateral sobreponderado en activos líquidos."
+    },
+    "correctAnswer": "c",
+    "explanation": "Según la condición ii) para la clasificación en el Grupo 1, 'los derechos legales deben quedar claramente definidos y ser legalmente ejecutables; aquellos con mecanismos de estabilización han de asegurar su reembolso en todo momento'.\n\n\nEjemplo: Una stablecoin que se clasifique en el Grupo 1 debe no solo tener derechos legales claros para sus tenedores, sino que el emisor debe garantizar contractualmente y operativamente que los tenedores puedan canjear sus stablecoins por el activo subyacente (por ejemplo, dólares estadounidenses) en cualquier momento sin restricciones.",
+    "id": "q_a27bc2b593",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Conforme a la propuesta preliminar del BCBS, ¿cuál es la ponderación de riesgo prudencial aplicada a las exposiciones a criptoactivos del Grupo 2?",
+    "options": {
+      "a": "100 %, con reconocimiento parcial de compensaciones.",
+      "b": "250 %, si cumplen ciertas condiciones de liquidez.",
+      "c": "1.250 %, sin reconocimiento de compensaciones o coberturas.",
+      "d": "625 %, con posibilidad de reducción mediante coberturas."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece que el tratamiento prudencial propuesto para los criptoactivos del grupo 2 es 'más penalizador, ponderando esas exposiciones al 1.250 %, sin reconocimiento de compensaciones o coberturas'.\n\n\nEjemplo: Si un banco tiene una exposición de 100 unidades monetarias a un criptoactivo clasificado en el Grupo 2, esta exposición se ponderaría a 1.250 unidades monetarias para el cálculo de los requisitos de capital, lo que implica un capital mucho mayor que para una exposición tradicional de la misma cuantía.",
+    "id": "q_344a48e031",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "El BCBS ha publicado una propuesta preliminar sobre el tratamiento prudencial de las exposiciones bancarias a criptoactivos. ¿Cuándo se espera un segundo documento de consulta sobre esta materia?",
+    "options": {
+      "a": "A finales de 2021.",
+      "b": "A mediados de 2022.",
+      "c": "En el primer trimestre de 2023.",
+      "d": "No se especifica una fecha, solo se indica que será un proceso iterativo."
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento menciona que la consulta inicial 'se planteó como un proceso iterativo, por lo que se espera un segundo documento de consulta a mediados de 2022'.\n\n\nEjemplo: Si un supervisor bancario estuviera siguiendo la evolución de esta propuesta, anticiparía la publicación de nuevas directrices o aclaraciones por parte del BCBS aproximadamente a mitad del año 2022, basándose en esta comunicación.",
+    "id": "q_49ebc7d8f7",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "En relación con los riesgos financieros derivados del cambio climático, ¿cuántos informes analíticos ha publicado el Comité de Basilea (BCBS)?",
+    "options": {
+      "a": "Uno, centrado en los riesgos de transición.",
+      "b": "Dos, mostrando cómo capturar estos factores en categorías de riesgo tradicionales.",
+      "c": "Tres, abarcando riesgo físico, de transición y de responsabilidad legal.",
+      "d": "Ninguno, solo ha emitido una propuesta de principios de gestión."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'se ha avanzado en los trabajos sobre los riesgos financieros derivados del cambio climático y se han publicado dos informes analíticos'. Estos informes 'muestran cómo pueden capturarse los factores de riesgo del clima dentro de las categorías tradicionales de riesgo'.\n\n\nEjemplo: Un banco podría consultar estos dos informes para entender cómo integrar la evaluación de riesgos como la depreciación de activos por eventos climáticos extremos o la desvalorización de inversiones en industrias intensivas en carbono dentro de sus actuales modelos de riesgo de crédito y mercado conforme al marco de Basilea.",
+    "id": "q_2c9ec773d1",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Uno de los puntos clave de la revisión de los Principios para la Buena Gestión del Riesgo Operacional (PSMOR) por el BCBS es su alineación con el marco de Basilea III. ¿Qué otra fuente fundamental de riesgo operacional se incorpora y destaca?",
+    "options": {
+      "a": "El riesgo de fluctuación de los tipos de interés.",
+      "b": "La vulnerabilidad a las amenazas cibernéticas.",
+      "c": "El riesgo de crédito en préstamos apalancados.",
+      "d": "El impacto de los litigios y las sanciones regulatorias."
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento señala que la revisión de los PSMOR 'alinea el texto con el marco de Basilea III y recoge una fuente fundamental de riesgo operacional, como es la tecnología; destaca la vulnerabilidad a las amenazas cibernéticas'.\n\n\nEjemplo: Un banco, al implementar la revisión de los PSMOR, deberá prestar especial atención a fortalecer sus sistemas de ciberseguridad, realizar simulacros de ataques y educar a su personal para mitigar el riesgo de interrupciones operacionales o pérdidas financieras debido a incidentes cibernéticos.",
+    "id": "q_e5cb4bf36c",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "En relación con la designación anual del listado de EISM (Entidades de Importancia Sistémica Mundial), ¿cómo ha modificado el Comité de Basilea el proceso de revisión de la metodología?",
+    "options": {
+      "a": "Ha pasado de un seguimiento anual a un ciclo bienal.",
+      "b": "Se ha sustituido el ciclo trienal por un seguimiento continuado.",
+      "c": "Se ha extendido el ciclo de revisión de trienal a quinquenal.",
+      "d": "Las revisiones ahora se realizan únicamente tras crisis financieras sistémicas."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'El proceso de revisión pasa de un ciclo trienal a un seguimiento continuado, en el que las propuestas de cambio en la metodología partirán de la evidencia de consecuencias materiales no intencionadas con respecto a los objetivos del marco de Basilea'.\n\n\nEjemplo: Anteriormente, un banco era evaluado para su designación como EISM cada tres años bajo una metodología fija. Ahora, con el seguimiento continuado, la metodología puede ser objeto de revisión y ajuste en cualquier momento si surgen nuevas evidencias que muestren efectos no deseados o que afecten los objetivos del marco.",
+    "id": "q_9b86b9fe8e",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "La agenda de la EBA en 2021 se estructuró en torno a una combinación de prioridades. ¿Cuántas prioridades específicas y cuántas horizontales se establecieron?",
+    "options": {
+      "a": "Cuatro prioridades específicas y tres horizontales.",
+      "b": "Ocho prioridades específicas y una horizontal.",
+      "c": "Seis prioridades específicas y dos horizontales.",
+      "d": "Cinco prioridades específicas y cuatro horizontales."
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento menciona que la agenda de la EBA en 2021 'se estructuró en torno a seis prioridades específicas y a dos prioridades horizontales'.\n\n\nEjemplo: Si la EBA comunicara su plan de trabajo anual, un banco de inversión que operara en la UE sabría que sus actividades se centrarían en ocho áreas principales, seis de las cuales serían temáticas específicas y dos de aplicación transversal a todas las temáticas.",
+    "id": "q_72dd9c79ba",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "En 2021, la EBA finalizó la revisión de varias directrices para adaptarlas a la CRD-V. ¿Cuál de las siguientes directrices corresponde a la gestión interna de las entidades?",
+    "options": {
+      "a": "EBA/GL/2021/04, sobre políticas de remuneración.",
+      "b": "EBA/GL/2021/05, sobre gobierno interno.",
+      "c": "EBA/GL/2021/06, sobre idoneidad de los miembros del órgano de administración.",
+      "d": "EBA/GL/2020/01, sobre información financiera."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que la EBA finalizó la revisión de 'las de gobierno interno (EBA/GL/2021/05)' para actualizarlas y adaptarlas a la CRD-V.\n\n\nEjemplo: Un banco que estuviera actualizando sus políticas internas para cumplir con la CRD-V consultaría la directriz EBA/GL/2021/05 para asegurarse de que su estructura de gobierno, roles y responsabilidades de los órganos de administración están alineados con las expectativas de la EBA.",
+    "id": "q_2db8c612e0",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "La Autoridad Bancaria Europea (EBA) publicó en 2021 los resultados de un ejercicio de estrés que había sido aplazado previamente. ¿Cuál fue la causa de dicho aplazamiento?",
+    "options": {
+      "a": "La implementación de nuevas normativas prudenciales.",
+      "b": "Las consecuencias de la pandemia de COVID-19.",
+      "c": "Una revisión profunda de la metodología del ejercicio.",
+      "d": "La necesidad de coordinar el ejercicio con los supervisores nacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto afirma que la EBA ha publicado los resultados del 'ejercicio de estrés aplazado un año antes a raíz del COVID-19'.\n\n\nEjemplo: Un analista que siguiera la evolución de las pruebas de resistencia en la UE entendería que los resultados publicados en 2021 correspondían a un ejercicio que, de no haber sido por la pandemia, se habría realizado y publicado en el año anterior, mostrando el impacto de la crisis sanitaria en el calendario regulatorio.",
+    "id": "q_4eaea6b089",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Para convertirse en un centro de datos integrado en toda la UE, la EBA aplica una plataforma de datos. ¿Cuál es el acrónimo de esta plataforma?",
+    "options": {
+      "a": "EUROSTAT.",
+      "b": "EUCLID.",
+      "c": "EUDAT.",
+      "d": "SIENA."
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento indica que la EBA está avanzando para convertirse en un centro de datos integrado en toda la UE 'mediante la aplicación de su plataforma de datos EUCLID (European Centralized Infrastructure for Supervisory Data)'.\n\n\nEjemplo: Una entidad supervisada por la EBA utilizaría la plataforma EUCLID para enviar sus informes regulatorios y datos financieros, contribuyendo así a la consolidación de información supervisora a nivel europeo.",
+    "id": "q_6d00ed4841",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "A partir de 2021, gracias a la plataforma EUCLID, la EBA empezó a recibir datos de un nuevo tipo de instituciones. ¿De qué instituciones se trata?",
+    "options": {
+      "a": "Solo de las SI (Instituciones Significativas).",
+      "b": "Tanto de las SI como de las LSI (Instituciones Significativas Grandes).",
+      "c": "De las LSI (Instituciones Significativas Grandes), además de las SI.",
+      "d": "Exclusivamente de las instituciones de pago y dinero electrónico."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que EUCLID 'ha permitido a la EBA empezar a recibir durante 2021 los datos de las LSI, y no solo los de las SI, como hasta entonces'.\n\n\nEjemplo: Un supervisor nacional que recopilara datos de todas las entidades bajo su jurisdicción ahora enviaría a la EBA no solo los datos de las instituciones más grandes y sistémicamente relevantes (SI), sino también los de un grupo ampliado de entidades designadas como LSI, ampliando el alcance de la supervisión centralizada de la EBA.",
+    "id": "q_1225974c27",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "En uno de los informes publicados por la EBA en 2021 para racionalizar el coste del reporting supervisor, se incluyó una serie de recomendaciones encaminadas a reducir dichos costes. ¿Qué porcentaje de reducción se recomienda, especialmente para entidades pequeñas y no complejas?",
+    "options": {
+      "a": "Entre el 5 % y el 10 %.",
+      "b": "Aproximadamente el 30 %.",
+      "c": "Entre el 15 % y el 24 %.",
+      "d": "Un 25 % fijo para todas las entidades."
+    },
+    "correctAnswer": "c",
+    "explanation": "El informe de la EBA 'incluye, además, una serie de recomendaciones encaminadas a reducir los costes de reporting en torno al 15 %-24 %, especialmente para las entidades pequeñas y no complejas'.\n\n\nEjemplo: Una pequeña caja rural en España, al revisar sus procesos de reporting regulatorio, podría implementar las recomendaciones de la EBA para lograr una reducción de costes dentro de este rango, mejorando así su eficiencia operativa sin comprometer la calidad de la información supervisora.",
+    "id": "q_8959a03dec",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Qué porcentaje de reducción de costes de reporting recomienda la EBA, especialmente para entidades pequeñas y no complejas, según uno de sus informes de 2021?",
+    "options": {
+      "a": "10 %-20 %",
+      "b": "15 %-24 %",
+      "c": "20 %-30 %",
+      "d": "25 %-35 %"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto explicita que la EBA incluye en su informe una serie de recomendaciones para reducir los costes de reporting en torno al 15 %-24 %, especialmente para las entidades pequeñas y no complejas.\n\n\nEjemplo: Un banco regional de tamaño reducido implementa nuevas herramientas de automatización de datos para la presentación de informes regulatorios. Al seguir las recomendaciones de la EBA, espera reducir sus costes asociados al reporting en un rango del 15 % al 24 %, optimizando así sus recursos operativos y financieros.",
+    "id": "q_bdc3b514eb",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿En qué fecha se publicó la estrategia de la Comisión Europea para las Finanzas Digitales, que impulsó los trabajos sobre innovación financiera y resiliencia operativa en el sector en 2021?",
+    "options": {
+      "a": "Marzo de 2020",
+      "b": "Septiembre de 2020",
+      "c": "Enero de 2021",
+      "d": "Junio de 2021"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'los trabajos han tomado un mayor empuje en 2021, tras la publicación en septiembre de 2020 de la estrategia de la Comisión para las Finanzas Digitales'.\n\n\nEjemplo: La publicación de la estrategia de Finanzas Digitales en septiembre de 2020 por parte de la Comisión Europea sirvió como catalizador para que las autoridades supervisoras intensificaran sus esfuerzos en la regulación de activos criptográficos y en la mejora de la ciberseguridad bancaria durante el año 2021.",
+    "id": "q_d638a6c643",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Cuáles fueron los reglamentos mediante los cuales se introdujeron modificaciones en el marco europeo de titulizaciones en marzo de 2021, como parte de la estrategia pos-COVID-19 de la Unión Europea?",
+    "options": {
+      "a": "Reglamento (UE) 2017/2402 y Reglamento (UE) 2017/2401",
+      "b": "Reglamento (UE) 2021/557 y Reglamento (UE) 2021/558",
+      "c": "Reglamento (UE) 2013/575 y Reglamento (UE) 2021/557",
+      "d": "Reglamento (UE) 2017/2401 y Reglamento (UE) 2021/558"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que 'En marzo de 2021, y como parte de la estrategia pos-COVID-19 de la Unión Europea, se introdujeron una serie de modificaciones en dicho marco a través de los reglamentos (UE) 2021/557 y (UE) 2021/558 del Parlamento Europeo y del Consejo'.\n\n\nEjemplo: Tras la crisis sanitaria, la Unión Europea implementó una serie de medidas de recuperación. Una de ellas fue la actualización del marco de titulizaciones en marzo de 2021, utilizando los reglamentos (UE) 2021/557 y (UE) 2021/558 para fomentar la financiación de la economía real y reforzar la prudencia bancaria.",
+    "id": "q_9b81b5f89e",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿En qué mes del año 2021 publicó la EBA el proyecto de Norma Técnica de Regulación (RTS) para consulta pública, donde se especifican los requisitos relacionados con la retención de riesgos en titulizaciones?",
+    "options": {
+      "a": "Marzo de 2021",
+      "b": "Abril de 2021",
+      "c": "Junio de 2021",
+      "d": "Septiembre de 2021"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto señala: 'En junio de 2021, la EBA publicó para consulta el proyecto de RTS donde se especifican los requisitos relacionados con la retención de riesgos para los originadores, patrocinadores, prestamistas originales y administradores en titulizaciones'.\n\n\nEjemplo: Una entidad financiera, actuando como originador en una titulización, debe cumplir con los requisitos de retención de riesgo. Para entender la última actualización de estas obligaciones, la entidad consultaría el proyecto de RTS que la EBA publicó en junio de 2021, adaptando sus prácticas internas a la normativa propuesta.",
+    "id": "q_d84b90b1bd",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Según el artículo 6 del reglamento de titulizaciones, ¿cuál es el porcentaje mínimo de interés económico neto significativo que la originadora, patrocinadora o el prestamista original deben retener de forma continua en una titulización?",
+    "options": {
+      "a": "3 %",
+      "b": "5 %",
+      "c": "7 %",
+      "d": "10 %"
+    },
+    "correctAnswer": "b",
+    "explanation": "La nota a pie de página 2 aclara que 'el requisito de retención de riesgo se regula en el artículo 6 del reglamento de titulizaciones, donde se establece que, como mínimo, la originadora, la patrocinadora o el prestamista original deben retener de forma continua un interés económico neto significativo en la titulización no inferior al 5 %'.\n\n\nEjemplo: Un banco emite una titulización de préstamos hipotecarios. Para alinear sus intereses con los de los inversores y cumplir con la regulación, el banco debe retener al menos el 5% del valor de la titulización, como se estipula en el artículo 6 del reglamento correspondiente.",
+    "id": "q_cdaf846344",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Qué artículo del Reglamento (UE) n.º 575/2013, de 26 de junio de 2013, otorga a la Autoridad Bancaria Europea (EBA) el mandato de elaborar un informe de viabilidad sobre el desarrollo de un sistema uniforme e integrado de recopilación de datos estadísticos, prudenciales y de resolución?",
+    "options": {
+      "a": "Artículo 429",
+      "b": "Artículo 430 quater",
+      "c": "Artículo 431 bis",
+      "d": "Artículo 432"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto afirma que 'el artículo 430 quater del Reglamento (UE) n.º 575/2013, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, da a la Autoridad Bancaria Europea (EBA, por sus siglas en inglés) el mandato de elaborar un informe de viabilidad relativo al desarrollo de un sistema uniforme e integrado de recopilación de datos estadísticos, prudenciales y de resolución'.\n\n\nEjemplo: Ante la proliferación de requerimientos de información, la EBA recibe un encargo legislativo. En virtud del artículo 430 quater del Reglamento (UE) n.º 575/2013, la EBA emprende la tarea de investigar y proponer un sistema de recopilación de datos que unifique los requisitos estadísticos, prudenciales y de resolución para las entidades financieras europeas, simplificando así el reporting.",
+    "id": "q_6dccee45f7",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Desde qué año viene trabajando el Sistema Europeo de Bancos Centrales (SEBC) en el proyecto Integrated Reporting Framework (IReF), cuyo objetivo es la integración de la información estadística requerida a los bancos?",
+    "options": {
+      "a": "2013",
+      "b": "2016",
+      "c": "2018",
+      "d": "2020"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica: 'Por su parte, el SEBC viene trabajando desde 2016 en el proyecto Integrated Reporting Framework (IReF), cuyo objetivo es la integración de la información estadística requerida a los bancos por el SEBC'.\n\n\nEjemplo: El Banco Central Europeo, como parte del SEBC, inició el proyecto IReF en 2016 con el fin de estandarizar y centralizar los reportes estadísticos que las entidades de crédito deben enviar. Esto permitió una visión más coherente y eficiente de los datos a nivel de la zona euro.",
+    "id": "q_19e9baf949",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿En qué mes y año publicó el Banco Central Europeo (BCE) su contribución al estudio de viabilidad de la EBA sobre la integración de datos, considerando el trabajo previo del SEBC en el IReF?",
+    "options": {
+      "a": "Junio de 2019",
+      "b": "Septiembre de 2020",
+      "c": "Diciembre de 2020",
+      "d": "Marzo de 2021"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica: 'En respuesta a la indicación en el mandato del artículo 430 quater antes mencionado de que el informe de viabilidad de la EBA debe tener en cuenta el trabajo previo del SEBC, el BCE publicó su contribución al estudio en septiembre de 2020'.\n\n\nEjemplo: Para garantizar la coherencia en la futura recopilación de datos, el BCE compartió sus hallazgos y perspectivas sobre la integración del reporting con la EBA en septiembre de 2020. Esta aportación fue crucial para el desarrollo del informe final de viabilidad de la EBA.",
+    "id": "q_cd1380bddd",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿En qué mes y año publicó la EBA su informe de viabilidad sobre el desarrollo de un sistema uniforme e integrado de recopilación de datos estadísticos, prudenciales y de resolución?",
+    "options": {
+      "a": "Septiembre de 2020",
+      "b": "Marzo de 2021",
+      "c": "Diciembre de 2021",
+      "d": "Junio de 2022"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma: 'La EBA publicó el informe de viabilidad en diciembre de 2021'.\n\n\nEjemplo: Las autoridades supervisoras y las entidades financieras estaban expectantes por conocer las conclusiones de la EBA sobre cómo simplificar y unificar el reporting. Finalmente, el informe de viabilidad fue publicado en diciembre de 2021, delineando los pasos hacia un sistema de datos más integrado en Europa.",
+    "id": "q_9f06daef85",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Según las conclusiones del informe de viabilidad publicado por la EBA en diciembre de 2021, ¿cuál es la pieza fundamental del proyecto de integración de datos estadísticos, prudenciales y de resolución?",
+    "options": {
+      "a": "Un comité mixto de autoridades",
+      "b": "Un punto de recopilación de datos centralizado",
+      "c": "Un diccionario de datos único",
+      "d": "La extensión de los datos de las LSI"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece: 'De sus conclusiones destacan que la existencia de un diccionario de datos único es la pieza fundamental del proyecto de integración'.\n\n\nEjemplo: Para evitar duplicidades y asegurar la interoperabilidad de los sistemas de reporte entre diferentes autoridades y entidades, la EBA determinó que la creación de un diccionario de datos único era la clave para el éxito del proyecto de integración de la información supervisora en la Unión Europea.",
+    "id": "q_4585f0cb7e",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "De las siguientes opciones, ¿cuál NO fue una de las prioridades estratégicas de la EBA durante el año 2021, según el Esquema 7.4?",
+    "options": {
+      "a": "Convertirse en un centro de datos integrado",
+      "b": "Revisar y reforzar el marco de pruebas de resistencia en la UE",
+      "c": "Implementar un marco regulatorio global para criptoactivos",
+      "d": "Establecer una cultura de gobernanza sólida y eficaz en las entidades de crédito"
+    },
+    "correctAnswer": "c",
+    "explanation": "El Esquema 7.4 enumera las prioridades estratégicas de la EBA para 2021, entre las que se incluyen 'Convertirse en un centro de datos integrado', 'Revisar y reforzar el marco de pruebas de resistencia en la UE' y 'Establecer una cultura de gobernanza sólida y eficaz en las entidades de crédito'. La implementación de un marco regulatorio global para criptoactivos, aunque es un tema relevante en el sector financiero, no se menciona explícitamente como una prioridad estratégica de la EBA en dicho esquema para el año 2021.\n\n\nEjemplo: Un analista examina las directrices de la EBA para 2021. Observa que la resiliencia digital y las políticas ESG son focos principales, pero no encuentra una mención específica a un 'marco regulatorio global para criptoactivos' entre las ocho prioridades estratégicas establecidas para ese período, aunque sí se aborda la innovación financiera de forma más general.",
+    "id": "q_4c014a58b4",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿En qué fecha publicó la Autoridad Bancaria Europea (EBA) su informe sobre el marco STS para la titulización sintética, donde recomendaba la introducción de un marco específico para las titulizaciones STS de balance?",
+    "options": {
+      "a": "Octubre de 2019",
+      "b": "6 de mayo de 2020",
+      "c": "Septiembre de 2020",
+      "d": "Marzo de 2021"
+    },
+    "correctAnswer": "b",
+    "explanation": "La nota a pie de página 1 detalla: 'En su informe sobre el marco STS para la titulización sintética, del 6 de mayo de 2020, la EBA recomendaba la introducción de un marco específico para las titulizaciones STS de balance'.\n\n\nEjemplo: Para mejorar la supervisión y la transparencia en el mercado de titulizaciones, la EBA emitió un informe el 6 de mayo de 2020. Este informe fue fundamental para que los reguladores consideraran la extensión del marco 'simple, transparente y normalizado' a las titulizaciones sintéticas de balance, proporcionando un tratamiento prudencial más beneficioso a los originadores.",
+    "id": "q_c372910e5c",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿En qué mes y año publicó la Autoridad Bancaria Europea (EBA) su Dictamen sobre el tratamiento normativo de las titulizaciones de exposiciones dudosas (NPL)?",
+    "options": {
+      "a": "Mayo de 2019",
+      "b": "Octubre de 2019",
+      "c": "Diciembre de 2019",
+      "d": "Febrero de 2020"
+    },
+    "correctAnswer": "b",
+    "explanation": "La nota a pie de página 1 especifica: 'Por su parte, el Dictamen de la EBA sobre el tratamiento normativo de las titulizaciones de exposiciones dudosas publicado en octubre de 2019...'.\n\n\nEjemplo: El Banco de España, al analizar los requisitos de capital para las titulizaciones de préstamos morosos, se remite al Dictamen de la EBA de octubre de 2019. Este documento fue clave para identificar que el marco prudencial existente imponía requisitos de capital desproporcionados para estas operaciones y sugerir un tratamiento normativo más adecuado.",
+    "id": "q_182649eee5",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un mandato otorgado a la EBA por los reglamentos (UE) 2021/557 y (UE) 2021/558, relacionados con las modificaciones del marco de titulizaciones?",
+    "options": {
+      "a": "Norma técnica de regulación (RTS) sobre el exceso de margen sintético",
+      "b": "RTS sobre la especificación y calibración de los desencadenantes relacionados con el comportamiento en titulizaciones sintéticas STS",
+      "c": "RTS sobre la calificación crediticia de los tramos sénior en titulizaciones tradicionales",
+      "d": "Informe para el desarrollo de un marco específico para titulizaciones sostenibles"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto lista los mandatos a la EBA derivados de los reglamentos (UE) 2021/557 y (UE) 2021/558: RTS sobre el exceso de margen sintético, RTS sobre la especificación y calibración de los desencadenantes relacionados con el comportamiento en titulizaciones sintéticas STS, RTS sobre retención del riesgo, e Informe para el desarrollo de un marco específico para titulizaciones sostenibles. La opción 'RTS sobre la calificación crediticia de los tramos sénior en titulizaciones tradicionales' no se menciona como uno de estos mandatos específicos.\n\n\nEjemplo: Un departamento legal de un banco revisa los nuevos mandatos de la EBA derivados de la actualización del marco de titulizaciones en 2021. Confirma que la EBA debe trabajar en la retención de riesgo y en las titulizaciones sostenibles, pero no encuentra ninguna obligación específica sobre una RTS para la calificación crediticia de los tramos sénior, que ya estaría cubierta por la normativa general de agencias de rating.",
+    "id": "q_3ca1d1fa36",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "Respecto a las Normas Técnicas de Regulación (RTS) sobre el exceso de margen sintético y las relativas a la especificación y calibración de los desencadenantes relacionados con el comportamiento en titulizaciones sintéticas STS, ¿cuál es su estado de desarrollo según el texto?",
+    "options": {
+      "a": "Ya publicadas y en vigor desde principios de 2021",
+      "b": "Publicadas para consulta en junio de 2021",
+      "c": "Se encuentran en fase de desarrollo y es muy probable que se publiquen a lo largo de 2022",
+      "d": "Su desarrollo ha sido pospuesto indefinidamente por la EBA"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma: 'La EBA está trabajando en ambos papeles consultivos, que es muy probable que se publiquen a lo largo de 2022'.\n\n\nEjemplo: Los especialistas en titulizaciones sintéticas de un banco esperan con interés la publicación de las RTS sobre el exceso de margen sintético. Si bien reconocen que estos documentos son cruciales para el funcionamiento del marco STS, saben que la EBA aún los está elaborando y que su divulgación está prevista para 2022.",
+    "id": "q_bb94ebf589",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Cuál es el principal objetivo de los informes publicados por la EBA en 2021 referentes a los costes en los que incurren las entidades para cumplir con los requerimientos de información supervisora?",
+    "options": {
+      "a": "Aumentar la granularidad de los datos solicitados a las entidades complejas",
+      "b": "Racionalizar el coste asociado al reporting supervisor",
+      "c": "Establecer nuevos requerimientos de información para entidades pequeñas",
+      "d": "Centralizar la recopilación de datos de mercado"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica: 'cabe referirse a dos informes publicados en 2021 que contribuirán de manera significativa a racionalizar el coste asociado al reporting supervisor'.\n\n\nEjemplo: Una autoridad supervisora, consciente de la carga administrativa de las entidades financieras, analiza el informe de la EBA. Su objetivo es identificar las recomendaciones que permitan reducir los gastos operativos en el proceso de reporting, garantizando al mismo tiempo la calidad y suficiencia de la información recibida.",
+    "id": "q_bc43d6273c",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Cuándo está previsto que se presente el análisis de los requerimientos y procesos de la parte de negocio del proyecto IReF (Integrated Reporting Framework) al Consejo de Gobierno del Banco Central Europeo (BCE) para su aprobación?",
+    "options": {
+      "a": "A finales de 2021",
+      "b": "A mediados de 2022",
+      "c": "A finales de 2022",
+      "d": "A principios de 2023"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece: 'El análisis se presentará al Consejo de Gobierno del Banco Central Europeo (BCE) a finales de 2022, para que este pueda dar su aprobación a esta fase del proyecto'.\n\n\nEjemplo: El equipo de desarrollo del IReF está preparando la documentación final. El plazo para someter los resultados del estudio de los requerimientos de negocio a la aprobación del Consejo de Gobierno del BCE es inamovible, y se espera que esta presentación crucial ocurra a finales del año 2022 para poder avanzar a las siguientes fases del proyecto.",
+    "id": "q_d63b100acf",
+    "source": "MemoriaSupervision2021_Cap7.md"
+  },
+  {
+    "question": "¿Qué acciones se prevén llevar a cabo a partir de 2023 en el proyecto IReF, una vez que los resultados del estudio realizado durante 2022 se consideren adecuados?",
+    "options": {
+      "a": "Publicar los informes de viabilidad del SEBC",
+      "b": "Completar la integración de datos supervisores y de resolución",
+      "c": "Continuar con el proyecto informático y abordar la redacción de un nuevo reglamento",
+      "d": "Revisar únicamente los requerimientos de la parte de negocio del proyecto"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica: 'A partir de 2023, una vez disponibles los resultados del estudio que se realice durante 2022, y si estos se consideran adecuados, se continuaría con el proyecto informático y se abordaría la redacción de un nuevo reglamento que sustituya a los actuales reglamentos de los reportes estadísticos que se pretende integrar'.\n\n\nEjemplo: Tras la aprobación de la fase de análisis de negocio del IReF en 2022, el SEBC planifica que en 2023 se iniciará la fase tecnológica del proyecto, que incluye el desarrollo de sistemas informáticos, y simultáneamente se comenzará a redactar la nueva normativa que consolidará los reportes estadísticos, reemplazando la fragmentación actual.",
+    "id": "q_87dd6e039b",
+    "source": "MemoriaSupervision2021_Cap7.md"
   }
 ]
