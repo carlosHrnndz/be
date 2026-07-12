@@ -397,14 +397,33 @@ export default function App() {
     };
   };
 
+  const handleLogoClick = () => {
+    if (isTestActive) {
+      const confirmMsg = testType === "study"
+        ? "¿Deseas salir del modo estudio y volver al menú principal?"
+        : "¿Estás seguro de que deseas salir del test? No se guardará tu progreso.";
+      if (window.confirm(confirmMsg)) {
+        setIsTestActive(false);
+        setView("dashboard");
+      }
+    } else {
+      setView("dashboard");
+    }
+  };
+
   const overallStats = getOverallStats();
 
   return (
     <div className="app-container">
       {/* Header */}
       <header className="header">
-        <div className="logo-section">
-          <img src="/favicon.ico" alt="Logo" className="logo-img" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+        <div
+          onClick={handleLogoClick}
+          className="logo-section"
+          style={{ cursor: "pointer" }}
+          title="Ir al inicio"
+        >
+          <img src="./favicon.ico" alt="Logo" className="logo-img" onError={(e) => { e.currentTarget.style.display = 'none'; }} />
           <h1 className="app-title">OpoTest BdE</h1>
         </div>
         <div className="header-actions">
