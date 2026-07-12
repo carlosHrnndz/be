@@ -5965,5 +5965,473 @@
     "explanation": "El texto indica que 'Los Directores Generales podrán autorizar gastos hasta el importe que en cada ejercicio presupuestario se establezca, y ordenar pagos correspondientes a gastos previamente autorizados'.\n\n\nEjemplo: Un Director General puede autorizar la compra de nuevo software para su departamento siempre y cuando el coste de esta adquisición no exceda el límite presupuestario asignado para gastos discrecionales en ese ejercicio, y también puede ordenar el pago de facturas ya autorizadas.",
     "id": "q_0b099a67dd",
     "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "Según el texto proporcionado, ¿cuáles son las principales funciones del Comité de Dirección del Banco de España?",
+    "options": {
+      "a": "Autorizar la creación de comités internos y aprobar el organigrama del Banco de España.",
+      "b": "Asesorar al Gobernador y al Subgobernador, coadyuvar en la preparación de asuntos para el Consejo de Gobierno y la Comisión Ejecutiva, y coordinar la actuación de las direcciones generales.",
+      "c": "Establecer el régimen de funcionamiento de las Direcciones Generales y autorizar los gastos de los Directores Generales.",
+      "d": "Asumir la jefatura del personal de las Direcciones Generales y gestionar la Central de Información de Riesgos (CIR)."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece claramente que las principales funciones del Comité de Dirección son: i) asesorar al Gobernador y al Subgobernador en las materias o decisiones que estos requieran, y ii) coadyuvar en la preparación de los asuntos que se han de someter a la decisión del Consejo de Gobierno y de la Comisión Ejecutiva. Adicionalmente, coordina la actuación de las direcciones generales.\n\n\nEjemplo: El Comité de Dirección se reúne para debatir las implicaciones de una nueva regulación financiera. Durante la sesión, sus miembros proporcionan al Gobernador y al Subgobernador un análisis detallado de los posibles impactos y preparan un resumen ejecutivo para presentar al Consejo de Gobierno en su próxima reunión, asegurando que todas las Direcciones Generales relevantes estén alineadas en su enfoque.",
+    "id": "q_9539bbe5e6",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "En el contexto del Banco de España, ¿quién tiene la potestad de determinar el régimen de funcionamiento, la periodicidad de las reuniones, el orden del día y las convocatorias del Comité de Dirección?",
+    "options": {
+      "a": "El Consejo de Gobierno, a propuesta de la Comisión Ejecutiva.",
+      "b": "La Comisión Ejecutiva, con el aval del Secretario General.",
+      "c": "El Gobernador del Banco de España.",
+      "d": "El Subgobernador/a en coordinación con los Directores Generales."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que 'El Gobernador determina su régimen de funcionamiento, periodicidad de reuniones, orden del día y convocatorias' del Comité de Dirección.\n\n\nEjemplo: Ante la necesidad de abordar un asunto urgente, el Gobernador del Banco de España decide convocar una reunión extraordinaria del Comité de Dirección, fijando él mismo la fecha, la hora y los puntos específicos a tratar en el orden del día, sin requerir la aprobación de otros órganos para esta determinación.",
+    "id": "q_cff2a3c4c9",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Quiénes son los componentes que integran el Comité de Dirección del Banco de España, según el texto?",
+    "options": {
+      "a": "El Gobernador, el Subgobernador/a, y tres miembros del Consejo de Gobierno.",
+      "b": "El Gobernador, el Subgobernador/a, los Directores Generales y el Secretario General.",
+      "c": "El Gobernador, el Subgobernador/a, los Directores Generales Adjuntos y el Secretario General.",
+      "d": "El Gobernador, el Subgobernador/a, y los Directores de Departamento."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto enumera explícitamente los componentes del Comité de Dirección como: 'Gobernador', 'Subgobernador/a', y 'Directores Generales y el Secretario General'.\n\n\nEjemplo: En una reunión del Comité de Dirección para revisar el plan estratégico anual, están presentes el Gobernador presidiendo la sesión, el Subgobernador, la Directora General de Estrategia, Personas y Datos, el Director General de Supervisión, el Director General de Estabilidad Financiera y el Secretario General, todos ellos participando activamente en la discusión de los puntos del orden del día.",
+    "id": "q_c43496ebea",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "En relación con las competencias del Director/a General en el Banco de España, ¿cuál de las siguientes afirmaciones es correcta?",
+    "options": {
+      "a": "Solo puede ordenar pagos correspondientes a gastos previamente autorizados por el Gobernador.",
+      "b": "Asume la jefatura del personal y servicios de su Dirección General y le corresponde la dirección, gestión y administración de sus funciones a las órdenes directas del Gobernador y Subgobernador/a.",
+      "c": "Tiene la potestad exclusiva de autorizar todos los gastos de su Dirección General sin limitaciones de importe anual.",
+      "d": "Determina el régimen de funcionamiento y la periodicidad de las reuniones de los departamentos adscritos a su Dirección General de forma autónoma."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que el Director/a General 'Asume la jefatura del personal y servicios de la Dirección General a cuyo frente ha sido nombrado' y 'Le corresponde la dirección, gestión y administración de las funciones que el Reglamento Interno del Banco de España encomienda a las respectivas Direcciones Generales, a las órdenes directas del Gobernador y Subgobernador/a'.\n\n\nEjemplo: La Directora General de Estrategia, Personas y Datos supervisa directamente a todo el personal de su Dirección General, desde la contratación hasta la evaluación de desempeño. Además, se encarga de implementar las políticas definidas para su área, asegurando que todas las operaciones y proyectos se desarrollen conforme a las directrices establecidas por el Gobernador y el Subgobernador.",
+    "id": "q_8bf10fedaa",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "En cuanto a la autorización de gastos y ordenación de pagos, ¿qué capacidad tienen los Directores Generales del Banco de España?",
+    "options": {
+      "a": "Pueden autorizar gastos hasta el importe que en cada ejercicio presupuestario se establezca, y ordenar pagos correspondientes a gastos previamente autorizados.",
+      "b": "Solo pueden ordenar pagos, siendo la autorización de gastos competencia exclusiva de la Comisión Ejecutiva.",
+      "c": "Pueden autorizar gastos sin límite de importe, siempre que sean para la operativa de su Dirección General.",
+      "d": "No pueden autorizar gastos ni ordenar pagos; estas funciones corresponden únicamente al Gobernador."
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto especifica que 'Los Directores Generales podrán autorizar gastos hasta el importe que en cada ejercicio presupuestario se establezca, y ordenar pagos correspondientes a gastos previamente autorizados'.\n\n\nEjemplo: El Director General de Sistemas de Información necesita adquirir un nuevo software para su departamento. Puede autorizar la compra siempre que el coste no exceda el límite establecido para su Dirección General en el presupuesto anual. Una vez autorizado el gasto, su departamento procederá a la ordenación del pago a la empresa proveedora.",
+    "id": "q_501e8945e6",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Quién tiene la potestad de autorizar la creación de comités internos en el Banco de España, a propuesta del Gobernador?",
+    "options": {
+      "a": "El Consejo de Gobierno.",
+      "b": "La Comisión Ejecutiva.",
+      "c": "El Subgobernador/a.",
+      "d": "El Secretario General."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'La Comisión Ejecutiva, a propuesta del Gobernador, puede autorizar la creación de comités para el estudio y, en su caso, resolución de los asuntos que se establezcan'.\n\n\nEjemplo: Para abordar un nuevo reto en materia de digitalización, el Gobernador propone a la Comisión Ejecutiva la creación de un 'Comité de Transformación Digital'. La Comisión Ejecutiva, tras evaluar la propuesta, aprueba la constitución de dicho comité, detallando su alcance y duración.",
+    "id": "q_edd4d17832",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Dónde se publican las modificaciones o creaciones de comités internos del Banco de España que ocurren durante el año?",
+    "options": {
+      "a": "En el Informe Institucional del Banco de España.",
+      "b": "En el Registro de Normas Internas de Bdenred como anuncio.",
+      "c": "En el sitio web externo del Banco de España, en la sección de estructura organizativa.",
+      "d": "Mediante resolución de la Dirección General de Relaciones Institucionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que 'Las modificaciones o creaciones de comités durante el año se publican en el Registro de Normas Internas de Bdenred como anuncio'. El Informe Institucional contiene el listado actualizado, pero no las modificaciones en tiempo real durante el año.\n\n\nEjemplo: En el mes de julio, el Banco de España decide crear un nuevo comité para la revisión de políticas de sostenibilidad. Para comunicar oficialmente esta nueva estructura, se publica un anuncio detallado sobre la creación y las funciones del comité en el Registro de Normas Internas de Bdenred, informando a todo el personal de la institución.",
+    "id": "q_6d40a0c35b",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Qué órgano es el responsable de la aprobación del organigrama del Banco de España, ostentando esta una competencia no delegable?",
+    "options": {
+      "a": "El Gobernador del Banco de España.",
+      "b": "El Consejo de Gobierno.",
+      "c": "La Comisión Ejecutiva.",
+      "d": "El Comité de Dirección."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que 'El organigrama del Banco de España es aprobado por la Comisión Ejecutiva (competencia no delegable)'.\n\n\nEjemplo: Tras una reestructuración interna que modifica la dependencia de varios departamentos, la propuesta de nuevo organigrama debe ser presentada y aprobada por la Comisión Ejecutiva, ya que esta es la única entidad con la autoridad para validar y formalizar la estructura organizativa principal del Banco.",
+    "id": "q_e867164b1e",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cómo se estructura el organigrama del Banco de España según la información proporcionada?",
+    "options": {
+      "a": "A través de cinco Direcciones Generales y una Secretaría General.",
+      "b": "A través de siete Direcciones Generales y una Secretaría General.",
+      "c": "A través de seis Direcciones Generales y dos Secretarías Generales.",
+      "d": "A través de ocho Direcciones Generales y una Secretaría General."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que el organigrama del Banco de España 'se estructura a través de siete Direcciones Generales y una Secretaría General'.\n\n\nEjemplo: Al consultar el organigrama oficial del Banco de España, un nuevo empleado observará que la alta dirección está compuesta por el Gobernador y el Subgobernador, y que debajo de ellos se despliegan siete grandes áreas funcionales, cada una liderada por un Director General, además de la Secretaría General, que transversaliza las operaciones.",
+    "id": "q_43b4b78bd3",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Quién es el órgano responsable de determinar, a propuesta del Gobernador, las funciones y el ámbito de actuación de las Direcciones Generales y de la Secretaría General?",
+    "options": {
+      "a": "El Comité de Dirección.",
+      "b": "El Consejo de Gobierno.",
+      "c": "La Comisión Ejecutiva.",
+      "d": "El Subgobernador/a en conjunto con el Secretario General."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto señala que 'La Comisión Ejecutiva es el órgano responsable de determinar, a propuesta del Gobernador, las funciones y el ámbito de actuación de las Direcciones Generales y de la Secretaría General'.\n\n\nEjemplo: Tras la creación de una nueva Dirección General, es la Comisión Ejecutiva la que, basándose en la propuesta del Gobernador, establece con precisión qué responsabilidades tendrá esta nueva unidad y qué áreas de trabajo le corresponderán, delimitando su competencia de manera oficial.",
+    "id": "q_f73230dda2",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes unidades organizativas NO es mencionada como parte del organigrama general del Banco de España?",
+    "options": {
+      "a": "Direcciones Generales Adjuntas.",
+      "b": "Departamentos.",
+      "c": "Secciones (denominadas Áreas en la Dirección General de Supervisión).",
+      "d": "Unidades."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto enumera las unidades organizativas que aparecen en el organigrama del Banco de España como: 'a. Direcciones Generales y la Secretaría General', 'b. Direcciones Generales Adjuntas', 'c. Departamentos', 'd. Divisiones (denominadas Grupos en la Dirección General de Supervisión)', y 'e. Unidades'. La opción 'c' introduce 'Secciones' y 'Áreas', que no están listadas.\n\n\nEjemplo: Un analista interno que revisa la estructura organizativa del Banco de España puede identificar claramente las Direcciones Generales, sus respectivos Departamentos y Divisiones. Sin embargo, no encontrará una categoría oficial denominada 'Secciones', ya que esta no forma parte de la clasificación de unidades básicas del organigrama.",
+    "id": "q_d2c85d9026",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuántas sucursales tiene el Banco de España repartidas por el territorio del Estado español, según el documento?",
+    "options": {
+      "a": "Diez sucursales.",
+      "b": "Catorce sucursales.",
+      "c": "Quince sucursales.",
+      "d": "Dieciocho sucursales."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica: 'Respecto a las quince sucursales que el Banco tiene repartidas por el territorio del Estado español...'.\n\n\nEjemplo: Un ciudadano que necesita realizar una gestión en una oficina física del Banco de España fuera de Madrid tiene a su disposición una de las quince sucursales que la institución mantiene operativas a lo largo de la geografía española.",
+    "id": "q_2e3095fa96",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "Respecto a la estructura organizativa de las sucursales del Banco de España, ¿cuál es la característica distintiva de la sucursal de Barcelona en comparación con las demás?",
+    "options": {
+      "a": "Cuenta con una dirección, una unidad de 'Caja y Operaciones' y una unidad de 'Intervención', como las demás.",
+      "b": "Carece de la unidad de 'Intervención', pero dispone de una unidad de 'Asesoría Jurídica'.",
+      "c": "Posee una dirección, una unidad de 'Caja', una unidad de 'Operaciones', una unidad de 'Intervención' y una unidad de 'Administración y Apoyo'.",
+      "d": "Dispone únicamente de una dirección y una unidad de 'Caja', siendo las demás funciones centralizadas."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto detalla que 'cada una [de las sucursales] cuenta con una dirección, una unidad de “Caja y Operaciones” y una unidad de “Intervención”; salvo, la sucursal de Barcelona que cuenta con una dirección, una unidad de “Caja”, una unidad de “Operaciones”, una unidad de “Intervención” y una unidad de “Administración y Apoyo”'.\n\n\nEjemplo: Un empleado de la sucursal del Banco de España en Valencia reporta a la unidad de 'Caja y Operaciones', mientras que un colega en la sucursal de Barcelona trabaja en la unidad de 'Administración y Apoyo', una división que no existe en otras sucursales, ilustrando la singularidad de la estructura de Barcelona.",
+    "id": "q_0eb704cd2a",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál es la misión principal del Departamento de Estadística, adscrito a la Dirección General de Estrategia, Personas y Datos?",
+    "options": {
+      "a": "Gestionar la Central de Información de Riesgos (CIR) y la recopilación de información financiera prudencial.",
+      "b": "Impulsar la aplicación y escalado de la Inteligencia Artificial y otras tecnologías emergentes.",
+      "c": "Elaborar y publicar estadísticas relacionadas con las funciones del Banco de España, asistir al BCE en la recopilación de información estadística y mantener bases de datos de información de referencia, garantizando calidad, fiabilidad y accesibilidad.",
+      "d": "Acompañar al equipo humano del Banco de España y catalizar la transformación organizativa y cultural."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto describe las funciones del Departamento de Estadística: 'se encarga de la elaboración y publicación de las estadísticas relacionadas con las funciones del Banco de España y la asistencia al BCE en la recopilación de la información estadística necesaria para el cumplimiento de las funciones del Sistema Europeo de Bancos Centrales. Asimismo, se encarga de remitir estadísticas a organismos internacionales, distribuir información estadística a las distintas áreas del Banco y facilitar el acceso a investigadores externos. Este departamento también es responsable del mantenimiento y la coordinación de las contribuciones a las bases de datos de información de referencia (datos identificativos) y datos maestros, tanto del Banco de España como del BCE, garantizando en todo momento la calidad, fiabilidad y accesibilidad de los datos.'\n\n\nEjemplo: El Departamento de Estadística trabaja en la recopilación de datos de tipos de interés de las entidades bancarias españolas, procesa esta información y la publica en los boletines estadísticos del Banco de España, al tiempo que la remite al BCE para su uso en las estadísticas consolidadas del Eurosistema, asegurando la consistencia y precisión de los datos.",
+    "id": "q_4c7a628d5e",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Qué departamento del Banco de España se encarga de cubrir el ciclo de vida de las personas en todas sus etapas, desde la manifestación de interés como candidatos hasta más allá de su desvinculación laboral como jubilados?",
+    "options": {
+      "a": "El Departamento de Información Financiera y CIR.",
+      "b": "El Departamento de Estrategia y Personas.",
+      "c": "La División de Prevención de Riesgos Laborales y Medioambientales.",
+      "d": "El Departamento de Sistemas de Información."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que la misión del 'Departamento de Estrategia y Personas' es 'cubrir el ciclo de vida de las personas en todas sus etapas, desde el momento en el que manifiestan su interés en formar parte del Banco como candidatos a alguno de los procesos selectivos hasta más allá de su desvinculación laboral como jubilados de la Institución'.\n\n\nEjemplo: Una persona que participa en un proceso selectivo para el Banco de España, un empleado actual que solicita una excedencia, o un antiguo trabajador que se jubila, interactuará con el Departamento de Estrategia y Personas, ya que este gestiona todos los aspectos relacionados con la trayectoria profesional y personal dentro de la institución.",
+    "id": "q_13e44ce0d6",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál es uno de los objetivos clave del Departamento de Experimentación y Aplicación de Nuevas Tecnologías?",
+    "options": {
+      "a": "Garantizar la protección de la seguridad y salud del personal del Banco de España.",
+      "b": "Gestionar la Central de Información de Riesgos (CIR) y la información financiera y prudencial.",
+      "c": "Impulsar la aplicación y escalado de la Inteligencia Artificial y otras tecnologías emergentes mediante una adopción estratégica, ética y eficiente.",
+      "d": "Elaborar y publicar las estadísticas relacionadas con las funciones del Banco de España y el BCE."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto describe que el Departamento de Experimentación y Aplicación de Nuevas Tecnologías 'se encarga de impulsar la aplicación y escalado de la Inteligencia Artificial y otras tecnologías emergentes mediante una adopción estratégica, ética y eficiente, promoviendo la innovación, la colaboración con el Departamento de Sistemas de Información y las áreas de negocio, y la mejora continua de los servicios y soluciones'.\n\n\nEjemplo: El Banco de España está explorando el uso de algoritmos de inteligencia artificial para mejorar la detección de patrones en grandes volúmenes de datos financieros. Es el Departamento de Experimentación y Aplicación de Nuevas Tecnologías el encargado de liderar este proyecto, desde la fase de prueba hasta su posible implementación a gran escala, asegurando que se haga de manera estratégica y ética.",
+    "id": "q_1f2a6e63b9",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Qué entidad o sistema gestiona el Departamento de Información Financiera y CIR, siendo una base de datos con información préstamo a préstamo sobre riesgos de crédito de personas físicas y jurídicas?",
+    "options": {
+      "a": "La Central de Información de Riesgos (CIR).",
+      "b": "El Sistema Europeo de Bancos Centrales (SEBC).",
+      "c": "El Registro de Normas Internas de Bdenred.",
+      "d": "El Manual Interno de Responsabilidades y Funciones."
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto afirma que el Departamento de Información Financiera y CIR tiene a su cargo 'gestionar la Central de Información de Riesgos (CIR), que es una base de datos con información, préstamo a préstamo, sobre los riesgos de crédito de personas físicas y jurídicas y sus características, de acuerdo con la normativa nacional aplicable'.\n\n\nEjemplo: Cuando una entidad financiera otorga un nuevo crédito a una empresa o a un particular, la información detallada de ese préstamo, incluyendo el importe y las condiciones, es remitida a la Central de Información de Riesgos (CIR), gestionada por el Banco de España, para consolidar un registro completo de la exposición crediticia en el sistema financiero.",
+    "id": "q_abac1f0ea1",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál es la misión fundamental del Departamento de Sistemas de Información, adscrito a la Dirección General de Estrategia, Personas y Datos?",
+    "options": {
+      "a": "Coordinar la actuación de las direcciones generales y asesorar al Gobernador y Subgobernador.",
+      "b": "Aportar el máximo valor a las áreas de negocio del Banco y al SEBC mediante el desarrollo de soluciones técnicas y analítica de datos, manteniendo de manera fiable las soluciones actuales y protegiendo la información.",
+      "c": "Diseñar e implementar la estrategia de datos y la planificación y ejecución del programa de gobierno de datos.",
+      "d": "Asesorar y asistir a la institución en materia de prevención de riesgos laborales y gestión de conflictos."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto define la misión del Departamento de Sistemas de Información como: 'aportar el máximo valor a las áreas de negocio del Banco y al SEBC mediante el desarrollo de las soluciones técnicas y analítica de datos, manteniendo de manera fiable y robusta las soluciones actuales, protegiendo la información, liderando y explorando nuevas vías de innovación y formas de trabajo y posicionándonos como aliado tecnológico en el SEBC'.\n\n\nEjemplo: El Departamento de Sistemas de Información desarrolla una nueva plataforma de análisis de datos para el Departamento de Estabilidad Financiera, asegurando que la herramienta sea robusta y segura. Al mismo tiempo, mantiene operativos y actualizados los sistemas de pago interbancario, garantizando la fiabilidad de las transacciones financieras del Banco y su papel como aliado tecnológico del SEBC.",
+    "id": "q_4b3b0cb0e9",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones describe una de las responsabilidades de la División de Prevención de Riesgos Laborales y Medioambientales?",
+    "options": {
+      "a": "Impulsar la aplicación de la Inteligencia Artificial y otras tecnologías emergentes.",
+      "b": "Diseñar e implementar la estrategia de datos del Banco de España.",
+      "c": "Asesorar y asistir a la institución, a su plantilla y sus representantes para garantizar la adecuada protección de la seguridad y salud del personal del Banco de España con base al desarrollo de la Ley de Prevención de Riesgos Laborales (Ley 31/1995).",
+      "d": "Gestionar la recopilación y análisis de la información financiera y prudencial de las entidades."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que la División de Prevención de Riesgos Laborales y Medioambientales 'se encarga de asesorar y asistir a la institución, a su plantilla y sus representantes para garantizar la adecuada protección de la seguridad y salud del personal del Banco de España con base al desarrollo de la Ley de Prevención de Riesgos Laborales (Ley 31/1995). Asimismo, tiene a su cargo la gestión de conflictos en el ámbito laboral'.\n\n\nEjemplo: Para asegurar el cumplimiento de la normativa de seguridad y salud, la División de Prevención de Riesgos Laborales organiza una formación sobre el uso adecuado de equipos de oficina y evalúa los puestos de trabajo para identificar posibles riesgos ergonómicos, además de mediar en un conflicto entre empleados para encontrar una solución consensuada.",
+    "id": "q_d8c62b5ee8",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una función de la Oficina del Dato, según la descripción proporcionada?",
+    "options": {
+      "a": "El diseño e implementación de la estrategia de datos para maximizar su valor.",
+      "b": "La planificación y ejecución del programa de gobierno de datos.",
+      "c": "La gestión directa de la operativa diaria de los sistemas de información transaccionales del Banco.",
+      "d": "La participación en la definición de la arquitectura de datos, junto con el Departamento de Sistemas de Información."
+    },
+    "correctAnswer": "c",
+    "explanation": "Las funciones de la Oficina del Dato incluyen el diseño e implementación de la estrategia de datos, la planificación y ejecución del programa de gobierno de datos, el diseño y desarrollo del programa cultural de datos, la participación en la definición de la arquitectura de datos y el impulso de la analítica de datos gobernada. La gestión directa de la operativa de los sistemas de información es una función más propia del Departamento de Sistemas de Información, no de la Oficina del Dato, cuyo enfoque es más estratégico y de gobernanza.\n\n\nEjemplo: Mientras la Oficina del Dato está trabajando en la creación de un nuevo protocolo para la clasificación de datos sensibles en todas las áreas del Banco, el Departamento de Sistemas de Información se encarga de que los servidores que alojan las aplicaciones bancarias críticas funcionen correctamente y estén protegidos contra ataques cibernéticos.",
+    "id": "q_cd3ca77e5c",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál es una de las responsabilidades del Departamento de Relaciones Institucionales y Coordinación Internacional en relación con la representación del Banco de España?",
+    "options": {
+      "a": "Gestionar el presupuesto anual de todas las Direcciones Generales.",
+      "b": "Representar permanentemente al Banco ante la UE y la Casa del Euro en Bruselas.",
+      "c": "Liderar el desarrollo de soluciones técnicas y analítica de datos para el SEBC.",
+      "d": "Elaborar y publicar las estadísticas macroeconómicas nacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que el Departamento de Relaciones Institucionales y Coordinación Internacional tiene, entre sus funciones, 'representar permanentemente al Banco ante la UE y la Casa del Euro en Bruselas'.\n\n\nEjemplo: Ante una nueva propuesta legislativa en la Unión Europea que afecta al sector bancario, los representantes del Departamento de Relaciones Institucionales y Coordinación Internacional en Bruselas participan activamente en las reuniones con las instituciones europeas, defendiendo los intereses y la perspectiva del Banco de España y coordinando la postura española con otros bancos centrales nacionales.",
+    "id": "q_fce7351ff1",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿En qué foros internacionales y regiones se enfoca el Departamento de Relaciones Institucionales y Coordinación Internacional para maximizar la capacidad de influencia y presencia del Banco de España?",
+    "options": {
+      "a": "Principalmente en foros asiáticos y africanos.",
+      "b": "Exclusivamente en foros del G-7.",
+      "c": "En el BCE y en foros internacionales, especialmente europeos y latinoamericanos.",
+      "d": "Únicamente en foros bilaterales con Estados Unidos."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto menciona que una de las funciones de este departamento es 'maximizar la capacidad de influencia y la presencia del Banco en el BCE y en foros internacionales, especialmente europeos y latinoamericanos'.\n\n\nEjemplo: El Departamento de Relaciones Institucionales y Coordinación Internacional organiza la participación del Gobernador en una cumbre de bancos centrales latinoamericanos para fortalecer lazos y compartir experiencias en política monetaria, además de coordinar la postura del Banco de España en las reuniones del Consejo de Gobierno del BCE.",
+    "id": "q_f092a7d93b",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Qué departamento de la Dirección General de Relaciones Institucionales, Europeas y Transparencia tiene la función de representar permanentemente al Banco de España ante la Unión Europea y la Casa del Euro en Bruselas?",
+    "options": {
+      "a": "Departamento de Transparencia y Comunicación",
+      "b": "Departamento de Estabilidad Financiera y Política Macroprudencial",
+      "c": "Departamento de Relaciones Institucionales y Coordinación Internacional",
+      "d": "Unidad de Cooperación Internacional"
+    },
+    "correctAnswer": "c",
+    "explanation": "El Departamento de Relaciones Institucionales y Coordinación Internacional es el encargado de representar permanentemente al Banco de España ante la Unión Europea y la Casa del Euro en Bruselas, como se establece en sus funciones.\n\n\nEjemplo: En una negociación legislativa europea relevante para el sector bancario, el personal del Departamento de Relaciones Institucionales y Coordinación Internacional sería el responsable de defender los intereses y la postura del Banco de España ante las instituciones europeas en Bruselas.",
+    "id": "q_2cd941e007",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Qué unidades se integran en el patrimonio de interés general del Banco de España gestionado por el Departamento de Transparencia y Comunicación?",
+    "options": {
+      "a": "La Oficina Virtual, la Dirección General Adjunta de Servicios y la División de Formación.",
+      "b": "El Archivo General e Histórico, la Biblioteca y el Gabinete Numismático.",
+      "c": "Los sistemas de pago, la política macroprudencial y el Departamento de Operaciones.",
+      "d": "La Unidad de Cooperación Internacional, la Casa del Euro y el Tesoro Público."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Departamento de Transparencia y Comunicación tiene entre sus misiones la gestión del patrimonio de interés general del Banco, el cual integra el Archivo General e Histórico, la Biblioteca y el Gabinete Numismático.\n\n\nEjemplo: Un investigador que desee consultar documentos históricos sobre la política monetaria en España, una persona interesada en la colección de monedas antiguas del Banco, o un estudiante que necesite acceso a publicaciones económicas del Banco, se dirigirían a los servicios gestionados por este departamento.",
+    "id": "q_909877e318",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "La Unidad de Cooperación Internacional del Banco de España tiene como ámbito de actuación la coordinación de toda la cooperación internacional:",
+    "options": {
+      "a": "Exclusivamente dentro del contexto de la Unión Europea y el Eurosistema.",
+      "b": "Fuera del contexto de la Unión Europea, incluyendo la asistencia técnica a otros bancos centrales nacionales, supervisores financieros y otras agencias públicas.",
+      "c": "Con todos los bancos centrales nacionales del Sistema Europeo de Bancos Centrales (SEBC).",
+      "d": "Únicamente en foros latinoamericanos para maximizar la influencia del Banco."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Unidad de Cooperación Internacional define y coordina la cooperación internacional fuera del contexto de la UE, abarcando la asistencia técnica del Banco de España a otros bancos centrales nacionales, supervisores financieros y agencias públicas.\n\n\nEjemplo: Si un banco central de un país de América Latina solicita asistencia técnica al Banco de España para mejorar sus sistemas de supervisión financiera, la gestión y coordinación de esta cooperación recaerá en la Unidad de Cooperación Internacional.",
+    "id": "q_f578c5870b",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuáles de las siguientes publicaciones son un reflejo destacado de las tareas de comunicación exterior del Departamento de Estabilidad Financiera y Política Macroprudencial?",
+    "options": {
+      "a": "El Informe Anual y el Boletín Económico.",
+      "b": "La Revista de Estabilidad Financiera y el Informe de Estabilidad Financiera.",
+      "c": "El Informe sobre Inflación y el Informe de Supervisión.",
+      "d": "Las Estadísticas del Banco de España y el Informe sobre la Deuda Pública."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Departamento de Estabilidad Financiera y Política Macroprudencial es responsable de la comunicación exterior de sus tareas, que se reflejan de forma destacada en el Informe de Estabilidad Financiera y la Revista de Estabilidad Financiera.\n\n\nEjemplo: Para comprender las principales conclusiones sobre el estado de la estabilidad financiera del sistema bancario español y las recomendaciones macroprudenciales del Banco de España, los agentes económicos y el público en general consultarían el Informe de Estabilidad Financiera y la Revista de Estabilidad Financiera.",
+    "id": "q_d53a967e6a",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "El Departamento de Resolución del Banco de España ejecuta sus competencias en materia de resolución preventiva en el marco de:",
+    "options": {
+      "a": "El Mecanismo Único de Supervisión y la regulación nacional.",
+      "b": "El Tratado de Funcionamiento de la Unión Europea y los estatutos del SEBC.",
+      "c": "El Mecanismo Único de Resolución y la regulación nacional.",
+      "d": "La Ley de Autonomía del Banco de España y el Comité Europeo de Riesgo Sistémico."
+    },
+    "correctAnswer": "c",
+    "explanation": "El Departamento de Resolución tiene a su cargo la ejecución de todas las competencias en materia de resolución preventiva que la legislación atribuya al Banco de España, en el marco del Mecanismo Único de Resolución y de la regulación nacional.\n\n\nEjemplo: Ante la inminente inviabilidad de una entidad financiera significativa dentro de la zona euro, el Departamento de Resolución del Banco de España actuaría coordinadamente con la Junta Única de Resolución, aplicando las herramientas y procedimientos definidos en el Mecanismo Único de Resolución y la normativa española para gestionar una liquidación ordenada.",
+    "id": "q_73f76aab67",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Qué departamento de la Dirección General de Operaciones, Mercados y Sistemas de Pago tiene a su cargo el desarrollo del sistema interno de evaluación crediticia para empresas no financieras españolas, utilizado en las operaciones de política monetaria?",
+    "options": {
+      "a": "Departamento de Operaciones.",
+      "b": "Departamento de Infraestructuras de Mercado e Innovación.",
+      "c": "Departamento de Análisis e Inteligencia de Mercados.",
+      "d": "Departamento de Sistemas de Pago."
+    },
+    "correctAnswer": "c",
+    "explanation": "El Departamento de Análisis e Inteligencia de Mercados tiene a su cargo el desarrollo del sistema interno de evaluación crediticia para empresas no financieras españolas, el cual es utilizado en las operaciones de política monetaria y otros ámbitos.\n\n\nEjemplo: Cuando el Banco de España realiza operaciones de política monetaria que involucran la aceptación de colateral por parte de entidades de crédito, este sistema interno es fundamental para evaluar el riesgo de crédito de los activos subyacentes proporcionados por empresas no financieras españolas.",
+    "id": "q_ff70ba8e03",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "El Departamento de Operaciones del Banco de España se encarga de la gestión y ejecución de operaciones en los mercados financieros, incluyendo la gestión de carteras de activos en euros, divisas y oro para:",
+    "options": {
+      "a": "El Banco de España y el Tesoro Público, sin incluir terceros.",
+      "b": "El Banco de España, el BCE y terceros, incluyendo el oro en todos los casos.",
+      "c": "El Banco de España, el BCE y terceros, pero sin incluir oro en el caso del BCE y terceros.",
+      "d": "El Banco de España y el Sistema Europeo de Bancos Centrales (SEBC), sin incluir las divisas."
+    },
+    "correctAnswer": "c",
+    "explanation": "El Departamento de Operaciones gestiona y ejecuta operaciones en los mercados financieros, incluyendo la gestión de carteras de activos en euros, divisas y oro para el Banco de España, para el BCE y para terceros, aclarando que no incluye oro en el caso del BCE y terceros.\n\n\nEjemplo: En el marco de la gestión de las reservas de un país fuera de la zona euro que ha solicitado asistencia al Banco de España, el Departamento de Operaciones se encargaría de gestionar una cartera de activos en divisas, pero no de oro, siguiendo las directrices establecidas.",
+    "id": "q_d20177a778",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Qué Ley se menciona específicamente en relación con las funciones del Departamento de Sistemas de Pago para promover el buen funcionamiento de los sistemas de pago y de liquidación, y para la prestación del Servicio de Cuentas Directas?",
+    "options": {
+      "a": "La Ley de Estabilidad Presupuestaria y Sostenibilidad Financiera.",
+      "b": "La Ley 13/1994, de 1 de junio, de Autonomía del Banco de España.",
+      "c": "La Ley de Mercado de Valores y Servicios de Inversión.",
+      "d": "La Ley 10/2014, de ordenación, supervisión y solvencia de entidades de crédito."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Departamento de Sistemas de Pago tiene a su cargo promover el buen funcionamiento de los sistemas de pago y de liquidación, según se recoge en la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, y presta el Servicio de Cuentas Directas de conformidad con los artículos 13 y 14.3 de la misma Ley.\n\n\nEjemplo: Si surgiera una consulta legal sobre las competencias del Banco de España en la supervisión de un nuevo sistema de pago minorista, o sobre la legalidad de la prestación de un servicio de tesorería a una comunidad autónoma, se haría referencia a los preceptos de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, citada por el Departamento de Sistemas de Pago.",
+    "id": "q_f26c97ce80",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál es la misión principal del Departamento de Conducta de Entidades de la Dirección General de Conducta Financiera y Billetes?",
+    "options": {
+      "a": "Desarrollar la política monetaria y la gestión de las reservas de divisas.",
+      "b": "Promover la autenticidad y la calidad del efectivo en circulación.",
+      "c": "Contribuir a la estabilidad del sistema financiero mediante la promoción de la mejora de la conducta de las entidades sometidas a la supervisión del Banco de España en la relación con sus clientes.",
+      "d": "Coordinar la cooperación internacional fuera del contexto de la Unión Europea."
+    },
+    "correctAnswer": "c",
+    "explanation": "La misión del Departamento de Conducta de Entidades es contribuir a la estabilidad del sistema financiero mediante la promoción de la mejora de la conducta de las entidades sometidas a la supervisión del Banco de España en la relación con sus clientes, principalmente a través de la supervisión de sus actividades.\n\n\nEjemplo: Si una entidad bancaria supervisada por el Banco de España implementa una nueva estrategia comercial que podría inducir a prácticas de venta abusivas hacia sus clientes, el Departamento de Conducta de Entidades intervendría para supervisar y asegurar que la conducta de la entidad se alinee con los estándares de buenas prácticas y la protección del cliente.",
+    "id": "q_7ad134b7de",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "Entre las funciones principales del Departamento de Efectivo del Banco de España se incluye:",
+    "options": {
+      "a": "La gestión de la política documental y el desarrollo de iniciativas de Educación Financiera.",
+      "b": "La coordinación y apoyo de las sucursales en la prestación de servicios.",
+      "c": "La emisión y puesta en circulación de los billetes y monedas de euro en España, con el fin de satisfacer de manera eficiente las necesidades de efectivo de los agentes económicos y los ciudadanos.",
+      "d": "La elaboración de análisis y estudios sobre mercados financieros."
+    },
+    "correctAnswer": "c",
+    "explanation": "Una de las funciones principales del Departamento de Efectivo es la emisión y puesta en circulación de los billetes y monedas de euro en España, con el fin de satisfacer de manera eficiente las necesidades de efectivo de los agentes económicos y los ciudadanos.\n\n\nEjemplo: Durante periodos de alta demanda estacional de dinero en efectivo, como las festividades navideñas, el Departamento de Efectivo se encarga de asegurar que haya una cantidad suficiente de billetes y monedas de euro disponibles en el sistema para cubrir las necesidades de los bancos comerciales y, en última instancia, del público.",
+    "id": "q_936da3c580",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "La misión principal del Departamento de Sucursales del Banco de España es:",
+    "options": {
+      "a": "La supervisión de las actividades de las entidades en relación con sus clientes.",
+      "b": "La dirección, coordinación y apoyo de las sucursales en la prestación de servicios que realizan y de las operaciones de efectivo en Madrid.",
+      "c": "El control de la producción de billetes en euro correspondientes al Banco de España.",
+      "d": "La gestión del patrimonio de interés general, incluyendo el Archivo General e Histórico."
+    },
+    "correctAnswer": "b",
+    "explanation": "La misión del Departamento de Sucursales es la dirección, coordinación y apoyo de las sucursales en la prestación de servicios que realizan y de las operaciones de efectivo en Madrid.\n\n\nEjemplo: Si una sucursal regional del Banco de España necesita directrices sobre la gestión de un nuevo servicio al público o apoyo logístico para una operación de retirada de billetes deteriorados, el Departamento de Sucursales sería el encargado de proporcionar esa coordinación y respaldo.",
+    "id": "q_f5ed216cdc",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Con qué Dirección General Adjunta coordina la División de Funciones Comunes de la Dirección General de Conducta Financiera y Billetes los asuntos relacionados con la elaboración y seguimiento de los presupuestos y las contrataciones?",
+    "options": {
+      "a": "Dirección General de Estrategia, Personas y Datos.",
+      "b": "Dirección General de Relaciones Institucionales, Europeas y Transparencia.",
+      "c": "Dirección General Adjunta de Servicios e Intervención.",
+      "d": "Dirección General de Operaciones, Mercados y Sistemas de Pago."
+    },
+    "correctAnswer": "c",
+    "explanation": "La División de Funciones Comunes de la Dirección General de Conducta Financiera y Billetes tiene entre sus funciones la coordinación de los asuntos relacionados con la Dirección General Adjunta de Servicios e Intervención, especialmente lo relativo a la elaboración y seguimiento de los presupuestos y las contrataciones en su ámbito de actuación.\n\n\nEjemplo: Si el Departamento de Efectivo de la Dirección General de Conducta Financiera y Billetes requiere la adquisición de nueva maquinaria para el procesamiento de billetes, la División de Funciones Comunes coordinaría con la Dirección General Adjunta de Servicios e Intervención el proceso de contratación y la gestión presupuestaria asociada.",
+    "id": "q_0848fbc027",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "El Departamento de Análisis de la Economía Española persigue aprovechar las sinergias entre el seguimiento coyuntural de la evolución macroeconómica y el análisis estructural de datos microeconómicos de:",
+    "options": {
+      "a": "Instituciones financieras y mercados de capitales.",
+      "b": "Países de la Unión Europea y economías emergentes.",
+      "c": "Hogares y empresas.",
+      "d": "Bancos centrales y organizaciones internacionales."
+    },
+    "correctAnswer": "c",
+    "explanation": "El Departamento de Análisis de la Economía Española pretende aprovechar las sinergias entre el seguimiento coyuntural de la evolución macroeconómica y el análisis estructural de datos microeconómicos de hogares y empresas.\n\n\nEjemplo: Para evaluar el impacto de un cambio en la política fiscal sobre la inversión privada, el departamento analizaría tanto los agregados macroeconómicos como los datos desagregados a nivel de hogares (consumo) y empresas (decisiones de inversión), buscando conexiones entre ambos niveles.",
+    "id": "q_cbd8320d64",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+  },
+  {
+    "question": "¿Cuál es el objetivo principal del Departamento de Política Monetaria y Economía Internacional de la Dirección General de Economía?",
+    "options": {
+      "a": "Impulsar la transparencia global de la institución y reforzar los canales de comunicación interna y externa.",
+      "b": "Consolidar y fortalecer la capacidad del Banco de España para contribuir estratégicamente a la definición de la política monetaria del Eurosistema.",
+      "c": "Ejecutar todas las competencias en materia de resolución preventiva en el marco del Mecanismo Único de Resolución.",
+      "d": "Promover el buen funcionamiento de los sistemas de pago y de liquidación según la Ley de Autonomía del Banco de España."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Departamento de Política Monetaria y Economía Internacional tiene como objetivo consolidar y fortalecer la capacidad del Banco de España para contribuir de forma estratégica a la definición de la política monetaria del Eurosistema, reforzando el análisis macroeconómico del entorno económico y el de las políticas europeas y globales.\n\n\nEjemplo: En una reunión del Consejo de Gobierno del Banco Central Europeo para discutir la orientación de la política monetaria, la contribución del Banco de España, basada en un análisis riguroso del entorno económico y las políticas globales, sería el resultado del trabajo y las propuestas generadas por este departamento.",
+    "id": "q_b62b06581a",
+    "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
   }
 ]
