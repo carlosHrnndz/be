@@ -24,7 +24,11 @@
     "6dcc13644f049fd318bfad6b9ff1dd73": true,
     "26d32d550b5b49d527d54de26343cd39": true,
     "2867810f3533fd9cdf14f28c76fea029": true,
-    "dd56fceca9279e66c01434f85df4b1d5": true
+    "dd56fceca9279e66c01434f85df4b1d5": true,
+    "b8846768f84805da242506edc47baeb3": true,
+    "da77bda3b71f8fadeb6f73b44c49296b": true,
+    "da391cb46eedb4c27ba0915cfaa365d0": true,
+    "5f7e302836670951c39590001263b151": true
   },
   "questions": [
     {
@@ -4939,6 +4943,1059 @@
       "correctAnswer": "c",
       "explanation": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en su disposición adicional decimonovena, dispone que el Banco de España se regirá, por lo dispuesto en el Tratado de Funcionamiento de la Unión Europea, los Estatutos del Sistema Europeo de Bancos Centrales y del Banco Central Europeo, el Reglamento (UE) n.º 1024/2013 del Consejo, de 15 de octubre de 2013 y la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España. En lo no previsto en las referidas normas y en cuanto sea compatible con su naturaleza y funciones será de aplicación lo previsto en la Ley 40/2015.\n\n\nEjemplo: Si surge una cuestión de régimen jurídico interno del Banco de España que no está explícitamente regulada en su Ley de Autonomía ni en las normas europeas, se recurrirá a la Ley 40/2015 siempre que sea compatible con su naturaleza de banco central autónomo.",
       "id": "q_5e8dac46f9",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Conforme al régimen económico establecido en el artículo 4 de la Ley de Autonomía, ¿qué organismo aprueba la propuesta de presupuesto de gastos de funcionamiento e inversiones del Banco de España antes de su remisión al Gobierno y posterior traslado a las Cortes Generales?",
+      "options": {
+        "a": "La Comisión Ejecutiva del Banco de España.",
+        "b": "El Consejo de Estado, previo informe del Gobierno.",
+        "c": "El Consejo de Gobierno del Banco de España.",
+        "d": "Directamente las Cortes Generales, sin aprobación previa interna."
+      },
+      "correctAnswer": "c",
+      "explanation": "Según el artículo 4 de la Ley de Autonomía, la propuesta de presupuesto de gastos de funcionamiento e inversiones del Banco de España debe ser aprobada por su Consejo de Gobierno antes de ser remitida al Gobierno y, posteriormente, a las Cortes Generales para su aprobación final.n\n\n\nEjemplo: Si el Departamento de Infraestructuras del Banco de España necesita adquirir nuevos equipos informáticos, el coste de esta inversión se incluirá en la propuesta de presupuesto que, tras ser aprobada internamente por el Consejo de Gobierno, seguirá el cauce establecido para su validación externa por el poder legislativo.",
+      "id": "q_d0bf82e4f5",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "De acuerdo con el artículo 4 de la Ley de Autonomía, ¿qué característica esencial define el presupuesto de gastos de funcionamiento e inversiones del Banco de España?",
+      "options": {
+        "a": "Tiene carácter vinculante y es objeto de consolidación con los presupuestos del sector público estatal.",
+        "b": "Es de carácter estimativo y no se consolida con los restantes presupuestos del sector público estatal.",
+        "c": "Es aprobado directamente por el Ministerio de Hacienda y se integra en los Presupuestos Generales del Estado.",
+        "d": "Su aprobación requiere el dictamen preceptivo del Tribunal de Cuentas antes de su remisión al Gobierno."
+      },
+      "correctAnswer": "b",
+      "explanation": "El artículo 4 de la Ley de Autonomía establece que el presupuesto de gastos de funcionamiento e inversiones del Banco de España tendrá carácter estimativo y no será objeto de consolidación con los restantes presupuestos del sector público estatal. Esto subraya la autonomía presupuestaria de la institución.n\n\n\nEjemplo: Al elaborar el presupuesto anual, el Banco de España prevé unos gastos de mantenimiento para sus instalaciones. Aunque esta previsión es una estimación, no se sumará ni se presentará conjuntamente con el presupuesto del Ministerio de Defensa o cualquier otra entidad del sector público estatal, manteniendo su independencia contable.",
+      "id": "q_92ebf141af",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según el artículo 5 de la Ley de Autonomía, ¿qué régimen tributario le corresponde al Banco de España?",
+      "options": {
+        "a": "Un régimen tributario especial establecido por ley específica para bancos centrales.",
+        "b": "El mismo régimen tributario que el de las entidades de crédito privadas de mayor envergadura.",
+        "c": "El mismo régimen tributario que el Estado.",
+        "d": "Un régimen de exención total de impuestos, dada su función pública."
+      },
+      "correctAnswer": "c",
+      "explanation": "El artículo 5 de la Ley de Autonomía indica explícitamente que el Banco de España gozará del mismo régimen tributario que el Estado, lo que le confiere una posición fiscal equiparable a la administración central.n\n\n\nEjemplo: Si el Banco de España realiza una compra de un bien o servicio sujeto a un determinado impuesto, como el Impuesto sobre el Valor Añadido (IVA), se le aplicará el mismo tratamiento fiscal que si la compra la realizara, por ejemplo, el Ministerio de Hacienda.",
+      "id": "q_f8ff949ab3",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En relación con el Reglamento Interno del Banco de España (RIBE), ¿cuándo fue aprobado y por qué órgano, de acuerdo con el artículo 21.1.f) de la Ley de Autonomía?",
+      "options": {
+        "a": "El 1 de octubre de 2015, por el Consejo de Estado, a propuesta de la Comisión Ejecutiva.",
+        "b": "El 28 de marzo de 2000, por el Consejo de Gobierno, a propuesta de la Comisión Ejecutiva y de acuerdo con el Consejo de Estado.",
+        "c": "El 15 de octubre de 2013, por el Gobierno, tras consulta con el Consejo de Gobierno.",
+        "d": "El 1 de junio de 1994, por las Cortes Generales, como parte de la Ley de Autonomía."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto especifica que el Reglamento Interno del Banco de España (RIBE) fue aprobado el 28 de marzo de 2000 por el Consejo de Gobierno del Banco de España, a propuesta de su Comisión Ejecutiva y de acuerdo con el Consejo de Estado, según lo dispuesto en el artículo 21.1.f) de la Ley de Autonomía.n\n\n\nEjemplo: Un nuevo procedimiento interno para la gestión de recursos humanos debe ser incorporado al RIBE. La modificación, que surge de una necesidad operativa, sería propuesta por la Comisión Ejecutiva, revisada en conformidad con el Consejo de Estado si fuera necesario, y finalmente aprobada por el Consejo de Gobierno, siguiendo el proceso establecido para la aprobación original del RIBE.",
+      "id": "q_b0f433dfb8",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿cuál es el orden jerárquico de las normas que rigen al Banco de España en lo no previsto en sus propias leyes y en cuanto sea compatible con su naturaleza?",
+      "options": {
+        "a": "La Ley 40/2015 será de aplicación preferente sobre cualquier otra normativa europea.",
+        "b": "Se regirá exclusivamente por la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España.",
+        "c": "En lo no previsto en las normas específicas (Tratado de Funcionamiento de la UE, Estatutos del SEBC y BCE, Reglamento (UE) n.º 1024/2013, Ley 13/1994), será de aplicación la Ley 40/2015.",
+        "d": "El Banco de España solo se rige por su Reglamento Interno y sus Circulares."
+      },
+      "correctAnswer": "c",
+      "explanation": "La Disposición Adicional Decimonovena de la Ley 40/2015, de 1 de octubre, establece que, en lo no previsto en normas superiores como el Tratado de Funcionamiento de la UE, los Estatutos del SEBC y del BCE, el Reglamento (UE) n.º 1024/2013 y la Ley 13/1994 de Autonomía del Banco de España, y en cuanto sea compatible con su naturaleza y funciones, se aplicará lo dispuesto en la propia Ley 40/2015.n\n\n\nEjemplo: Para un aspecto de gestión administrativa interna que no esté explícitamente regulado ni por la Ley de Autonomía del Banco de España ni por la normativa europea aplicable a los bancos centrales, el Banco de España consultaría y aplicaría los preceptos de la Ley 40/2015, siempre que estos sean compatibles con su función y autonomía como banco central.",
+      "id": "q_47d9b3f18f",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el ámbito de la política monetaria, ¿a qué instrucciones no está sometido el Banco de España, según los principios básicos de la Ley de Autonomía?",
+      "options": {
+        "a": "A las instrucciones del Consejo de Gobierno del Banco Central Europeo (BCE).",
+        "b": "A las directrices del Fondo Monetario Internacional (FMI) en situaciones de crisis.",
+        "c": "A las instrucciones del Gobierno ni de ninguno de sus ministerios.",
+        "d": "A las recomendaciones de la Comisión Europea en materia económica general."
+      },
+      "correctAnswer": "c",
+      "explanation": "La Ley de Autonomía plasma como principio básico la autonomía del Banco de España del poder político, estableciendo que el Banco de España no está sometido a instrucciones del Gobierno ni de ninguno de sus ministerios en el ámbito de la política monetaria. Esto es fundamental para garantizar su independencia en su misión primordial de procurar la estabilidad de precios.n\n\n\nEjemplo: Si el Ministerio de Hacienda sugiriese públicamente una reducción de los tipos de interés para estimular el crecimiento económico, el Banco de España no estaría legalmente obligado a seguir dicha instrucción, ya que la definición de la política monetaria es competencia del Eurosistema y está libre de injerencias gubernamentales nacionales.",
+      "id": "q_ce91e8076c",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "De acuerdo con el artículo 7.4 de la Ley de Autonomía del Banco de España, ¿qué órgano tiene prohibido dar instrucciones al Banco de España cuando este se pronuncie sobre cuestiones que resulten de las funciones del SEBC?",
+      "options": {
+        "a": "Únicamente el Gobierno español.",
+        "b": "El Gobierno, así como cualquier otro órgano nacional o comunitario.",
+        "c": "Solo los ministerios del Gobierno español.",
+        "d": "Exclusivamente el Banco Central Europeo (BCE)."
+      },
+      "correctAnswer": "b",
+      "explanation": "El artículo 7.4 de la Ley de Autonomía establece claramente que 'cuando se pronuncie sobre cuestiones que resulten de las funciones del SEBC, ni el Gobierno, ni ningún otro órgano nacional o comunitario podrán dar instrucciones al Banco de España, ni este podrá recabarlas o aceptarlas'. Esto refuerza la independencia del Banco de España en el marco del Sistema Europeo de Bancos Centrales (SEBC).n\n\n\nEjemplo: En una reunión del Comité de Política Monetaria del Eurosistema, el Gobernador del Banco de España emite una opinión sobre la dirección de los tipos de interés. Ni el Parlamento español, ni la Comisión Europea, ni ningún otro organismo, nacional o comunitario, puede ordenarle que cambie esa postura o le dicte cómo actuar en el ejercicio de sus funciones como miembro del SEBC.",
+      "id": "q_a5d88dc4e8",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "La autonomía en política monetaria del Banco de España se garantiza, entre otros aspectos, asignándole en exclusiva la iniciativa en el proceso de creación monetaria. Para ello, ¿qué tipo de financiación del Estado queda estrictamente prohibida?",
+      "options": {
+        "a": "La financiación a través de operaciones en el mercado secundario de deuda pública.",
+        "b": "La financiación mediante la autorización de descubiertos o la concesión de créditos directos por el Banco de España al Estado y a otros organismos públicos.",
+        "c": "La financiación mediante la adquisición de valores del Tesoro en el mercado secundario.",
+        "d": "La financiación obtenida por el Tesoro Público en mercados internacionales."
+      },
+      "correctAnswer": "b",
+      "explanation": "Para garantizar la autonomía en política monetaria y la iniciativa en el proceso de creación monetaria, la Ley de Autonomía prohíbe estrictamente la financiación del Estado por parte del Banco de España, específicamente mediante la autorización de descubiertos o la concesión de cualquier otro tipo de crédito al Estado, Comunidades Autónomas, Corporaciones locales u otros organismos públicos, según el artículo 13.2.n\n\n\nEjemplo: Si el Tesoro Público español se encontrara con un déficit presupuestario temporal, no podría solicitar al Banco de España un préstamo directo para cubrir ese desequilibrio. Debería recurrir a los mercados financieros para obtener financiación, por ejemplo, mediante la emisión de bonos.",
+      "id": "q_46ddbe5f3f",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según el artículo 13.2 de la Ley de Autonomía, ¿cuáles son las excepciones a la prohibición de autorización de descubiertos o concesión de créditos por el Banco de España a organismos públicos?",
+      "options": {
+        "a": "Las entidades de crédito públicas y las corporaciones locales.",
+        "b": "Las comunidades autónomas y las entidades de crédito públicas.",
+        "c": "Las entidades de crédito públicas y la atención de las obligaciones del Estado ante el Fondo Monetario Internacional.",
+        "d": "Ninguna, la prohibición es absoluta para todos los organismos públicos."
+      },
+      "correctAnswer": "c",
+      "explanation": "El artículo 13.2 de la Ley de Autonomía prohíbe la autorización de descubiertos o la concesión de cualquier otro tipo de crédito por el Banco de España a organismos públicos, con dos excepciones específicas: las entidades de crédito públicas (que pueden acudir a las mismas vías de liquidez que las privadas) y la atención de las obligaciones del Estado ante el Fondo Monetario Internacional.n\n\n\nEjemplo: Un banco público como el ICO (Instituto de Crédito Oficial) sí podría, bajo ciertas condiciones y en el marco de la política monetaria general, acceder a mecanismos de liquidez proporcionados por el Eurosistema a través del Banco de España, al igual que lo haría un banco privado. Sin embargo, el Gobierno central no podría solicitar un crédito directo al Banco de España para financiar su gasto corriente, salvo para cumplir con sus compromisos con el FMI.",
+      "id": "q_de6d9e3842",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Respecto a la deuda pública, ¿qué tipo de operación tiene prohibida el Banco de España?",
+      "options": {
+        "a": "La adquisición de Deuda Pública en el mercado secundario.",
+        "b": "La realización de operaciones con Deuda Pública en el mercado secundario.",
+        "c": "La adquisición directa del Tesoro de valores emitidos por este.",
+        "d": "La participación en subastas de Deuda Pública como intermediario para terceros."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto establece que el Banco de España no puede adquirir directamente del Tesoro valores emitidos por este. Sin embargo, sí puede realizar operaciones con Deuda Pública en el mercado secundario, lo que diferencia la prohibición de financiación directa del Estado de la participación en el mercado.n\n\n\nEjemplo: El Tesoro Público emite nuevas Letras del Tesoro. El Banco de España no puede comprar esas letras directamente en la subasta de emisión. No obstante, una vez que esas letras ya han sido adquiridas por inversores y cotizan en el mercado, el Banco de España sí podría comprarlas o venderlas a otros participantes en ese mercado secundario como parte de sus operaciones de política monetaria.",
+      "id": "q_3f58bcfb2a",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Cuál es la duración del mandato del gobernador del Banco de España y su característica principal en cuanto a su renovación?",
+      "options": {
+        "a": "Cuatro años, renovable indefinidamente.",
+        "b": "Seis años, no renovable.",
+        "c": "Cinco años, renovable una sola vez.",
+        "d": "La duración del mandato depende de la legislatura en curso, siendo siempre renovable."
+      },
+      "correctAnswer": "b",
+      "explanation": "Como garantía adicional de autonomía personal, el mandato del gobernador es de seis años y no renovable. Esta característica busca asegurar la independencia del gobernador de ciclos políticos y presiones a corto plazo.n\n\n\nEjemplo: Cuando un nuevo gobernador es nombrado, su periodo de servicio está fijado en seis años desde el inicio de su mandato. Una vez transcurridos esos seis años, independientemente de su desempeño, no podrá ser designado nuevamente para el mismo cargo, lo que incentiva decisiones basadas en la estabilidad a largo plazo y no en la búsqueda de la reelección.",
+      "id": "q_b2face7850",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según el artículo 24 de la Ley de Autonomía, ¿quién designa íntegramente a los miembros de los órganos rectores del Banco de España?",
+      "options": {
+        "a": "El Banco Central Europeo (BCE).",
+        "b": "Las Cortes Generales.",
+        "c": "El Gobierno.",
+        "d": "El Consejo de Gobierno del Banco de España."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que una de las formas en que la política monetaria debe encajar en la política económica general del Gobierno es que 'El Gobierno designa íntegramente a los miembros de los órganos rectores del Banco de España (artículo 24)', lo que representa un contrapeso a la autonomía en política monetaria.n\n\n\nEjemplo: Tras unas elecciones generales, el nuevo Gobierno que toma posesión tiene la potestad de proponer y nombrar a los nuevos miembros del Consejo de Gobierno del Banco de España, incluyendo al Gobernador y al Subgobernador, respetando los requisitos de cualificación y experiencia establecidos.",
+      "id": "q_bd10ea70d7",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "De acuerdo con el artículo 20 de la Ley de Autonomía, ¿qué cargo puede asistir a las reuniones del Consejo de Gobierno del Banco de España con voz, pero sin voto?",
+      "options": {
+        "a": "El presidente del Tribunal de Cuentas.",
+        "b": "El Fiscal General del Estado.",
+        "c": "El ministro de Economía y Hacienda o su secretario de Estado de Economía.",
+        "d": "Un representante de la Comisión Europea."
+      },
+      "correctAnswer": "c",
+      "explanation": "El artículo 20 de la Ley de Autonomía permite que el ministro de Economía y Hacienda (o su actual denominación) o su secretario de Estado de Economía (o su actual denominación) asistan con voz y sin voto a las reuniones del Consejo de Gobierno del Banco de España. Esta disposición facilita la coordinación e información entre el Banco y el Gobierno sin comprometer la independencia de voto del primero.n\n\n\nEjemplo: En una sesión del Consejo de Gobierno donde se analice la evolución de la inflación, el Secretario de Estado de Economía y Apoyo a la Empresa puede estar presente, escuchar los debates, expresar la perspectiva del Gobierno sobre la situación económica, pero no tendrá derecho a emitir un voto en las decisiones que se to adopten sobre, por ejemplo, los tipos de interés o las reservas bancarias.",
+      "id": "q_0abfc2e71d",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según el artículo 10 de la Ley de Autonomía, ¿a quién informará regularmente el Banco de España en materia de política monetaria?",
+      "options": {
+        "a": "Únicamente al Banco Central Europeo.",
+        "b": "A las Cortes Generales y al Gobierno.",
+        "c": "Al Fondo Monetario Internacional y a la Comisión Europea.",
+        "d": "A los agentes económicos y al público en general a través de comunicados."
+      },
+      "correctAnswer": "b",
+      "explanation": "El artículo 10 de la Ley de Autonomía establece que el Banco de España informará regularmente a las Cortes Generales y al Gobierno en materia de política monetaria. Esto se realiza sin perjuicio de lo dispuesto en el Tratado de Funcionamiento de la UE y de las reglas sobre secreto profesional del BCE, asegurando la transparencia y la rendición de cuentas dentro del marco de su autonomía.n\n\n\nEjemplo: Anualmente, el Gobernador del Banco de España comparece ante las comisiones parlamentarias de las Cortes Generales para presentar el informe anual de la institución y responder preguntas sobre la situación económica y la política monetaria. De igual manera, se mantienen canales de información regular con el Gobierno para mantenerlo al tanto de los desarrollos en esta materia.",
+      "id": "q_e80ae07625",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Dentro de la potestad reglamentaria externa del Banco de España, ¿qué denominación reciben las normas precisas para el desarrollo de sus funciones básicas atribuidas como parte integrante del SEBC?",
+      "options": {
+        "a": "Ordenanzas del Banco de España.",
+        "b": "Circulares Internas.",
+        "c": "Circulares Monetarias.",
+        "d": "Aplicaciones Técnicas."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto especifica que las normas precisas para el desarrollo de sus funciones básicas atribuidas al Banco de España como parte integrante del SEBC reciben el nombre de Circulares Monetarias. Estas son disposiciones con potestad reglamentaria externa.n\n\n\nEjemplo: Si el Banco Central Europeo emite una nueva directriz para el cálculo de los requisitos de reservas mínimas que deben mantener las entidades de crédito, el Banco de España emitiría una 'Circular Monetaria' para detallar la aplicación concreta de esa directriz en el sistema bancario español, al ser una función básica como miembro del SEBC.",
+      "id": "q_b3af1391d1",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Cuando el Banco de España dicta disposiciones para el adecuado ejercicio del resto de sus competencias propias, que no son funciones básicas como parte del SEBC, ¿cómo se denominan estas normas?",
+      "options": {
+        "a": "Reglamentos.",
+        "b": "Circulares.",
+        "c": "Directivas.",
+        "d": "Disposiciones Generales."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto distingue entre Circulares Monetarias (para funciones básicas del SEBC) y Circulares. Las disposiciones para el adecuado ejercicio del resto de sus competencias propias, que no se enmarcan como funciones básicas del SEBC, se denominan Circulares.n\n\n\nEjemplo: El Banco de España, en su función de supervisión bancaria (una competencia propia pero no directamente una función básica del SEBC), puede emitir una 'Circular' para establecer nuevos requisitos de información que las entidades financieras deben reportar periódicamente, detallando los formularios y plazos para dicha información.",
+      "id": "q_4b0c8d0f09",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según el proceso de aprobación de las Circulares Monetarias y Circulares, ¿quién es el organismo competente para su aprobación final, a propuesta de la Comisión Ejecutiva?",
+      "options": {
+        "a": "El Gobernador del Banco de España.",
+        "b": "El Consejo de Estado.",
+        "c": "El Consejo de Gobierno.",
+        "d": "Las Cortes Generales."
+      },
+      "correctAnswer": "c",
+      "explanation": "Es competencia del Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva, la aprobación de las Circulares Monetarias y Circulares. Este es el órgano máximo de decisión en materia normativa externa.n\n\n\nEjemplo: Después de que el proyecto de una nueva Circular Monetaria haya sido elaborado por la dirección general competente, revisado por el Departamento Jurídico y aprobado por la Comisión Ejecutiva, se eleva al Consejo de Gobierno. Será este último órgano quien, tras la preceptiva consulta al Consejo de Estado, otorgue la aprobación final para su publicación.",
+      "id": "q_0c65845f0e",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el proceso de elaboración de las Circulares del Banco de España, ¿qué requisito adicional se exige en comparación con las Circulares Monetarias?",
+      "options": {
+        "a": "Deben ser aprobadas por el Banco Central Europeo.",
+        "b": "Deben ser oídos los sectores interesados.",
+        "c": "Requieren la ratificación del Gobierno.",
+        "d": "No requieren informe del Departamento Jurídico."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto señala una distinción clave en el procedimiento: 'En el caso de las Circulares, además, deben ser oídos los sectores interesados'. Este paso adicional garantiza la participación y el conocimiento de aquellos a quienes afectará la norma.n\n\n\nEjemplo: Si el Banco de España está elaborando una Circular que modifica la normativa sobre el cálculo de provisiones que los bancos deben constituir, antes de su aprobación final, se abriría un periodo de audiencia pública o de consulta a las asociaciones bancarias y otras entidades afectadas, permitiéndoles presentar alegaciones o sugerencias.",
+      "id": "q_f838bdf8d9",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Una vez aprobado un proyecto de Circular o Circular Monetaria por la Comisión Ejecutiva, ¿a qué órgano se eleva para consulta y dictamen, cuando sea legalmente preceptivo, antes de su aprobación por el Consejo de Gobierno?",
+      "options": {
+        "a": "Al Tribunal de Cuentas.",
+        "b": "Al Gobierno central.",
+        "c": "Al Consejo de Estado.",
+        "d": "Al Banco Central Europeo."
+      },
+      "correctAnswer": "c",
+      "explanation": "El proceso de aprobación indica que, aprobado el proyecto de Circular o de Circular Monetaria por la Comisión Ejecutiva, 'se eleva al Consejo de Estado para consulta y dictamen, cuando sea legalmente preceptivo', antes de ser elevado al Consejo de Gobierno para su aprobación final.n\n\n\nEjemplo: Si una futura Circular regula aspectos de competencia del Banco de España que tienen implicaciones jurídicas complejas o afectan a derechos y deberes de terceros, la Comisión Ejecutiva enviaría el borrador al Consejo de Estado para que emita un informe no vinculante, pero preceptivo, sobre su adecuación a la legalidad vigente.",
+      "id": "q_32be7c71b0",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Cuando el Banco de España hace públicos aspectos técnicos necesarios para la aplicabilidad de las Circulares, ¿qué denominación reciben estos documentos?",
+      "options": {
+        "a": "Instrucciones de Servicio.",
+        "b": "Disposiciones Complementarias.",
+        "c": "Notas Interpretativas.",
+        "d": "Aplicaciones Técnicas."
+      },
+      "correctAnswer": "d",
+      "explanation": "El Banco de España podrá hacer públicos, cuando así convenga, bajo la denominación de Aplicaciones Técnicas, los aspectos técnicos necesarios para la aplicabilidad de las Circulares. Estos documentos tienen un carácter meramente técnico y complementario.n\n\n\nEjemplo: Una Circular establece nuevos criterios para la valoración de ciertos activos. Para facilitar que las entidades bancarias implementen correctamente estos criterios, el Banco de España podría publicar una 'Aplicación Técnica' que incluya ejemplos de cálculo, plantillas o guías detalladas sobre cómo realizar las valoraciones de acuerdo con la Circular.",
+      "id": "q_61133f3f12",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "De las normas internas del Banco de España, ¿cuáles son reglamentaciones de carácter básico y general, de obligado cumplimiento para todos los servicios, y son aprobadas por la Comisión Ejecutiva y ratificadas por el gobernador?",
+      "options": {
+        "a": "Ordenanzas.",
+        "b": "Notas.",
+        "c": "Circulares Internas.",
+        "d": "Anuncios."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto define las Circulares Internas como reglamentaciones de carácter básico y general, de obligado cumplimiento para todos los servicios del Banco de España, y especifica que son aprobadas por la Comisión Ejecutiva y ratificadas por el gobernador.n\n\n\nEjemplo: Una nueva política de ciberseguridad que afecte a todos los empleados del Banco de España, desde el acceso a sistemas hasta el manejo de información sensible, se establecería mediante una 'Circular Interna', ya que es una norma básica y de cumplimiento general para todos los servicios.",
+      "id": "q_01f4a34df7",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En la jerarquía de normas internas del Banco de España, ¿qué documentos desarrollan lo establecido en las Circulares Internas o ejercen la potestad reglamentaria de la Alta Administración, siendo aprobadas por el titular de la dirección general competente o por el gobernador/subgobernador si afectan a varias direcciones generales?",
+      "options": {
+        "a": "Notas.",
+        "b": "Anuncios.",
+        "c": "Instrucciones de Servicio.",
+        "d": "Ordenanzas."
+      },
+      "correctAnswer": "d",
+      "explanation": "El texto describe las Ordenanzas como normas internas que desarrollan lo establecido en las Circulares Internas o para el ejercicio de la potestad reglamentaria de la Alta Administración del Banco. Su aprobación corresponde al titular de la dirección general competente o, en ciertos casos (afectación a más de una dirección o materia atribuida a gobernador/subgobernador), a estos últimos.n\n\n\nEjemplo: Una Circular Interna establece un marco general para la gestión de proyectos. Una 'Ordenanza' de la Dirección General de Operaciones podría detallar los procedimientos específicos, las herramientas a utilizar y los roles de cada departamento dentro de su ámbito para implementar ese marco general en los proyectos de su competencia.",
+      "id": "q_fdecfa499a",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según el artículo 11 del RIBE, ¿qué principio fundamental rige la relación entre las normas internas del Banco de España?",
+      "options": {
+        "a": "Las normas internas deben ser siempre de carácter meramente informativo.",
+        "b": "Cualquier norma interna puede alterar o suplir preceptos de rango superior si así lo aprueba el Gobernador.",
+        "c": "Ninguna norma interna puede vulnerar, alterar ni suplir los preceptos contenidos en otra de rango superior.",
+        "d": "Las normas internas pueden modificar la Ley de Autonomía si cuentan con el dictamen favorable del Consejo de Estado."
+      },
+      "correctAnswer": "c",
+      "explanation": "El artículo 11 del RIBE establece un principio de jerarquía normativa claro para las normas internas, indicando que ninguna de ellas 'puede vulnerar, alterar ni suplir los preceptos contenidos en otra de rango superior'. Esto asegura la coherencia y legalidad del corpus normativo interno.n\n\n\nEjemplo: Si una 'Ordenanza' de una dirección general propusiera un procedimiento que contradice un requisito establecido en una 'Circular Interna' de nivel superior, esa Ordenanza sería inválida en ese punto, ya que las normas de rango inferior no pueden prevalecer sobre las de rango superior.",
+      "id": "q_4ff67141f8",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Las Circulares Internas y las Ordenanzas del Banco de España, una vez aprobadas, ¿dónde fijarán la fecha de su entrada en vigor y serán publicadas para su conocimiento?",
+      "options": {
+        "a": "En el Boletín Oficial del Estado (BOE).",
+        "b": "En la Intranet del Banco de España (Bdenred, Registro de normas internas).",
+        "c": "En los principales diarios económicos.",
+        "d": "Directamente comunicadas a los empleados por correo electrónico."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica que las Circulares Internas y las Ordenanzas fijarán la fecha de su entrada en vigor y serán publicadas en Bdenred (Registro de normas internas) para su conocimiento por los sujetos obligados. Esto se refiere a la publicación interna de estas normas.n\n\n\nEjemplo: Una 'Circular Interna' sobre los nuevos horarios de atención al público para ciertos servicios se publicaría en Bdenred, la intranet del Banco de España, para que todo el personal implicado conozca la nueva normativa y su fecha de aplicación.",
+      "id": "q_ead6d19002",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el Registro de Normas Internas del Banco de España, ¿qué elementos son documentos sin valor normativo, meramente expositivos o didácticos, elaborados por un director de departamento para aclarar una norma interna?",
+      "options": {
+        "a": "Anuncios.",
+        "b": "Resoluciones.",
+        "c": "Notas.",
+        "d": "Directrices."
+      },
+      "correctAnswer": "c",
+      "explanation": "El RIBE prevé la inclusión de 'Notas' en el Registro de Normas Internas. Estas se describen como documentos sin valor normativo que hacen públicos aspectos meramente expositivos o didácticos relativos a la redacción o aplicación de una norma interna, elaboradas por un director de departamento.n\n\n\nEjemplo: Después de la publicación de una 'Circular Interna' compleja sobre la gestión de conflictos de interés, un director de departamento podría elaborar una 'Nota' explicativa con ejemplos prácticos y preguntas frecuentes para ayudar a los empleados a comprender y aplicar correctamente la Circular, sin que la Nota tenga per se carácter normativo.",
+      "id": "q_bf44e43f55",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según el Registro de Normas Internas, ¿qué tipo de comunicaciones tienen carácter informativo o publicitario y su orden de elaboración parte del gobernador, subgobernador/a, director general o secretario general, por decisión del Consejo de Gobierno o de la Comisión Ejecutiva?",
+      "options": {
+        "a": "Notas.",
+        "b": "Ordenanzas.",
+        "c": "Anuncios.",
+        "d": "Circulares Internas."
+      },
+      "correctAnswer": "c",
+      "explanation": "Los 'Anuncios' son comunicaciones de carácter informativo o publicitario. La orden de elaboración de un anuncio parte de la alta dirección del Banco (gobernador, subgobernador/a, director general o secretario general), por decisión del Consejo de Gobierno o de la Comisión Ejecutiva, según lo previsto en el Registro de Normas Internas.n\n\n\nEjemplo: Si el Banco de España desea informar a sus empleados sobre la organización de un evento interno de formación o sobre una campaña de sensibilización sobre algún tema relevante para la institución, se podría emitir un 'Anuncio', cuya elaboración sería impulsada por la alta dirección.",
+      "id": "q_15dbf494bf",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Cuál es la misión fundamental del Banco de España, según se describe en el texto?",
+      "options": {
+        "a": "Obtener el máximo beneficio económico para el Estado.",
+        "b": "Gestionar la deuda pública española y la política fiscal del Gobierno.",
+        "c": "Conseguir la estabilidad de los precios y la estabilidad financiera, favoreciendo el crecimiento económico estable.",
+        "d": "Supervisar exclusivamente a los bancos privados nacionales."
+      },
+      "correctAnswer": "c",
+      "explanation": "La misión del Banco de España es conseguir la estabilidad de los precios y la estabilidad financiera, favoreciendo con ello el crecimiento económico estable. Además, contribuye con su análisis a la formulación de otras políticas económicas. Estas funciones se enmarcan en su rol como banco central nacional y miembro del Eurosistema.n\n\n\nEjemplo: Para cumplir con su misión de estabilidad de precios, el Banco de España, como parte del Eurosistema, participa en la toma de decisiones sobre los tipos de interés. Una decisión de subir los tipos, por ejemplo, podría buscar frenar la inflación excesiva, contribuyendo así a la estabilidad de precios.",
+      "id": "q_7017461e42",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "La tercera fase de la Unión Económica y Monetaria (UEM), que supuso la redefinición de algunas funciones de los bancos centrales nacionales de la zona del euro, ¿en qué fecha se inició?",
+      "options": {
+        "a": "El 1 de enero de 1994.",
+        "b": "El 1 de enero de 1999.",
+        "c": "El 15 de octubre de 2013.",
+        "d": "El 28 de marzo de 2000."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto afirma que 'El inicio de la tercera fase de la UEM, el 1 de enero de 1999, supuso la redefinición de algunas de las funciones ejercidas hasta entonces por los bancos centrales nacionales de la zona del euro.' Esta fecha es un hito crucial para comprender la evolución de las funciones del Banco de España.n\n\n\nEjemplo: Antes del 1 de enero de 1999, el Banco de España tenía total potestad sobre la política monetaria española, incluyendo la fijación de tipos de interés y la emisión de pesetas. A partir de esa fecha, con la entrada en la UEM y la creación del euro, estas funciones pasaron a ser competencia del Banco Central Europeo, y el Banco de España asumió un rol como miembro del Eurosistema.",
+      "id": "q_8f8d46abf0",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la misión principal del Banco de España, según se desprende del texto?",
+      "options": {
+        "a": "Lograr únicamente la estabilidad de los precios.",
+        "b": "Mantener exclusivamente la estabilidad financiera.",
+        "c": "Conseguir la estabilidad de los precios y la estabilidad financiera, favoreciendo el crecimiento económico estable.",
+        "d": "Asesorar al Gobierno en la formulación de políticas económicas sin otra función primaria."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto establece explícitamente que la misión del Banco de España es \"conseguir la estabilidad de los precios y la estabilidad financiera, favoreciendo con ello el crecimiento económico estable\". Esto integra los tres componentes como parte fundamental de su propósito.\n\n\nEjemplo: Si el Banco de España logra mantener la inflación bajo control y asegura que el sistema bancario opere sin sobresaltos, se crea un entorno propicio para que las empresas inviertan y generen empleo, lo cual se traduce en un crecimiento económico sostenido y predecible.",
+      "id": "q_857d68f8a4",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuándo se inició la tercera fase de la UEM, que conllevó la redefinición de algunas funciones de los bancos centrales nacionales de la zona del euro?",
+      "options": {
+        "a": "El 1 de enero de 1998.",
+        "b": "El 1 de enero de 1999.",
+        "c": "El 8 de mayo de 2003.",
+        "d": "El 1 de enero de 2001."
+      },
+      "correctAnswer": "b",
+      "explanation": "El documento especifica que \"El inicio de la tercera fase de la UEM, el 1 de enero de 1999, supuso la redefinición de algunas de las funciones ejercidas hasta entonces por los bancos centrales nacionales de la zona del euro.\"\n\n\nEjemplo: Antes del 1 de enero de 1999, el Banco de España era el único responsable de la política monetaria en España. A partir de esa fecha, las decisiones clave de política monetaria pasaron a ser competencia del Eurosistema, en el que el Banco de España participa.",
+      "id": "q_ee1a0e2ebf",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según la Ley de Autonomía del Banco de España, ¿qué regula específicamente el Artículo 7 de dicha ley?",
+      "options": {
+        "a": "La definición de la estabilidad de precios por parte del Consejo de Gobierno del BCE.",
+        "b": "Las funciones del Banco de España como miembro del SEBC y como banco central nacional.",
+        "c": "La prohibición de la compra directa de deuda pública por el Banco de España.",
+        "d": "La periodicidad de los informes de estabilidad financiera."
+      },
+      "correctAnswer": "b",
+      "explanation": "La nota al pie número 5 del texto indica claramente que \"El artículo 7 de la Ley de Autonomía del Banco de España recoge las funciones que éste ejercerá como miembro del SEBC (art.7.3) y como banco central nacional (art.7.5).\"\n\n\nEjemplo: Un experto legal que necesite conocer las atribuciones del Banco de España en cuanto a la supervisión bancaria en el contexto europeo o la gestión de reservas de divisas propias, consultaría directamente el Artículo 7 de la Ley de Autonomía para encontrar el marco normativo.",
+      "id": "q_17a61f6bff",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el marco de sus funciones como miembro del SEBC, ¿cuál es el objetivo principal al definir y ejecutar la política monetaria de la zona del euro?",
+      "options": {
+        "a": "Promover la estabilidad financiera en la zona.",
+        "b": "Mantener la estabilidad de precios en el conjunto de dicha zona.",
+        "c": "Gestionar las reservas oficiales de divisas de los Estados miembros.",
+        "d": "Favorecer el crecimiento económico mediante la reducción de tipos de interés."
+      },
+      "correctAnswer": "b",
+      "explanation": "La primera función básica atribuida al SEBC, en la que el Banco de España participa, es \"Definir y ejecutar la política monetaria de la zona del euro, con el objetivo principal de mantener la estabilidad de precios en el conjunto de dicha zona.\"\n\n\nEjemplo: Si el Índice Armonizado de Precios al Consumo (IAPC) en la zona euro muestra un aumento significativo y sostenido, el Eurosistema, a través del Consejo de Gobierno del BCE, podría decidir un aumento de los tipos de interés para contener la inflación y cumplir con este objetivo de estabilidad de precios.",
+      "id": "q_f5e1826367",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Qué órgano es el responsable de definir y ejecutar la política monetaria de toda el área del euro y su objetivo es mantener la estabilidad de precios?",
+      "options": {
+        "a": "Los gobernadores de los bancos centrales nacionales de la zona del euro de forma individual.",
+        "b": "El Consejo Europeo en coordinación con los Ministros de Finanzas.",
+        "c": "El Consejo de Gobierno del BCE.",
+        "d": "La Comisión Europea."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto especifica que \"El Consejo de Gobierno del BCE, en el que participan los gobernadores de los bancos centrales nacionales de los países de la zona del euro, es el responsable de definir y ejecutar la política monetaria de toda el área y su objetivo es mantener la estabilidad de precios.\"\n\n\nEjemplo: En las reuniones periódicas, el Consejo de Gobierno del BCE debate y vota sobre decisiones clave como la compra de activos o los ajustes en los tipos de interés de referencia, lo que afecta directamente a la disponibilidad de crédito y a la inflación en toda la eurozona.",
+      "id": "q_516b1f841d",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según la declaración del Consejo de Gobierno del BCE del 8 de mayo de 2003, ¿cómo se define la estabilidad de precios?",
+      "options": {
+        "a": "Un incremento interanual del Índice Armonizado de Precios al Consumo (IAPC) del 2% exacto.",
+        "b": "Un incremento interanual del Índice Armonizado de Precios al Consumo (IAPC) inferior al 2%, con el objetivo a medio plazo de mantener la tasa de inflación en niveles cercanos al 2%.",
+        "c": "Una tasa de inflación que no supere el 3% en ningún momento.",
+        "d": "La ausencia de deflación o hiperinflación, sin un objetivo porcentual específico."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica que \"La estabilidad de precios es, según una declaración realizada por el Consejo de Gobierno el 8 de mayo de 2003, un incremento interanual del Índice Armonizado de Precios al Consumo (IAPC) inferior al 2%, con el objetivo a medio plazo de mantener la tasa de inflación en niveles cercanos al 2%.\"\n\n\nEjemplo: Si el IAPC se sitúa en un 1.8% interanual, el BCE consideraría que el objetivo de estabilidad de precios se está cumpliendo. Si superara el 2%, se evaluarían medidas para reconducir la inflación hacia ese umbral.",
+      "id": "q_6e5370c749",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Desde el 1 de enero de 1999, ¿quién asume la responsabilidad de la política de cambio en la zona euro?",
+      "options": {
+        "a": "Los bancos centrales nacionales de manera individual.",
+        "b": "El Consejo Europeo y el Eurosistema.",
+        "c": "El Banco Central Europeo de forma exclusiva.",
+        "d": "El Ministerio de Economía y Hacienda de cada Estado miembro."
+      },
+      "correctAnswer": "b",
+      "explanation": "El documento establece que \"Desde el 1 de enero de 1999, la política de cambio es responsabilidad del Consejo Europeo y del Eurosistema, que ejecuta la política cambiaria, realiza operaciones de cambio de divisas y posee y gestiona las reservas oficiales de divisas de los Estados miembros.\"\n\n\nEjemplo: Una decisión fundamental sobre cómo intervenir en los mercados de divisas para influir en el valor del euro frente a otras monedas como el dólar o el yen sería consensuada por el Consejo Europeo y ejecutada operativamente por el Eurosistema a través de los bancos centrales nacionales.",
+      "id": "q_786935cc27",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cómo se realiza la gestión de la cartera de reservas exteriores del Eurosistema para garantizar liquidez al BCE para sus operaciones en divisas?",
+      "options": {
+        "a": "De forma centralizada por el Banco Central Europeo directamente.",
+        "b": "De manera independiente por cada banco central nacional, sin coordinación.",
+        "c": "De forma descentralizada a través de los bancos centrales nacionales que actúan por cuenta del BCE conforme a sus instrucciones.",
+        "d": "Exclusivamente por el Consejo Europeo para evitar conflictos de interés."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto explica que \"La gestión de la cartera de reservas exteriores que garantiza al BCE liquidez suficiente para sus operaciones en divisas, se realiza de forma descentralizada a través de los bancos centrales nacionales que deciden participar en dicha gestión y que actúan por cuenta del BCE conforme a sus instrucciones.\"\n\n\nEjemplo: El Banco de España, como parte del Eurosistema, puede encargarse de una porción de las reservas de oro o divisas. Al realizar operaciones de compraventa con estas reservas, lo hará siguiendo las directrices específicas que haya emitido el BCE, sin tomar decisiones unilaterales sobre el cuándo y el cómo de la operación.",
+      "id": "q_9a8adb36de",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En relación con la emisión de billetes de curso legal en la zona del euro, ¿qué rol específico corresponde al Banco Central Europeo (BCE)?",
+      "options": {
+        "a": "La puesta en circulación de los billetes de forma directa.",
+        "b": "La aprobación del volumen de emisión de billetes.",
+        "c": "El diseño de las características de seguridad de los billetes.",
+        "d": "La gestión exclusiva del suministro de billetes a los ciudadanos."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto diferencia los roles: \"El BCE aprueba el volumen de emisión de billetes, mientras que la puesta en circulación propiamente dicha la llevan a cabo los bancos centrales nacionales.\"\n\n\nEjemplo: Si hay una previsión de alta demanda de billetes en la eurozona para la campaña de Navidad, el BCE analizará la situación y determinará el volumen total de billetes que se pueden emitir, y luego cada banco central nacional, como el Banco de España, se encargará de poner en circulación la parte correspondiente a su territorio.",
+      "id": "q_4b035f71fc",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Como banco central nacional, ¿cuándo están sujetas a la aprobación del BCE las operaciones del Banco de España en el mercado de divisas sobre las reservas no transferidas al BCE?",
+      "options": {
+        "a": "Únicamente cuando se trata de metales preciosos.",
+        "b": "Siempre, independientemente del volumen de la operación.",
+        "c": "Cuando sobrepasan cierto límite, para garantizar la compatibilidad con la política del Eurosistema.",
+        "d": "Nunca, ya que son reservas gestionadas de forma independiente."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que las operaciones con las reservas no transferidas al BCE se gestionan de manera independiente, pero añade: \"No obstante, cuando sus operaciones en el mercado de divisas sobrepasan cierto límite, están sujetas a la aprobación del BCE para garantizar su compatibilidad con la política cambiaria y monetaria del Eurosistema.\"\n\n\nEjemplo: Si el Banco de España decide vender una cantidad considerable de euros de sus reservas propias para comprar una divisa específica que se considere estratégica para el Estado, pero el valor de esa operación excede un umbral predefinido, deberá notificarlo y obtener el visto bueno del BCE.",
+      "id": "q_953a78fa99",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la definición de estabilidad financiera que el Banco de España promueve en el ejercicio de sus funciones como banco central nacional?",
+      "options": {
+        "a": "Aquella en la que los tipos de interés se mantienen fijos durante largos periodos.",
+        "b": "Una situación donde los mercados bursátiles experimentan un crecimiento constante.",
+        "c": "Aquella en la que los sistemas monetario y financiero operan de forma fluida y eficiente, y las entidades de crédito distribuyen fondos y atienden servicios con normalidad.",
+        "d": "La total ausencia de riesgo de impago en cualquier operación financiera."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto define la estabilidad financiera como \"aquella en la que los sistemas monetario y financiero operan de forma fluida y eficiente, supone que las entidades de crédito distribuyen los fondos que reciben de los ahorradores entre los demandantes de recursos y atienden con normalidad los servicios bancarios que proveen a su clientela.\"\n\n\nEjemplo: En un sistema financiero estable, un particular puede obtener un crédito hipotecario o una empresa puede financiarse a través de un préstamo bancario sin que haya interrupciones o restricciones anómalas en el flujo de fondos, reflejando la confianza y operatividad normal de las entidades.",
+      "id": "q_0c30071504",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En relación con la función de poner en circulación la moneda metálica, ¿qué entidad debe aprobar el volumen de emisión?",
+      "options": {
+        "a": "El Gobierno de España.",
+        "b": "El Banco Central Europeo (BCE).",
+        "c": "El Banco de España, de manera autónoma.",
+        "d": "El Consejo Europeo."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto afirma que, para la moneda metálica, \"El volumen de emisión requiere la aprobación del BCE.\"\n\n\nEjemplo: Si la Casa de la Moneda en España produce nuevas monedas de euro para cubrir la demanda interna, el Banco de España es el encargado de ponerlas en circulación. Sin embargo, antes de proceder, la cantidad total de esas monedas debe haber sido autorizada por el Banco Central Europeo.",
+      "id": "q_02822c0c57",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Qué acción específica está explícitamente prohibida para el Banco de España en relación con la deuda pública?",
+      "options": {
+        "a": "Actuar como agente financiero de la deuda pública.",
+        "b": "Facilitar los procedimientos de emisión de la deuda pública.",
+        "c": "Adquirir títulos públicos en los mercados para el ejercicio de sus tareas de intervención monetaria.",
+        "d": "La compra directa de las emisiones de la deuda pública."
+      },
+      "correctAnswer": "d",
+      "explanation": "El documento establece de forma inequívoca: \"El Banco de España tiene prohibida la compra directa de las emisiones de la deuda pública. Solo puede adquirir títulos públicos en los mercados para el ejercicio de sus tareas de intervención monetaria.\"\n\n\nEjemplo: Cuando el Tesoro Público español lanza una nueva subasta de bonos del Estado, el Banco de España no puede participar como comprador inicial. Su única vía para adquirir deuda pública es en el mercado secundario y siempre en el marco de operaciones de política monetaria definidas por el Eurosistema.",
+      "id": "q_85de1749c1",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Al prestar los servicios de tesorería y de agente financiero de la deuda pública, ¿qué se le prohíbe explícitamente al Banco de España en relación con la actividad bancaria del Gobierno central y otras instituciones públicas?",
+      "options": {
+        "a": "Mantener cuentas en divisas para las Comunidades Autónomas.",
+        "b": "Realizar ingresos y pagos por cuenta del Tesoro.",
+        "c": "Dejar en descubierto las cuentas o proporcionar facilidades crediticias.",
+        "d": "Desarrollar cualquier actividad bancaria del Gobierno central."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica claramente: \"Esta actividad [servicios de tesorería] no puede dejar en descubierto ni proporcionar facilidades crediticias.\"\n\n\nEjemplo: Si el Tesoro Público español tuviera un déficit momentáneo en su cuenta corriente en el Banco de España, este último no podría cubrirlo mediante un préstamo o un descubierto, obligando al Tesoro a obtener liquidez por otros medios, como la emisión de deuda a corto plazo.",
+      "id": "q_7912f352e0",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de los siguientes informes publicados por el Banco de España tiene una periodicidad mensual?",
+      "options": {
+        "a": "El Informe de Estabilidad Financiera.",
+        "b": "El Informe Anual del Banco de España.",
+        "c": "El Boletín Económico.",
+        "d": "Las Cuentas Financieras de la Economía Española."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto especifica que \"Entre estos informes, destacan el Boletín Económico y el Boletín Estadístico, con periodicidad mensual.\"\n\n\nEjemplo: Un economista que necesite analizar la evolución reciente de la inflación, el empleo o el crecimiento del PIB en España para un informe semanal, recurriría al Boletín Económico del Banco de España para obtener datos y análisis actualizados de forma mensual.",
+      "id": "q_f7527e8a5c",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Qué informe del Banco de España se publica con periodicidad semestral?",
+      "options": {
+        "a": "El Boletín Estadístico.",
+        "b": "El Informe Anual del Banco de España.",
+        "c": "El Informe de Estabilidad Financiera.",
+        "d": "La Memoria de Reclamaciones."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que \"el Informe de Estabilidad Financiera, con periodicidad semestral\" es uno de los informes publicados por el Banco de España.\n\n\nEjemplo: Un regulador financiero o un analista de riesgos querrá consultar el Informe de Estabilidad Financiera dos veces al año para evaluar los riesgos sistémicos, la salud del sector bancario y las posibles vulnerabilidades que puedan afectar al sistema financiero español y del conjunto del área del euro.",
+      "id": "q_4b05aa1441",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el caso de la supervisión de entidades de crédito, ¿para qué tipo de sucursales se limitan explícitamente las facultades del Banco de España al control de su liquidez?",
+      "options": {
+        "a": "Sucursales de entidades de crédito de países de la UE.",
+        "b": "Sucursales de entidades de crédito de países no pertenecientes a la UE.",
+        "c": "Sucursales de entidades emisoras de dinero electrónico.",
+        "d": "Sucursales de sociedades de garantía recíproca."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto señala: \"En el caso de las sucursales de entidades de países de la UE, sus facultades se limitan al control de la liquidez de la sucursal y de\". Esto indica una limitación específica para las sucursales de entidades de crédito originarias de la Unión Europea.\n\n\nEjemplo: Si una sucursal en Madrid de un banco francés presentara problemas de viabilidad, la autoridad supervisora principal que se encargaría de la solvencia sería el supervisor francés. El Banco de España, en su rol, se enfocaría en asegurar que esa sucursal mantuviera la liquidez suficiente para operar en España sin generar disrupciones.",
+      "id": "q_5cd26db70c",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes Memorias NO es elaborada y publicada por el Banco de España de acuerdo con el listado proporcionado en el texto?",
+      "options": {
+        "a": "Memoria de la Central de Información de Riesgos",
+        "b": "Memoria de la Supervisión Bancaria en España",
+        "c": "Memoria Anual sobre la Vigilancia de Sistemas de Pago y Mercados de Deuda Pública",
+        "d": "Memoria de Análisis de la Estabilidad Financiera Sistémica"
+      },
+      "correctAnswer": "d",
+      "explanation": "El texto enumera específicamente las siguientes memorias que elabora y publica el Banco de España: la Memoria de Reclamaciones, la Memoria de la Central de Información de Riesgos, la Memoria de la Supervisión Bancaria en España, la Memoria de Actividades de Investigación y la Memoria Anual sobre la Vigilancia de Sistemas de Pago y Mercados de Deuda Pública. La 'Memoria de Análisis de la Estabilidad Financiera Sistémica' no figura en esta lista explícita.\n\n\nEjemplo: Un opositor al Banco de España revisa el listado de documentos institucionales y debe identificar cuáles son publicados anualmente. Si encuentra una memoria sobre 'Riesgos Operacionales en Entidades de Crédito', deberá discernir si esta se encuentra entre las mencionadas explícitamente como obligatorias o si es una publicación adicional.",
+      "id": "q_891cd98b2e",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿En qué año se llevó a cabo el primer inventario de funciones en el ámbito del Eurosistema (ESIF)?",
+      "options": {
+        "a": "1998",
+        "b": "1999",
+        "c": "2015",
+        "d": "2024"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica que 'En 1999 se lleva a cabo el primer inventario de funciones en el ámbito del Eurosistema (ESIF)'. El año 1998 se menciona como el momento en que el Eurosistema se planteó la conveniencia de analizar las funciones, y 2015 cuando se hizo extensivo al MUS.\n\n\nEjemplo: Durante una auditoría interna del Eurosistema, se busca el documento fundacional del ESIF para comprender su evolución. El año de referencia inicial para este seguimiento cronológico sería 1999.",
+      "id": "q_832e4947cc",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Con qué periodicidad se realiza el Inventario de Funciones en el ámbito del Eurosistema (ESIF) y, de forma diferenciada, en el Banco de España?",
+      "options": {
+        "a": "Anualmente en el Eurosistema y cada dos años en el Banco de España.",
+        "b": "Cada dos años en el Eurosistema y anualmente en el Banco de España.",
+        "c": "Anualmente en ambos ámbitos, Eurosistema y Banco de España.",
+        "d": "Cada tres años en el Eurosistema y anualmente en el Banco de España."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto establece que 'El ESIF se realiza cada dos años en el ámbito del Eurosistema y de forma anual en el Banco de España'.\n\n\nEjemplo: El departamento de recursos humanos del Banco de España debe preparar la información para el ESIF. Sabiendo que el ejercicio se realiza anualmente para la institución española, coordina la recopilación de datos de dedicación del personal con mayor frecuencia que si la preparación fuera para la versión del Eurosistema.",
+      "id": "q_b2081d5ac9",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "De acuerdo con el modelo de supervisión del Banco de España, ¿cuál de los siguientes NO es uno de los cuatro elementos principales que lo componen?",
+      "options": {
+        "a": "Un sistema de supervisión continuada de las entidades.",
+        "b": "Una regulación efectiva y prudente.",
+        "c": "Un régimen de participación de los supervisados en la toma de decisiones.",
+        "d": "Un conjunto de medidas de carácter corrector."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto especifica que el modelo de supervisión se compone de cuatro elementos principales: i) Una regulación efectiva y prudente; ii) Un sistema de supervisión continuada de las entidades; iii) Un conjunto de medidas de carácter corrector; iv) Un régimen disciplinario y sancionador. La opción 'Un régimen de participación de los supervisados en la toma de decisiones' no forma parte de estos elementos explícitamente descritos.\n\n\nEjemplo: En el contexto de una entidad bancaria supervisada, la inspección recibe un requerimiento. Esta medida de carácter corrector es un claro ejemplo de uno de los elementos del modelo de supervisión, distinto a un hipotético régimen de participación de la entidad en la definición de la normativa.",
+      "id": "q_c41181b0a7",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuáles son las facultades del Banco de España respecto a las sucursales de entidades de crédito de países de la UE?",
+      "options": {
+        "a": "Supervisión completa de solvencia y cumplimiento normativo.",
+        "b": "Control exclusivo de la solvencia de la sucursal.",
+        "c": "Control de la liquidez de la sucursal y del cumplimiento de las normas de interés general.",
+        "d": "No tiene facultades de supervisión directa sobre estas sucursales."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que 'En el caso de las sucursales de entidades de países de la UE, sus facultades se limitan al control de la liquidez de la sucursal y del cumplimiento de las normas de interés general'.\n\n\nEjemplo: Una sucursal en Madrid de un banco alemán requiere un aumento de liquidez inesperado. El Banco de España intervendría para evaluar y controlar esta situación de liquidez, y no para supervisar su solvencia global, que recaería en el supervisor del país de origen de la entidad.",
+      "id": "q_cdf214e53a",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Dentro del Inventario de Funciones del Eurosistema (ESIF) y el catálogo Functions Grid (ESFG), ¿qué representa la categoría 'D' de funciones?",
+      "options": {
+        "a": "Funciones básicas de un banco central, desde la perspectiva del Eurosistema.",
+        "b": "Funciones de apoyo e instrumentación.",
+        "c": "Otro personal que no realiza funciones para la institución aun estando en activo.",
+        "d": "Personal 'no pagado' que conserva el derecho de reincorporación."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto define la categoría 'D' como 'Otro personal: no realiza funciones para la institución aun estando en activo (estancias temporales, programas de formación de larga duración fuera del banco central, bajas temporales –enfermedad, maternidad, paternidad–, …)'. Las opciones 'a', 'b' y 'd' corresponden a las categorías A, C y F respectivamente.\n\n\nEjemplo: Un empleado del Banco de España se encuentra de baja por maternidad durante un periodo prolongado. A efectos del ESIF, aunque forma parte de la plantilla, su tiempo se imputaría a la categoría D, ya que no está realizando funciones activas para la institución en ese momento.",
+      "id": "q_2e0caaa9a8",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según el ESFG, ¿cuál de las siguientes es una 'función A' o función básica de un banco central?",
+      "options": {
+        "a": "Servicios bancarios a administraciones públicas.",
+        "b": "Gestión de datos financieros de ciudadanos y empresas (CIR).",
+        "c": "Billetes y monedas.",
+        "d": "Prevención del blanqueo de capitales."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto clasifica 'Billetes y monedas' (A.4) como una de las funciones básicas o 'funciones A', indicando que es 'consustancial a la naturaleza de la banca central, engloba todo el ciclo de vida del efectivo'. Las otras opciones (Servicios bancarios, Gestión de datos financieros, Prevención del blanqueo de capitales) son 'funciones B' (B.9, B.10, B.13 respectivamente).\n\n\nEjemplo: El departamento encargado de la emisión, clasificación y retirada de billetes deteriorados en un banco central está desempeñando una función A.4. Su labor es fundamental para la circulación del efectivo y se considera una actividad intrínseca a la esencia de la banca central.",
+      "id": "q_00560adfe5",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Dentro de las 'funciones B' o 'funciones domésticas' de un banco central, ¿cuál de las siguientes se refiere a la recopilación y tratamiento de diversas bases de datos como la Central de Información de Riesgos (CIR) o la Central de Balances?",
+      "options": {
+        "a": "B.9 Servicios bancarios.",
+        "b": "B.10 Gestión de datos financieros de ciudadanos y empresas.",
+        "c": "B.11 Relaciones con los ciudadanos.",
+        "d": "B.12 Otra investigación."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto define la función B.10 como 'Gestión de datos financieros de ciudadanos y empresas: recopilación y tratamiento de diversas bases de datos, incluyendo registros de entidades de crédito, la Central de Información de Riesgos (CIR) o la Central de Balances'. Las otras opciones corresponden a otras funciones B con definiciones distintas.\n\n\nEjemplo: Un analista del Banco de España consulta la Central de Información de Riesgos para evaluar la exposición crediticia de una entidad. Esta tarea se enmarca dentro de la función B.10, esencial para la gestión y el análisis de datos financieros.",
+      "id": "q_0a8017e20d",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el contexto de la función B.13 'Prevención del blanqueo de capitales', ¿dónde se registra la plantilla destinada en el Sepblac y por qué?",
+      "options": {
+        "a": "En la función B.13, porque forma parte de la plantilla del Banco de España.",
+        "b": "En la función D.1, porque este servicio no forma parte del organigrama del Banco de España.",
+        "c": "En la función C.9, como función de apoyo e instrumentación.",
+        "d": "En la función A.9, como parte de la supervisión prudencial."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto especifica que 'la plantilla destinada en el Sepblac se registra en el apartado D.1, pues este servicio no forma parte del organigrama del Banco de España'. La función D.1 corresponde a 'Otro personal: no realiza funciones para la institución aun estando en activo'.\n\n\nEjemplo: Si un empleado del Banco de España es asignado permanentemente al Sepblac, su tiempo de trabajo se imputará a la categoría D.1 en el ESIF, reflejando que, aunque es personal del Banco de España, su labor se desarrolla en una entidad externa a su organigrama.",
+      "id": "q_c4158aa45a",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Qué entidad o autoridades asiste el Banco de España en la recopilación de información estadística según sus funciones?",
+      "options": {
+        "a": "El Fondo Monetario Internacional (FMI).",
+        "b": "El Banco Central Europeo (BCE).",
+        "c": "La Comisión Nacional del Mercado de Valores (CNMV).",
+        "d": "La Autoridad Bancaria Europea (EBA)."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto señala claramente que el Banco de España 'asistir al BCE en la recopilación de información estadística'. Además, recopila y proporciona al BCE las estadísticas necesarias para llevar a cabo las políticas monetaria y cambiaria únicas.\n\n\nEjemplo: Para elaborar el informe mensual de agregados monetarios de la Eurozona, el BCE solicita datos específicos a todos los bancos centrales nacionales. El Banco de España, cumpliendo con su función, recopila y envía la información estadística relevante para España al BCE.",
+      "id": "q_47edd2a2d4",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el contexto de las 'Funciones básicas de un banco central' (Funciones A), ¿cuál de las siguientes actividades se incluye en la A.2 Operaciones de política monetaria y gestión de activos?",
+      "options": {
+        "a": "Investigación económica para la estabilidad de precios.",
+        "b": "Desarrollo de sistemas de pago como SEPA.",
+        "c": "Gestión del riesgo financiero y las garantías (middle office).",
+        "d": "Vigilancia de riesgos sistémicos (perspectiva macroprudencial)."
+      },
+      "correctAnswer": "c",
+      "explanation": "La función A.2 'Operaciones de política monetaria y gestión de activos' se divide, según el texto, en actividades como 'front office (operación en el mercado), middle office (gestión del riesgo financiero y las garantías) y back office (liquidación)'. Las demás opciones corresponden a otras funciones A: A.1 (política monetaria), A.5 (sistemas de pago) y A.10 (estabilidad financiera).\n\n\nEjemplo: Un gestor de cartera de un banco central del Eurosistema evalúa los riesgos asociados a una operación de compra de bonos para implementar una decisión de política monetaria. Esta actividad de gestión del riesgo se encuadra en la 'middle office' de la función A.2.",
+      "id": "q_c0f7c2bb43",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la misión principal que subyace a la elaboración de la política monetaria (A.1), según se describe en las funciones básicas de un banco central?",
+      "options": {
+        "a": "Fomentar el crecimiento económico sostenible.",
+        "b": "Preservar la estabilidad de precios.",
+        "c": "Minimizar la volatilidad de los tipos de cambio.",
+        "d": "Garantizar el pleno empleo."
+      },
+      "correctAnswer": "b",
+      "explanation": "La descripción de la función A.1 'Elaboración de la política monetaria' establece que su propósito es 'preparar las decisiones de política monetaria que constituyen la acción más visible del Consejo de Gobierno del BCE, de cara a su misión de preservar la estabilidad de precios'.\n\n\nEjemplo: El Consejo de Gobierno del BCE decide aumentar los tipos de interés. Esta medida de política monetaria se adopta principalmente con el objetivo de contener la inflación y asegurar que los precios en la Eurozona se mantengan estables a medio plazo.",
+      "id": "q_7dcaf463a7",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "La función A.9 'Supervisión prudencial' abarca entidades bajo la supervisión directa del MUS y las menos significativas. Además, para el Banco de España, ¿qué otro tipo de entidades supervisa por mandato nacional que quedan fuera del ámbito de la supervisión única?",
+      "options": {
+        "a": "Grandes fondos de inversión.",
+        "b": "Empresas de seguros.",
+        "c": "Establecimientos de cambio de moneda.",
+        "d": "Sociedades gestoras de instituciones de inversión colectiva."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto especifica que la función A.9 'Supervisión prudencial' cubre, 'en el caso del Banco de España, por ejemplo, los establecimientos de cambio de moneda', como entidades supervisadas por mandato nacional pero fuera del ámbito de la supervisión única.\n\n\nEjemplo: Un inspector del Banco de España realiza una visita a una oficina de cambio de divisas en un aeropuerto. Esta inspección se realiza en virtud de las competencias de supervisión prudencial A.9 del Banco de España, aplicadas a entidades que, si bien son financieras, no están bajo el paraguas directo del MUS para supervisión de entidades significativas.",
+      "id": "q_c0ded7e647",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "La función A.10 'Estabilidad financiera' se enfoca en la perspectiva macroprudencial. ¿Cuál es su principal objetivo en este contexto?",
+      "options": {
+        "a": "Supervisar las entidades de crédito individualmente para asegurar su solvencia.",
+        "b": "Gestionar los activos de reserva del banco central.",
+        "c": "Vigilar los riesgos sistémicos y proponer medidas para evitar incidentes en los sistemas financieros.",
+        "d": "Elaborar estadísticas monetarias y financieras."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto define la función A.10 'Estabilidad financiera' como la que adopta 'la perspectiva macroprudencial, que es la que adopta esta función, de cara a vigilar los riesgos sistémicos y proponer las medidas necesarias para evitar incidentes en los sistemas financieros'. Las demás opciones se corresponden con la supervisión microprudencial (parte de A.9), gestión de activos (A.2) o estadísticas (A.3).\n\n\nEjemplo: Ante un aumento significativo de los precios inmobiliarios, el Banco de España, en el marco de su función A.10, analiza si existe un riesgo de burbuja que podría afectar la estabilidad de todo el sistema financiero y, si lo considera necesario, podría proponer medidas regulatorias para mitigar ese riesgo sistémico.",
+      "id": "q_41adbcab97",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuándo se hizo extensivo el Inventario de Funciones del Eurosistema (ESIF) al Mecanismo Único de Supervisión (MUS)?",
+      "options": {
+        "a": "1998",
+        "b": "1999",
+        "c": "2015",
+        "d": "2024"
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto afirma que 'en 1999 se lleva a cabo el primer inventario de funciones en el ámbito del Eurosistema (ESIF) y en 2015, se hace extensivo al MUS'.\n\n\nEjemplo: Un historiador del Banco de España investiga la evolución de la supervisión bancaria. Al estudiar el ESIF, notará que su alcance se amplió a la supervisión bancaria unificada a partir del año 2015, reflejando cambios en la arquitectura financiera europea.",
+      "id": "q_6cff13e2e6",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "De acuerdo con la normativa interna del Banco de España, ¿en qué apartado se registra la plantilla de empleados del Banco de España destinada al Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias (Sepblac)?",
+      "options": {
+        "a": "Apartado B.13, como función propia de prevención del blanqueo de capitales.",
+        "b": "Apartado C.1, dado que es una función de contabilidad y reporting.",
+        "c": "Se registra directamente en el organigrama del Sepblac, al no formar parte del Banco de España.",
+        "d": "Apartado D.1."
+      },
+      "correctAnswer": "d",
+      "explanation": "El texto establece que, aunque el Banco de España aporta una parte significativa de sus empleados al Sepblac, la plantilla destinada en este servicio se registra en el apartado D.1, ya que el Sepblac no forma parte del organigrama del Banco de España.\n\n\nEjemplo: Un empleado del Banco de España que es asignado para trabajar en tareas de prevención de blanqueo de capitales dentro del Sepblac, figurará administrativamente bajo el registro D.1 de la organización interna del Banco, y no dentro de las funciones operativas de prevención (B.13) ni en la contabilidad general (C.1).",
+      "id": "q_bf657fa6a8",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Las Autoridades Nacionales de Resolución (NRA) tienen la responsabilidad de elaborar planes de resolución, analizar la resolubilidad y determinar el MREL para las entidades financieras que no están bajo el ámbito de la Junta Única de Resolución (JUR). ¿Qué tipo de entidades se incluyen en este ámbito de actuación de las NRA?",
+      "options": {
+        "a": "Todas las entidades financieras que operan en la zona euro, independientemente de su importancia sistémica.",
+        "b": "Aquellas consideradas menos importantes sistémicamente.",
+        "c": "Exclusivamente las instituciones financieras sistémicamente importantes que operan en varios países dentro de la zona del euro.",
+        "d": "Las que han sido clasificadas como instituciones financieras sistémicamente importantes."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto especifica que las NRA son responsables de las entidades financieras que no están bajo el ámbito de la Junta Única de Resolución (JUR), lo que se define como 'aquellas que son menos importantes sistémicamente'. Para las entidades sistémicamente importantes, las NRA son responsables de la implementación de medidas decididas por la JUR, pero no de la elaboración inicial de los planes de resolución en sí.\n\n\nEjemplo: Un banco regional de tamaño mediano en España, que no es considerado sistémicamente importante a nivel europeo, sería objeto de un plan de resolución elaborado y gestionado directamente por la Autoridad Nacional de Resolución española, sin la intervención directa de la JUR en la fase de elaboración de dicho plan.",
+      "id": "q_d3c552e630",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Dentro de las funciones de apoyo e instrumentación del Banco de España, ¿qué función abarca la gestión tecnológica de los sistemas de información, incluyendo hardware y software, así como su desarrollo, mantenimiento y operación?",
+      "options": {
+        "a": "Tecnologías de la información y las comunicaciones.",
+        "b": "Planificación y control de gestión.",
+        "c": "Contabilidad y reporting.",
+        "d": "Servicios internos."
+      },
+      "correctAnswer": "a",
+      "explanation": "La función C.2, denominada 'Tecnologías de la información y las comunicaciones', se define explícitamente como la 'gestión tecnológica de los sistemas de información, hardware y software, tanto desarrollo como mantenimiento y operación'.\n\n\nEjemplo: La implementación de un nuevo sistema de gestión documental o la actualización de los servidores que soportan las operaciones del Banco de España recaerían directamente bajo la responsabilidad de la función de Tecnologías de la información y las comunicaciones.",
+      "id": "q_1583633c7e",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Qué función del Banco de España presta servicios independientes y objetivos de aseguramiento y consulta, con el propósito de ayudar a la institución a cumplir sus objetivos mediante un enfoque sistemático y disciplinado para evaluar y mejorar la eficacia en la gestión de riesgos, control y gobierno?",
+      "options": {
+        "a": "Asesoría jurídica interna.",
+        "b": "Planificación y control de gestión.",
+        "c": "Auditoría interna.",
+        "d": "Secretariado de órganos rectores."
+      },
+      "correctAnswer": "c",
+      "explanation": "La función C.10, 'Auditoría interna', se describe como la 'función de control interno por excelencia, presta servicios independientes y objetivos de aseguramiento y consulta. Ayuda a la institución a cumplir sus objetivos, aportando un enfoque sistemático y disciplinado para evaluar y mejorar la eficacia en la gestión de riesgos, control y gobierno'.\n\n\nEjemplo: Si el Banco de España desea evaluar la eficiencia y seguridad de sus procedimientos de gestión de datos personales, la Auditoría Interna llevaría a cabo una revisión para identificar posibles riesgos y proponer mejoras en los controles internos.",
+      "id": "q_2f8544492c",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "La función de Asesoría jurídica interna en el Banco de España engloba la labor jurídica relativa a cualquier actividad interna. ¿Cuál de las siguientes actividades se incluye expresamente dentro de esta función?",
+      "options": {
+        "a": "La representación ante los tribunales.",
+        "b": "La gestión de personal y del talento.",
+        "c": "La supervisión de los servicios de auditoría interna.",
+        "d": "La elaboración de presupuestos anuales."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto indica que la función C.11, 'Asesoría jurídica interna', incluye 'la representación ante los tribunales', además de asesoría en contrataciones, asuntos fiscales y gestión de subsidiarias y participadas.\n\n\nEjemplo: En caso de que el Banco de España sea demandado en un litigio relacionado con una contratación interna o necesite interponer una demanda para proteger sus intereses, la Asesoría Jurídica Interna sería la encargada de su representación legal ante los tribunales.",
+      "id": "q_1b2410853a",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "La función de Recursos humanos y asuntos sociales del Banco de España se compone de diversos elementos. ¿Cuál de los siguientes aspectos no forma parte de la gestión de personal y del talento descrita en esta función?",
+      "options": {
+        "a": "Selección, contratación, pagos y seguridad social.",
+        "b": "Relaciones laborales, beneficios sociales, formación y movilidad.",
+        "c": "Desarrollo de carreras y la representación de los trabajadores.",
+        "d": "La tramitación de asuntos de los órganos para la toma de decisiones del Eurosistema."
+      },
+      "correctAnswer": "d",
+      "explanation": "La función C.12, 'Recursos humanos y asuntos sociales', se compone de la gestión de personal y talento (selección, contratación, pagos y seguridad social, relaciones laborales, beneficios sociales, formación, movilidad, desarrollo de carreras) y la labor de representación de los trabajadores. La tramitación de asuntos de los órganos para la toma de decisiones del Eurosistema corresponde a la función C.3 'Secretariado de órganos rectores'.\n\n\nEjemplo: La organización de un curso de formación para empleados o la negociación de un convenio colectivo son tareas propias de la función de Recursos Humanos. Sin embargo, la preparación de actas para una reunión del Consejo de Gobierno del BCE no es una actividad de RRHH.",
+      "id": "q_4220e59a93",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "De acuerdo con la Ley de Autonomía, ¿cuántos órganos rectores principales tiene el Banco de España y cómo se clasifican?",
+      "options": {
+        "a": "Tres: uno unipersonal y dos colegiados.",
+        "b": "Cuatro: dos unipersonales y dos colegiados.",
+        "c": "Cinco: tres unipersonales y dos colegiados.",
+        "d": "Dos: uno unipersonal y uno colegiado."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto establece que los órganos rectores, regulados en la Ley de Autonomía, 'son cuatro: dos de ellos unipersonales (el Gobernador y el Subgobernador/a) y dos colegiados (el Consejo de Gobierno y la Comisión Ejecutiva)'.\n\n\nEjemplo: Los órganos rectores del Banco de España, siguiendo esta clasificación, son el Gobernador (unipersonal), el Subgobernador (unipersonal), el Consejo de Gobierno (colegiado) y la Comisión Ejecutiva (colegiado).",
+      "id": "q_474f1fdde6",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Quién propone al Gobernador del Banco de España para su nombramiento por el Rey?",
+      "options": {
+        "a": "El Ministro de Economía, Comercio y Empresa.",
+        "b": "El Consejo de Gobierno del Banco de España.",
+        "c": "El Consejo General del BCE.",
+        "d": "El presidente del Gobierno."
+      },
+      "correctAnswer": "d",
+      "explanation": "El Gobernador 'Es nombrado por el rey, a propuesta del presidente del Gobierno'.\n\n\nEjemplo: Si se produjera una vacante en el puesto de Gobernador del Banco de España, el procedimiento para su nombramiento iniciaría con la propuesta formal del candidato por parte del presidente del Gobierno al Rey.",
+      "id": "q_cad1942854",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Respecto al mandato del Gobernador del Banco de España, ¿cuál de las siguientes afirmaciones es correcta?",
+      "options": {
+        "a": "Su mandato es de cuatro años, renovable por una única vez.",
+        "b": "Su mandato es indefinido, sujeto a cese por el Gobierno.",
+        "c": "Su mandato dura seis años y no es renovable.",
+        "d": "Su mandato es de cinco años, renovable sin límite."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que el Gobernador 'su mandato dura seis años, sin posible renovación'.\n\n\nEjemplo: Un Gobernador que asume su cargo en enero de 2025 finalizará su mandato en enero de 2031, sin la posibilidad de ser nombrado nuevamente para el mismo puesto.",
+      "id": "q_678ff27c29",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Quién designa al Subgobernador/a del Banco de España y a propuesta de quién?",
+      "options": {
+        "a": "El Gobierno, a propuesta del Gobernador.",
+        "b": "El Rey, a propuesta del presidente del Gobierno.",
+        "c": "El Consejo de Gobierno, a propuesta del Ministro de Economía, Comercio y Empresa.",
+        "d": "El presidente del Gobierno, a propuesta del Consejo de Gobierno."
+      },
+      "correctAnswer": "a",
+      "explanation": "El Subgobernador/a 'Es designado por el Gobierno, a propuesta del Gobernador'. Su mandato es igualmente de seis años no renovables.\n\n\nEjemplo: Si el cargo de Subgobernador quedara vacante, el Gobernador en funciones del Banco de España debería proponer un candidato al Gobierno para su designación.",
+      "id": "q_aa06ec2098",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes funciones es una atribución principal del Consejo de Gobierno del Banco de España?",
+      "options": {
+        "a": "Decidir sobre la organización interna y administración del Banco.",
+        "b": "Incoar expedientes sancionadores a las entidades supervisadas.",
+        "c": "Aprobar el Reglamento Interno del Banco.",
+        "d": "Autorizar gastos hasta el importe establecido anualmente por los Directores Generales."
+      },
+      "correctAnswer": "c",
+      "explanation": "Entre las principales funciones del Consejo de Gobierno se encuentra la de 'aprobar el Informe Anual, el Reglamento Interno, la propuesta de presupuestos, la de distribución de beneficios y otras propuestas de similar trascendencia'. Las opciones a) y b) son funciones de la Comisión Ejecutiva, y la d) es una potestad de los Directores Generales.\n\n\nEjemplo: Para cualquier modificación sustancial en las normas que rigen el funcionamiento interno del Banco de España, como la aprobación de un nuevo Reglamento Interno, se requiere el visto bueno y la aprobación del Consejo de Gobierno.",
+      "id": "q_4518dc2e16",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuántos Consejeros no natos forman parte del Consejo de Gobierno del Banco de España y quién los designa?",
+      "options": {
+        "a": "Cuatro, designados por el Gobierno a propuesta del Gobernador.",
+        "b": "Seis, designados por el Gobierno a propuesta del Ministro de Economía, Comercio y Empresa.",
+        "c": "Dos, designados por el Consejo de Gobierno a propuesta del Gobernador.",
+        "d": "Diez, designados por el Rey a propuesta del presidente del Gobierno."
+      },
+      "correctAnswer": "b",
+      "explanation": "El Consejo de Gobierno se compone de 'Seis Consejeros (no natos), de reconocido prestigio en el campo de la economía o el derecho, designados por el Gobierno a propuesta del Ministro de Economía y Hacienda (actualmente Ministro de Economía, Comercio y Empresa)'.\n\n\nEjemplo: Si un puesto de Consejero no nato en el Consejo de Gobierno quedara vacante, el Ministro de Economía, Comercio y Empresa propondría al Gobierno un nuevo candidato con la cualificación requerida para su designación.",
+      "id": "q_6daaa6f7c6",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la duración del mandato de los Consejeros no natos del Consejo de Gobierno y bajo qué condición pueden ser renovados?",
+      "options": {
+        "a": "Seis años, renovables por una sola vez.",
+        "b": "Cuatro años, no renovables.",
+        "c": "Cinco años, renovables sin límite.",
+        "d": "Indefinido, sujeto a la confianza del Ministro de Economía."
+      },
+      "correctAnswer": "a",
+      "explanation": "Los Consejeros no natos del Consejo de Gobierno son designados 'por un mandato de seis años, renovables por una sola vez'.\n\n\nEjemplo: Un Consejero no nato que haya cumplido su primer mandato de seis años en el Consejo de Gobierno puede ser propuesto y designado nuevamente para un segundo y último mandato de seis años, pero no podrá ser renovado una tercera vez.",
+      "id": "q_4a7129ce0b",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "De los siguientes, ¿quién asiste a las reuniones del Consejo de Gobierno del Banco de España con voz pero sin voto?",
+      "options": {
+        "a": "El Subgobernador/a.",
+        "b": "El Secretario/a General del Tesoro y Financiación Internacional.",
+        "c": "El Representante de Personal en el Consejo de Gobierno.",
+        "d": "El Vicepresidente/a de la Comisión Nacional del Mercado de Valores."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto especifica que 'Asisten a las reuniones, con voz y sin voto, los Directores Generales y el Secretario General, que actúa como secretario. También asiste, con voz y sin voto, el Representante de Personal en el Consejo de Gobierno'. Las otras opciones son miembros con derecho a voto.\n\n\nEjemplo: Durante una sesión del Consejo de Gobierno, el Representante de Personal puede intervenir para expresar la opinión de los empleados sobre un punto del orden del día, pero no participará en la votación de las decisiones.",
+      "id": "q_5f688155b3",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes es una función principal de la Comisión Ejecutiva del Banco de España?",
+      "options": {
+        "a": "Aprobar el Informe Anual y la propuesta de presupuestos del Banco.",
+        "b": "Adoptar medidas de intervención y sustitución de administradores de entidades supervisadas.",
+        "c": "Designar a los seis Consejeros no natos del Consejo de Gobierno.",
+        "d": "Asesorar al Gobernador en materias que este requiera."
+      },
+      "correctAnswer": "b",
+      "explanation": "Entre las principales funciones de la Comisión Ejecutiva se encuentra 'adoptar medidas de intervención y sustitución de administradores' de las entidades que supervisa. La opción a) es del Consejo de Gobierno, la c) es del Gobierno a propuesta del Ministro de Economía y Hacienda, y la d) es del Comité de Dirección.\n\n\nEjemplo: Si una entidad financiera supervisada por el Banco de España presentara graves deficiencias en su gestión o solvencia, la Comisión Ejecutiva podría decidir la intervención de dicha entidad y el nombramiento de nuevos administradores.",
+      "id": "q_b621049a87",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuántos Consejeros del Consejo de Gobierno forman parte de la Comisión Ejecutiva, y cómo se determina la duración de su mandato en esta comisión?",
+      "options": {
+        "a": "Seis Consejeros, por un mandato de seis años no renovables.",
+        "b": "Cuatro Consejeros, con un mandato de duración específica de cuatro años.",
+        "c": "Un Consejero, con un mandato de duración indefinida.",
+        "d": "Dos Consejeros, con un mandato de duración coincidente con el tiempo que les quede como Consejeros del Consejo de Gobierno."
+      },
+      "correctAnswer": "d",
+      "explanation": "La Comisión Ejecutiva se compone de 'Dos Consejeros de entre los seis no natos del Consejo de Gobierno, designados por el Consejo de Gobierno a propuesta del Gobernador, con un mandato de duración coincidente con el tiempo que les quede como Consejeros del Consejo de Gobierno'.\n\n\nEjemplo: Si un Consejero no nato del Consejo de Gobierno es designado para la Comisión Ejecutiva cuando le restan tres años de su mandato original como Consejero, su permanencia en la Comisión Ejecutiva también será de tres años.",
+      "id": "q_bf9cd10306",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la principal función atribuida a la Comisión de Auditoría del Banco de España en relación con las cuentas anuales?",
+      "options": {
+        "a": "Censurar el proyecto de cuentas anuales del Banco de España.",
+        "b": "Aprobar las cuentas anuales definitivas y su publicación.",
+        "c": "Elaborar el informe de auditoría externa.",
+        "d": "Determinar la distribución de beneficios de las cuentas anuales."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto especifica que la Comisión de Auditoría 'tiene atribuida la función de censurar el proyecto de cuentas anuales del Banco de España'. También supervisa los servicios de auditoría interna y las relaciones con los auditores externos, pero la acción directa sobre el proyecto de cuentas es la censura.\n\n\nEjemplo: Antes de que el proyecto de cuentas anuales del Banco de España sea elevado para su aprobación final, la Comisión de Auditoría lo revisará minuciosamente para asegurar su corrección y transparencia, pudiendo emitir objeciones o solicitar aclaraciones.",
+      "id": "q_a751423593",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Quiénes componen la Comisión de Auditoría del Banco de España y cómo son designados?",
+      "options": {
+        "a": "Cuatro miembros del Comité de Dirección, designados por el Gobernador.",
+        "b": "Todos los Directores Generales y el Secretario General.",
+        "c": "Tres miembros del Consejo de Gobierno, designados por el mismo a propuesta del Gobernador.",
+        "d": "El Gobernador, el Subgobernador y el Secretario General del Tesoro."
+      },
+      "correctAnswer": "c",
+      "explanation": "Los componentes de la Comisión de Auditoría son 'tres miembros del Consejo de Gobierno, designados por el mismo, a propuesta del Gobernador'.\n\n\nEjemplo: El Gobernador propondrá tres miembros del Consejo de Gobierno para que el propio Consejo los designe formalmente como integrantes de la Comisión de Auditoría, encargada de la supervisión y control.",
+      "id": "q_b9b271952b",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe una función esencial del Comité de Dirección del Banco de España?",
+      "options": {
+        "a": "Resolver expedientes sancionadores a las entidades supervisadas.",
+        "b": "Aprobar las Circulares Monetarias del Banco.",
+        "c": "Designar a los miembros de la Comisión de Auditoría.",
+        "d": "Coordinar la actuación de las Direcciones Generales."
+      },
+      "correctAnswer": "d",
+      "explanation": "Una de las principales funciones del Comité de Dirección es 'coordinar la actuación de las direcciones generales', además de asesorar al Gobernador y Subgobernador y coadyuvar en la preparación de asuntos para el Consejo de Gobierno y la Comisión Ejecutiva.\n\n\nEjemplo: Si existieran proyectos o iniciativas que involucren a varias Direcciones Generales, como la implementación de una nueva política de gestión de riesgos, el Comité de Dirección se encargaría de asegurar que todas las direcciones trabajen de manera cohesionada y eficiente.",
+      "id": "q_703a002a17",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Quién tiene la potestad de determinar el régimen de funcionamiento, la periodicidad de reuniones, el orden del día y las convocatorias del Comité de Dirección del Banco de España?",
+      "options": {
+        "a": "El Gobernador.",
+        "b": "El Consejo de Gobierno.",
+        "c": "La Comisión Ejecutiva.",
+        "d": "El Subgobernador/a, en coordinación con el Gobernador."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto establece que 'El Gobernador determina su régimen de funcionamiento, periodicidad de reuniones, orden del día y convocatorias' del Comité de Dirección.\n\n\nEjemplo: Si el Gobernador considera necesario que el Comité de Dirección se reúna con mayor frecuencia debido a una situación de mercado volátil, tiene la autoridad para modificar la periodicidad de las reuniones.",
+      "id": "q_da406130df",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el ejercicio de sus funciones, ¿qué potestad relacionada con el gasto tienen los Directores Generales del Banco de España?",
+      "options": {
+        "a": "No tienen potestad para autorizar gastos, solo para proponerlos.",
+        "b": "Pueden autorizar cualquier gasto necesario para su Dirección General sin límite.",
+        "c": "Podrán autorizar gastos hasta el importe que en cada ejercicio presupuestario se establezca y ordenar pagos correspondientes.",
+        "d": "Solo pueden ordenar pagos, la autorización corresponde al Gobernador."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que 'Los Directores Generales podrán autorizar gastos hasta el importe que en cada ejercicio presupuestario se establezca, y ordenar pagos correspondientes a gastos previamente autorizados'.\n\n\nEjemplo: Un Director General puede autorizar la compra de nuevo software para su departamento siempre y cuando el coste de esta adquisición no exceda el límite presupuestario asignado para gastos discrecionales en ese ejercicio, y también puede ordenar el pago de facturas ya autorizadas.",
+      "id": "q_0b099a67dd",
       "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
     }
   ]
