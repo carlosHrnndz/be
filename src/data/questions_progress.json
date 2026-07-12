@@ -31,7 +31,10 @@
     "5f7e302836670951c39590001263b151": true,
     "8672490de9d7d2c3646a8ada7d641547": true,
     "2fb1472d712d3cf354f6fb6176f6680a": true,
-    "e071d67b803e54c2ec362c10a8b345fa": true
+    "e071d67b803e54c2ec362c10a8b345fa": true,
+    "c68d5d6d4804a5b5718f5c28ddba9c67": true,
+    "19cd1cea7bcc28fd3b538a334ec55b0c": true,
+    "4224424c171c1e34924cd9c612c323a7": true
   },
   "questions": [
     {
@@ -6663,6 +6666,643 @@
       "explanation": "El texto establece que el Departamento de Adquisiciones, cuya función principal es \"la provisión oportuna de suministros, servicios y obras requerida por el Banco, mediante una gestión integral y eficiente de todas las actividades relacionadas con las adquisiciones. Esto incluye el análisis de necesidades de contratación de las distintas áreas, la elaboración de la planificación anual, las licitaciones correspondientes, la gestión presupuestaria, la facturación, el seguimiento de contratos, así como el mantenimiento del registro de proveedores y del inventario de bienes\".\n\n\nEjemplo: Cuando el Banco de España necesita adquirir nuevos equipos informáticos o contratar servicios de limpieza para sus instalaciones, el Departamento de Adquisiciones sería el encargado de analizar las ofertas de los proveedores, gestionar la licitación y asegurar el cumplimiento del presupuesto para esa compra.",
       "id": "q_a67471182f",
       "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿De quién depende directamente la función de Auditoría Interna del Banco de España, según la estructura organizativa descrita?",
+      "options": {
+        "a": "Del Subgobernador/a.",
+        "b": "Del Comité de Dirección.",
+        "c": "Del Gobernador.",
+        "d": "De la Comisión Ejecutiva."
+      },
+      "correctAnswer": "c",
+      "explanation": "La Auditoría Interna depende directamente del Gobernador, como se establece explícitamente en el texto: 'terna depende directamente del Gobernador'.\n\n\nEjemplo: En una reunión sobre la planificación estratégica de auditorías para el próximo ejercicio, la jefa de Auditoría Interna reporta directamente al Gobernador del Banco de España sobre los riesgos identificados y las áreas prioritarias de revisión, sin pasar por niveles intermedios de dirección.",
+      "id": "q_940f0e4547",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el contexto de la gestión de riesgos del Banco de España, ¿qué rol desempeña la función de Auditoría Interna con respecto a las líneas de defensa?",
+      "options": {
+        "a": "Primera línea de defensa.",
+        "b": "Segunda línea de defensa.",
+        "c": "Tercera línea de defensa.",
+        "d": "Cuarta línea de defensa, complementaria a las demás."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica claramente que la Auditoría Interna actúa 'como tercera línea de defensa' en la evaluación de políticas y procedimientos de gestión y control de riesgos.\n\n\nEjemplo: Tras la implementación de nuevas políticas de ciberseguridad (primera línea de defensa por las áreas operativas) y su supervisión por parte del equipo de gestión de riesgos (segunda línea de defensa), la Auditoría Interna realiza una revisión exhaustiva para verificar la eficacia y suficiencia de dichas políticas y controles, ejerciendo así su rol de tercera línea.",
+      "id": "q_54d92a8450",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "Según la estructura organizativa del Banco de España, ¿de qué cargo depende directamente la Oficina Ambiental, Social y de Gobernanza (ASG)?",
+      "options": {
+        "a": "Del Gobernador.",
+        "b": "De la Subgobernadora.",
+        "c": "Del Director General de Operaciones.",
+        "d": "Del Presidente del Comité de Auditoría."
+      },
+      "correctAnswer": "b",
+      "explanation": "El fragmento especifica que 'La Oficina Ambiental, Social y de Gobernanza depende directamente de la Subgobernadora'.\n\n\nEjemplo: La responsable de la Oficina ASG presenta el informe anual de sostenibilidad del Banco a la Subgobernadora, quien es la máxima autoridad directamente supervisora de esta unidad, asegurando que las iniciativas ASG estén alineadas con la visión estratégica de su despacho.",
+      "id": "q_87528a2507",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes responsabilidades es una función específica de la Oficina Ambiental, Social y de Gobernanza (ASG) del Banco de España?",
+      "options": {
+        "a": "Realizar la supervisión de la conducta de entidades financieras.",
+        "b": "Gestionar las reservas de divisas como parte de las operaciones del Eurosistema.",
+        "c": "Impulsar una agenda estratégica alineada con otros bancos centrales para una transición hacia una economía descarbonizada.",
+        "d": "Asegurar la protección y mejora del valor del Banco de España mediante aseguramiento y asesoría independiente."
+      },
+      "correctAnswer": "c",
+      "explanation": "Entre las funciones de la Oficina ASG, el texto menciona: 'i) Coordinar e integrar los principios ASG... e impulsar una agenda estratégica alineada con la de otros bancos centrales para contribuir a una transición ordenada hacia una economía descarbonizada mediante el análisis de políticas públicas y evaluación del impacto económico, social y medioambiental'. Las otras opciones corresponden a funciones de otras unidades o del propio Banco en general.\n\n\nEjemplo: La Oficina ASG organiza un seminario internacional con representantes del BCE y otros bancos centrales nacionales para discutir las mejores prácticas en la integración de factores climáticos en la política monetaria y financiera, promoviendo así la agenda estratégica hacia una economía descarbonizada.",
+      "id": "q_40fa6612b5",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuántas sedes tiene el Banco de España en la ciudad de Madrid, según la información proporcionada?",
+      "options": {
+        "a": "Una sede central.",
+        "b": "Dos sedes.",
+        "c": "Tres sedes.",
+        "d": "Quince sedes."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto especifica: 'El Banco de España cuenta con dos sedes en Madrid: la sede central, en la calle de Alcalá, 48, y una segunda sede, en la calle de Alcalá, 522.'\n\n\nEjemplo: Un ciudadano que necesita realizar una consulta presencial en Madrid tiene la opción de acudir a la sede de la calle de Alcalá, 48, o a la segunda sede ubicada en la calle de Alcalá, 522, lo que demuestra la existencia de dos localizaciones operativas en la capital.",
+      "id": "q_4d6762a428",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿En cuántas ciudades del territorio nacional, aparte de Madrid, está presente el Banco de España con sedes territoriales?",
+      "options": {
+        "a": "12 ciudades.",
+        "b": "15 ciudades.",
+        "c": "17 ciudades.",
+        "d": "20 ciudades."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto afirma: 'El Banco de España está también presente en otras 15 ciudades del territorio nacional: A Coruña, Alicante, Badajoz, Barcelona, Bilbao, Las Palmas de Gran Canaria, Málaga, Murcia, Oviedo, Palma, Santa Cruz de Tenerife, Sevilla, València, Valladolid y Zaragoza.'\n\n\nEjemplo: Un empleado del Banco de España es trasladado de la sede central de Madrid a una de las oficinas en el territorio nacional; las opciones de destino incluyen las 15 ciudades mencionadas que cuentan con sedes territoriales, evidenciando la amplia cobertura geográfica de la institución.",
+      "id": "q_4ea7b73f7c",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes ciudades no cuenta con una sede territorial del Banco de España, de acuerdo con la lista proporcionada?",
+      "options": {
+        "a": "Palma.",
+        "b": "Zaragoza.",
+        "c": "Santander.",
+        "d": "Oviedo."
+      },
+      "correctAnswer": "c",
+      "explanation": "La lista de ciudades con sedes territoriales proporcionada en el texto incluye: A Coruña, Alicante, Badajoz, Barcelona, Bilbao, Las Palmas de Gran Canaria, Málaga, Murcia, Oviedo, Palma, Santa Cruz de Tenerife, Sevilla, València, Valladolid y Zaragoza. Santander no figura en esta lista.\n\n\nEjemplo: Una empresa con sede en Santander que necesita realizar una operación en una sucursal del Banco de España deberá desplazarse a una de las ciudades listadas, como Bilbao o Valladolid, ya que Santander no dispone de una oficina propia del Banco de España según la información oficial.",
+      "id": "q_9d6e129cf4",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Qué servicio específico, de los mencionados, es ofrecido exclusivamente por la sucursal del Banco de España en Barcelona?",
+      "options": {
+        "a": "Cambio de billetes y monedas en euros deteriorados.",
+        "b": "Recogida de efectivo presuntamente falso.",
+        "c": "Acceso presencial al BELab.",
+        "d": "Consulta de datos de la CIR."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que, entre los servicios que ofrecen las sucursales, 'en el caso de la sucursal de Barcelona, el acceso presencial al BELab' es una particularidad, implicando su exclusividad. Los demás servicios (cambio de billetes, recogida de efectivo falso, consulta CIR) se ofrecen 'en todas sus sedes'.\n\n\nEjemplo: Un investigador desea acceder a las instalaciones del BELab para colaborar en un proyecto de innovación financiera. Para ello, debe dirigirse específicamente a la sucursal del Banco de España en Barcelona, ya que es la única que ofrece este acceso presencial.",
+      "id": "q_17adeab10a",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Qué significa la sigla CIR en el contexto del glosario proporcionado por el Banco de España?",
+      "options": {
+        "a": "Comisión de Inversiones y Riesgos.",
+        "b": "Central de Información de Riesgos.",
+        "c": "Centro de Intervención Regulatoria.",
+        "d": "Comité Internacional de Regulación."
+      },
+      "correctAnswer": "b",
+      "explanation": "El glosario define CIR como 'Central de Información de Riesgos'.\n\n\nEjemplo: Un particular solicita al Banco de España consultar sus datos registrados en la CIR para verificar su historial crediticio antes de pedir un préstamo, lo que permite acceder a la información consolidada sobre riesgos bancarios.",
+      "id": "q_1839b9895f",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es el significado de la sigla MUS, según el glosario oficial del Banco de España?",
+      "options": {
+        "a": "Mecanismo Universal de Supervisión.",
+        "b": "Monitoreo Unificado de Seguridad.",
+        "c": "Mecanismo Único de Supervisión (SSM-Single Supervisory Mechanism).",
+        "d": "Mercado Único de Servicios."
+      },
+      "correctAnswer": "c",
+      "explanation": "El glosario establece que MUS corresponde a 'Mecanismo Único de Supervisión (SSM-Single Supervisory Mechanism)'.\n\n\nEjemplo: El Banco de España, como parte del Eurosistema, coopera estrechamente con el BCE en el marco del MUS para la supervisión de entidades de crédito significativas, asegurando una aplicación uniforme de la normativa prudencial en la eurozona.",
+      "id": "q_0abf59bc52",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "En el contexto del Banco de España, ¿qué representa la sigla SEBC?",
+      "options": {
+        "a": "Sistema Español de Banca Central.",
+        "b": "Servicio Europeo de Balanza Comercial.",
+        "c": "Sistema Europeo de Bancos Centrales.",
+        "d": "Sociedad Europea de Bienes y Capitales."
+      },
+      "correctAnswer": "c",
+      "explanation": "El glosario define SEBC como 'Sistema Europeo de Bancos Centrales'.\n\n\nEjemplo: La Auditoría Interna del Banco de España colabora con sus homólogos del Eurosistema y del SEBC para garantizar la coherencia y efectividad de los controles internos en todo el sistema.",
+      "id": "q_babdb182a9",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿A qué organismo se refiere la sigla SEPBLAC según el glosario del Banco de España?",
+      "options": {
+        "a": "Servicio Europeo de Prevención del Blanqueo de Activos y Capitales.",
+        "b": "Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias.",
+        "c": "Secretaría Ejecutiva de Políticas Bancarias y Lucha contra el Blanqueo de Capitales.",
+        "d": "Sistema Europeo para la Prevención del Blanqueo de Activos."
+      },
+      "correctAnswer": "b",
+      "explanation": "El glosario proporciona la definición exacta de SEPBLAC como 'Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias'.\n\n\nEjemplo: Una entidad bancaria presenta un informe de operación sospechosa ante el SEPBLAC, cumpliendo así con sus obligaciones en la prevención del blanqueo de capitales, esperando que este organismo investigue la transacción.",
+      "id": "q_b41348b0ae",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es el propósito principal de la Auditoría Interna del Banco de España, según la descripción de sus funciones?",
+      "options": {
+        "a": "Ejecutar la política monetaria y supervisar los sistemas de pago.",
+        "b": "Ayudar al Banco de España y al Eurosistema a gestionar sus riesgos, protegiendo y mejorando su valor.",
+        "c": "Implementar las políticas ASG y fomentar la transparencia en foros internacionales.",
+        "d": "Realizar la supervisión prudencial directa de las entidades de crédito."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto establece que la Auditoría Interna se encarga de 'i) ayudar al Banco de España y al Eurosistema/SEBC/MUS... a gestionar sus riesgos (actuales y emergentes), para así proteger y mejorar su valor.' Las otras opciones describen funciones de otras áreas o del Banco en general.\n\n\nEjemplo: La Auditoría Interna realiza una evaluación de los controles internos de una nueva inversión del Banco, con el fin de identificar posibles riesgos financieros u operativos que puedan afectar el patrimonio de la institución y proponer medidas para protegerlo.",
+      "id": "q_0aff69002d",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la función principal que el Comité de Dirección del Banco de España desempeña?",
+      "options": {
+        "a": "Está formado por el gobernador, el subgobernador/a, los directores generales y directores generales adjuntos.",
+        "b": "Aprueba el Informe Anual del Banco de España.",
+        "c": "Sirve para coordinar la actuación de las direcciones generales.",
+        "d": "Es uno de los órganos de decisión del Banco de España."
+      },
+      "correctAnswer": "c",
+      "explanation": "La opción correcta es la c) porque el texto establece explícitamente que el Comité de Dirección 'Sirve para coordinar la actuación de las direcciones generales', lo que lo define como un órgano con una función primordial de coordinación. Las demás opciones describen aspectos diferentes (composición, otra posible función, o una categoría más general), pero no la función principal de coordinación según el texto.\n\n\nEjemplo: En una reunión mensual, el Comité de Dirección del Banco de España, presidido por el Gobernador, analiza los informes de las distintas direcciones generales sobre la implementación de una nueva política de estabilidad financiera, identificando solapamientos o vacíos y asegurando una acción coherente y alineada entre todas ellas.",
+      "id": "q_30e560880e",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre la estructura organizativa del Banco de España es verídica?",
+      "options": {
+        "a": "La Comisión de Auditoría depende de la Comisión Ejecutiva.",
+        "b": "El Departamento de Organización y Planificación depende directamente de la Subgobernador/a.",
+        "c": "El Departamento de Sistemas de Información depende directamente de la Dirección General Adjunta de Estrategia, Personas y Datos.",
+        "d": "La Dirección General de Supervisión cuenta con cuatro departamentos."
+      },
+      "correctAnswer": "c",
+      "explanation": "La afirmación c) es la única verdadera según el texto proporcionado, que indica específicamente que 'El Departamento de Sistemas de Información depende directamente de la Dirección General Adjunta de Estrategia, Personas y Datos.' Las otras opciones son incorrectas en relación con la información facilitada.\n\n\nEjemplo: Si un técnico del Departamento de Sistemas de Información necesita reportar un avance en el desarrollo de una nueva plataforma de datos internos, su informe jerárquico inmediato se dirigiría a la Dirección General Adjunta de Estrategia, Personas y Datos, demostrando así la cadena de mando establecida.",
+      "id": "q_42fb778bf9",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la dependencia jerárquica exacta de las sucursales del Banco de España?",
+      "options": {
+        "a": "Las sucursales dependen del Departamento de Sucursales, que depende de la Dirección General Adjunta de Servicios e Intervención.",
+        "b": "Las sucursales dependen del Departamento de Sucursales, que depende de la Secretaría General.",
+        "c": "Las sucursales dependen del Departamento de Sucursales, que depende de la Dirección General de Conducta Financiera y Billetes.",
+        "d": "Las sucursales dependen del Departamento de Sucursales, que depende de la Dirección General de Operaciones, Mercados y Sistemas de Pago."
+      },
+      "correctAnswer": "c",
+      "explanation": "La opción correcta es la c) porque el texto establece de forma explícita que 'Las sucursales dependen del Departamento de Sucursales, que depende de la Dirección General de Conducta Financiera y Billetes.' Esta es la única descripción de dependencia jerárquica de las sucursales que se presenta como correcta.\n\n\nEjemplo: El director de la sucursal de Sevilla del Banco de España necesita solicitar directrices sobre la gestión de billetes deteriorados. Para ello, se comunicaría con el Departamento de Sucursales, el cual, a su vez, reportaría o recibiría instrucciones de la Dirección General de Conducta Financiera y Billetes.",
+      "id": "q_601d5b4d72",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuáles son las funciones principales que la Dirección General de Economía del Banco de España cumple, según lo expuesto en el texto?",
+      "options": {
+        "a": "Promover el buen funcionamiento y estabilidad del sistema financiero y de los sistemas de pago, asesorar al gobierno y realizar informes y estudios procedentes, definir y ejecutar la política monetaria de la zona del euro.",
+        "b": "Realizar estudios e investigaciones en materia económica y financiera en el ámbito de la economía española, europea e internacional; elaborar, analizar y difundir las estadísticas encomendadas al Banco de España; definir y ejecutar la política monetaria de la zona del euro.",
+        "c": "Promover el buen funcionamiento y estabilidad del sistema financiero y de los sistemas de pago, asesorar al gobierno y realizar informes y estudios procedentes, elaborar y publicar estadísticas y asistir al BCE en la recopilación de información estadística.",
+        "d": "Realizar estudios e investigaciones en materia económica y financiera en el ámbito de la economía española, europea e internacional; realizar los trabajos de preparación, asesoramiento y seguimiento relativos a la participación del Banco de España en el ámbito de las instituciones europeas y, en particular, en relación con las reuniones del Consejo de Gobierno y Consejo General del Banco Central Europeo y del Comité Económico y Financiero de la Unión Europea."
+      },
+      "correctAnswer": "d",
+      "explanation": "La opción d) describe de manera precisa las funciones de la Dirección General de Economía conforme al texto. Incluye la realización de estudios e investigaciones económicas a nivel español, europeo e internacional, y la preparación y seguimiento de la participación del Banco de España en instituciones europeas, especialmente en relación con el BCE y el Comité Económico y Financiero de la UE.\n\n\nEjemplo: La Dirección General de Economía prepara un informe detallado sobre las proyecciones de inflación en la Eurozona para ser presentado en la próxima reunión del Consejo de Gobierno del Banco Central Europeo, así como un análisis del impacto de la política fiscal europea en la economía española para el Comité Económico y Financiero de la Unión Europea.",
+      "id": "q_6d22b84a7d",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes actividades es ejecutada por algún departamento adscrito a la Dirección General de Conducta Financiera y Billetes?",
+      "options": {
+        "a": "Gestionar la CIR, un servicio público que tiene por finalidad recabar de las entidades declarantes (básicamente entidades de crédito) datos e informaciones sobre los riesgos de crédito de los clientes y sus características, en particular, las que afectan a su recuperación.",
+        "b": "Gestionar la Biblioteca del Banco de España.",
+        "c": "Llevar a cabo la política de seguridad y su gestión, referida tanto a las personas como a los bienes, tanto para los servicios centrales como para las sucursales.",
+        "d": "Investigación y desarrollo en el ámbito de los billetes, así como control de la producción en curso de estos."
+      },
+      "correctAnswer": "d",
+      "explanation": "La opción correcta es la d) porque el texto indica que la 'Investigación y desarrollo en el ámbito de los billetes, así como control de la producción en curso de estos' es una actividad realizada por algún departamento de la Dirección General de Conducta Financiera y Billetes. Las otras opciones describen funciones que, aunque pueden ser del Banco de España, no se asocian a esta Dirección General en el texto.\n\n\nEjemplo: Un equipo de especialistas de la Dirección General de Conducta Financiera y Billetes está trabajando en el diseño de nuevas medidas de seguridad para los billetes de euro, investigando materiales y técnicas que dificulten la falsificación, y supervisando el proceso de fabricación en las imprentas autorizadas.",
+      "id": "q_1259de6aaf",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes funciones no se atribuye al Departamento de Estrategia y Personas según la información suministrada?",
+      "options": {
+        "a": "El mantenimiento de las estructuras organizativas.",
+        "b": "La selección y formación de los empleados.",
+        "c": "Efectuar los pagos de nóminas.",
+        "d": "Coordinar las actividades de comunicación interna."
+      },
+      "correctAnswer": "d",
+      "explanation": "La opción d) es la función que no corresponde al Departamento de Estrategia y Personas, ya que el texto presenta las opciones a), b) y c) como funciones implícitamente asignadas a este departamento, al ser las que se excluyen como incorrectas en una pregunta de tipo 'no corresponde'. Por lo tanto, el mantenimiento de estructuras organizativas, la selección y formación de empleados, y la gestión de pagos de nóminas sí son funciones de este departamento.\n\n\nEjemplo: El Departamento de Estrategia y Personas, tras un análisis de necesidades, convoca un proceso de selección para cubrir nuevas plazas de economistas. Sin embargo, la organización de eventos internos para la difusión de políticas institucionales recae en otro departamento especializado en comunicación.",
+      "id": "q_6db8a17e64",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la dependencia jerárquica correcta del Grupo de Organización y Calidad (Funciones Corporativas)?",
+      "options": {
+        "a": "Dirección General de Supervisión, dependiente de la Subgobernadora (quien depende del Gobernador).",
+        "b": "Dirección General de Supervisión, dependiente del Gobernador.",
+        "c": "Dirección General Adjunta de Supervisión I, dependiente de la Subgobernadora (quien depende del Gobernador).",
+        "d": "Dirección General Adjunta de Supervisión II, dependiente de la Subgobernadora (quien depende del Gobernador)."
+      },
+      "correctAnswer": "b",
+      "explanation": "La opción b) es la correcta, ya que el texto establece que el Grupo de Organización y Calidad (Funciones Corporativas) depende de la 'Dirección General de Supervisión, dependiente del Gobernador'. Las otras opciones introducen intermediarios o dependencias incorrectas.\n\n\nEjemplo: Si el Grupo de Organización y Calidad (Funciones Corporativas) desea implementar un nuevo sistema de gestión de la calidad en los procesos internos, deberá reportar y coordinar sus acciones directamente con la Dirección General de Supervisión, la cual, a su vez, reporta al Gobernador del Banco de España.",
+      "id": "q_5472d3442f",
+      "source": "GAN4_BdE_Funciones-Organizacion_2025.md"
+    },
+    {
+      "question": "¿Cuál es la fecha de publicación del documento 'GDN13 Banco Espana SEBC 2025'?",
+      "options": {
+        "a": "Enero de 2025",
+        "b": "Julio de 2025",
+        "c": "Octubre de 2025",
+        "d": "Diciembre de 2024"
+      },
+      "correctAnswer": "c",
+      "explanation": "El documento especifica claramente en su encabezado la 'Fecha de publicación: octubre de 2025'.\n\n\nEjemplo: Para la planificación de un curso o proceso selectivo, la fecha de publicación del material didáctico, como en este caso 'octubre de 2025', es crucial para establecer la vigencia y el cronograma de estudio para los participantes.",
+      "id": "q_198123997a",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿A qué nivel y grupo directivo corresponde el proceso selectivo para proveer plazas de promoción vertical, según el documento?",
+      "options": {
+        "a": "Nivel 10 - Grupo Administrativo",
+        "b": "Nivel 13 - Grupo Directivo",
+        "c": "Nivel 12 - Grupo de Gestión",
+        "d": "Nivel 15 - Grupo Superior"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica explícitamente que el proceso selectivo es para proveer plazas 'EN EL NIVEL 13 DEL GRUPO DIRECTIVO'.\n\n\nEjemplo: Si un empleado del Banco de España aspira a una promoción vertical, debe verificar el nivel y grupo de destino, como el Nivel 13 del Grupo Directivo, para asegurarse de cumplir con los requisitos específicos de esa categoría.",
+      "id": "q_3d21c89e8f",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál es el cometido que se debe desempeñar en las plazas de promoción vertical para el Nivel 13 del Grupo Directivo?",
+      "options": {
+        "a": "Gestor de Operaciones Financieras",
+        "b": "Técnico dentro de la Función Bancaria",
+        "c": "Analista de Políticas Monetarias",
+        "d": "Especialista en Regulación Financiera"
+      },
+      "correctAnswer": "b",
+      "explanation": "El documento establece que las plazas son 'PARA DESEMPEÑAR COMETIDOS DE TÉCNICO DENTRO DE LA FUNCIÓN BANCARIA'.\n\n\nEjemplo: Un candidato que se presente a este proceso selectivo debería preparar su perfil y conocimientos específicamente en áreas relacionadas con las funciones técnicas del sector bancario, como contabilidad, análisis financiero o gestión de riesgos.",
+      "id": "q_921cb1715c",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Según el material didáctico, ¿en qué consiste el sistema de contabilidad de la partida doble?",
+      "options": {
+        "a": "Anotar la cuantía de cada hecho contable solo en el Haber.",
+        "b": "Registrar cada hecho contable una única vez en el Debe.",
+        "c": "Anotar dos veces la cuantía de cada hecho contable, con una anotación en el Debe de una cuenta y otra en el Haber de otra cuenta.",
+        "d": "Registrar únicamente los ingresos en el Debe y los gastos en el Haber."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto define la partida doble como el sistema que consiste en 'anotar dos veces la cuantía de cada hecho contable, es decir: cada hecho contable ha de tener, como mínimo, una anotación en el Debe de una cuenta y una anotación en el Haber de otra cuenta'.\n\n\nEjemplo: Cuando una empresa adquiere material de oficina por valor de 500 euros y lo paga en efectivo, se realiza una anotación en el Debe de la cuenta 'Gastos de Material de Oficina' por 500 euros y otra en el Haber de la cuenta 'Caja' por 500 euros, manteniendo el equilibrio contable.",
+      "id": "q_58147bcd80",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuáles son las finalidades principales de las inversiones financieras en una empresa, según el texto?",
+      "options": {
+        "a": "Exclusivamente la obtención de rentabilidad por su mantenimiento.",
+        "b": "La obtención de beneficios por su enajenación o de rentabilidad por su mantenimiento.",
+        "c": "Únicamente la especulación a corto plazo.",
+        "d": "La financiación de operaciones de tesorería a largo plazo."
+      },
+      "correctAnswer": "b",
+      "explanation": "El apartado 'RecueRda' especifica que las finalidades de las inversiones financieras son 'la obtención de rentabilidad por su mantenimiento o de beneficios por su enajenación'.\n\n\nEjemplo: Una empresa puede comprar bonos del Estado (inversión por mantenimiento) para obtener intereses periódicos, o adquirir acciones de otra compañía con la expectativa de venderlas más adelante a un precio superior (inversión por enajenación).",
+      "id": "q_80f3185942",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué consiste la prueba de deterioro para las inversiones financieras?",
+      "options": {
+        "a": "Comparar el valor de adquisición con el valor de mercado.",
+        "b": "Comparar el valor en libros con el valor recuperable.",
+        "c": "Evaluar la liquidez del activo frente a sus pasivos.",
+        "d": "Analizar la rentabilidad esperada versus la rentabilidad histórica."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto, en la sección 'RecueRda', establece que 'La prueba de deterioro consiste en comparar el valor en libros con el valor recuperable'.\n\n\nEjemplo: Si una empresa posee un inmueble valorado en contabilidad en 500.000 euros, pero un informe pericial determina que, debido a la recesión del mercado, su valor recuperable (mayor entre valor razonable menos costes de venta y valor en uso) es de 450.000 euros, la prueba de deterioro indicaría una pérdida de 50.000 euros.",
+      "id": "q_48396ae103",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Las obligaciones y deudas con terceras personas se recogen en:",
+      "options": {
+        "a": "El neto patrimonial.",
+        "b": "El pasivo.",
+        "c": "Los gastos.",
+        "d": "El activo."
+      },
+      "correctAnswer": "b",
+      "explanation": "Según la prueba de autocomprobación incluida en el material, la opción correcta para dónde se recogen las obligaciones y deudas con terceras personas es 'b) El pasivo'.\n\n\nEjemplo: Un préstamo bancario a largo plazo que una empresa debe devolver se clasificará en el pasivo no corriente de su balance, reflejando una obligación con una entidad externa.",
+      "id": "q_28d17fff3c",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "En una cuenta perteneciente al pasivo, ¿cómo se contabilizan los aumentos?",
+      "options": {
+        "a": "Su saldo siempre será deudor.",
+        "b": "Los aumentos se contabilizan en el Debe.",
+        "c": "Los aumentos se contabilizan en el Haber.",
+        "d": "Depende del tipo de pasivo."
+      },
+      "correctAnswer": "c",
+      "explanation": "La prueba de autocomprobación indica que 'En una cuenta perteneciente al pasivo: c) Los aumentos se contabilizan en el Haber'. Este es un principio fundamental de la contabilidad.\n\n\nEjemplo: Si una empresa obtiene un nuevo crédito de proveedores, este aumento de la deuda se registrará en el Haber de la cuenta 'Proveedores' en su contabilidad.",
+      "id": "q_4545f3c266",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuándo y dónde se formuló por primera vez la aspiración europea de una Unión Económica y Monetaria (UEM)?",
+      "options": {
+        "a": "En el Tratado de Roma en 1957.",
+        "b": "En el Consejo Europeo de Madrid de 1989.",
+        "c": "En la Cumbre de jefes de Estado y de Gobierno celebrada en La Haya en diciembre de 1969.",
+        "d": "En la firma del Acta Única Europea en 1986."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto especifica que la UEM 'responde a una vieja aspiración europea formulada por primera vez en la Cumbre de jefes de Estado y de Gobierno celebrada en la Haya en diciembre de 1969'.\n\n\nEjemplo: La decisión tomada en La Haya de 1969 marcó el inicio formal de las discusiones y la planificación política para una integración monetaria y económica más profunda en Europa, sentando las bases para futuros tratados.",
+      "id": "q_8022fdb968",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "El Consejo Europeo de Madrid de 1989 impulsó la Unión Monetaria basándose en qué informe?",
+      "options": {
+        "a": "El Informe Werner",
+        "b": "El Informe Padoa-Schioppa",
+        "c": "El Informe Delors",
+        "d": "El Informe MacDougall"
+      },
+      "correctAnswer": "c",
+      "explanation": "El documento señala que el Consejo Europeo de Madrid de 1989 impulsó la Unión Monetaria 'partiendo del Informe Delors'.\n\n\nEjemplo: El Informe Delors de 1989 proporcionó un plan de tres etapas para la realización de la Unión Económica y Monetaria, que fue adoptado por los líderes europeos como la hoja de ruta para la creación del euro.",
+      "id": "q_55b9761943",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuáles de las siguientes ventajas se atribuyen a la existencia de una moneda única, según el Informe Delors?",
+      "options": {
+        "a": "Reducción de la actividad económica y menor transparencia de precios.",
+        "b": "Incremento de la actividad económica por eliminación de incertidumbres y costes de transacción, y mayor transparencia de precios.",
+        "c": "Aumento de los costes de transacción y diversificación de las divisas.",
+        "d": "Mayor intervención estatal en los mercados y menor competencia."
+      },
+      "correctAnswer": "b",
+      "explanation": "El Informe Delors destaca como ventajas de una moneda única: 'El incremento de la actividad económica como consecuencia de la eliminación de incertidumbres y costes de transacción por las operaciones de cambio de divisas' y 'Una mayor transparencia de los precios en los mercados comunitarios, facilitando así mayores intercambios'.\n\n\nEjemplo: La adopción del euro eliminó los costes de cambio de divisas para las empresas que operan dentro de la Eurozona, permitiéndoles reducir sus gastos operativos y ofrecer precios más comparables a los consumidores en distintos países.",
+      "id": "q_c362fb8e36",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se elaboró el Tratado de la Unión Europea, también conocido como Tratado de Maastricht?",
+      "options": {
+        "a": "1986",
+        "b": "1989",
+        "c": "1991",
+        "d": "1993"
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que 'A finales de 1991 concluía en Maastricht (Holanda) la conferencia intergubernamental que elaboró el Tratado de la Unión Europea'.\n\n\nEjemplo: La elaboración de un tratado tan complejo como el de Maastricht requirió intensas negociaciones entre los estados miembros de la Comunidad Europea durante el año 1991 para definir el marco legal e institucional de la futura Unión Europea.",
+      "id": "q_759f593d2d",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año fue ratificado el Tratado de la Unión Europea (Tratado de Maastricht)?",
+      "options": {
+        "a": "1991",
+        "b": "1992",
+        "c": "1993",
+        "d": "1995"
+      },
+      "correctAnswer": "c",
+      "explanation": "El documento establece que 'El Tratado no sería ratificado hasta octubre de 1993'. La ratificación es un paso posterior a la elaboración.\n\n\nEjemplo: Después de ser elaborado en 1991, el Tratado de Maastricht fue sometido a procesos de ratificación nacional, incluyendo referéndums en algunos países, antes de su entrada en vigor en 1993, lo que demostró la complejidad política del proceso de integración.",
+      "id": "q_78791c3010",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la política monetaria de la Zona euro, según el Tratado de la Unión Europea?",
+      "options": {
+        "a": "Fomentar la competitividad externa a través de la devaluación de la moneda.",
+        "b": "Instaurar una moneda única y garantizar su continuidad mediante la estabilidad de los precios y el respeto de la economía de mercado.",
+        "c": "Priorizar el crecimiento económico sobre la estabilidad de precios.",
+        "d": "Controlar el tipo de cambio frente a divisas internacionales sin considerar la inflación interna."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto afirma que 'El objetivo de la política monetaria de la Zona euro consiste en instaurar una moneda única y garantizar su continuidad mediante la estabilidad de los precios y el respeto de la economía de mercado'.\n\n\nEjemplo: El Banco Central Europeo, como institución encargada de la política monetaria de la Eurozona, toma decisiones sobre los tipos de interés con el fin primordial de mantener la inflación en niveles estables y cercanos al 2% a medio plazo, garantizando el valor del euro.",
+      "id": "q_2774e1112f",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál fue el periodo exacto de la primera fase de la Unión Económica y Monetaria (UEM)?",
+      "options": {
+        "a": "Del 1 de enero de 1990 al 31 de diciembre de 1992.",
+        "b": "Del 1 de julio de 1990 al 31 de diciembre de 1993.",
+        "c": "Del 1 de enero de 1994 al 31 de diciembre de 1998.",
+        "d": "Del 1 de enero de 1999 en adelante."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto define la Primera fase de la UEM como 'desde el 1 de julio de 1990 hasta el 31 de diciembre de 1993'.\n\n\nEjemplo: Durante esta primera fase, los países miembros se centraron en la liberalización de los movimientos de capitales, permitiendo a los ciudadanos y empresas invertir y transferir dinero libremente entre fronteras, un paso esencial para un mercado único.",
+      "id": "q_15984e29f8",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Uno de los objetivos principales de la primera fase de la UEM fue:",
+      "options": {
+        "a": "Dotar de independencia a los bancos centrales nacionales.",
+        "b": "Imponer el cumplimiento de los criterios de convergencia.",
+        "c": "Crear las condiciones de un verdadero mercado interior único para el dinero, eliminando restricciones en materia de pagos y movimientos de capitales.",
+        "d": "Establecer la moneda única o euro."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que el primer objetivo de la fase A (Primera fase) fue 'Crear las condiciones de un verdadero mercado interior único para el dinero, eliminando definitivamente cualquier clase de restricciones en materia de pagos y movimientos de capitales'.\n\n\nEjemplo: La eliminación de barreras a los flujos de capitales durante la primera fase de la UEM permitió a un inversor español comprar acciones de una empresa alemana sin restricciones, contribuyendo a la integración financiera europea.",
+      "id": "q_8bba9ed455",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál fue el periodo exacto de la segunda fase de la Unión Económica y Monetaria (UEM)?",
+      "options": {
+        "a": "Del 1 de julio de 1990 al 31 de diciembre de 1993.",
+        "b": "Del 1 de enero de 1994 al 31 de diciembre de 1998.",
+        "c": "Del 1 de enero de 1999 al 31 de diciembre de 2001.",
+        "d": "Del 1 de enero de 2002 en adelante."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto define la Segunda fase de la UEM como 'desde el 1 de enero de 1994 hasta el 31 de diciembre de 1998'.\n\n\nEjemplo: Durante esta segunda fase, los países se prepararon intensamente para la adopción del euro, ajustando sus legislaciones y estructuras económicas, y sus bancos centrales comenzaron a operar con una mayor independencia, en línea con el futuro marco del Eurosistema.",
+      "id": "q_65cc897fca",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál fue un acuerdo destacado durante la segunda fase de la UEM?",
+      "options": {
+        "a": "La eliminación total de las restricciones en materia de pagos y movimientos de capitales.",
+        "b": "La introducción de la moneda única o euro en todos los países miembros.",
+        "c": "Dotar de independencia a los bancos centrales nacionales y la imposición de los criterios de convergencia.",
+        "d": "La creación de un sistema de medición de la evolución de las economías."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto menciona dos acuerdos destacados durante la segunda fase: '1.º Dotar de independencia a los bancos centrales nacionales' y '2.º Imponer el cumplimiento de los criterios de convergencia'.\n\n\nEjemplo: Antes de acceder al euro, países como España tuvieron que asegurar la independencia de su Banco de España y ajustar sus cifras macroeconómicas, como la deuda pública y la inflación, para cumplir con los criterios de convergencia de Maastricht, supervisados durante esta segunda fase.",
+      "id": "q_2779965f1a",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuántos países accedieron inicialmente a la UEM y a la moneda única o euro durante la segunda fase?",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "15"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto lista los países que accedieron inicialmente: 'Alemania, Francia, Italia, Irlanda, Bélgica, Holanda, Luxemburgo, Austria, Finlandia, Portugal y España', lo que suma un total de 11 países.\n\n\nEjemplo: En 1999, estos once países, tras cumplir los criterios de convergencia, adoptaron el euro como moneda de curso legal, inicialmente para transacciones no monetarias y contables, antes de la introducción física de los billetes y monedas.",
+      "id": "q_b935b2ba5c",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se integró Grecia en la Eurozona?",
+      "options": {
+        "a": "1999",
+        "b": "2001",
+        "c": "2007",
+        "d": "2008"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica específicamente que 'Grecia entró en enero de 2001'.\n\n\nEjemplo: La integración de Grecia en 2001 significó que el número de países que compartían la moneda única europea se elevó, ampliando el ámbito geográfico y económico de la Eurozona.",
+      "id": "q_24205db975",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se integró Eslovenia en la Eurozona?",
+      "options": {
+        "a": "2001",
+        "b": "2007",
+        "c": "2008",
+        "d": "2009"
+      },
+      "correctAnswer": "b",
+      "explanation": "Según el texto, 'Eslovenia en enero de 2007' se unió a la Eurozona.\n\n\nEjemplo: Eslovenia fue el primer país de la Europa Central y del Este en adoptar el euro, lo que representó un hito importante en la expansión de la moneda única hacia los nuevos estados miembros de la Unión Europea.",
+      "id": "q_c1cf9cf42e",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se integraron Malta y Chipre en la Eurozona?",
+      "options": {
+        "a": "2007",
+        "b": "2008",
+        "c": "2009",
+        "d": "2011"
+      },
+      "correctAnswer": "b",
+      "explanation": "El documento establece que 'Malta y Chipre en enero de 2008' se unieron a la Eurozona.\n\n\nEjemplo: La adopción del euro por parte de estas dos islas mediterráneas en 2008 facilitó el comercio y el turismo con el resto de la Eurozona, eliminando los costes de cambio de divisas para sus principales sectores económicos.",
+      "id": "q_7c39ff7999",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se integró Eslovaquia en la Eurozona?",
+      "options": {
+        "a": "2008",
+        "b": "2009",
+        "c": "2011",
+        "d": "2014"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto afirma que 'Eslovaquia en enero 2009' se incorporó a la Eurozona.\n\n\nEjemplo: Eslovaquia demostró su capacidad para cumplir los criterios de convergencia incluso en un período de turbulencias financieras globales, lo que permitió su adhesión a la moneda única en 2009 y consolidó su integración económica con Europa Occidental.",
+      "id": "q_f8440e834e",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se integró Estonia en la Eurozona?",
+      "options": {
+        "a": "2009",
+        "b": "2011",
+        "c": "2014",
+        "d": "2015"
+      },
+      "correctAnswer": "b",
+      "explanation": "El documento especifica que 'Estonia en enero 2011' se unió a la Eurozona.\n\n\nEjemplo: La adhesión de Estonia al euro en 2011 fue percibida como un signo de la estabilidad económica y la disciplina fiscal del país báltico, en un momento en que otros miembros de la Eurozona enfrentaban desafíos de deuda.",
+      "id": "q_05e530f8eb",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se convirtió Letonia en Estado miembro de la Eurozona y qué posición ocupó?",
+      "options": {
+        "a": "2011, decimoctavo",
+        "b": "2014, decimoctavo",
+        "c": "2014, decimonoveno",
+        "d": "2015, decimoctavo"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica que 'Letonia se convirtió en 2014 en el decimoctavo Estado miembro de la Eurozona'.\n\n\nEjemplo: La entrada de Letonia en la Eurozona en 2014 consolidó la presencia del euro en los países bálticos, reforzando la unión monetaria y la estabilidad en la región tras años de preparación económica.",
+      "id": "q_cc0308e420",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se incorporó Lituania a la Eurozona y qué posición ocupó?",
+      "options": {
+        "a": "2014, decimoctavo",
+        "b": "2015, decimoctavo",
+        "c": "2015, decimonoveno",
+        "d": "2023, vigésimo"
+      },
+      "correctAnswer": "c",
+      "explanation": "El documento establece que 'en enero de 2015 Lituania se incorporó como decimonoveno país a la Eurozona'.\n\n\nEjemplo: La adopción del euro por Lituania en 2015 completó la integración de los tres países bálticos en la moneda única, lo que simbolizó un paso más hacia la consolidación y expansión de la Unión Económica y Monetaria.",
+      "id": "q_af09d138fa",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se integró Croacia en la zona euro y cuál es el número actual de países que han adoptado el euro?",
+      "options": {
+        "a": "2022, diecinueve",
+        "b": "2023, diecinueve",
+        "c": "2023, veinte",
+        "d": "2024, veintiuno"
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto más reciente sobre la expansión de la Eurozona afirma que 'en enero de 2023, Croacia se integra en la zona euro, por lo que en la actualidad el número de países que han adoptado el euro como moneda es de veinte'.\n\n\nEjemplo: La incorporación de Croacia en 2023 no solo amplió la zona euro a veinte miembros, sino que también implicó una transición logística significativa, como la retirada del kuna croata y la introducción de billetes y monedas de euro en toda la economía.",
+      "id": "q_721fe35da9",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año los Bancos Centrales de los países miembros de la Unión Europea (tengan o no adoptado el euro como moneda) conformaron un grupo junto con el Banco Central Europeo?",
+      "options": {
+        "a": "1993",
+        "b": "1994",
+        "c": "1998",
+        "d": "2002"
+      },
+      "correctAnswer": "c",
+      "explanation": "El documento señala que 'Los Bancos Centrales de los países miembros de la Unión Europea (tengan o no adoptado el euro como moneda) conformaron en 1998, junto con el Banco Central Europeo'.\n\n\nEjemplo: La creación del Eurosistema en 1998, que incluye al BCE y los bancos centrales nacionales de los países con euro, y el SEBC (Sistema Europeo de Bancos Centrales), que incluye a todos los bancos centrales de la UE, marcó el establecimiento de la estructura institucional monetaria de la Unión Europea.",
+      "id": "q_c314adf65a",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Qué cargo ocupó Jacques Delors entre 1985 y 1995, y cuáles fueron sus principales impulsos para la unidad europea según el texto?",
+      "options": {
+        "a": "Ministro de Economía y Finanzas, impulsando el Tratado de Roma.",
+        "b": "Presidente de la Comisión Europea, impulsando el Acta Única (1986) y el Tratado de Maastricht (1991).",
+        "c": "Diputado en el Parlamento Europeo, liderando la creación del Sistema Monetario Europeo.",
+        "d": "Presidente del Banco Central Europeo, promoviendo la introducción del euro en 1990."
+      },
+      "correctAnswer": "b",
+      "explanation": "La nota a pie de página sobre Jacques Delors indica que 'Entre 1985 y 1995 fue presidente de la Comisión Europea. Ha sido el gran impulsor de la unidad europea a través de la firma del Acta Única (1986) y del Tratado de Maastricht (1991) que hizo nacer la Unión Europea (1992)'.\n\n\nEjemplo: La visión de Delors fue fundamental para transformar la Comunidad Económica Europea en una Unión Europea con objetivos más amplios, incluyendo una moneda única, lo cual se materializó en el Acta Única Europea y sentó las bases para el Tratado de Maastricht.",
+      "id": "q_80c8ab772e",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
     }
   ]
 }
