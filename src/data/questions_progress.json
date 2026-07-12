@@ -46,7 +46,10 @@
     "c7d083269bfc9f873c6971d592d13bf7": true,
     "cbf7d5c01ce4cbee70d9262639386ae1": true,
     "5d6c40b8c3affef65a1035c3677145a4": true,
-    "4018818179672bf46a1c71121f7acf8a": true
+    "4018818179672bf46a1c71121f7acf8a": true,
+    "425798ea475453e6ad2c9e3715fcf577": true,
+    "03acf39e5781ede2e060c8ce09a9e239": true,
+    "5e906c2072e968142d10dd16e4e71d34": true
   },
   "questions": [
     {
@@ -9967,6 +9970,409 @@
       "explanation": "El texto indica: 'A partir de 2023, una vez disponibles los resultados del estudio que se realice durante 2022, y si estos se consideran adecuados, se continuaría con el proyecto informático y se abordaría la redacción de un nuevo reglamento que sustituya a los actuales reglamentos de los reportes estadísticos que se pretende integrar'.\n\n\nEjemplo: Tras la aprobación de la fase de análisis de negocio del IReF en 2022, el SEBC planifica que en 2023 se iniciará la fase tecnológica del proyecto, que incluye el desarrollo de sistemas informáticos, y simultáneamente se comenzará a redactar la nueva normativa que consolidará los reportes estadísticos, reemplazando la fragmentación actual.",
       "id": "q_87dd6e039b",
       "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿En qué año se prevé que el Consejo de Gobierno del Banco Central Europeo (BCE) apruebe la fase de diseño de la función estadística del SEBC, y a partir de cuándo se continuaría con el proyecto informático si los resultados del estudio son adecuados?",
+      "options": {
+        "a": "El análisis se presentará a finales de 2021 para su aprobación, y el proyecto informático continuaría a partir de 2022.",
+        "b": "El análisis se presentará a mediados de 2022 para su aprobación, y el proyecto informático continuaría a partir de 2023.",
+        "c": "El análisis se presentará a finales de 2022 para su aprobación, y el proyecto informático continuaría a partir de 2023.",
+        "d": "El análisis se presentará a principios de 2023 para su aprobación, y el proyecto informático continuaría a partir de 2024."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que 'El análisis se presentará al Consejo de Gobierno del Banco Central Europeo (BCE) a finales de 2022, para que este pueda dar su aprobación a esta fase del proyecto.' Y 'A partir de 2023, una vez disponibles los resultados del estudio que se realice durante 2022, y si estos se consideran adecuados, se continuaría con el proyecto informático'.\n\n\nEjemplo: Un equipo de proyecto en el Banco de España debe cumplir con un hito de entrega de un informe técnico al BCE antes de finalizar el año 2022. La continuación de la fase de implementación de software, que incluye la redacción de un nuevo reglamento, está condicionada a la aprobación de dicho informe y se programaría para iniciar en el primer trimestre de 2023.",
+      "id": "q_68d23abe7d",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿En qué fecha publicó el Banco Central Europeo (BCE) su contribución al informe de viabilidad de la EBA, en respuesta al mandato del artículo 430 quater?",
+      "options": {
+        "a": "Diciembre de 2021.",
+        "b": "Septiembre de 2020.",
+        "c": "Enero de 2021.",
+        "d": "Marzo de 2020."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto afirma que 'el BCE publicó su contribución al estudio en septiembre de 2020.'\n\n\nEjemplo: En el contexto de un proyecto regulatorio de gran envergadura, el BCE remitió su análisis y propuestas a la EBA en una fecha específica del calendario. Dicha aportación, enviada en el noveno mes del año 2020, fue crucial para la elaboración del informe final de viabilidad.",
+      "id": "q_f44c607e0d",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "Según las conclusiones de la EBA, ¿cuál es la pieza fundamental para el proyecto de integración de los reportes estadísticos, supervisores y de resolución en Europa?",
+      "options": {
+        "a": "La existencia de un diccionario de datos único.",
+        "b": "La implementación de una plataforma de recogida de datos centralizada.",
+        "c": "La redacción de un nuevo reglamento que sustituya a los actuales.",
+        "d": "Una gobernanza fuerte que favorezca la colaboración entre autoridades."
+      },
+      "correctAnswer": "a",
+      "explanation": "El informe de viabilidad de la EBA, publicado en diciembre de 2021, destaca que 'la existencia de un diccionario de datos único es la pieza fundamental del proyecto de integración'.\n\n\nEjemplo: Para lograr la interoperabilidad y coherencia en la información financiera recolectada por diversas autoridades, la EBA ha determinado que la estandarización de términos y definiciones a través de un diccionario de datos común es el requisito primordial para el éxito de la integración de reportes en el sistema financiero europeo.",
+      "id": "q_163381c4fa",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿En qué mes y año publicó la EBA su informe de viabilidad, el cual concluyó que la existencia de un diccionario de datos único es la pieza fundamental del proyecto de integración?",
+      "options": {
+        "a": "Septiembre de 2020.",
+        "b": "Noviembre de 2021.",
+        "c": "Diciembre de 2021.",
+        "d": "Febrero de 2022."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto especifica que 'La EBA publicó el informe de viabilidad en diciembre de 2021.'\n\n\nEjemplo: Tras meses de investigación y análisis, la Autoridad Bancaria Europea (EBA) culminó y difundió su informe sobre la factibilidad de un sistema de reporte integrado a finales del año 2021, aportando una visión clave para el futuro de la recopilación de datos en la UE.",
+      "id": "q_211461b7aa",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Qué dos reglamentos específicos, relacionados con el riesgo de las tecnologías de la información y comunicación y los criptoactivos, están siendo objeto de trabajos preparatorios por parte de la EBA para su implementación en los próximos años?",
+      "options": {
+        "a": "El reglamento CRR y el reglamento CRD.",
+        "b": "El reglamento DORA y el reglamento MiCA.",
+        "c": "El reglamento PSD2 y el reglamento GDPR.",
+        "d": "El reglamento EMIR y el reglamento CSDR."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto menciona que la EBA está realizando trabajos preparatorios para 'la implementación del nuevo marco regulatorio en el área de la gestión del riesgo de las tecnologías de la información y la comunicación, de seguridad (el denominado «reglamento DORA») y de los criptoactivos (el denominado «reglamento MiCA»).'\n\n\nEjemplo: Una institución financiera en la UE se prepara para las exigencias de dos nuevas normativas. Una de ellas, conocida por sus siglas relativas a la resiliencia operativa digital, y la otra, enfocada en la regulación de los activos virtuales, son cruciales para su estrategia de cumplimiento normativo.",
+      "id": "q_fd8526225a",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Cuál fue el impacto de la revisión de las ESA en 2020 en el papel de la EBA respecto a la coordinación y seguimiento de la supervisión de la lucha contra el BC/FT?",
+      "options": {
+        "a": "Redujo su papel, transfiriendo responsabilidades a las autoridades nacionales.",
+        "b": "Mantuvo su papel, pero se centró más en la recopilación de datos.",
+        "c": "Incrementó ligeramente su papel, enfocándose en la elaboración de informes.",
+        "d": "Aumentó sustancialmente su papel, liderando en 2021 el desarrollo y aplicación coherente de políticas."
+      },
+      "correctAnswer": "d",
+      "explanation": "El texto indica que 'la revisión de las ESA en 2020 aumentó sustancialmente el papel de la EBA. Durante 2021, la EBA ha liderado el desarrollo de políticas y promovido su aplicación efectiva y coherente por parte de las autoridades nacionales.'\n\n\nEjemplo: Tras una reestructuración significativa en la supervisión europea en el año 2020, la EBA asumió una mayor responsabilidad en la prevención del blanqueo de capitales y la financiación del terrorismo. Esto se tradujo, durante el año siguiente, en un rol protagónico en la formulación de directrices y en asegurar su implementación uniforme en todos los países miembros.",
+      "id": "q_e7f31d2d38",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "Según el informe de la EBA sobre la incorporación de riesgos ESG en la gestión de las entidades, ¿cuál es la conclusión principal respecto a la materialización de estos riesgos?",
+      "options": {
+        "a": "Los riesgos ESG, y en particular el riesgo de cambio climático, se materializan a través de los riesgos tradicionales de las entidades de crédito.",
+        "b": "Los riesgos ESG son una nueva categoría de riesgos financieros que operan independientemente de los riesgos tradicionales.",
+        "c": "Los riesgos ESG tienen un impacto limitado en las entidades de crédito, siendo más relevantes para otros sectores económicos.",
+        "d": "La materialización de los riesgos ESG es principalmente a través de nuevos canales de transmisión no identificados previamente."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto establece que, en el informe de la EBA sobre riesgos ESG en el ámbito de Pilar 2, 'Se llega a la conclusión de que los riesgos ESG y, en concreto, el riesgo de cambio climático se materializan a través de los riesgos tradicionales de las entidades de crédito.'\n\n\nEjemplo: Un banco evalúa cómo las inundaciones recurrentes (riesgo físico climático) afectan el valor de sus hipotecas en zonas costeras (riesgo de crédito), o cómo una transición energética abrupta (riesgo de transición climático) podría devaluar sus inversiones en empresas de combustibles fósiles (riesgo de mercado). Estas situaciones demuestran cómo los riesgos ambientales, sociales y de gobernanza se manifiestan a través de las categorías de riesgo ya conocidas en la banca.",
+      "id": "q_551cad9302",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Quién ostenta la presidencia del Comité Técnico Consultivo de la Junta Europea de Riesgo Sistémico (JERS), según se indica en la Memoria de Supervisión 2021?",
+      "options": {
+        "a": "El presidente del Banco Central Europeo.",
+        "b": "El gobernador del Banco de España.",
+        "c": "El director ejecutivo de la EBA.",
+        "d": "El vicepresidente de la Comisión Europea."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto menciona que la JERS llevó a cabo un ambicioso plan de trabajo en 2021 'con el apoyo de su Comité Técnico Consultivo, que preside el gobernador del Banco de España.'\n\n\nEjemplo: Durante las reuniones estratégicas del Comité Técnico Consultivo de la JERS, el debate sobre la estabilidad financiera en la Unión Europea es dirigido por la máxima autoridad del Banco Central de España, quien con su experiencia garantiza la orientación y el rigor en las deliberaciones.",
+      "id": "q_99c6f85d4f",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes recomendaciones fue emitida por la JERS en 2021 y se dirigió específicamente a la Comisión Europea?",
+      "options": {
+        "a": "La Recomendación JERS/2021/10, sobre vulnerabilidades en el sector inmobiliario residencial de Alemania.",
+        "b": "La Recomendación JERS/2021/17, para el establecimiento de un marco de coordinación de autoridades ante ciberincidentes sistémicos.",
+        "c": "La Recomendación JERS/2021/9, sobre la reforma del reglamento comunitario de fondos del mercado monetario.",
+        "d": "La Recomendación JERS/2020/15, sobre la limitación de distribuciones de capital durante la pandemia de COVID-19."
+      },
+      "correctAnswer": "c",
+      "explanation": "El documento detalla que la JERS emitió 'Recomendación JERS/2021/9, sobre la reforma del reglamento comunitario de fondos del mercado monetario, dirigida a la Comisión Europea.'\n\n\nEjemplo: En el ejercicio de sus funciones para la estabilidad financiera, la JERS identificó la necesidad de ajustar la normativa de los vehículos de inversión de bajo riesgo. Por ello, en 2021, formalizó su propuesta directamente al órgano ejecutivo de la UE para que considerara una modificación legislativa en este ámbito.",
+      "id": "q_a84189b383",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Hasta qué fecha máxima decidió la JERS no extender su recomendación sobre la limitación de las distribuciones de capital durante la pandemia de COVID-19 (JERS/2020/15)?",
+      "options": {
+        "a": "31 de diciembre de 2021.",
+        "b": "30 de septiembre de 2021.",
+        "c": "30 de junio de 2021.",
+        "d": "31 de marzo de 2022."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto señala que 'la JERS decidió no extender más allá del 30 de septiembre de 2021 su recomendación sobre la limitación de las distribuciones de capital durante la pandemia de COVID-19 (JERS/2020/15).'\n\n\nEjemplo: Ante la mejora de las condiciones económicas y la evolución de la pandemia, la JERS determinó que la medida excepcional de restricción de dividendos y otras distribuciones de capital, implementada para preservar la solidez de las entidades financieras, dejaría de estar vigente a partir del último día del tercer trimestre de 2021.",
+      "id": "q_8281bed36f",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Cuál es la denominación completa de la organización internacional en cuyo Consejo de Gobierno el Banco de España es miembro y participa activamente en sus grupos de trabajo?",
+      "options": {
+        "a": "Foro de Coordinación de Redes Financieras (FinCoNet).",
+        "b": "Federación Internacional de Consumidores Financieros (FinCoNet).",
+        "c": "Fundación Internacional de Cooperación Financiera (FinCoNet).",
+        "d": "Organización Internacional para la Protección del Consumidor Financiero (FinCoNet)."
+      },
+      "correctAnswer": "d",
+      "explanation": "El documento establece que 'el Banco de España es miembro del Consejo de Gobierno de la Organización Internacional para la Protección del Consumidor Financiero (FinCoNet, por su acrónimo en inglés)'.\n\n\nEjemplo: El Banco de España, en su compromiso con la salvaguarda de los derechos e intereses de los usuarios de servicios financieros, contribuye de forma activa en los foros internacionales. Forma parte de la junta directiva de la entidad global dedicada a la protección del consumidor financiero, aportando su experiencia en temas como la digitalización de productos.",
+      "id": "q_7ea266b405",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿En qué año acordó el G-20 la hoja de ruta cuyo desarrollo ha continuado el CPMI con el objetivo de mejorar los pagos transfronterizos?",
+      "options": {
+        "a": "2020.",
+        "b": "2019.",
+        "c": "2021.",
+        "d": "2018."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto indica que el CPMI ha continuado 'el desarrollo de la hoja de ruta acordada por el G-20 en 2020 con el objetivo de mejorar los pagos transfronterizos.'\n\n\nEjemplo: En una cumbre internacional celebrada en el año 2020, los líderes de las veinte economías más importantes del mundo establecieron una agenda para modernizar y eficientar las transferencias de dinero entre países. El Comité de Pagos e Infraestructuras de Mercado (CPMI) ha sido el encargado de impulsar esta iniciativa.",
+      "id": "q_695d8fc26f",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "Según la propuesta del BCE, ¿cuáles son los dos procesos paralelos mediante los cuales debe llevarse a cabo progresivamente el proyecto de integración durante un período de transición?",
+      "options": {
+        "a": "La integración del reporte prudencial y la integración de los datos de estabilidad financiera.",
+        "b": "La integración de los datos de mercado y la integración de los datos de liquidez.",
+        "c": "La integración del reporte estadístico mediante el IReF y la integración de los datos supervisores y de resolución.",
+        "d": "La integración de los sistemas informáticos nacionales y la integración de los sistemas informáticos europeos."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto detalla que 'el BCE, el proyecto de integración debe llevarse a cabo de forma progresiva, mediante dos procesos paralelos durante un período de transición. Así, por un lado, se llevaría a cabo la integración del reporte estadístico mediante el IReF y, por otro, la integración de los datos supervisores y de resolución.'\n\n\nEjemplo: Para lograr una consolidación eficiente de la información financiera en Europa, el BCE ha articulado una estrategia dual. Esta implica, simultáneamente, la armonización de la información estadística a través de una iniciativa clave (IReF) y la unificación de los datos empleados para la vigilancia bancaria y la gestión de crisis, que con el tiempo convergerán en un sistema único.",
+      "id": "q_9a56342ee2",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Qué dos informes, relacionados con la conducta y protección de los consumidores financieros, fueron publicados por el Banco de España en 2021?",
+      "options": {
+        "a": "Guía sobre financiación sostenible y Retos del crédito al consumo.",
+        "b": "Enfoques supervisores a las evaluaciones de la solvencia de los clientes y Cultura y gobernanza de los productos financieros.",
+        "c": "Informe sobre innovación financiera y Análisis de la digitalización bancaria.",
+        "d": "Estudio sobre moratorias hipotecarias y Evaluación de la calidad de los activos."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto menciona que 'Cabe destacar la publicación, en 2021, de los informes Enfoques supervisores a las evaluaciones de la solvencia de los clientes y Cultura y gobernanza de los productos financieros.'\n\n\nEjemplo: En su labor de fomento de las buenas prácticas en el sector financiero y la protección de los consumidores, el Banco de España divulgó en el año 2021 dos documentos clave. Uno abordaba las metodologías de valoración de la capacidad de pago de los prestatarios, y el otro examinaba los principios y estructuras que rigen la creación y distribución de los productos financieros.",
+      "id": "q_703276c872",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "En el año 2021, ¿cuál fue uno de los focos principales del Comité de Pagos e Infraestructuras del Mercado (CPMI) según el texto proporcionado?",
+      "options": {
+        "a": "El análisis exhaustivo de las lagunas de datos en el ámbito de las finanzas sostenibles.",
+        "b": "El seguimiento del impacto y la respuesta del sistema financiero ante las medidas adoptadas por la pandemia.",
+        "c": "El desarrollo de un nuevo marco regulatorio global para las criptomonedas.",
+        "d": "La evaluación de los planes de contingencia de grandes entidades bancarias en escenarios de crisis sistémicas."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica que 'En 2021, gran parte del trabajo de este comité ha continuado centrado en el análisis del impacto y la reacción del sistema financiero a las medidas tomadas en relación con la pandemia.'\n\n\nEjemplo: Si un supervisor financiero desea comprender la resiliencia del sector bancario ante un evento inesperado como una pandemia, su comité especializado, el CPMI, se enfocaría en evaluar cómo las instituciones financieras han respondido a las políticas de apoyo económico implementadas y sus efectos en la solvencia y liquidez.",
+      "id": "q_56077b174c",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿En qué año fue acordada por el G-20 la hoja de ruta para mejorar los pagos transfronterizos, cuyo desarrollo fue continuado por el CPMI en 2021?",
+      "options": {
+        "a": "2019",
+        "b": "2020",
+        "c": "2018",
+        "d": "2021"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto menciona que el comité 'ha continuado el desarrollo de la hoja de ruta acordada por el G-20 en 2020 con el objetivo de mejorar los pagos transfronterizos.'\n\n\nEjemplo: Si un plan estratégico para la mejora de infraestructuras de pagos globales fue consensuado en una cumbre internacional en 2020, la labor de un comité técnico como el CPMI durante el año siguiente consistiría en implementar y avanzar en las fases acordadas de dicho plan.",
+      "id": "q_69e2f04ccb",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Qué solución fue sugerida en el informe preliminar publicado por la Red de Supervisores y Bancos Centrales para Ecologizar el Sistema Financiero (NGFS) en mayo de 2021, con el fin de abordar las lagunas de datos existentes en finanzas sostenibles?",
+      "options": {
+        "a": "La creación de un fondo de inversión global para proyectos verdes.",
+        "b": "Avanzar hacia una taxonomía de actividades sostenibles a nivel global.",
+        "c": "La imposición de límites obligatorios a las emisiones de carbono para todas las entidades financieras.",
+        "d": "La elaboración de un marco regulatorio único para las monedas digitales."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto señala que en 'mayo de 2021 publicó un informe preliminar [...] en el que sugería algunas soluciones, como avanzar hacia una taxonomía de actividades sostenibles a nivel global o converger hacia estándares globales de divulgación de información comunes y consistentes.'\n\n\nEjemplo: Ante la dificultad de comparar el desempeño de sostenibilidad entre diferentes empresas debido a la falta de criterios uniformes, un organismo como la NGFS podría proponer la adopción de una clasificación global que defina qué actividades se consideran sostenibles, facilitando así la medición y el reporte de datos.",
+      "id": "q_f6f932ea6f",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "Según el informe de progreso de la NGFS publicado en 2021, ¿cuál fue la conclusión principal respecto al avance de los supervisores en la integración de los riesgos relacionados con el clima y medioambientales en la supervisión prudencial?",
+      "options": {
+        "a": "Han avanzado considerablemente en la implementación de las estrategias, pero no en su desarrollo.",
+        "b": "El avance ha sido limitado tanto en el desarrollo de estrategias como en su implementación.",
+        "c": "Han avanzado considerablemente en desarrollar las estrategias de los propios bancos centrales y expectativas para entidades, pero no tanto en su implementación.",
+        "d": "Se ha logrado una implementación completa de las recomendaciones en la mayoría de las jurisdicciones."
+      },
+      "correctAnswer": "c",
+      "explanation": "El informe 'concluye que, en general, los supervisores han avanzado considerablemente en desarrollar las estrategias de los propios bancos centrales y expectativas para entidades. Sin embargo, no se ha avanzado tanto en su implementación.'\n\n\nEjemplo: Un banco central puede haber diseñado una estrategia detallada para integrar los riesgos climáticos en la evaluación de la solvencia de los bancos, estableciendo directrices claras. Sin embargo, la materialización práctica de estas directrices en los procedimientos operativos diarios de los supervisores y las entidades financieras puede requerir más tiempo y esfuerzo.",
+      "id": "q_0c3ff27c2d",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿En qué año se publicó la guía para supervisores sobre la integración de los riesgos relacionados con el clima y medioambientales en la supervisión prudencial, a la que hace referencia el informe de progreso de la NGFS de 2021?",
+      "options": {
+        "a": "2019",
+        "b": "2020",
+        "c": "2021",
+        "d": "2018"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica que el informe de progreso de 2021 valora el avance 'en relación con las recomendaciones incluidas en la guía para supervisores sobre la integración de los riesgos relacionados con el clima y medioambientales en la supervisión prudencial de 2020.'\n\n\nEjemplo: Si un organismo internacional publica una serie de recomendaciones para la banca en 2020, un informe de seguimiento un año después se centraría en evaluar el grado de aplicación de esas recomendaciones específicas emitidas en el año anterior.",
+      "id": "q_4abb1b4e90",
+      "source": "MemoriaSupervision2021_Cap7.md"
+    },
+    {
+      "question": "¿Cuál es la fecha de la estructura organizativa de la Institución del Banco de España, según se indica en la página inicial del documento?",
+      "options": {
+        "a": "1 de octubre de 2025",
+        "b": "12 de noviembre de 2025",
+        "c": "2 de Diciembre de 2025",
+        "d": "14 de octubre de 2024"
+      },
+      "correctAnswer": "c",
+      "explanation": "La página 1 del documento, bajo el título 'Estructura organizativa de la Institución', establece claramente la fecha del 2 de Diciembre de 2025 como la correspondiente a dicha estructura. Las otras fechas corresponden a revisiones o fechas específicas de secciones del documento, pero no a la fecha general de la estructura de la Institución.\n\n\nEjemplo: Si un documento oficial indica una fecha de entrada en vigor en su portada, esa fecha es la que rige la validez de su contenido general, aunque secciones internas puedan tener fechas de actualización específicas.",
+      "id": "q_0f2b0e6ae9",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "Según el índice del Organigrama del Banco de España, ¿cuántas Direcciones Generales (DG) se listan, incluyendo la Secretaría General (SG)?",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10"
+      },
+      "correctAnswer": "b",
+      "explanation": "El índice del documento enumera las siguientes Direcciones Generales: Dirección General de Conducta Financiera y Billetes (DG.CFB), Dirección General de Economía (DG.ECO), Dirección General de Estabilidad Financiera, Regulación y Resolución (DG.EFR), Dirección General de Estrategia, Personas y Datos (DG.EPD), Dirección General de Operaciones, Mercados y Sistemas de Pago (DG.OMP), Dirección General de Relaciones Institucionales, Europeas y Transparencia (DG.IET), Dirección General de Supervisión (DG.SUP) y Secretaría General (SG.GRL). Esto suma un total de 8 Direcciones Generales.\n\n\nEjemplo: Al revisar la tabla de contenidos de un manual, un analista contaría cada sección principal identificada como 'Dirección General' para determinar el número total de estas unidades organizativas.",
+      "id": "q_334c1ba123",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "De acuerdo con la información proporcionada en el organigrama general, ¿cuál de las siguientes unidades organizativas depende directamente del Consejo de Gobierno?",
+      "options": {
+        "a": "Comisión de Auditoría",
+        "b": "Oficina Independiente de Evaluaciones",
+        "c": "Secretaría General",
+        "d": "Dirección General de Economía"
+      },
+      "correctAnswer": "b",
+      "explanation": "La página 6 del documento, bajo el epígrafe 'Unidades organizativas dependientes del Consejo de Gobierno', menciona explícitamente la 'Oficina Independiente de Evaluaciones' como la única unidad listada en esa sección. Además, la página 5 del organigrama general también muestra esta dependencia de forma visual. La Comisión de Auditoría es un órgano rector en sí mismo, y la Secretaría General y la Dirección General de Economía son unidades organizativas de otro nivel jerárquico o dependencia.\n\n\nEjemplo: En una estructura corporativa, un departamento de control de calidad que reporta directamente al consejo de administración se consideraría una unidad dependiente del consejo, diferenciándose de los departamentos que reportan a una dirección general.",
+      "id": "q_45f3d0962a",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "Según la página 3 del organigrama, ¿quiénes asisten al Consejo de Gobierno del Banco de España con voz pero sin voto?",
+      "options": {
+        "a": "El Gobernador y la Subgobernadora",
+        "b": "El Secretario, las Directoras y directores generales y el Representante del personal",
+        "c": "Las Consejeras y consejeros y la Vicepresidenta de la CNMV",
+        "d": "La Secretaría General del Tesoro y Financiación Internacional"
+      },
+      "correctAnswer": "b",
+      "explanation": "La página 3 del documento detalla la composición del Consejo de Gobierno e indica explícitamente que el 'Secretario', las 'Directoras y directores generales' y el 'Representante del personal' asisten 'con voz y sin voto'. Los demás cargos mencionados en las opciones son miembros plenos del Consejo o asisten sin una especificación de 'sin voto', lo que implica voz y voto.\n\n\nEjemplo: En una reunión de un comité de empresa, los miembros de la dirección pueden participar en el debate (voz), pero solo los representantes de los trabajadores tienen derecho a votar las decisiones finales.",
+      "id": "q_b73f875cc6",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "De acuerdo con el organigrama, ¿quiénes son los miembros de la Comisión de Auditoría?",
+      "options": {
+        "a": "José Luis Escrivá, Soledad Núñez, Fernando Fernández",
+        "b": "Carles Manera, Judith Arnal, Luis Servén",
+        "c": "Paula Conthe, Paloma Marín, Javier Priego",
+        "d": "Daniel Pérez Cid, David López Salido, Galo Nuño"
+      },
+      "correctAnswer": "b",
+      "explanation": "La página 3 del documento, bajo el epígrafe 'Comisión de Auditoría', lista de forma explícita a Carles Manera, Judith Arnal y Luis Servén como sus miembros. Las otras opciones corresponden a miembros del Consejo de Gobierno o la Comisión Ejecutiva, o directores generales.\n\n\nEjemplo: Para verificar la composición de un consejo de administración, se consulta el acta de constitución o el registro mercantil donde se detallan los nombres de los consejeros en ejercicio.",
+      "id": "q_226696afa8",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "¿Quién ostenta el cargo de Director General de Conducta Financiera y Billetes (DG.CFB)?",
+      "options": {
+        "a": "Alberto Ríos",
+        "b": "Juan Peñalosa",
+        "c": "Daniel Pérez Cid",
+        "d": "Mayte Ledo"
+      },
+      "correctAnswer": "a",
+      "explanation": "La página 5 del 'Organigrama general' indica claramente que el Director General (DG) de la Dirección General de Conducta Financiera y Billetes es Alberto Ríos. Juan Peñalosa es el Director General Adjunto (DGA) de la misma dirección.\n\n\nEjemplo: Para conocer al responsable de un departamento en una institución, se consulta el organigrama oficial donde se especifica el nombre y cargo de cada directivo.",
+      "id": "q_16350951a2",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "Según el organigrama del Banco de España, ¿quién ejerce como Subgobernadora?",
+      "options": {
+        "a": "Lucía Rodríguez",
+        "b": "Judith Arnal",
+        "c": "Soledad Núñez",
+        "d": "Mayte Ledo"
+      },
+      "correctAnswer": "c",
+      "explanation": "El nombre de Soledad Núñez aparece consistentemente en las páginas 3, 4 y 5 del documento, identificado como 'Subgobernadora'. Las otras personas mencionadas ocupan otros cargos dentro de la institución.\n\n\nEjemplo: Para identificar al segundo cargo de mayor autoridad en un banco central, se revisan las publicaciones oficiales del organigrama o los listados de altos directivos de la entidad.",
+      "id": "q_8e83ef4386",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "¿Quién es el Director del Departamento de Estabilidad Financiera y Política Macroprudencial?",
+      "options": {
+        "a": "Sergio Mayordomo",
+        "b": "Daniel Pérez Cid",
+        "c": "Carlos Pérez Montes",
+        "d": "Carlos Thomas"
+      },
+      "correctAnswer": "c",
+      "explanation": "La página 5 del organigrama general especifica que Carlos Pérez Montes es el Director del Departamento de Estabilidad Financiera y Política Macroprudencial. Sergio Mayordomo es el Subdirector de este mismo departamento.\n\n\nEjemplo: Para conocer el responsable de una unidad de análisis económico en una entidad, se consulta su organigrama detallado, donde se asignan los directores a cada departamento específico.",
+      "id": "q_5d1158316f",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "De acuerdo con el organigrama general, ¿de qué unidad depende funcionalmente el Departamento Jurídico?",
+      "options": {
+        "a": "De la Dirección General de Estrategia, Personas y Datos",
+        "b": "De la Dirección General Adjunta de Servicios e Intervención",
+        "c": "De la Secretaría General",
+        "d": "Del Consejo de Gobierno"
+      },
+      "correctAnswer": "c",
+      "explanation": "La página 5 del organigrama general muestra al Departamento Jurídico bajo la Secretaría General, con Javier Priego como Secretario General y Lucía Arranz como Directora Jurídica. Aunque la Secretaría General tiene una Dirección General Adjunta de Servicios e Intervención, el Departamento Jurídico se representa directamente bajo la Secretaría General.\n\n\nEjemplo: En una administración pública, el servicio jurídico suele reportar a la secretaría general o al máximo órgano administrativo para garantizar la asesoría legal independiente y transversal.",
+      "id": "q_0ce5d1a245",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "Según el organigrama general, ¿de qué órgano depende funcionalmente el Departamento de Auditoría Interna?",
+      "options": {
+        "a": "De la Secretaría General",
+        "b": "De la Comisión de Auditoría",
+        "c": "De la Dirección General Adjunta de Servicios e Intervención",
+        "d": "Del Gobernador"
+      },
+      "correctAnswer": "b",
+      "explanation": "La página 5 del organigrama general muestra una flecha de dependencia explícita que conecta el Departamento de Auditoría Interna con la Comisión de Auditoría, indicando que reporta a esta última. Esta estructura asegura la independencia de la función de auditoría.\n\n\nEjemplo: En una empresa cotizada, el departamento de auditoría interna generalmente reporta al comité de auditoría del consejo de administración para mantener la objetividad y evitar conflictos de interés con la dirección ejecutiva.",
+      "id": "q_fcfa0e644e",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "¿Quién ocupa el cargo de Directora del Departamento de Sistemas de Información?",
+      "options": {
+        "a": "Juan del Peso",
+        "b": "Natalia Canalejo",
+        "c": "Elena Grande",
+        "d": "Mayte Ledo"
+      },
+      "correctAnswer": "c",
+      "explanation": "La página 5 del organigrama general identifica a Elena Grande como la Directora del Departamento de Sistemas de Información. Juan del Peso y Natalia Canalejo son Subdirector y Subdirectora, respectivamente, en el mismo departamento.\n\n\nEjemplo: Si un usuario necesita contactar al responsable de IT de una organización, buscaría el nombre de la Directora de Sistemas de Información en el directorio interno o en el organigrama publicado.",
+      "id": "q_3252792e85",
+      "source": "Organigrama_BE.md"
+    },
+    {
+      "question": "Según el organigrama general, ¿quién es el Director General Adjunto de Supervisión II?",
+      "options": {
+        "a": "Susana Camiñas",
+        "b": "Mercedes Olano",
+        "c": "Agustín Pérez Gasco",
+        "d": "José Antonio Gracia"
+      },
+      "correctAnswer": "c",
+      "explanation": "La página 5 del documento, bajo la Dirección General de Supervisión, nombra a Agustín Pérez Gasco como el Director General Adjunto de Supervisión II. Susana Camiñas es la DGA de Supervisión I, y Mercedes Olano es la Directora General de Supervisión.\n\n\nEjemplo: En una entidad reguladora, los directores adjuntos de supervisión se encargan de coordinar y dirigir equipos específicos dentro de la función supervisora, reportando a la Dirección General principal.",
+      "id": "q_11a07366d0",
+      "source": "Organigrama_BE.md"
     }
   ]
 }
