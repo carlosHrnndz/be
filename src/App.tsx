@@ -16,6 +16,7 @@ import {
   X,
   Check
 } from "lucide-react";
+import rawQuestions from "./data/questions.json";
 
 // Types
 interface Question {
@@ -55,9 +56,13 @@ interface QuestionStats {
 
 export default function App() {
   // Database state
-  const [dbQuestions, setDbQuestions] = useState<Question[]>([]);
-  const [dbLoading, setDbLoading] = useState(true);
-  const [dbError, setDbError] = useState("");
+  const [dbQuestions] = useState<Question[]>(rawQuestions as Question[]);
+  const [dbLoading] = useState(false);
+  const [dbError] = useState(
+    rawQuestions.length === 0
+      ? "Aún no se han generado las preguntas. Ejecuta el generador de preguntas para empezar."
+      : ""
+  );
 
   // UI view state
   // 'dashboard' | 'test' | 'results' | 'history_detail'
@@ -88,23 +93,7 @@ export default function App() {
 
   // Load questions and local storage on mount
   useEffect(() => {
-    // 1. Fetch questions
-    fetch("/src/data/questions.json")
-      .then((res) => {
-        if (!res.ok) throw new Error("No se pudo cargar la base de datos de preguntas.");
-        return res.json();
-      })
-      .then((data: Question[]) => {
-        setDbQuestions(data);
-        setDbLoading(false);
-      })
-      .catch((err) => {
-        console.error(err);
-        setDbLoading(false);
-        setDbError("Aún no se han generado las preguntas. Ejecuta el generador de preguntas para empezar.");
-      });
-
-    // 2. Load theme
+    // 1. Load theme
     const savedTheme = localStorage.getItem("bde_theme") as "dark" | "light";
     if (savedTheme === "light") {
       setTheme("light");

@@ -34,7 +34,9 @@
     "e071d67b803e54c2ec362c10a8b345fa": true,
     "c68d5d6d4804a5b5718f5c28ddba9c67": true,
     "19cd1cea7bcc28fd3b538a334ec55b0c": true,
-    "4224424c171c1e34924cd9c612c323a7": true
+    "4224424c171c1e34924cd9c612c323a7": true,
+    "0c8949023e5fb90a3991b5db1b2a86a3": true,
+    "494aa0703113a1fe31e560093cd84711": true
   },
   "questions": [
     {
@@ -7302,6 +7304,539 @@
       "correctAnswer": "b",
       "explanation": "La nota a pie de página sobre Jacques Delors indica que 'Entre 1985 y 1995 fue presidente de la Comisión Europea. Ha sido el gran impulsor de la unidad europea a través de la firma del Acta Única (1986) y del Tratado de Maastricht (1991) que hizo nacer la Unión Europea (1992)'.\n\n\nEjemplo: La visión de Delors fue fundamental para transformar la Comunidad Económica Europea en una Unión Europea con objetivos más amplios, incluyendo una moneda única, lo cual se materializó en el Acta Única Europea y sentó las bases para el Tratado de Maastricht.",
       "id": "q_80c8ab772e",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál fue el período de duración de la Segunda Fase de la Unión Económica y Monetaria (UEM), según lo estipulado en el proceso de integración?",
+      "options": {
+        "a": "Desde el 1 de enero de 1993 hasta el 31 de diciembre de 1997.",
+        "b": "Desde el 1 de enero de 1994 hasta el 31 de diciembre de 1998.",
+        "c": "Desde el 1 de enero de 1995 hasta el 31 de diciembre de 1999.",
+        "d": "Desde el 1 de enero de 1992 hasta el 31 de diciembre de 1996."
+      },
+      "correctAnswer": "b",
+      "explanation": "La Segunda Fase de la Unión Económica y Monetaria se extendió desde el 1 de enero de 1994 hasta el 31 de diciembre de 1998, periodo durante el cual se implementaron importantes acuerdos preparatorios para la moneda única.\n\n\nEjemplo: Si un examen versara sobre la cronología de la UEM, sería fundamental conocer con exactitud la delimitación temporal de cada fase para situar correctamente los hitos correspondientes.",
+      "id": "q_d0a288f7fc",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Uno de los acuerdos más destacados durante la Segunda Fase de la Unión Económica y Monetaria (UEM) fue la imposición de una condición fundamental a los bancos centrales nacionales. ¿Cuál fue esta condición?",
+      "options": {
+        "a": "Dotar de independencia a los bancos centrales nacionales.",
+        "b": "Centralizar la política monetaria en el Banco Central Europeo.",
+        "c": "Permitir la financiación directa de instituciones públicas por los bancos centrales.",
+        "d": "Armonizar la política fiscal de los Estados miembros."
+      },
+      "correctAnswer": "a",
+      "explanation": "Durante la Segunda Fase de la UEM, un acuerdo clave fue dotar de independencia a los bancos centrales nacionales, un paso crucial para la futura centralización de la política monetaria bajo el Banco Central Europeo y para asegurar la estabilidad.\n\n\nEjemplo: La Ley de Autonomía del Banco de España de 1994 es un reflejo de este acuerdo, asegurando que la institución pudiera cumplir su mandato sin interferencias políticas, preparándose para su integración en el SEBC.",
+      "id": "q_1b24e0b1b7",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "De la siguiente lista de países, ¿cuál de ellos no formó parte del grupo inicial que accedió a la UEM y adoptó el euro el 1 de enero de 1999?",
+      "options": {
+        "a": "Finlandia.",
+        "b": "Portugal.",
+        "c": "Irlanda.",
+        "d": "Grecia."
+      },
+      "correctAnswer": "d",
+      "explanation": "Los países que accedieron inicialmente a la UEM y a la moneda única fueron Alemania, Francia, Italia, Irlanda, Bélgica, Holanda, Luxemburgo, Austria, Finlandia, Portugal y España. Grecia se incorporó posteriormente en enero de 2001.\n\n\nEjemplo: Al revisar la historia de la adopción del euro, un analista financiero debe distinguir entre los países fundadores de la Eurozona y aquellos que se unieron en fechas posteriores para comprender la evolución de la integración monetaria.",
+      "id": "q_c3c8ca380e",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál fue el último país en integrarse en la zona euro, adoptando el euro como moneda única en enero de 2023, y elevando el número total de países a veinte?",
+      "options": {
+        "a": "Lituania.",
+        "b": "Letonia.",
+        "c": "Croacia.",
+        "d": "Eslovaquia."
+      },
+      "correctAnswer": "c",
+      "explanation": "Según el texto, Croacia se integró en la zona euro en enero de 2023, convirtiéndose en el vigésimo país en adoptar la moneda única.\n\n\nEjemplo: Un ciudadano croata que poseyera kunas hasta diciembre de 2022, a partir de enero de 2023, debió realizar sus transacciones y pagos en euros, marcando un hito en la economía nacional.",
+      "id": "q_3b3af8bc2e",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuántos bancos, incluyendo el Banco Central Europeo (BCE), conformaban el Sistema Europeo de Bancos Centrales (SEBC) en julio de 2024, según la información proporcionada?",
+      "options": {
+        "a": "Diecinueve.",
+        "b": "Veintiocho.",
+        "c": "Veintisiete.",
+        "d": "Veintiséis."
+      },
+      "correctAnswer": "b",
+      "explanation": "Contando los elementos de la tabla 'COMPOSICIÓN DEL SISTEMA EUROPEO DE BANCOS CENTRALES (JULIO 2024)', se observa que hay 28 entidades bancarias listadas, incluyendo el Banco Central Europeo.\n\n\nEjemplo: Un experto en estructuras institucionales de la UE, al analizar la gobernanza monetaria, consideraría el número total de bancos centrales nacionales y el BCE como miembros del SEBC para comprender su alcance y operatividad.",
+      "id": "q_49c66607b8",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Durante la Segunda Fase de la UEM, se establecieron prohibiciones estrictas relativas a la financiación del sector público. ¿Cuál de las siguientes acciones fue explícitamente prohibida a los bancos centrales nacionales?",
+      "options": {
+        "a": "La supervisión de las políticas monetarias nacionales.",
+        "b": "La emisión de deuda pública en euros.",
+        "c": "La concesión de cualquier tipo de créditos o la autorización de descubiertos a favor de instituciones u organismos públicos o empresas de los Estados miembros.",
+        "d": "La participación en los mercados secundarios de deuda pública."
+      },
+      "correctAnswer": "c",
+      "explanation": "En la Segunda Fase, se prohibió específicamente la concesión de cualquier tipo de créditos o la autorización de descubiertos por parte de los bancos centrales a favor de instituciones u organismos públicos o empresas de los Estados miembros, así como el acceso privilegiado del sector público a cualquier clase de entidades financieras.\n\n\nEjemplo: Si un banco central nacional recibiera una solicitud de financiación directa por parte del tesoro público para cubrir un déficit presupuestario, dicha acción estaría prohibida por las normas de la Segunda Fase de la UEM, fomentando la disciplina fiscal.",
+      "id": "q_83c9353d4c",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "El Instituto Monetario Europeo (IME), creado en la Segunda Fase y origen del SEBC, era gestionado por un Consejo. ¿Quiénes formaban parte de este Consejo?",
+      "options": {
+        "a": "Un presidente y los gobernadores de los bancos centrales nacionales de la Unión Europea.",
+        "b": "El presidente del Banco Central Europeo y los ministros de finanzas de la UE.",
+        "c": "Un director general y los miembros del Consejo de Gobierno del BCE.",
+        "d": "Un consejo de sabios y representantes de las instituciones financieras privadas."
+      },
+      "correctAnswer": "a",
+      "explanation": "El Instituto Monetario Europeo era gestionado por un Consejo formado por un presidente y los gobernadores de los bancos centrales nacionales de la Unión Europea.\n\n\nEjemplo: En las reuniones del Consejo del IME, el presidente coordinaría los debates y decisiones con los gobernadores de los bancos centrales nacionales, quienes aportarían la perspectiva de sus respectivas economías para mejorar la coordinación de políticas monetarias.",
+      "id": "q_6196b559e3",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes funciones NO se atribuyó al Instituto Monetario Europeo (IME) durante su existencia?",
+      "options": {
+        "a": "Intensificar las relaciones entre los bancos centrales nacionales.",
+        "b": "Ejecutar la política monetaria única de la Eurozona.",
+        "c": "Fomentar la armonización de las estadísticas.",
+        "d": "Promover la eficacia de los pagos transfronterizos."
+      },
+      "correctAnswer": "b",
+      "explanation": "Las funciones destacadas del IME eran intensificar las relaciones entre los bancos centrales nacionales, mejorar la coordinación de las políticas monetarias, supervisar el funcionamiento del Sistema Monetario, fomentar la armonización de las estadísticas y promover la eficacia de los pagos transfronterizos. La ejecución de la política monetaria única es una función del BCE en la Tercera Fase.\n\n\nEjemplo: El IME, en lugar de fijar los tipos de interés de la futura Eurozona, se encargaba de preparar el terreno técnico y operativo para que esta función pudiera ser asumida por el BCE, por ejemplo, desarrollando sistemas de pagos transfronterizos.",
+      "id": "q_d55acbe09a",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "En los días 2 y 3 de mayo de 1998, se tomaron decisiones clave para el inicio del proceso de la Moneda Única, incluyendo el nombramiento de los directivos del Banco Central Europeo (BCE). ¿Quién fue nombrado el primer presidente del BCE?",
+      "options": {
+        "a": "Jean-Claude Trichet.",
+        "b": "Mario Draghi.",
+        "c": "Wim Duisenberg.",
+        "d": "Jacques Delors."
+      },
+      "correctAnswer": "c",
+      "explanation": "El nombramiento del primer presidente del Banco Central Europeo recayó en la persona del holandés Wim Duisenberg, junto con un vicepresidente y cuatro vocales, en las decisiones tomadas en mayo de 1998.\n\n\nEjemplo: Al asumir la presidencia del BCE, Wim Duisenberg tuvo la responsabilidad de liderar la institución en sus primeros años cruciales, gestionando la transición hacia la moneda única y estableciendo la credibilidad del nuevo banco central.",
+      "id": "q_efe810e467",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál fue el tipo de conversión irreversible establecido para la Peseta española con respecto al Euro a partir del 1 de enero de 1999?",
+      "options": {
+        "a": "40,3399 pesetas.",
+        "b": "200,482 pesetas.",
+        "c": "5,94573 pesetas.",
+        "d": "166,386 pesetas."
+      },
+      "correctAnswer": "d",
+      "explanation": "La tabla de conversiones irreversibles del EURO indica que el tipo de conversión para la Peseta fue de 166,386.\n\n\nEjemplo: Un ciudadano español, al convertir sus ahorros de pesetas a euros en 1999, utilizaría esta tasa fija para calcular el equivalente exacto en la nueva moneda, como, por ejemplo, 10.000 pesetas se convertirían en 60,10 euros.",
+      "id": "q_539204fd3a",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Con la integración de Croacia en la zona euro en enero de 2023, se estableció un tipo de conversión irreversible para la Kuna Croata. ¿Cuál fue este valor?",
+      "options": {
+        "a": "340,750.",
+        "b": "0,702804.",
+        "c": "7,5345.",
+        "d": "3,45280."
+      },
+      "correctAnswer": "c",
+      "explanation": "La tabla de 'INCORPORACIONES POSTERIORES' muestra que el tipo de conversión para la Kuna Croata fue de 7,5345.\n\n\nEjemplo: Un establecimiento comercial en Zagreb, al fijar sus precios en euros a partir de 2023, dividiría el precio anterior en kunas por 7,5345 para obtener el equivalente en euros y mostrarlo correctamente a sus clientes.",
+      "id": "q_5b3c54212f",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Durante la etapa de 'Puesta en Circulación' de la Tercera Fase de la UEM, ¿hasta qué fecha convivieron las antiguas divisas nacionales con el euro antes de que este se convirtiera en la moneda de uso exclusivo?",
+      "options": {
+        "a": "Hasta el 1 de enero de 2002.",
+        "b": "Hasta el 28 de febrero de 2002.",
+        "c": "Hasta el 31 de diciembre de 2001.",
+        "d": "Hasta el 31 de marzo de 2002."
+      },
+      "correctAnswer": "b",
+      "explanation": "La Tabla 2, en el apartado de 'Puesta en Circulación', indica que la utilización exclusiva de la nueva moneda se produjo a partir del 1 de marzo de 2002, conviviendo con las antiguas divisas hasta el 28 de febrero de 2002.\n\n\nEjemplo: Durante los dos primeros meses de 2002, un ciudadano en Francia podía pagar en francos o en euros, y recibir cambio en cualquiera de las dos monedas, pero a partir del 1 de marzo de 2002, solo el euro sería aceptado legalmente para transacciones.",
+      "id": "q_efba66f722",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál es la característica principal que define una 'Zona de comercio preferencial' dentro de las modalidades de integración económica?",
+      "options": {
+        "a": "Se suprimen completamente todos los aranceles entre los países participantes.",
+        "b": "Se reducen los aranceles aduaneros a determinados productos de ciertos países, sin suprimirlos totalmente.",
+        "c": "Se fijan aranceles aduaneros comunes frente a terceros países, además de la libre circulación interna.",
+        "d": "Se permite el libre tránsito de mercancías, servicios, personas y capitales."
+      },
+      "correctAnswer": "b",
+      "explanation": "Una zona de comercio preferencial se instrumenta a través del establecimiento de un tratado de comercio por el que se reducen los aranceles aduaneros a determinados productos de ciertos países, pero sin suprimirlos en su totalidad. Es la modalidad menos exigente.\n\n\nEjemplo: Un tratado entre la UE y los Estados ACP que reduce los aranceles para la importación de productos agrícolas específicos de estos países a Europa, sin eliminarlos por completo, establece una zona de comercio preferencial.",
+      "id": "q_8206f716a7",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Qué elemento adicional a una zona de libre comercio define una 'Unión aduanera' en el proceso de integración económica?",
+      "options": {
+        "a": "Permite el libre tránsito de personas y capitales.",
+        "b": "Unifica las políticas fiscales de los países miembros.",
+        "c": "Fija aranceles aduaneros comunes frente a terceros países.",
+        "d": "Adopta una moneda única y una política monetaria común."
+      },
+      "correctAnswer": "c",
+      "explanation": "Una unión aduanera es un área de libre comercio que, además, fija aranceles aduaneros comunes frente a terceros países, lo que implica que sus países miembros tienen una política comercial común hacia los Estados que no son miembros.\n\n\nEjemplo: Si España y Francia (ambos parte de una unión aduanera como la UE) importan un producto de China, el arancel aplicado en la frontera de cualquiera de los dos países sería idéntico, reflejando su política comercial común.",
+      "id": "q_fa4751ea69",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "La relación comercial entre la Unión Europea y Turquía se rige por un Acuerdo de Unión Aduanera. ¿En qué fecha entró en vigor dicho acuerdo?",
+      "options": {
+        "a": "El 1 de enero de 1996.",
+        "b": "El 1 de enero de 1999.",
+        "c": "El 1 de marzo de 2002.",
+        "d": "El 1 de enero de 1994."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto especifica que las relaciones comerciales entre la UE y Turquía se desarrollan a través del Acuerdo de Unión Aduanera que entró en vigor el 1 de enero de 1996.\n\n\nEjemplo: A partir del 1 de enero de 1996, un exportador de automóviles de Alemania a Turquía dejaría de pagar aranceles en la frontera turca, pero ambos bloques aplicarían los mismos aranceles a coches importados, por ejemplo, de Japón.",
+      "id": "q_ba23cab988",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Un 'Mercado único', también denominado 'mercado común', se caracteriza por permitir el libre tránsito de cuatro elementos fundamentales. ¿Cuáles son estos elementos?",
+      "options": {
+        "a": "Productos, mano de obra, tecnologías e inversiones.",
+        "b": "Bienes, transportes, trabajadores y divisas.",
+        "c": "Capitales, bienes, información y empresas.",
+        "d": "Mercancías, servicios, personas y capitales."
+      },
+      "correctAnswer": "d",
+      "explanation": "El mercado único se describe como una combinación de unión aduanera y zona de libre comercio donde se permite en la zona el libre tránsito de mercancías, servicios, personas y capitales.\n\n\nEjemplo: Un fontanero polaco puede trabajar en Alemania sin necesidad de un permiso de trabajo, una empresa española puede ofrecer servicios en Italia sin restricciones, y un inversor francés puede comprar acciones en la bolsa alemana con total libertad, evidenciando las cuatro libertades.",
+      "id": "q_8c1f69b8c4",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Qué elemento distintivo se superpone a un mercado único para conformar una 'Unión económica y monetaria'?",
+      "options": {
+        "a": "Una armonización fiscal y una unificación de políticas sociales.",
+        "b": "Una moneda única y una política monetaria común.",
+        "c": "La eliminación de aranceles y la fijación de aranceles externos comunes.",
+        "d": "La libre circulación de bienes y servicios."
+      },
+      "correctAnswer": "b",
+      "explanation": "La unión económica y monetaria implica superponer a un mercado único una moneda única y una política monetaria común.\n\n\nEjemplo: La existencia del euro como moneda compartida por múltiples países europeos y la gestión de su política monetaria por el Banco Central Europeo son las características que transforman el mercado único de la UE en una Unión Económica y Monetaria.",
+      "id": "q_5f0b93925e",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Para alcanzar una 'Integración económica completa', ¿qué aspectos adicionales deben armonizarse o unificarse más allá de una unión económica y monetaria?",
+      "options": {
+        "a": "Armonización fiscal, unificación de políticas sociales y otras políticas económicas comunes.",
+        "b": "Libre circulación de capitales y servicios.",
+        "c": "La adopción de una moneda única y la libre circulación de trabajadores.",
+        "d": "La eliminación total de aranceles y la creación de un parlamento supranacional."
+      },
+      "correctAnswer": "a",
+      "explanation": "Para llegar a una integración económica completa se debe ampliar la unión económica y monetaria con una armonización fiscal, una unificación de políticas sociales y otras políticas económicas comunes (presupuestarias, de empleo, pensiones y mercado de capitales, entre otras).\n\n\nEjemplo: En una integración económica completa, las tasas del IVA, los sistemas de seguridad social y los presupuestos nacionales de los países miembros tendrían que estar coordinados o unificados para eliminar todas las barreras y disparidades económicas.",
+      "id": "q_f92df336ef",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué etapa del proceso de integración económica se encuentra actualmente la Unión Europea, según el texto, haciendo la salvedad de los países que no han adoptado el euro?",
+      "options": {
+        "a": "La zona de libre comercio.",
+        "b": "La unión aduanera.",
+        "c": "El mercado único.",
+        "d": "La quinta etapa, la Unión Económica y Monetaria."
+      },
+      "correctAnswer": "d",
+      "explanation": "El texto afirma que 'Actualmente, la Unión Europea se encuentra en la quinta etapa del proceso', que corresponde a la Unión Económica y Monetaria en la clasificación de seis modalidades o fases distintas.\n\n\nEjemplo: Aunque no todos los países de la UE utilizan el euro, la estructura institucional y las políticas implementadas, como la política monetaria común para la Eurozona, sitúan a la UE en la fase avanzada de la Unión Económica y Monetaria en su conjunto.",
+      "id": "q_1b3dcae417",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "A fecha de la redacción del documento, ¿cuál de los siguientes países miembros de la Unión Europea NO había adoptado el euro como moneda?",
+      "options": {
+        "a": "Hungría.",
+        "b": "Lituania.",
+        "c": "Eslovenia.",
+        "d": "Croacia."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto menciona explícitamente que Dinamarca, Suecia, Rumanía, Chequia, Bulgaria, Hungría y Polonia son los países que quedan fuera de la adopción del euro. Lituania, Eslovenia y Croacia sí lo han adoptado en fechas posteriores.\n\n\nEjemplo: Un viajero que se desplace desde Austria (país del euro) a Hungría necesitará cambiar euros por florines húngaros para realizar pagos, dado que Hungría conserva su divisa nacional.",
+      "id": "q_1e86a51a8f",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Cuando se fundó la Comunidad Económica Europea (actual Unión Europea) en 1958, ¿cuál era su objetivo inicial respecto a la integración económica?",
+      "options": {
+        "a": "Establecer un sistema de moneda única.",
+        "b": "Lograr la libre circulación de mercancías, servicios, personas y capitales.",
+        "c": "Crear una unión aduanera y un mercado común para la agricultura.",
+        "d": "Armonizar las políticas fiscales y sociales de los Estados miembros."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que 'Cuando en 1958 se fundó la Unión Europea, entonces llamada Comunidad Económica Europea, el objetivo era crear una unión aduanera y un mercado común para la agricultura.'\n\n\nEjemplo: La creación de la Política Agrícola Común (PAC) desde los inicios de la CEE refleja directamente este objetivo fundacional de establecer un mercado común para la agricultura y eliminar barreras comerciales internas para productos agrícolas.",
+      "id": "q_2dcbd6ce79",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál fue el objetivo principal de la Comunidad Económica Europea al momento de su fundación en 1958?",
+      "options": {
+        "a": "Establecer una unión monetaria y una política fiscal común.",
+        "b": "Crear una unión aduanera y un mercado común para la agricultura.",
+        "c": "Ampliar el mercado único para abarcar bienes, servicios y capitales.",
+        "d": "Coordinar las políticas económicas y sociales de todos los Estados miembros."
+      },
+      "correctAnswer": "b",
+      "explanation": "La Comunidad Económica Europea, fundada en 1958, tenía como objetivo inicial la creación de una unión aduanera y un mercado común específicamente para el sector agrícola.nnnEjemplo: Cuando España se adhirió a la CEE en 1986, uno de los beneficios inmediatos fue la eliminación de aranceles para sus productos agrícolas al comerciar con otros países miembros, como Francia o Alemania, dentro de esta unión aduanera.",
+      "id": "q_ff3afaa599",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué año se había realizado en gran medida la ampliación del mercado común para abarcar también los bienes y servicios dentro del mercado único?",
+      "options": {
+        "a": "1958",
+        "b": "1986",
+        "c": "1993",
+        "d": "2013"
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que, después de la fundación de la CEE, el mercado común se amplió para incluir bienes y servicios dentro del mercado único, lo cual ya se había realizado en gran medida en 1993.nnnEjemplo: Antes de 1993, la venta de un producto electrónico fabricado en Alemania a un consumidor en Italia podría haber enfrentado ciertas restricciones o diferencias normativas. Después de la ampliación del mercado único en gran medida para ese año, estas transacciones se simplificaron enormemente debido a la armonización y eliminación de barreras para bienes y servicios.",
+      "id": "q_ad9c8de635",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué etapa del proceso de integración económica se encuentra actualmente la Unión Europea en su conjunto?",
+      "options": {
+        "a": "Cuarta etapa",
+        "b": "Quinta etapa",
+        "c": "Sexta etapa",
+        "d": "Tercera etapa"
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto establece explícitamente que \"actualmente, la Unión Europea se encuentra en la quinta etapa del proceso\" de integración económica y monetaria.nnnEjemplo: La existencia de una moneda única (el euro) para la mayoría de los países miembros, así como una política monetaria común gestionada por el Banco Central Europeo, son características distintivas de una fase avanzada de integración, como la quinta etapa.",
+      "id": "q_916c89d799",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué etapa de la integración económica se encuentran los países de la Unión Europea que, como Dinamarca o Suecia, no han adoptado el euro como moneda oficial?",
+      "options": {
+        "a": "Segunda etapa",
+        "b": "Tercera etapa",
+        "c": "Cuarta etapa",
+        "d": "Quinta etapa"
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto aclara que, aunque la Unión Europea se encuentra en la quinta etapa, los países que no han adoptado el euro (como Dinamarca, Suecia, Rumanía, Chequia, Bulgaria, Hungría y Polonia) conservan su divisa nacional y aplican sus propias políticas monetarias, encontrándose por tanto en la etapa cuarta.nnnEjemplo: Suecia, al mantener la corona sueca y la capacidad de establecer su propia política de tipos de interés a través de su banco central, ejemplifica la situación de un país en la cuarta etapa de integración, que implica un mercado único pero no una unión monetaria plena.",
+      "id": "q_9432ee423d",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Según el texto, ¿cuántos países han adoptado el euro como moneda oficial, conformando la Eurozona, y cuántos no la han adoptado?",
+      "options": {
+        "a": "Veinte países en la Eurozona y nueve que no.",
+        "b": "Diecinueve países en la Eurozona y diez que no.",
+        "c": "Veintiuno países en la Eurozona y ocho que no.",
+        "d": "Veintisiete países en la Eurozona y dos que no."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto afirma que \"la UE está formada por veinte países que han adoptado el euro como moneda oficial, y que en su conjunto forman la Eurozona, y por otros nueve que no la han adoptado como moneda oficial.\"nnnEjemplo: Un ciudadano español, al viajar a Francia, no necesita cambiar de moneda porque ambos países pertenecen a la Eurozona, un grupo de veinte naciones que comparten la misma divisa, mientras que si viaja a Polonia, sí necesitará cambiar a zloty.",
+      "id": "q_405a9d4bf7",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuándo se firmó el Tratado de Adhesión de Croacia a la Unión Europea y en qué año se convirtió en el 28.º país miembro?",
+      "options": {
+        "a": "El 9 de diciembre de 2011 y en julio de 2013.",
+        "b": "El 1 de julio de 2013 y en diciembre de 2011.",
+        "c": "El 9 de diciembre de 2013 y en julio de 2011.",
+        "d": "El 1 de enero de 2012 y en julio de 2013."
+      },
+      "correctAnswer": "a",
+      "explanation": "El texto indica que \"El 9 de diciembre de 2011 se firmó el Tratado de Adhesión de Croacia, lo que lo convirtió en el 28.º país miembro en julio de 2013.\"nnnEjemplo: La preparación legislativa y económica de Croacia, que culminó con la firma del tratado en 2011, demuestra el proceso formal necesario para que un país se integre plenamente en la Unión Europea, convirtiéndose en miembro dos años después.",
+      "id": "q_98fcc4e7ea",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones NO es una característica práctica de la Unión Económica y Monetaria (UEM) según el texto?",
+      "options": {
+        "a": "La coordinación de las políticas fiscales, imponiendo límites máximos a la deuda y el déficit públicos.",
+        "b": "Una política monetaria independiente, marcada por los gobiernos de los Estados miembros.",
+        "c": "La coordinación de las políticas económicas de los Estados miembros.",
+        "d": "Una moneda única en la Zona euro."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto especifica que una de las características prácticas de la UEM es \"Una política monetaria independiente, no marcada por los gobiernos de los Estados miembros, aplicada por el Banco Central Europeo (BCE)\". La opción b contradice directamente esta afirmación al decir que está \"marcada por los gobiernos\".nnnEjemplo: En la Eurozona, el Banco Central Europeo decide sobre los tipos de interés de forma autónoma, sin que los ministerios de finanzas de España o Francia puedan imponer su criterio individual sobre estas decisiones.",
+      "id": "q_2fee0d8103",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuántos consumidores posibilita el mercado amplio de la Unión Europea para que las empresas desarrollen economías de escala y reduzcan sus costes medios?",
+      "options": {
+        "a": "Más de 100 millones.",
+        "b": "Más de 250 millones.",
+        "c": "Más de 500 millones.",
+        "d": "Aproximadamente 300 millones."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto menciona explícitamente que una ventaja para las empresas es la creación de economías de escala debido a \"un mercado amplio de más de 500 millones de consumidores\".nnnEjemplo: Una empresa automotriz alemana puede producir coches en volúmenes mucho mayores para un mercado de 500 millones de personas en la UE, lo que le permite distribuir sus costes fijos entre más unidades, resultando en un menor coste por vehículo fabricado.",
+      "id": "q_5003826dab",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones describe una desventaja fundamental de la pertenencia a la Unión Económica y Monetaria (UEM)?",
+      "options": {
+        "a": "El incremento del poder de negociación frente a terceros países.",
+        "b": "La disminución de los problemas en la balanza de pagos.",
+        "c": "La pérdida de soberanía en materias monetaria, cambiaria y de armonización fiscal.",
+        "d": "El desarrollo del mercado de trabajo mediante la libre circulación de personas."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto identifica las desventajas de la UEM fundamentalmente con \"la pérdida de soberanía en materias económicas: Monetaria y cambiaria (no modificación de tipos de cambio y de los tipos de interés a nivel interno) y Armonización de la política fiscal\". Las otras opciones son ventajas mencionadas.nnnEjemplo: Un país miembro de la Eurozona no puede devaluar su moneda para hacer sus exportaciones más baratas, ni puede ajustar unilateralmente sus tipos de interés para estimular su economía, ya que estas decisiones las toma el BCE para toda la Eurozona.",
+      "id": "q_dfa7216044",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Qué órgano de gobierno de la Unión Económica y Monetaria (UEM) se encarga de definir la dirección y las prioridades políticas generales de la UE?",
+      "options": {
+        "a": "El Consejo de la UE.",
+        "b": "El Eurogrupo.",
+        "c": "El Consejo Europeo.",
+        "d": "La Comisión Europea."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto establece que \"El Consejo Europeo está integrado por los jefes de Estado o de Gobierno de los Estados miembros de la UE, así como por su presidente y el presidente de la Comisión Europea. Se encarga de definir la dirección y las prioridades políticas generales de la UE.\"nnnEjemplo: Una cumbre del Consejo Europeo podría decidir sobre la política energética a largo plazo de la UE o sobre la respuesta conjunta a una crisis internacional, estableciendo así las líneas estratégicas para las demás instituciones.",
+      "id": "q_7a29b153e0",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Qué órgano de gobierno es el responsable de decidir si un Estado miembro de la UE puede adoptar el euro?",
+      "options": {
+        "a": "El Consejo Europeo.",
+        "b": "El Consejo de la UE.",
+        "c": "El Eurogrupo.",
+        "d": "El Banco Central Europeo."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto indica que \"El Consejo de la UE es el órgano que reúne a los ministros de todos los Estados miembros de la UE para adoptar leyes y coordinar políticas en de la UE y decide si un Estado miembro puede adoptar el euro.\"nnnEjemplo: Cuando Croacia cumplió los criterios de convergencia, fue el Consejo de la UE quien tomó la decisión formal de permitirle unirse a la Eurozona, tras la evaluación de la Comisión Europea y el BCE.",
+      "id": "q_336cb2f8d7",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál es el carácter del Eurogrupo y cuál es su función principal según el texto?",
+      "options": {
+        "a": "Es un órgano formal que adopta leyes y coordina políticas de la UE en general.",
+        "b": "Es un órgano informal en el que los ministros de la Zona euro coordinan políticas de interés común respecto al euro.",
+        "c": "Es el órgano ejecutivo de la UE que realiza el seguimiento del cumplimiento de las políticas.",
+        "d": "Es el órgano que establece la política monetaria con el objetivo de estabilidad de precios."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto describe al Eurogrupo como \"un órgano informal en el que los ministros de los Estados miembros de la zona del euro tratan cuestiones relacionadas con sus responsabilidades comunes respecto del euro, coordinando las políticas de interés común para los Estados miembros de la Zona euro.\"nnnEjemplo: En una reunión del Eurogrupo, los ministros de finanzas de países como España, Alemania o Italia podrían discutir la situación económica de la Eurozona y coordinar sus posturas sobre temas fiscales o de estabilidad financiera.",
+      "id": "q_e707923fac",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál es el objetivo primordial que establece el Banco Central Europeo (BCE) al fijar la política monetaria en la UEM?",
+      "options": {
+        "a": "Fomentar el crecimiento económico y el empleo.",
+        "b": "Mantener la estabilidad de los precios.",
+        "c": "Coordinar las políticas fiscales de los Estados miembros.",
+        "d": "Financiar los déficits públicos de los países miembros."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto especifica que el Banco Central Europeo \"establece la política monetaria con el objetivo primordial de mantener la estabilidad de los precios.\"nnnEjemplo: Cuando el BCE sube los tipos de interés, lo hace con la finalidad principal de controlar la inflación y asegurar que los precios se mantengan estables a medio plazo, no con el objetivo directo de estimular el crecimiento económico.",
+      "id": "q_842466e399",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿En qué artículo y tratado se regulan los criterios de convergencia de Maastricht?",
+      "options": {
+        "a": "Artículo 121, apartado 1, del Tratado de la Unión Europea.",
+        "b": "Artículo 121, apartado 1, del Tratado constitutivo de la Comunidad Europea (TCE).",
+        "c": "Artículo 119, apartado 3, del Tratado de Funcionamiento de la Unión Europea.",
+        "d": "Artículo 120, apartado 2, del Tratado de Maastricht."
+      },
+      "correctAnswer": "b",
+      "explanation": "El texto establece claramente que \"Los criterios de convergencia se regulan en el artículo 121, apartado 1, del Tratado constitutivo de la Comunidad Europea (TCE).\"nnnEjemplo: Para verificar si un país candidato cumple los requisitos para unirse a la Eurozona, se recurre a la normativa específica detallada en el artículo 121, apartado 1 del TCE, que establece los parámetros económicos a seguir.",
+      "id": "q_ca4545b58f",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "El cumplimiento de los criterios de convergencia de Maastricht era un requisito necesario para acceder a qué fase de la Unión Económica y Monetaria (UEM)?",
+      "options": {
+        "a": "La primera fase de coordinación económica.",
+        "b": "La segunda fase de establecimiento del Sistema Europeo de Bancos Centrales.",
+        "c": "La tercera fase de la UEM.",
+        "d": "La fase de mercado común."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto indica que \"su cumplimiento era un requisito necesario para acceder a la tercera fase de la UEM.\"nnnEjemplo: Antes de la introducción física del euro y la plena operación del Banco Central Europeo, los países debieron demostrar el cumplimiento de la estabilidad de precios, déficit, deuda y tipos de interés para poder avanzar a la etapa final de la unión monetaria.",
+      "id": "q_177b020898",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Según los criterios de convergencia de Maastricht, ¿cuál es el límite para la tasa de inflación armonizada (respecto al índice de precios al consumo) que un Estado miembro debe cumplir?",
+      "options": {
+        "a": "Una tasa no superior en más de un 2,0 % a la de los tres Estados miembros con mejor comportamiento.",
+        "b": "Una tasa no superior en más de un 1,5 % a la de los tres Estados miembros con mejor comportamiento.",
+        "c": "Una tasa no superior al 3,0 % del PIB.",
+        "d": "Una tasa inferior al 1,0 % en términos absolutos."
+      },
+      "correctAnswer": "b",
+      "explanation": "El criterio de convergencia para la estabilidad de los precios establece: \"Una tasa no superior en más de un 1,5 % a la de los tres Estados miembros con mejor comportamiento\" en cuanto a la tasa de inflación armonizada respecto al índice de precios al consumo.nnnEjemplo: Si los tres países con menor inflación registran tasas del 0,5%, 0,7% y 0,9%, la media sería 0,7%. Para cumplir el criterio, un país candidato no debería tener una inflación superior al 0,7% + 1,5% = 2,2%.",
+      "id": "q_b716cce97d",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "¿Cuál es el valor de referencia para el déficit público en porcentaje del PIB que un Estado miembro debe cumplir para la solidez de sus finanzas públicas, según los criterios de convergencia de Maastricht?",
+      "options": {
+        "a": "No superior al 1,5 %.",
+        "b": "No superior al 60 %.",
+        "c": "No superior al 3 %.",
+        "d": "No superior al 2 %."
+      },
+      "correctAnswer": "c",
+      "explanation": "El criterio de convergencia para la solidez de las finanzas públicas (Déficit público en % del PIB) establece un \"Valor de referencia: no superior al 3 %\".nnnEjemplo: Un país con un déficit presupuestario del 4% de su PIB no cumpliría este criterio de Maastricht, lo que le impediría inicialmente la entrada en la Eurozona o le exigiría un plan de ajuste para reducirlo por debajo del 3%.",
+      "id": "q_f8e5786b8d",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Según los criterios de convergencia de Maastricht, ¿cuál es el valor de referencia para la deuda pública en porcentaje del PIB que un Estado miembro debe cumplir para la sostenibilidad de sus finanzas públicas?",
+      "options": {
+        "a": "No superior al 3 %.",
+        "b": "No superior al 60 %.",
+        "c": "No superior al 1,5 %.",
+        "d": "No superior al 100 %."
+      },
+      "correctAnswer": "b",
+      "explanation": "El criterio de convergencia para la sostenibilidad de las finanzas públicas (Deuda pública en % del PIB) establece un \"Valor de referencia: no superior al 60 %\".nnnEjemplo: Un país cuya deuda pública asciende al 85% de su PIB debería implementar políticas para reducirla y acercarse al umbral del 60% si desea cumplir con los criterios de Maastricht para la sostenibilidad financiera.",
+      "id": "q_c43402ef09",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Para el carácter duradero de la convergencia, ¿cuál es el límite para los tipos de interés a largo plazo que un Estado miembro debe cumplir, según los criterios de Maastricht?",
+      "options": {
+        "a": "Un tipo no superior en más de 1,5 puntos porcentuales al de los tres Estados miembros con mejor comportamiento en estabilidad de precios.",
+        "b": "Un tipo no superior al 3 % del PIB.",
+        "c": "Un tipo no superior en más de 2 puntos porcentuales al de los tres Estados miembros con mejor comportamiento en materia de estabilidad de los precios.",
+        "d": "Un tipo que no exceda la media de la Eurozona."
+      },
+      "correctAnswer": "c",
+      "explanation": "El criterio para el carácter duradero de la convergencia (Tipos de interés a largo plazo) establece: \"Un tipo no superior en más de 2 puntos porcentuales al de los tres Estados miembros con mejor comportamiento en materia de estabilidad de los precios\".nnnEjemplo: Si los tres países con menor inflación tienen una media de tipos de interés a largo plazo del 1,0%, un país candidato no debería tener un tipo de interés a largo plazo superior al 1,0% + 2% = 3,0% para cumplir este criterio.",
+      "id": "q_ad8c25a982",
+      "source": "GDN13_Banco_Espana_SEBC_2025.md"
+    },
+    {
+      "question": "Considerando las etapas de integración económica, ¿cómo se describe la naturaleza actual de la Unión Europea en el texto?",
+      "options": {
+        "a": "Como una unión aduanera pura.",
+        "b": "Como un mercado común sin armonización monetaria.",
+        "c": "Como una mezcla entre las fases cuarta y quinta de integración.",
+        "d": "Como una unión política completa."
+      },
+      "correctAnswer": "c",
+      "explanation": "El texto concluye sobre la situación de la UE afirmando: \"La UE resulta ser, por ello, una mezcla entre las fases cuarta y quinta.\" Esto se debe a que la mayoría de los países han adoptado el euro (quinta fase), pero algunos aún conservan su moneda y política monetaria nacional (cuarta fase).nnnEjemplo: La coexistencia de la Eurozona con países como Suecia o Polonia que mantienen sus propias divisas y políticas monetarias, a pesar de ser parte del mercado único, es lo que configura a la UE como una mezcla entre estas dos etapas avanzadas de integración.",
+      "id": "q_2456162ac9",
       "source": "GDN13_Banco_Espana_SEBC_2025.md"
     }
   ]
