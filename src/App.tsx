@@ -91,6 +91,36 @@ export default function App() {
   const timerRef = useRef<any>(null);
   const testStartTimeRef = useRef<number>(0);
 
+  // Swipe gesture detection refs and handlers
+  const touchStartXRef = useRef<number | null>(null);
+  const touchStartYRef = useRef<number | null>(null);
+
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartXRef.current = e.touches[0].clientX;
+    touchStartYRef.current = e.touches[0].clientY;
+  };
+
+  const handleTouchEnd = (e: React.TouchEvent) => {
+    if (touchStartXRef.current === null || touchStartYRef.current === null) return;
+
+    const diffX = e.changedTouches[0].clientX - touchStartXRef.current;
+    const diffY = e.changedTouches[0].clientY - touchStartYRef.current;
+    const minSwipeDistance = 50;
+
+    if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > minSwipeDistance) {
+      if (diffX > 0) {
+        // Swipe Right -> Previous question
+        setCurrentIdx((prev) => Math.max(0, prev - 1));
+      } else {
+        // Swipe Left -> Next question
+        setCurrentIdx((prev) => Math.min(activeQuestions.length - 1, prev + 1));
+      }
+    }
+
+    touchStartXRef.current = null;
+    touchStartYRef.current = null;
+  };
+
   // Load questions and local storage on mount
   useEffect(() => {
     // 1. Load theme
@@ -524,7 +554,7 @@ export default function App() {
 
         {/* 2. TEST VIEW */}
         {!dbLoading && view === "test" && activeQuestions.length > 0 && (
-          <div>
+          <div onTouchStart={handleTouchStart} onTouchEnd={handleTouchEnd}>
             <div className="test-header" style={{ alignItems: "center" }}>
               <div style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
                 <span>Pregunta</span>

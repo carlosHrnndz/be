@@ -10320,5 +10320,213 @@
     "explanation": "La página 5 del documento, bajo la Dirección General de Supervisión, nombra a Agustín Pérez Gasco como el Director General Adjunto de Supervisión II. Susana Camiñas es la DGA de Supervisión I, y Mercedes Olano es la Directora General de Supervisión.\n\n\nEjemplo: En una entidad reguladora, los directores adjuntos de supervisión se encargan de coordinar y dirigir equipos específicos dentro de la función supervisora, reportando a la Dirección General principal.",
     "id": "q_11a07366d0",
     "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién ostenta el cargo de Director del Departamento de Auditoría Interna?",
+    "options": {
+      "a": "Luis E. Pardo",
+      "b": "Julio Hernáez",
+      "c": "Enrique Moral",
+      "d": "Fernando Tejada"
+    },
+    "correctAnswer": "a",
+    "explanation": "Según el organigrama, Luis E. Pardo es el Director tanto de la unidad 'Auditoría Interna' mencionada inicialmente como del 'Departamento de Auditoría Interna' dependiente del Gobernador. \n\n\nEjemplo: En una reunión de la Comisión de Auditoría, la presentación del informe anual sería realizada por Luis E. Pardo en su capacidad de director de dicha área.",
+    "id": "q_cc4005b3d3",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién desempeña la función de Subdirector en la unidad de Estrategia Supervisora y Riesgo Tecnológico?",
+    "options": {
+      "a": "José Miguel del Río",
+      "b": "Iván Kataryniuk",
+      "c": "Pablo Burriel",
+      "d": "Juan Peñalosa"
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto establece claramente que 'Estrategia Supervisora y Riesgo Tecnológico' tiene como Director a Julio Hernáez y como Subdirector a José Miguel del Río. \n\n\nEjemplo: Si se necesitara contactar con la Subdirección de Estrategia Supervisora y Riesgo Tecnológico para una consulta específica, se debería dirigir la comunicación a José Miguel del Río.",
+    "id": "q_8d7dd2ad71",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "Según el organigrama, ¿quién ocupa la posición de Directora en la Oficina Independiente de Evaluaciones?",
+    "options": {
+      "a": "Mª Gutiérrez de Ojesto",
+      "b": "Soledad Núñez",
+      "c": "Mª José Fernández Lupiáñez",
+      "d": "Manuela Sebastián"
+    },
+    "correctAnswer": "a",
+    "explanation": "El organigrama de la página 6, bajo 'Unidades organizativas dependientes del Consejo de Gobierno', indica que la Directora de la 'Oficina Independiente de Evaluaciones' es Mª Gutiérrez de Ojesto. \n\n\nEjemplo: Para solicitar un informe de evaluación sobre un proyecto institucional, se contactaría directamente con Mª Gutiérrez de Ojesto como máxima responsable de esta oficina.",
+    "id": "q_6a6d71e913",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿De qué órgano o figura jerárquica depende funcionalmente la Oficina Independiente de Evaluaciones?",
+    "options": {
+      "a": "Consejo de Gobierno",
+      "b": "Gobernador",
+      "c": "Subgobernadora",
+      "d": "Dirección General de Auditoría Interna"
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto especifica en la Página 6: 'Unidades organizativas dependientes del Consejo de Gobierno' e inmediatamente lista la 'Oficina Independiente de Evaluaciones'. \n\n\nEjemplo: Un plan estratégico desarrollado por la Oficina Independiente de Evaluaciones requeriría la aprobación o supervisión directa del Consejo de Gobierno, al ser su entidad jerárquica.",
+    "id": "q_4372193bca",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién ostenta el cargo de Gobernador del Banco de España?",
+    "options": {
+      "a": "José Luis Escrivá",
+      "b": "Soledad Núñez",
+      "c": "David López Salido",
+      "d": "Daniel Pérez Cid"
+    },
+    "correctAnswer": "a",
+    "explanation": "La Página 7 del organigrama, bajo 'Unidades organizativas dependientes del Gobernador', identifica claramente a 'Gobernador José Luis Escrivá'. \n\n\nEjemplo: Una comunicación oficial dirigida a la máxima autoridad del Banco de España se remitiría a José Luis Escrivá, reconociéndolo como el Gobernador.",
+    "id": "q_04dd714be2",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién es el Director General de la Dirección General de Relaciones Institucionales, Europeas y Transparencia?",
+    "options": {
+      "a": "Galo Nuño",
+      "b": "Inés Calderón",
+      "c": "Javier Priego",
+      "d": "Mayte Ledo"
+    },
+    "correctAnswer": "a",
+    "explanation": "El organigrama, tanto en las dependencias del Gobernador como de la Subgobernadora, indica que la 'Dirección General de Relaciones Institucionales, Europeas y Transparencia' tiene como Director General (DG) a Galo Nuño. \n\n\nEjemplo: En el caso de una iniciativa de transparencia institucional, Galo Nuño sería el responsable de dirigir su implementación desde su Dirección General.",
+    "id": "q_a4a404f9cd",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién ocupa el cargo de Director General Adjunto en la Dirección General de Conducta Financiera y Billetes?",
+    "options": {
+      "a": "Juan Peñalosa",
+      "b": "Alberto Ríos",
+      "c": "Mª José Fernández Lupiáñez",
+      "d": "Fernando Tejada"
+    },
+    "correctAnswer": "a",
+    "explanation": "En la Página 7, bajo 'Dirección General de Conducta Financiera y Billetes', se especifica que el DG es Alberto Ríos y el DGA es Juan Peñalosa. Esta información se reitera en la Página 9. \n\n\nEjemplo: En ausencia del Director General, Juan Peñalosa asumiría las responsabilidades de la Dirección General de Conducta Financiera y Billetes en calidad de Director General Adjunto.",
+    "id": "q_7ad9104859",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién ostenta el cargo de Subdirectora en el Departamento de Conducta de Entidades?",
+    "options": {
+      "a": "Mª Cristina Menéndez de Luarca",
+      "b": "Arancha Gutiérrez García",
+      "c": "Pablo Hernández Romeo",
+      "d": "M.ª de las Nieves Prieto"
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto, tanto en la descripción general de la Dirección General de Conducta Financiera y Billetes (Página 9) como en el detalle del 'Departamento de Conducta de Entidades' (Página 10), nombra a Mª Cristina Menéndez de Luarca como Subdirectora. \n\n\nEjemplo: Para coordinar las acciones de las divisiones adscritas al Departamento de Conducta de Entidades, Fernando Tejada (Director) contaría con la asistencia directa de Mª Cristina Menéndez de Luarca como Subdirectora.",
+    "id": "q_547e3d8b19",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "De las siguientes unidades organizativas, ¿cuál depende jerárquicamente de la Subgobernadora?",
+    "options": {
+      "a": "Dirección General de Estabilidad Financiera, Regulación y Resolución",
+      "b": "Departamento de Auditoría Interna",
+      "c": "Dirección General de Supervisión",
+      "d": "Oficina Independiente de Evaluaciones"
+    },
+    "correctAnswer": "a",
+    "explanation": "La Página 8 del organigrama, bajo el epígrafe 'Unidades organizativas dependientes de la Subgobernadora', lista la 'Dirección General de Estabilidad Financiera, Regulación y Resolución' como una de ellas. Las otras opciones dependen del Gobernador o del Consejo de Gobierno. \n\n\nEjemplo: Una nueva iniciativa de regulación financiera que emane de la Dirección General de Estabilidad Financiera, Regulación y Resolución requeriría la supervisión directa y aprobación de la Subgobernadora, dado su vínculo jerárquico.",
+    "id": "q_ba7b3ff65e",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "En la Dirección General de Economía, ¿quién ocupa el cargo de Director General Adjunto?",
+    "options": {
+      "a": "Javier Pérez",
+      "b": "David López Salido",
+      "c": "Enrique Moral",
+      "d": "Pablo Burriel"
+    },
+    "correctAnswer": "a",
+    "explanation": "La Página 15 del organigrama establece que la 'Dirección General de Economía' tiene como Director General a David López Salido y como Director General Adjunto a Javier Pérez. \n\n\nEjemplo: Si el Director General de Economía estuviera de baja, Javier Pérez asumiría temporalmente la dirección de los departamentos y divisiones de la Dirección General de Economía, ejerciendo las funciones de Director General Adjunto.",
+    "id": "q_6c8e72eb24",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "Según el organigrama, ¿qué puesto se encuentra actualmente vacante en el Departamento de Política Monetaria y Economía Internacional?",
+    "options": {
+      "a": "Director/a",
+      "b": "Subdirector",
+      "c": "Jefe/a de la Oficina de Tendencias Globales y Análisis de las Instituciones",
+      "d": "Jefe/a de la División de Política Monetaria y Economía del área del Euro"
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto indica 'Política Monetaria y Economía Internacional Director/a: (Vacante)' y 'Departamento de Política Monetaria y Economía Internacional Director/a: (Vacante) Subdirector: Pablo Burriel', lo que confirma que la posición de Director/a está vacante. El Subdirector, Pablo Burriel, sí está nombrado. Las otras opciones son de otras unidades o divisiones. \n\n\nEjemplo: La planificación estratégica a largo plazo del Departamento de Política Monetaria y Economía Internacional podría verse afectada por la ausencia de un Director/a permanente, recayendo algunas funciones de coordinación superior en el Subdirector.",
+    "id": "q_f6a354a19b",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién es el responsable de la Oficina Ambiental, Social y de Gobernanza que depende de la Subgobernadora?",
+    "options": {
+      "a": "Juan Carlos Delrieu",
+      "b": "Soledad Núñez",
+      "c": "Mayte Ledo",
+      "d": "Daniel Pérez Cid"
+    },
+    "correctAnswer": "a",
+    "explanation": "La Página 8 del organigrama, dentro de las unidades dependientes de la Subgobernadora, nombra a 'Oficina Ambiental, Social y de Gobernanza Juan Carlos Delrieu', indicando que él es el responsable. \n\n\nEjemplo: Si el Banco de España necesitara emitir una declaración sobre su compromiso con la sostenibilidad, Juan Carlos Delrieu, como responsable de esta Oficina, sería el encargado de coordinar y supervisar su elaboración.",
+    "id": "q_e8cf533416",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién es la Subdirectora del Departamento de Efectivo?",
+    "options": {
+      "a": "Beatriz García Bardera",
+      "b": "Mª José Fernández Lupiáñez",
+      "c": "Carmen Álamo",
+      "d": "Fernando León"
+    },
+    "correctAnswer": "a",
+    "explanation": "La Página 9 y la Página 11 del organigrama especifican que el 'Departamento de Efectivo' tiene como Directora a Mª José Fernández Lupiáñez y como Subdirectora a Beatriz García Bardera. \n\n\nEjemplo: En el proceso de gestión y control del efectivo en circulación, Beatriz García Bardera colaboraría estrechamente con la Directora, siendo la segunda al mando en el Departamento de Efectivo.",
+    "id": "q_bd21bf66e4",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿A qué Dirección General reporta funcionalmente el Departamento de Estabilidad Financiera y Política Macroprudencial (DD.EFM)?",
+    "options": {
+      "a": "Dirección General de Economía (DG.ECO)",
+      "b": "Dirección General de Estabilidad Financiera, Regulación y Resolución (DG.EFR)",
+      "c": "Dirección General de Operaciones, Mercados y Sistemas de Pago",
+      "d": "Dirección General de Conducta Financiera y Billetes"
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto, en la nota a pie de página de la Página 16 y 17, aclara que 'El DD.EFM (junto con el DD.AIM, en concreto la División Análisis de los Mercados Financieros) reporta funcionalmente a la DG.ECO.' Aunque jerárquicamente depende de la DG.EFR, funcionalmente lo hace de la DG.ECO. \n\n\nEjemplo: Un análisis de riesgo sistémico elaborado por el DD.EFM sería presentado y coordinado con la Dirección General de Economía, debido a su dependencia funcional para este tipo de informes.",
+    "id": "q_48b3ae68fa",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "¿Quién ejerce la función de Directora del Departamento de Sucursales?",
+    "options": {
+      "a": "Manuela Sebastián",
+      "b": "Juan Gómez González",
+      "c": "Mª José Fernández Lupiáñez",
+      "d": "Mª José Grande"
+    },
+    "correctAnswer": "a",
+    "explanation": "En las Páginas 9, 12 y 13 del organigrama se indica que la Directora del 'Departamento de Sucursales' es Manuela Sebastián. \n\n\nEjemplo: La implementación de nuevas políticas operativas para las sucursales del Banco de España sería liderada por Manuela Sebastián en su rol de Directora del Departamento de Sucursales.",
+    "id": "q_1016fd4889",
+    "source": "Organigrama_BE.md"
+  },
+  {
+    "question": "Según la información proporcionada en el organigrama, ¿cuál es la fecha asociada a la sección principal de la Dirección General de Conducta Financiera y Billetes?",
+    "options": {
+      "a": "29 de julio de 2025",
+      "b": "12 de septiembre de 2025",
+      "c": "1 de marzo de 2025",
+      "d": "12 de noviembre de 2025"
+    },
+    "correctAnswer": "a",
+    "explanation": "La Página 9, que detalla la Dirección General de Conducta Financiera y Billetes con su DG, DGA y sus departamentos, incluye la fecha '29 de julio de 2025'. Las otras fechas corresponden a subsecciones o a otras direcciones generales. \n\n\nEjemplo: Si se necesitara consultar la versión del organigrama que detalla la estructura principal de la DG de Conducta Financiera y Billetes, se haría referencia a la actualización con fecha de 29 de julio de 2025.",
+    "id": "q_ab8b3586b8",
+    "source": "Organigrama_BE.md"
   }
 ]
