@@ -56,10 +56,13 @@ interface QuestionStats {
 
 export default function App() {
   // Database state
-  const [dbQuestions] = useState<Question[]>(rawQuestions as Question[]);
+  const filteredQuestions = (rawQuestions as Question[]).filter(
+    (q) => q.source !== "Catalogo_actividades_esp.md"
+  );
+  const [dbQuestions] = useState<Question[]>(filteredQuestions);
   const [dbLoading] = useState(false);
   const [dbError] = useState(
-    rawQuestions.length === 0
+    filteredQuestions.length === 0
       ? "Aún no se han generado las preguntas. Ejecuta el generador de preguntas para empezar."
       : ""
   );
