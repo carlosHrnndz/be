@@ -309,18 +309,61 @@ export default function App() {
   };
 
   // Flag/unflag a question as low quality (Opción 2)
+  // When discarding during an active test, replace the question in-place
+  // so the test count stays at 50 and it doesn't count as a blank answer.
   const toggleFlagQuestion = (questionId: string) => {
-    setFlaggedIds((prev) => {
-      const already = prev.includes(questionId);
-      const updated = already ? prev.filter((id) => id !== questionId) : [...prev, questionId];
-      localStorage.setItem("bde_flagged_ids", JSON.stringify(updated));
-      triggerToast(already ? "Pregunta restaurada" : "Pregunta descartada 👎");
-      // Move to next question automatically
-      if (!already) {
-        setCurrentIdx((ci) => Math.min(activeQuestions.length - 1, ci + 1));
+    const already = flaggedIds.includes(questionId);
+    const updatedFlagged = already
+      ? flaggedIds.filter((id) => id !== questionId)
+      : [...flaggedIds, questionId];
+
+    localStorage.setItem("bde_flagged_ids", JSON.stringify(updatedFlagged));
+    setFlaggedIds(updatedFlagged);
+
+    if (!already && isTestActive) {
+      // Find a replacement: not already in the active test, not flagged, not from a disabled source
+      const activeIdSet = new Set(activeQuestions.map((q) => q.id));
+      const candidates = (rawQuestions as Question[]).filter(
+        (q) =>
+          q.source !== "Catalogo_actividades_esp.md" &&
+          !disabledSources.includes(q.source) &&
+          !updatedFlagged.includes(q.id) &&
+          !activeIdSet.has(q.id)
+      );
+
+      const discardedIdx = activeQuestions.findIndex((q) => q.id === questionId);
+
+      if (candidates.length > 0 && discardedIdx !== -1) {
+        // Pick a random replacement
+        const replacement = candidates[Math.floor(Math.random() * candidates.length)];
+        const newActive = [...activeQuestions];
+        newActive[discardedIdx] = replacement;
+        setActiveQuestions(newActive);
+
+        // Clear any stale answer for the discarded question
+        setUserAnswers((prev) => {
+          const updated = { ...prev };
+          delete updated[questionId];
+          return updated;
+        });
+
+        // currentIdx stays the same → user sees the replacement question immediately
+        triggerToast("Pregunta descartada 👎 — nueva pregunta cargada");
+      } else {
+        // No replacement available: just remove and advance
+        const newActive = activeQuestions.filter((q) => q.id !== questionId);
+        setActiveQuestions(newActive);
+        setCurrentIdx((ci) => Math.min(newActive.length - 1, ci));
+        setUserAnswers((prev) => {
+          const updated = { ...prev };
+          delete updated[questionId];
+          return updated;
+        });
+        triggerToast("Pregunta descartada 👎");
       }
-      return updated;
-    });
+    } else {
+      triggerToast(already ? "Pregunta restaurada" : "Pregunta descartada 👎");
+    }
   };
 
   // Toggle a source on/off (Opción 1)
