@@ -14,7 +14,10 @@ import {
   ChevronDown,
   ChevronUp,
   X,
-  Check
+  Check,
+  ThumbsDown,
+  Filter,
+  Trash2
 } from "lucide-react";
 import rawQuestions from "./data/questions.json";
 
@@ -54,18 +57,39 @@ interface QuestionStats {
   };
 }
 
+// All distinct sources available (excluding the hardcoded one)
+const ALL_SOURCES = Array.from(
+  new Set(
+    (rawQuestions as Question[])
+      .filter((q) => q.source !== "Catalogo_actividades_esp.md")
+      .map((q) => q.source)
+  )
+).sort();
+
+// Pretty label for a source filename
+const prettySource = (s: string) =>
+  s.replace(/\.md$/i, "").replace(/_/g, " ");
+
 export default function App() {
-  // Database state
-  const filteredQuestions = (rawQuestions as Question[]).filter(
-    (q) => q.source !== "Catalogo_actividades_esp.md"
+  // Source/flag curation state (Opción 1 & 2)
+  const [disabledSources, setDisabledSources] = useState<string[]>([]);
+  const [flaggedIds, setFlaggedIds] = useState<string[]>([]);
+  const [showSourcePanel, setShowSourcePanel] = useState(false);
+  const [showFlaggedPanel, setShowFlaggedPanel] = useState(false);
+
+  // Derived active question pool
+  const baseQuestions = (rawQuestions as Question[]).filter(
+    (q) =>
+      q.source !== "Catalogo_actividades_esp.md" &&
+      !disabledSources.includes(q.source) &&
+      !flaggedIds.includes(q.id)
   );
-  const [dbQuestions] = useState<Question[]>(filteredQuestions);
   const [dbLoading] = useState(false);
-  const [dbError] = useState(
-    filteredQuestions.length === 0
+  const dbError =
+    baseQuestions.length === 0
       ? "Aún no se han generado las preguntas. Ejecuta el generador de preguntas para empezar."
-      : ""
-  );
+      : "";
+  const dbQuestions = baseQuestions;
 
   // UI view state
   // 'dashboard' | 'test' | 'results' | 'history_detail'
@@ -136,16 +160,28 @@ export default function App() {
       document.body.classList.remove("light-theme");
     }
 
-    // 3. Load history
+    // 2. Load history
     const savedHistory = localStorage.getItem("bde_test_history");
     if (savedHistory) {
       try { setHistory(jsonParseSafely(savedHistory)); } catch (e) { console.error(e); }
     }
 
-    // 4. Load stats
+    // 3. Load stats
     const savedStats = localStorage.getItem("bde_question_stats");
     if (savedStats) {
       try { setQuestionStats(jsonParseSafely(savedStats)); } catch (e) { console.error(e); }
+    }
+
+    // 4. Load disabled sources (Opción 1)
+    const savedDisabled = localStorage.getItem("bde_disabled_sources");
+    if (savedDisabled) {
+      try { setDisabledSources(jsonParseSafely(savedDisabled)); } catch (e) { console.error(e); }
+    }
+
+    // 5. Load flagged question ids (Opción 2)
+    const savedFlagged = localStorage.getItem("bde_flagged_ids");
+    if (savedFlagged) {
+      try { setFlaggedIds(jsonParseSafely(savedFlagged)); } catch (e) { console.error(e); }
     }
   }, []);
 
@@ -270,6 +306,39 @@ export default function App() {
       triggerToast(updated[questionId] ? "Marcada para responder al final" : "Desmarcada");
       return updated;
     });
+  };
+
+  // Flag/unflag a question as low quality (Opción 2)
+  const toggleFlagQuestion = (questionId: string) => {
+    setFlaggedIds((prev) => {
+      const already = prev.includes(questionId);
+      const updated = already ? prev.filter((id) => id !== questionId) : [...prev, questionId];
+      localStorage.setItem("bde_flagged_ids", JSON.stringify(updated));
+      triggerToast(already ? "Pregunta restaurada" : "Pregunta descartada 👎");
+      // Move to next question automatically
+      if (!already) {
+        setCurrentIdx((ci) => Math.min(activeQuestions.length - 1, ci + 1));
+      }
+      return updated;
+    });
+  };
+
+  // Toggle a source on/off (Opción 1)
+  const toggleSource = (source: string) => {
+    setDisabledSources((prev) => {
+      const updated = prev.includes(source)
+        ? prev.filter((s) => s !== source)
+        : [...prev, source];
+      localStorage.setItem("bde_disabled_sources", JSON.stringify(updated));
+      return updated;
+    });
+  };
+
+  // Clear all flagged questions
+  const clearAllFlagged = () => {
+    setFlaggedIds([]);
+    localStorage.removeItem("bde_flagged_ids");
+    triggerToast("Preguntas descartadas restauradas");
   };
 
   // Score Calculation
@@ -521,7 +590,147 @@ export default function App() {
                   <AlertCircle size={18} /> Repasar Fallos Comunes
                 </button>
               </div>
+          </div>
+
+          {/* ── Opción 1: Gestor de Fuentes ──────────────────────────────── */}
+          <div className="card" style={{ marginBottom: "1rem" }}>
+            <div
+              onClick={() => setShowSourcePanel((p) => !p)}
+              style={{ display: "flex", justifyContent: "space-between", alignItems: "center", cursor: "pointer" }}
+            >
+              <div style={{ display: "flex", alignItems: "center", gap: "0.6rem" }}>
+                <Filter size={16} style={{ color: "var(--color-gold)" }} />
+                <strong>Filtrar por Temario</strong>
+                {disabledSources.length > 0 && (
+                  <span className="badge badge-error" style={{ fontSize: "0.65rem", padding: "0.1rem 0.45rem" }}>
+                    {disabledSources.length} oculto{disabledSources.length > 1 ? "s" : ""}
+                  </span>
+                )}
+              </div>
+              {showSourcePanel ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
             </div>
+
+            {showSourcePanel && (
+              <div style={{ marginTop: "1rem", display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+                <p style={{ fontSize: "0.8rem", color: "var(--text-secondary)", marginBottom: "0.25rem" }}>
+                  Activa o desactiva bloques de preguntas según su documento origen. Los cambios son inmediatos.
+                </p>
+                {ALL_SOURCES.map((src) => {
+                  const count = (rawQuestions as Question[]).filter(
+                    (q) => q.source === src
+                  ).length;
+                  const isOn = !disabledSources.includes(src);
+                  return (
+                    <div
+                      key={src}
+                      onClick={() => toggleSource(src)}
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        gap: "0.75rem",
+                        padding: "0.6rem 0.75rem",
+                        borderRadius: "var(--border-radius-sm)",
+                        border: `1px solid ${isOn ? "var(--border-color)" : "rgba(239,68,68,0.4)"}`,
+                        backgroundColor: isOn ? "var(--bg-secondary)" : "rgba(239,68,68,0.07)",
+                        cursor: "pointer",
+                        opacity: isOn ? 1 : 0.65,
+                        transition: "all 0.2s"
+                      }}
+                    >
+                      <div style={{
+                        width: "16px", height: "16px", borderRadius: "4px", flexShrink: 0,
+                        backgroundColor: isOn ? "var(--color-gold)" : "transparent",
+                        border: `2px solid ${isOn ? "var(--color-gold)" : "var(--text-tertiary)"}`,
+                        display: "flex", alignItems: "center", justifyContent: "center"
+                      }}>
+                        {isOn && <Check size={10} style={{ color: "#000" }} />}
+                      </div>
+                      <div style={{ flex: 1, minWidth: 0 }}>
+                        <div style={{ fontSize: "0.85rem", fontWeight: 600, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                          {prettySource(src)}
+                        </div>
+                      </div>
+                      <span style={{ fontSize: "0.75rem", color: "var(--text-tertiary)", flexShrink: 0 }}>
+                        {count} preg.
+                      </span>
+                    </div>
+                  );
+                })}
+                <p style={{ fontSize: "0.75rem", color: "var(--text-tertiary)", marginTop: "0.25rem" }}>
+                  Preguntas activas tras filtro: <strong style={{ color: "var(--color-gold)" }}>{dbQuestions.length}</strong>
+                </p>
+              </div>
+            )}
+          </div>
+
+          {/* ── Opción 2: Gestión de Preguntas Descartadas ───────────────── */}
+          {flaggedIds.length > 0 && (
+            <div className="card" style={{ marginBottom: "1rem", borderColor: "rgba(239,68,68,0.3)" }}>
+              <div
+                onClick={() => setShowFlaggedPanel((p) => !p)}
+                style={{ display: "flex", justifyContent: "space-between", alignItems: "center", cursor: "pointer" }}
+              >
+                <div style={{ display: "flex", alignItems: "center", gap: "0.6rem" }}>
+                  <ThumbsDown size={16} style={{ color: "var(--color-error)" }} />
+                  <strong>Preguntas Descartadas</strong>
+                  <span className="badge badge-error" style={{ fontSize: "0.65rem", padding: "0.1rem 0.45rem" }}>
+                    {flaggedIds.length}
+                  </span>
+                </div>
+                {showFlaggedPanel ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+              </div>
+
+              {showFlaggedPanel && (
+                <div style={{ marginTop: "1rem" }}>
+                  <p style={{ fontSize: "0.8rem", color: "var(--text-secondary)", marginBottom: "0.75rem" }}>
+                    Estas preguntas han sido marcadas como descartadas y no aparecen en ningún modo de estudio.
+                    Puedes restaurarlas individualmente o todas a la vez.
+                  </p>
+                  <div style={{ display: "flex", flexDirection: "column", gap: "0.4rem", maxHeight: "260px", overflowY: "auto" }}>
+                    {flaggedIds.map((fid) => {
+                      const fq = (rawQuestions as Question[]).find((q) => q.id === fid);
+                      if (!fq) return null;
+                      return (
+                        <div key={fid} style={{
+                          display: "flex", alignItems: "flex-start", gap: "0.5rem",
+                          padding: "0.5rem 0.6rem",
+                          borderRadius: "var(--border-radius-sm)",
+                          backgroundColor: "var(--bg-secondary)",
+                          fontSize: "0.8rem"
+                        }}>
+                          <div style={{ flex: 1, minWidth: 0 }}>
+                            <div style={{ color: "var(--text-tertiary)", marginBottom: "0.15rem", fontSize: "0.7rem" }}>
+                              {prettySource(fq.source)} • {fq.id}
+                            </div>
+                            <div style={{ color: "var(--text-secondary)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
+                              {fq.question}
+                            </div>
+                          </div>
+                          <button
+                            onClick={() => toggleFlagQuestion(fid)}
+                            title="Restaurar pregunta"
+                            style={{
+                              background: "none", border: "none", cursor: "pointer",
+                              color: "var(--color-success)", padding: "0.2rem", flexShrink: 0
+                            }}
+                          >
+                            <RotateCcw size={13} />
+                          </button>
+                        </div>
+                      );
+                    })}
+                  </div>
+                  <button
+                    onClick={clearAllFlagged}
+                    className="action-btn action-btn-secondary"
+                    style={{ marginTop: "0.75rem", borderColor: "rgba(239,68,68,0.4)", color: "var(--color-error)", fontSize: "0.8rem", padding: "0.45rem 0.9rem" }}
+                  >
+                    <Trash2 size={13} /> Restaurar todas ({flaggedIds.length})
+                  </button>
+                </div>
+              )}
+            </div>
+          )}
 
             {/* History List */}
             <h2 className="history-title">Historial de Exámenes</h2>
@@ -724,14 +933,34 @@ export default function App() {
                 <ChevronLeft size={18} />
               </button>
 
-              <button
-                onClick={() => toggleBookmark(activeQuestions[currentIdx].id)}
-                className={`bookmark-btn ${markedForLater[activeQuestions[currentIdx].id] ? "bookmarked" : ""}`}
-                style={{ justifySelf: "center", width: "100%", maxWidth: "200px" }}
-              >
-                <Bookmark size={16} />
-                <span>{markedForLater[activeQuestions[currentIdx].id] ? "Marcada" : "Marcar al final"}</span>
-              </button>
+              <div style={{ display: "flex", gap: "0.5rem", width: "100%", justifyContent: "center" }}>
+                <button
+                  onClick={() => toggleBookmark(activeQuestions[currentIdx].id)}
+                  className={`bookmark-btn ${markedForLater[activeQuestions[currentIdx].id] ? "bookmarked" : ""}`}
+                  style={{ flex: 1, maxWidth: "160px" }}
+                >
+                  <Bookmark size={16} />
+                  <span>{markedForLater[activeQuestions[currentIdx].id] ? "Marcada" : "Marcar"}</span>
+                </button>
+                <button
+                  onClick={() => toggleFlagQuestion(activeQuestions[currentIdx].id)}
+                  className="bookmark-btn"
+                  title="Descartar esta pregunta (mala calidad)"
+                  style={{
+                    flex: 1,
+                    maxWidth: "120px",
+                    color: flaggedIds.includes(activeQuestions[currentIdx].id)
+                      ? "var(--color-error)"
+                      : "var(--text-secondary)",
+                    borderColor: flaggedIds.includes(activeQuestions[currentIdx].id)
+                      ? "var(--color-error)"
+                      : undefined
+                  }}
+                >
+                  <ThumbsDown size={15} />
+                  <span style={{ fontSize: "0.78rem" }}>Descartar</span>
+                </button>
+              </div>
 
               {currentIdx < activeQuestions.length - 1 ? (
                 <button
