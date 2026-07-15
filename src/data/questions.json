@@ -19251,5 +19251,1838 @@
     "explanation": "El texto describe que la OIE informa al Consejo de Gobierno sobre el grado de implementación de las recomendaciones, clasificándolas en: Completadas, En proceso de implementación o Pendientes.\n\n\nEjemplo: Si la OIE evalúa el seguimiento de 10 recomendaciones de un informe previo, puede informar que 5 están 'Completadas', 3 'En proceso de implementación' y 2 'Pendientes', proporcionando una visión clara del avance.",
     "id": "q_6ad80572a4",
     "source": "temas comunes.md"
+  },
+  {
+    "question": "¿Cuál es el ámbito específico de las actividades de cooperación entre bancos centrales cubiertas por el presente documento del SEBC?",
+    "options": {
+      "a": "La cooperación interna entre los bancos centrales del SEBC.",
+      "b": "La cooperación en materia de políticas entre todos los bancos centrales de la Unión Europea.",
+      "c": "La cooperación a nivel de expertos y directivos entre bancos centrales del SEBC y bancos centrales de países no pertenecientes a la UE.",
+      "d": "La cooperación en asuntos de supervisión bancaria exclusivamente dentro de los Estados miembros de la UE."
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento establece explícitamente que \"el ámbito de este documento se limita a la cooperación de expertos de bancos centrales del SEBC con bancos centrales de fuera de la UE y no incluye actividades de cooperación dentro del SEBC ni cooperación sobre políticas.\"\n\n\nEjemplo: Un especialista en ciberseguridad del Banco de España colabora en un seminario con el Banco Central de México para compartir mejores prácticas en la protección de infraestructuras financieras, ilustrando una actividad incluida en el ámbito del documento.",
+    "id": "q_2b5ff46380",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "¿Qué grupo fue el encargado de elaborar el documento sobre buenas prácticas de cooperación internacional entre bancos centrales bajo los auspicios del Comité de Relaciones Internacionales del SEBC?",
+    "options": {
+      "a": "El Comité de Relaciones Internacionales del Sistema Europeo de Bancos Centrales (SEBC).",
+      "b": "El Banco Central Europeo (BCE).",
+      "c": "El Grupo de Trabajo sobre Cooperación entre Bancos Centrales.",
+      "d": "Un consorcio de bancos centrales nacionales de la UE."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que \"El presente documento sobre buenas prácticas ha sido elaborado por el Grupo de Trabajo sobre Cooperación entre Bancos Centrales bajo los auspicios de Comité de Relaciones Internacionales del Sistema Europeo de Bancos Centrales (SEBC).\"\n\n\nEjemplo: El Comité de Relaciones Internacionales del SEBC encomendó al Grupo de Trabajo sobre Cooperación entre Bancos Centrales la tarea de recopilar y formalizar las directrices para la colaboración externa, lo que resultó en la publicación de este manual.",
+    "id": "q_00c41ceb31",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "¿En qué año se estableció el Banco de Pagos Internacionales (BPI), un hito que marcó el inicio de la práctica consolidada de cooperación entre bancos centrales a nivel internacional?",
+    "options": {
+      "a": "1900",
+      "b": "1930",
+      "c": "1950",
+      "d": "1990"
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento afirma que \"La cooperación entre bancos centrales es una práctica consolidada que comenzó tras la creación de una red internacional de los principales bancos centrales en la primera mitad del siglo XX, con el establecimiento del Banco de Pagos Internacionales (BPI) en 1930.\"\n\n\nEjemplo: La reunión de banqueros centrales en Basilea en 1930 para crear el BPI sentó las bases para la coordinación monetaria global, un precursor fundamental de la cooperación internacional actual, como la descrita por el SEBC.",
+    "id": "q_8f8c152243",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "¿Cuál es el objetivo fundamental de las actividades de cooperación que lleva a cabo el SEBC con bancos centrales de países no pertenecientes a la UE, según el documento?",
+    "options": {
+      "a": "La imposición de las políticas monetarias del SEBC a terceros países.",
+      "b": "La promoción de la integración política de los países no miembros de la UE en el ámbito europeo.",
+      "c": "Reforzar sus relaciones y fomentar la aplicación de prácticas de banca central y de supervisión adecuadas para contribuir a la estabilidad monetaria y financiera.",
+      "d": "La gestión directa de las reservas internacionales de los bancos centrales socios."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que \"El objetivo de las actividades de cooperación entre los bancos centrales que lleva a cabo el SEBC... es reforzar sus relaciones con bancos centrales de países no pertenecientes a la UE y fomentar la aplicación de prácticas de banca central y de supervisión adecuadas, contribuyendo con ello a la estabilidad monetaria y financiera.\"\n\n\nEjemplo: El Banco Central Europeo organiza un taller con el Banco Central de Brasil para compartir conocimientos sobre regulación de criptoactivos, buscando fortalecer su relación y mejorar la estabilidad financiera global mediante la adopción de prácticas uniformes.",
+    "id": "q_4f67dd4f37",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "Las actividades de cooperación del SEBC se dirigen principalmente a bancos centrales y autoridades de supervisión de qué tipo de países?",
+    "options": {
+      "a": "Países desarrollados con sistemas financieros robustos.",
+      "b": "Países en desarrollo y economías emergentes.",
+      "c": "Países miembros del G7.",
+      "d": "Países con sistemas bancarios exclusivamente públicos."
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento indica que \"Estas actividades se dirigen principalmente a bancos centrales y autoridades de supervisión de países en desarrollo y economías emergentes.\"\n\n\nEjemplo: Un programa de formación en gestión de riesgos financieros del SEBC se ofrece a representantes de bancos centrales de diversas naciones africanas y asiáticas con economías en crecimiento, en línea con el objetivo de fortalecer sus capacidades.",
+    "id": "q_d4ebce7ce9",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "En el contexto del Principio 4 (\"Eficiencia\") de las buenas prácticas de cooperación del SEBC, ¿qué aspecto se busca maximizar cuando resulta apropiado?",
+    "options": {
+      "a": "La inversión en soluciones tecnológicas obsoletas para reducir costes.",
+      "b": "La eficiencia asociada al uso de nuevas plataformas y herramientas digitales.",
+      "c": "El número de proyectos implementados sin considerar su coste.",
+      "d": "La dependencia de la asistencia externa sin desarrollo de capacidades internas."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto señala que, en relación con el Principio 4, \"Cuando resulta apropiado, se intenta maximizar la eficiencia asociada al uso de nuevas plataformas y herramientas digitales.\"\n\n\nEjemplo: Para un proyecto de cooperación en la modernización de sistemas de pago, el Banco de Francia, miembro del SEBC, implementa una plataforma digital avanzada para facilitar la colaboración, buscando optimizar los recursos y el tiempo de ejecución.",
+    "id": "q_46dc8a1fe7",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "¿Cuál es el propósito del SEBC al organizar las actividades de cooperación en función de solicitudes concretas y ajustarse a las necesidades de otros bancos centrales, según el Principio 5 de \"Sostenibilidad\"?",
+    "options": {
+      "a": "Asegurar que las actividades sean puntuales y sin seguimiento.",
+      "b": "Garantizar la propiedad de las actividades por parte del SEBC y su imposición.",
+      "c": "Asegurar la titularidad de las actividades por parte de la institución beneficiaria y tener en cuenta sus capacidades.",
+      "d": "Limitar el impacto de la colaboración a corto plazo."
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento explica que las actividades \"se organizan en función de solicitudes concretas y se ajustan a las necesidades de otros bancos centrales, asegurando su titularidad y teniendo en cuenta las capacidades de la institución beneficiaria.\"\n\n\nEjemplo: El Banco de España colabora con el banco central de un país de América Latina en un programa de supervisión bancaria, diseñándolo para que el banco latinoamericano pueda apropiarse de los conocimientos y mantener las mejoras de forma autónoma tras la finalización del proyecto.",
+    "id": "q_2fdfba2ad2",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "Según el documento, ¿qué tipos de actividades de cooperación están explícitamente excluidas de su ámbito?",
+    "options": {
+      "a": "La cooperación de expertos del SEBC con bancos centrales de fuera de la UE.",
+      "b": "Debates sobre políticas y prácticas de banca central con países en desarrollo.",
+      "c": "Actividades de cooperación dentro del SEBC y cooperación sobre políticas.",
+      "d": "Programas estructurados para reforzar la capacidad institucional de países candidatos a la adhesión a la UE."
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento establece: \"el ámbito de este documento se limita a la cooperación de expertos de bancos centrales del SEBC con bancos centrales de fuera de la UE y no incluye actividades de cooperación dentro del SEBC ni cooperación sobre políticas.\"\n\n\nEjemplo: Aunque el Banco Central Europeo coordina la política monetaria de la eurozona (cooperación dentro del SEBC), esta guía no detalla cómo se lleva a cabo esa coordinación interna, sino que se centra en la asistencia técnica a terceros países.",
+    "id": "q_a21f608522",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones constituye una de las modalidades de cooperación que el SEBC lleva a cabo?",
+    "options": {
+      "a": "La imposición unilateral de reformas legislativas a los bancos centrales socios.",
+      "b": "Debates entre homólogos, seminarios, talleres, cursos de formación o programas estructurados específicos.",
+      "c": "La participación exclusiva de personal directivo del SEBC sin interacción con expertos externos.",
+      "d": "La financiación ilimitada de proyectos de infraestructura en países no miembros de la UE."
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento lista entre los ejemplos ilustrativos de modalidades: \"debates entre homólogos; seminarios, talleres, cursos de formación o eventos similares...; programas estructurados específicos (a medio y a largo plazo)\".\n\n\nEjemplo: El Banco de Italia organiza un seminario para expertos de bancos centrales de la región balcánica sobre gestión de reservas de divisas, utilizando esta modalidad para compartir conocimientos y fortalecer capacidades.",
+    "id": "q_6d650b2fed",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "Además de las actividades del SEBC, ¿sobre qué base actúan los bancos centrales nacionales en su cooperación con bancos centrales de países no pertenecientes a la UE?",
+    "options": {
+      "a": "Exclusivamente sobre directrices del Banco de Pagos Internacionales.",
+      "b": "Sobre la base de acuerdos que sus países puedan haber establecido con bancos centrales de países no pertenecientes a la UE.",
+      "c": "Únicamente bajo la dirección del Banco Central Europeo.",
+      "d": "Solo en el ámbito de la supervisión financiera supranacional."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto afirma: \"Los bancos centrales nacionales actúan también sobre la base de acuerdos que sus países puedan haber establecido con bancos centrales de países no pertenecientes a la UE, y comparten su experiencia en el cumplimiento de las funciones incluidas en su mandato.\"\n\n\nEjemplo: El Banco de Portugal podría tener un acuerdo bilateral con el banco central de Cabo Verde para el intercambio de personal y conocimientos en áreas específicas, complementando así las iniciativas de cooperación más amplias del SEBC.",
+    "id": "q_a0ae9a7201",
+    "source": "ESCB_cooperation_best_practices.es.md"
+  },
+  {
+    "question": "Según el documento 'Proceso_AINN', ¿cuál es la fecha de la última actualización del procedimiento de elaboración de Acuerdos Internacionales No Normativos?",
+    "options": {
+      "a": "31 de marzo de 2023",
+      "b": "12 de febrero de 2024",
+      "c": "1 de junio de 1994",
+      "d": "27 de noviembre de 2014"
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento especifica en la Página 1 que la fecha de elaboración es el '31 de marzo, 2023' y que ha sido '(Actualizado a 12/2/2024)'. Por lo tanto, la última actualización es el 12 de febrero de 2024.\n\n\nEjemplo: Un empleado necesita consultar la versión más reciente del procedimiento de AINN para un nuevo acuerdo. Al acceder al documento, debe fijarse en la fecha de actualización para asegurarse de que está utilizando la información vigente, que en este caso sería la del 12/2/2024.",
+    "id": "q_bda657357f",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "De acuerdo con el artículo 2 de la Ley de Tratados y la definición proporcionada en el documento, ¿cuál de las siguientes características NO corresponde a un Acuerdo Internacional No Normativo (AINN)?",
+    "options": {
+      "a": "Contiene declaraciones de intenciones.",
+      "b": "Se celebra con sujetos de Derecho público con competencia.",
+      "c": "Constituye fuentes de obligaciones internacionales.",
+      "d": "No se rige por el Derecho Internacional."
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento establece claramente que un Acuerdo Internacional No Normativo 'no constituye fuentes de obligaciones internacionales ni se rige por el Derecho Internacional (art. 2 Ley de Tratados)'. Las otras opciones son características correctas de un AINN según la definición.\n\n\nEjemplo: Si el Banco de España firma un AINN con un banco central extranjero, las partes entienden que este acuerdo no puede ser invocado ante un tribunal internacional para exigir el cumplimiento de una obligación, a diferencia de un tratado que sí generaría tales obligaciones.",
+    "id": "q_5e9d3e6fba",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "¿Cuáles son las dos vías principales por las que se puede originar la negociación de un Acuerdo Internacional No Normativo (AINN) según el procedimiento del Banco de España?",
+    "options": {
+      "a": "Por petición expresa de terceros o por iniciativa del Ministerio de Asuntos Exteriores.",
+      "b": "Por iniciativa de la Comisión Ejecutiva o por petición de la Vicesecretaría.",
+      "c": "Por petición expresa de terceros o por propia iniciativa del Banco de España.",
+      "d": "Por iniciativa del Gobernador o por consulta al Departamento Jurídico."
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento indica en la Página 3 que 'La negociación se origina a raíz de (i) la petición expresa de terceros o (ii) la propia iniciativa del Banco de España (BE)'.\n\n\nEjemplo: Un banco central de un país iberoamericano se pone en contacto con el Banco de España para proponer un acuerdo de cooperación (petición expresa de terceros). Alternativamente, el Banco de España identifica una necesidad estratégica de colaboración con una institución en un país candidato a la UE y decide iniciar el proceso (propia iniciativa del BE).",
+    "id": "q_c29e4ce7ae",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "En el contexto de la idoneidad para la firma de un Acuerdo Internacional No Normativo (AINN), ¿cuáles son las regiones prioritarias estratégicas e intereses institucionales que se consideran?",
+    "options": {
+      "a": "Unión Europea, Países Bálticos y Mercosur.",
+      "b": "Iberoamérica, Países de la cuenca mediterránea y Candidatos a la UE.",
+      "c": "América del Norte, Asia Oriental y Países del Golfo Pérsico.",
+      "d": "África Subsahariana, Europa del Este y Países Nórdicos."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Página 3 del documento detalla que la idoneidad de la firma del AINN se valora de conformidad con 'Estrategias e intereses institucionales en regiones prioritarias', mencionando específicamente 'Iberoamérica', 'Países de la cuenca mediterránea' y 'Candidatos a la UE'.\n\n\nEjemplo: Antes de iniciar la negociación de un AINN con el Banco Central de Marruecos, el Banco de España evalúa si este país se alinea con sus intereses institucionales en la región de la cuenca mediterránea, considerándolo una región prioritaria para este tipo de acuerdos.",
+    "id": "q_b043eda92f",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "¿Cuál es la normativa que se refiere al contenido y redacción de los Acuerdos Internacionales No Normativos (AINN) según el procedimiento del Banco de España?",
+    "options": {
+      "a": "Ley 13/1994, de 1 de junio, de Autonomía del Banco de España.",
+      "b": "Ley 25/2014, de 27 de noviembre, de Tratados y otros Acuerdos Internacionales.",
+      "c": "Acuerdo aprobado por la Comisión Ejecutiva, de 8 de mayo de 2015.",
+      "d": "Orden Circular 9/2018, del MAEC."
+    },
+    "correctAnswer": "d",
+    "explanation": "La Página 9 del documento, en el apartado 'NORMATIVA: RESUMEN', establece que la 'Orden Circular 9/2018, del MAEC' se refiere al 'Contenido y redacción' de los AINN.\n\n\nEjemplo: Al redactar un nuevo AINN, la Unidad de Cooperación Internacional consulta la Orden Circular 9/2018 del MAEC para asegurar que el borrador cumple con las directrices específicas sobre el formato y la terminología que deben emplearse, garantizando así la coherencia y el rigor en el documento.",
+    "id": "q_0bfa3fafb8",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "Según el Acuerdo aprobado por la Comisión Ejecutiva el 8 de mayo de 2015, ¿qué organismo es el responsable de la custodia y archivo de los Acuerdos Internacionales No Normativos (AINN) del Banco de España?",
+    "options": {
+      "a": "La Unidad de Cooperación Internacional.",
+      "b": "El Departamento Jurídico.",
+      "c": "La Vicesecretaría.",
+      "d": "La Dirección General de Economía y Estadística."
+    },
+    "correctAnswer": "c",
+    "explanation": "La Página 9 del documento, en el resumen de la normativa, indica que el 'Acuerdo aprobado por la Comisión Ejecutiva, de 8 de mayo de 2015', establece entre sus competencias la 'Custodia y archivo por Vicesecretaría'. La Página 10 y 13 también reafirman esta responsabilidad para Vicesecretaría.\n\n\nEjemplo: Una vez que un AINN ha sido firmado por el Gobernador, Vicesecretaría recibe el original, lo archiva en el Registro de Convenios del Banco de España y acusa recibo, asegurando su correcta conservación y disponibilidad para futuras consultas.",
+    "id": "q_ab1f5d3528",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes fases NO forma parte del procedimiento para la elaboración y aprobación de Acuerdos Internacionales No Normativos (AINN) en el Banco de España, según el esquema de la Página 10?",
+    "options": {
+      "a": "Negociación preliminar.",
+      "b": "Solicitud Informe Legal.",
+      "c": "Evaluación de Impacto Ambiental.",
+      "d": "Aprobación Comisión Ejecutiva."
+    },
+    "correctAnswer": "c",
+    "explanation": "Las fases enumeradas en la Página 10 y 13 son: 1. Negociación preliminar, 2. Solicitud Informe Legal, 3. Aprobación Comisión Ejecutiva, 4. Firma, y 5. Custodia y Registro. La 'Evaluación de Impacto Ambiental' no figura como una fase de este procedimiento.\n\n\nEjemplo: Un equipo del Banco de España está trabajando en un nuevo AINN. Deben asegurarse de seguir la secuencia correcta del proceso, que incluye la negociación, la consulta legal, la aprobación ejecutiva y la firma, pero en ningún momento se les requerirá realizar una evaluación de impacto ambiental para este tipo de acuerdo.",
+    "id": "q_5bea159145",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "En el proceso de elaboración de Acuerdos Internacionales No Normativos (AINN), ¿qué órgano es el responsable de la firma final del Acuerdo?",
+    "options": {
+      "a": "El Presidente de la Comisión Ejecutiva.",
+      "b": "El Director General de Economía y Estadística.",
+      "c": "El Gobernador del Banco de España.",
+      "d": "El Jefe de la Unidad de Cooperación Internacional."
+    },
+    "correctAnswer": "c",
+    "explanation": "La Página 10, dentro de la fase 4 'Firma', establece que es el 'Gobernador' quien realiza la 'Firma del Acuerdo: manuscrita o electrónica'. La Página 13 también lo confirma.\n\n\nEjemplo: Una vez que el borrador de un AINN ha sido aprobado por la Comisión Ejecutiva y se han delegado las facultades, el documento se presenta al Gobernador del Banco de España para que proceda a su firma, formalizando así el acuerdo con la contraparte.",
+    "id": "q_2d48b2028a",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "¿Qué entidad recibe una copia del Acuerdo Internacional No Normativo (AINN) por parte de Vicesecretaría para su registro oficial?",
+    "options": {
+      "a": "La Dirección General de Gobernanza del Banco de España.",
+      "b": "El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación (MAEC).",
+      "c": "La Unidad de Cooperación Internacional.",
+      "d": "El Centro de Estudios Monetarios Latinoamericanos (CEMLA)."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Página 10, en la fase 5 'Custodia y Registro', indica que 'Vicesecretaría remite copia del AINN al Mº de Asuntos Exteriores para su registro'. La Página 13 también lo menciona como parte del resumen de fases.\n\n\nEjemplo: Tras la firma de un AINN, Vicesecretaría no solo custodia el original, sino que también envía una copia al Ministerio de Asuntos Exteriores para que este lo incorpore a su registro, garantizando así la transparencia y el conocimiento oficial de los compromisos internacionales no normativos adquiridos por el Estado.",
+    "id": "q_dece82d1be",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "Según el documento, la divulgación de los Acuerdos Internacionales No Normativos (AINN) responde a los valores de un plan estratégico específico. ¿A qué plan estratégico se refiere?",
+    "options": {
+      "a": "Plan Estratégico 2018-2022 del Banco de España.",
+      "b": "Plan Nacional de Cooperación Internacional.",
+      "c": "Plan Estratégico 2020-2024 del Banco de España.",
+      "d": "Estrategia de Comunicación Institucional 2023."
+    },
+    "correctAnswer": "c",
+    "explanation": "La Página 12 del documento, bajo el epígrafe 'DIVULGACIÓN. EL PLAN ESTRATÉGICO 2020-2024', establece explícitamente que la divulgación de los AINN responde a los 'Valores del Plan Estratégico 2020-2024'.\n\n\nEjemplo: La Unidad de Cooperación Internacional decide publicar una nota de prensa sobre un nuevo AINN firmado. Esta acción de divulgación no es aleatoria, sino que forma parte de una estrategia más amplia dictada por los valores y objetivos establecidos en el Plan Estratégico del Banco de España para el periodo 2020-2024, buscando fomentar la transparencia y el conocimiento de sus actividades.",
+    "id": "q_308c932fcc",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "En la fase de 'Solicitud Informe Legal' del proceso de AINN, ¿qué valoración del borrador se menciona que, en la práctica, no se aplica?",
+    "options": {
+      "a": "La valoración por la Dirección General de Economía y Estadística.",
+      "b": "La valoración por el Comité de Cooperación Internacional.",
+      "c": "La valoración por Intervención u otros.",
+      "d": "La valoración por el Departamento Jurídico."
+    },
+    "correctAnswer": "c",
+    "explanation": "La Página 10, en la columna correspondiente al Departamento Jurídico dentro de la fase 'Solicitud Informe Legal', menciona 'Valoración del borrador por Intervención u otros – en la práctica no aplica (modelo)'. Esto indica que, si bien teóricamente podría considerarse, en la práctica habitual no se realiza.\n\n\nEjemplo: Durante el proceso de un AINN, se ha solicitado el informe legal al Departamento Jurídico. Aunque el procedimiento contempla la posibilidad de una valoración por parte de Intervención para el borrador, el equipo a cargo sabe que, siguiendo la práctica establecida, esta valoración específica no se llevará a cabo debido a la naturaleza estandarizada del modelo de acuerdo.",
+    "id": "q_820dcabea3",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "¿Qué ley establece las competencias del Gobernador y la Comisión Ejecutiva en relación con los Acuerdos Internacionales No Normativos (AINN)?",
+    "options": {
+      "a": "Ley 25/2014, de 27 de noviembre, de Tratados y otros Acuerdos Internacionales.",
+      "b": "Orden Circular 9/2018, del MAEC.",
+      "c": "Ley 13/1994, de 1 de junio, de Autonomía del Banco de España.",
+      "d": "El Acuerdo aprobado por la Comisión Ejecutiva, de 8 de mayo de 2015."
+    },
+    "correctAnswer": "c",
+    "explanation": "La Página 9, en el resumen de la normativa, asocia la 'Ley 13/1994, de 1 de junio, de Autonomía del Banco de España' con las 'Competencias del Gobernador y la Comisión Ejecutiva' en el contexto de los AINN.\n\n\nEjemplo: Cuando se debate la aprobación de un AINN en la Comisión Ejecutiva del Banco de España, las facultades y el marco de actuación de sus miembros, así como del Gobernador, se rigen por lo dispuesto en la Ley de Autonomía del Banco de España, que delimita sus competencias para este tipo de decisiones.",
+    "id": "q_e04a159140",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "En el año 2020, el Banco de España estableció Acuerdos Internacionales No Normativos (AINN) con dos instituciones regionales de América Latina. ¿Cuáles son estas instituciones?",
+    "options": {
+      "a": "CEMLA y SECMCA.",
+      "b": "CAF y FLAR.",
+      "c": "CEMLA y CAF.",
+      "d": "SECMCA y FLAR."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Página 4 del documento, en el 'MAPA DE ACUERDOS VIGENTES CON BANCOS CENTRALES Y OTRAS INSTITUCIONES', lista los siguientes acuerdos regionales con sus años: 'CAF- BANCO DE DESARROLLO DE AMÉRICA LATINA 2020' y 'FLAR- FONDO LATINOAMERICANO DE RESERVAS 2020'.\n\n\nEjemplo: Un analista de la Unidad de Cooperación Internacional revisa el historial de acuerdos para identificar posibles sinergias. Al ver los acuerdos de 2020 con CAF y FLAR, puede inferir un enfoque estratégico del Banco de España hacia la cooperación con instituciones financieras de desarrollo y reservas en la región latinoamericana durante ese periodo.",
+    "id": "q_bf7a486da0",
+    "source": "Proceso_AINN.md"
+  },
+  {
+    "question": "¿Cuál es la definición principal de la Cooperación Internacional en el marco del Banco de España?",
+    "options": {
+      "a": "Es la gestión de las relaciones bilaterales y multilaterales para la inversión de activos financieros.",
+      "b": "Se refiere al conjunto de estrategias y actuaciones para la transferencia e intercambio de conocimientos, experiencias y buenas prácticas entre el Banco de España y sus interlocutores.",
+      "c": "Consiste en la supervisión de entidades financieras extranjeras que operan en territorio español.",
+      "d": "Implica la coordinación de políticas monetarias con bancos centrales de la zona euro exclusivamente."
+    },
+    "correctAnswer": "b",
+    "explanation": "Según la Diapositiva 3, la Cooperación Internacional 'Es el conjunto de estrategias, políticas y actuaciones llevadas a cabo para promover y facilitar la transferencia e intercambio de conocimientos, experiencias y buenas prácticas entre el Banco de España y los interlocutores de la Cooperación Internacional'.\n\n\nEjemplo: El Banco de España organiza un seminario con el Banco Central de un país emergente para compartir su experiencia en la implementación de nuevas normativas de estabilidad financiera, facilitando así el intercambio de conocimientos y buenas prácticas.",
+    "id": "q_b35b35823f",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Quién ostenta la Presidencia del Grupo de Cooperación Internacional en el Banco de España, según la estructura organizativa presentada?",
+    "options": {
+      "a": "El Gobernador del Banco de España.",
+      "b": "La Sub-Gobernadora.",
+      "c": "El Director General de Relaciones Internacionales y Europeas.",
+      "d": "El Jefe de la Unidad de Cooperación Internacional."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Diapositiva 4 indica explícitamente que la 'Presidencia del Grupo' recae en la 'Sub-Gobernadora'.\n\n\nEjemplo: En una reunión del Grupo de Cooperación Internacional, la Sub-Gobernadora lidera la agenda, preside los debates y toma las decisiones finales en relación con las iniciativas de cooperación propuestas.",
+    "id": "q_b5f4814164",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Qué Direcciones Generales o Departamentos, además de la Unidad de Cooperación Internacional, forman parte del Grupo de Cooperación Internacional en el Banco de España?",
+    "options": {
+      "a": "DG Estabilidad Financiera, Regulación y Resolución; DG Conducta Financiera y Billetes; Secretaría General; Dpto. Auditoria Interna; Dpto. Comunicación.",
+      "b": "DG Supervisión, DG Economía y Estadística, DG Servicios, Dpto. de Análisis Económico.",
+      "c": "DG Recursos Humanos, DG Tecnologías de la Información, Dpto. de Asesoría Jurídica, Dpto. de Contabilidad.",
+      "d": "DG Operaciones, Mercados y Sistemas de Pago, DG Supervisión, DG Estabilidad Financiera y el Gabinete del Gobernador."
+    },
+    "correctAnswer": "a",
+    "explanation": "La Diapositiva 4 lista los 'MIEMBROS DEL GRUPO DE COOPERACIÓN INTERNACIONAL' que incluyen, entre otros, DG Estabilidad Financiera, Regulación y Resolución; DG Conducta Financiera y Billetes; Secretaría General; Dpto. Auditoria Interna; Dpto. Comunicación. La opción 'a' compila varios de estos miembros, mientras que las otras opciones contienen departamentos o direcciones no mencionados en la lista específica de miembros del grupo de cooperación internacional, o que son incompletas/incorrectas.\n\n\nEjemplo: Durante la planificación anual de las actividades de cooperación, la Dirección General de Estabilidad Financiera, Regulación y Resolución aporta su experiencia en la creación de marcos regulatorios, mientras que el Departamento de Comunicación asesora sobre la estrategia de difusión de los proyectos.",
+    "id": "q_608ff45207",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Cómo se describe el modelo de cooperación internacional del Banco de España en términos de su estructura y coordinación?",
+    "options": {
+      "a": "Exclusivamente centralizado, con todas las operaciones gestionadas por una única dirección general.",
+      "b": "Centralizado en un área específica para la cooperación, pero descentralizado en la coordinación con todas las direcciones generales.",
+      "c": "Completamente descentralizado, donde cada dirección general gestiona su propia cooperación sin una unidad central.",
+      "d": "Un modelo híbrido que varía anualmente entre centralizado y descentralizado según las necesidades."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Diapositiva 5 explica que el modelo es 'Modelo centralizado: Existe un área específica dedicada a cooperación. Pero descentralizado: Coordina la cooperación realizada por todas las direcciones en el BE'.\n\n\nEjemplo: Aunque la Unidad de Cooperación Internacional es el punto central de contacto y estrategia, si un banco central extranjero solicita asistencia en política monetaria, la Unidad coordina la respuesta con la Dirección General de Economía y Estadística, que aporta el conocimiento técnico específico.",
+    "id": "q_baaedb0050",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Cuál de los siguientes no es un objetivo o beneficio explícitamente mencionado para el modelo de cooperación del Banco de España, que incluye una imagen unificada y coordinación interna?",
+    "options": {
+      "a": "Maximizar la eficacia de los recursos destinados.",
+      "b": "Reducir el riesgo operativo y reputacional.",
+      "c": "Facilitar la realización práctica y organización de los trabajos.",
+      "d": "Asegurar la total independencia de cada Dirección General en sus iniciativas de cooperación."
+    },
+    "correctAnswer": "d",
+    "explanation": "La Diapositiva 5 menciona que el modelo busca una 'Imagen unificada de la cooperación', 'Objetivos y medios coherentes', 'Maximiza la eficacia de los recursos destinados', 'Logística y visión global', 'Facilita la realización práctica y organización de los trabajos' y 'Reduce el riesgo operativo y reputacional'. La opción 'd' contradice la coordinación interna y la visión global que busca el modelo.\n\n\nEjemplo: Si varias Direcciones Generales recibieran solicitudes de cooperación no coordinadas, podría haber duplicidad de esfuerzos o respuestas inconsistentes, lo que aumentaría el riesgo reputacional. El modelo busca precisamente evitar esto mediante la coordinación.",
+    "id": "q_9ab7d265d4",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "En el marco del Working Group de Cooperación Internacional, ¿qué documento ha elaborado el subgrupo de trabajo al que pertenece el Banco de España?",
+    "options": {
+      "a": "Un informe anual sobre la estabilidad financiera global.",
+      "b": "Un compendio de las mejores prácticas en política monetaria para bancos centrales emergentes.",
+      "c": "Un documento con los principios generales aplicables a la cooperación internacional para el SEBC.",
+      "d": "Una propuesta de armonización de la regulación bancaria para países candidatos a la UE."
+    },
+    "correctAnswer": "c",
+    "explanation": "La Diapositiva 6 establece que 'Este grupo de trabajo ha elaborado un documento con los principios generales aplicables a la cooperación internacional para el SEBC'.\n\n\nEjemplo: El documento establece directrices sobre cómo los bancos centrales del SEBC deben abordar la cooperación internacional, asegurando coherencia y efectividad en sus programas de asistencia técnica.",
+    "id": "q_a5b65e0a5f",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Cuál de los siguientes no se identifica como uno de los seis principios de buenas prácticas para la cooperación internacional en el SEBC, según el documento?",
+    "options": {
+      "a": "Construcción de Relaciones.",
+      "b": "Eficiencia.",
+      "c": "Competitividad de Mercados.",
+      "d": "Sostenibilidad."
+    },
+    "correctAnswer": "c",
+    "explanation": "Las Diapositivas 8 y 9 enumeran los seis principios de buenas prácticas: 'ESTABILIDAD MONETARIA Y FINANCIERA', 'CONSTRUCCIÓN DE RELACIONES', 'APERTURA Y RESPETO', 'EFICIENCIA', 'SOSTENIBILIDAD' y 'EVALUACIÓN'. 'Competitividad de Mercados' no es uno de ellos.\n\n\nEjemplo: Cuando el Banco de España colabora con otro banco central, se asegura de que la asistencia sea eficiente en el uso de recursos y que los resultados tengan un impacto sostenible a largo plazo, en línea con los principios establecidos.",
+    "id": "q_b096fc20e9",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una actividad de cooperación internacional explícitamente mencionada en el Banco de España?",
+    "options": {
+      "a": "Emisión de deuda pública para países en desarrollo.",
+      "b": "Misiones de asistencia técnica.",
+      "c": "Creación de nuevas instituciones financieras internacionales.",
+      "d": "Gestión de fondos de inversión para bancos centrales extranjeros."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Diapositiva 10 lista 'Misiones de asistencia técnica' como una de las actividades de cooperación internacional, junto con conferencias y seminarios, consultas y visitas de estudio.\n\n\nEjemplo: El Banco de España envía un equipo de expertos a un banco central de América Latina para asesorar sobre la implementación de un nuevo sistema de supervisión bancaria, lo que constituye una misión de asistencia técnica.",
+    "id": "q_9916969bec",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "En cuanto a los criterios de funcionamiento de la cooperación internacional del Banco de España, ¿con qué tipo de instituciones se realizan las actividades?",
+    "options": {
+      "a": "Exclusivamente con el sector privado para fomentar la inversión.",
+      "b": "Principalmente con instituciones públicas, sin actividades con el sector privado.",
+      "c": "Con una mezcla equilibrada de instituciones públicas y privadas.",
+      "d": "Solo con organizaciones supranacionales, excluyendo instituciones nacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Diapositiva 11 especifica claramente: 'COOPERACIÓN CON INSTITUCIONES PÚBLICAS: No se llevan a cabo actividades con el sector privado'.\n\n\nEjemplo: Si una empresa privada solicitara asistencia técnica al Banco de España, esta solicitud sería rechazada por no cumplir con el criterio de cooperación exclusiva con instituciones públicas.",
+    "id": "q_8914463448",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Cuál es la política del Banco de España respecto a la preparación de sus programas de cooperación internacional?",
+    "options": {
+      "a": "Se centran exclusivamente en programas ad hoc sin planificación previa.",
+      "b": "Se basan en un programa anual, con una transición hacia una programación multi-anual.",
+      "c": "Se elabora un programa bianual fijo sin posibilidad de modificaciones.",
+      "d": "La programación es determinada únicamente por las solicitudes externas."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Diapositiva 11 indica: 'PREPARACIÓN DE UN PROGRAMA ANUAL: Coordinado con todas las áreas del Banco de España. Transición hacia una programación multi anual'.\n\n\nEjemplo: En el presente año, el Banco de España ha aprobado un programa de cooperación para los próximos tres años, aunque anualmente se revisan y ajustan las actividades específicas, evidenciando la transición de una programación anual a una multianual.",
+    "id": "q_78e2028578",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Cuál de los siguientes no es un objetivo explícito de las actividades de cooperación internacional del Banco de España?",
+    "options": {
+      "a": "Promover buenas prácticas bancarias para contribuir a la estabilidad monetaria y financiera.",
+      "b": "Incrementar la presencia internacional del Banco de España y establecer vínculos de colaboración.",
+      "c": "Fortalecer las relaciones con bancos centrales de países en desarrollo y economías de mercado emergentes.",
+      "d": "Maximizar los beneficios económicos directos para el Banco de España a través de la cooperación."
+    },
+    "correctAnswer": "d",
+    "explanation": "La Diapositiva 12 enumera los objetivos: 'Promover buenas prácticas bancarias que contribuyan a la estabilidad monetaria y financiera', 'Incrementar la presencia internacional de BE estableciendo vínculos de colaboración con instituciones con las que comparte intereses y objetivos' y 'Fortalecer las relaciones con bancos centrales de países en desarrollo y economías de mercado emergentes'. La opción 'd' no está mencionada y va en contra del espíritu de la cooperación internacional tal como se describe.\n\n\nEjemplo: El Banco de España organiza un taller sobre gestión de riesgos para bancos centrales africanos, con el objetivo de mejorar la estabilidad financiera global y fortalecer relaciones, no para obtener un rédito económico directo.",
+    "id": "q_a988ce2486",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "Según el documento, ¿con qué país o institución de los siguientes NO se menciona explícitamente que el Banco de España haya firmado un Memorándum de Entendimiento (MoU) en el contexto de la cooperación internacional?",
+    "options": {
+      "a": "Chile.",
+      "b": "Argentina.",
+      "c": "México.",
+      "d": "CEMLA."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Diapositiva 13 lista los MoUs firmados con: 'Brasil, Colombia, Chile, Marruecos, México, Perú, CEMLA, SECMCA…'. Argentina no figura en esta lista.\n\n\nEjemplo: Un banco central de Chile podría solicitar una misión de asistencia técnica al Banco de España basándose en el MoU existente entre ambas instituciones, agilizando el proceso de colaboración.",
+    "id": "q_93d7b5e529",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "Dentro de las áreas geográficas de interés, ¿qué instituciones se mencionan específicamente con las que el Banco de España coorganiza actividades en América Latina y el Caribe?",
+    "options": {
+      "a": "FMI y Banco Mundial.",
+      "b": "CEMLA, ASBA y SECMCA.",
+      "c": "BCE y BIS.",
+      "d": "CAF y BID."
+    },
+    "correctAnswer": "b",
+    "explanation": "La Diapositiva 13 afirma que 'Actividades coorganizadas con estas instituciones: CEMLA, ASBA, SECMCA'.\n\n\nEjemplo: El Banco de España, en colaboración con CEMLA, organiza una conferencia regional sobre políticas monetarias para bancos centrales latinoamericanos, utilizando la infraestructura y red de contactos de ambas instituciones.",
+    "id": "q_96f76db525",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Cuál es la dirección de correo electrónico oficial proporcionada para contactar con la Unidad de Cooperación Internacional del Banco de España?",
+    "options": {
+      "a": "internacional.cooperacion@bde.es",
+      "b": "cooperacion.internacional@bde.es",
+      "c": "unidad.internacional@bde.es",
+      "d": "relaciones.externas@bde.es"
+    },
+    "correctAnswer": "b",
+    "explanation": "La Diapositiva 15 especifica que el Email de CONTACTO es: 'cooperacion.internacional@bde.es'.\n\n\nEjemplo: Un banco central de Marruecos, interesado en establecer un programa de intercambio de personal, enviaría su consulta a cooperacion.internacional@bde.es para iniciar el contacto formal.",
+    "id": "q_30c4f568fd",
+    "source": "WEB_ESP23.md"
+  },
+  {
+    "question": "¿Cuál es el número y el año de la edición de la Revista de Cooperación Internacional de la que se extrae este contenido?",
+    "options": {
+      "a": "Número 4 / Año 2023",
+      "b": "Número 5 / Año 2024",
+      "c": "Número 6 / Año 2024",
+      "d": "Número 5 / Año 2023"
+    },
+    "correctAnswer": "b",
+    "explanation": "La primera página del documento y el encabezado de la página 2 especifican claramente que se trata de la 'Revista de COOPERACIÓN INTERNACIONAL Número 5 / Año 2024'.\n\n\nEjemplo: Un opositor debe identificar correctamente la referencia bibliográfica de un documento oficial del Banco de España, como la revista mencionada, para citar su fuente de información.",
+    "id": "q_adb8b66aef",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál es la denominación completa del cargo que ostenta José Manuel Marqués en el Banco de España, según la información proporcionada?",
+    "options": {
+      "a": "Director del Departamento de Innovación Financiera e Infraestructuras de Mercado, adscrito a la Dirección General de Operaciones y Pagos.",
+      "b": "Director del Departamento de Innovación Financiera e Infraestructuras de Mercado, perteneciente a la Dirección General Adjunta de Pagos e Infraestructuras de Mercado y a la Dirección General de Operaciones, Mercados y Sistemas de Pago.",
+      "c": "Director General de Innovación Financiera e Infraestructuras de Mercado, con dependencia de la Dirección General Adjunta de Pagos.",
+      "d": "Director del Departamento de Innovación y Mercados Financieros, bajo la supervisión de la Dirección General de Operaciones y Sistemas."
+    },
+    "correctAnswer": "b",
+    "explanation": "Según la página 2 y 3, José Manuel Marqués es el 'Director del Departamento de Innovación Financiera e Infraestructuras de Mercado. Dirección General Adjunta de Pagos e Infraestructuras de Mercado. Dirección General de Operaciones, Mercados y Sistemas de Pago'. La opción 'b' reproduce esta estructura jerárquica de forma precisa.\n\n\nEjemplo: Un organigrama del Banco de España detalla la estructura departamental. Un nuevo empleado necesitaría conocer la posición exacta de un director para entender la cadena de mando.",
+    "id": "q_f0532f7d36",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "Según la descripción de los obsequios intercambiados, ¿cuál es el ave nacional de El Salvador?",
+    "options": {
+      "a": "El Quetzal",
+      "b": "El Torogoz",
+      "c": "El Cóndor",
+      "d": "El Águila Harpía"
+    },
+    "correctAnswer": "b",
+    "explanation": "La página 2 menciona explícitamente que el imán entregado a los especialistas del Banco de España es una reproducción pintada a mano de un torogoz, el ave nacional de El Salvador.\n\n\nEjemplo: En un seminario sobre cooperación internacional y diversidad cultural, se podría presentar el Torogoz como símbolo representativo de El Salvador, destacando su importancia cultural.",
+    "id": "q_ea57cd15f3",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué año se incorporó José Manuel Marqués al Banco de España?",
+    "options": {
+      "a": "1994",
+      "b": "1996",
+      "c": "1998",
+      "d": "2000"
+    },
+    "correctAnswer": "b",
+    "explanation": "La biografía de José Manuel Marqués en la página 4 indica claramente: 'Se incorporó al Banco de España en 1996'.\n\n\nEjemplo: Para un estudio sobre la trayectoria profesional de directivos en el Banco de España, la fecha de incorporación de José Manuel Marqués sería un dato relevante para calcular su antigüedad en la institución.",
+    "id": "q_778a93fd79",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué grupo de trabajo preside José Manuel Marqués en la Innovation Network del BIS?",
+    "options": {
+      "a": "El grupo de trabajo sobre Tecnologías Disruptivas.",
+      "b": "El grupo de trabajo sobre Infraestructuras de Mercado.",
+      "c": "El grupo de trabajo sobre Finanzas Verdes.",
+      "d": "El grupo de trabajo sobre Ciberseguridad en la Banca Central."
+    },
+    "correctAnswer": "c",
+    "explanation": "La biografía de José Manuel Marqués en la página 4 especifica que 'Preside el grupo de trabajo sobre Finanzas Verdes de la Innovation Network del BIS'.\n\n\nEjemplo: Al discutir las iniciativas del Banco de España en sostenibilidad financiera a nivel internacional, se podría mencionar la presidencia de José Manuel Marqués en este grupo como una contribución clave.",
+    "id": "q_d43684bdd4",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué capacidad representa José Manuel Marqués al Banco de España en la Task Force de Alto Nivel del Euro digital?",
+    "options": {
+      "a": "Como representante principal.",
+      "b": "Como observador permanente.",
+      "c": "Como representante sustituto.",
+      "d": "Como asesor técnico principal."
+    },
+    "correctAnswer": "c",
+    "explanation": "La biografía de José Manuel Marqués en la página 4 establece que representa al Banco de España 'en la Task Force de Alto Nivel del Euro digital (como representante sustituto)'.\n\n\nEjemplo: Durante una reunión interna sobre el progreso del euro digital, la participación de José Manuel Marqués como representante sustituto en la Task Force de Alto Nivel garantiza la continuidad y el respaldo del Banco de España en las discusiones.",
+    "id": "q_9ee619f5cb",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue el número total de actividades de cooperación internacional registradas en 2023, según la información cualitativa y cuantitativa proporcionada?",
+    "options": {
+      "a": "Menos de 200",
+      "b": "Aproximadamente 250",
+      "c": "266",
+      "d": "Más de 300"
+    },
+    "correctAnswer": "c",
+    "explanation": "La sección 'LA COOPERACIÓN, EN CIFRAS' en la página 5 indica que en 2023 se realizaron 'un número similar de actividades al de las realizadas en 2022, superando de nuevo las 250', y el cuadro resumen de 'ACTIVIDADES' especifica el número exacto: '266'.\n\n\nEjemplo: En el informe anual de actividades del Banco de España, el número de 266 actividades de cooperación internacional en 2023 sería un indicador clave para evaluar el alcance de su compromiso global.",
+    "id": "q_a857f240de",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "En el año 2023, ¿qué región geográfica se mantuvo como la principal receptora de las actividades de cooperación del Banco de España?",
+    "options": {
+      "a": "Balcanes Occidentales",
+      "b": "África",
+      "c": "Iberoamérica",
+      "d": "Países candidatos a la UE"
+    },
+    "correctAnswer": "c",
+    "explanation": "La página 5 establece explícitamente: 'Iberoamérica se mantiene como la principal región receptora de las actividades de cooperación en 2023'.\n\n\nEjemplo: Un analista de política exterior del Banco de España podría priorizar los recursos y esfuerzos en la región de Iberoamérica, basándose en su consolidada posición como principal receptora de cooperación.",
+    "id": "q_325a82e18e",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué mes se firmó el acuerdo de cooperación con el Banco Central del Paraguay en 2023?",
+    "options": {
+      "a": "Marzo",
+      "b": "Abril",
+      "c": "Mayo",
+      "d": "Junio"
+    },
+    "correctAnswer": "b",
+    "explanation": "La página 5 detalla que 'En abril se firmó un acuerdo de cooperación con el Banco Central del Paraguay, que constituye un refuerzo para las relaciones bilaterales con la región'.\n\n\nEjemplo: Un calendario institucional del Banco de España reflejaría la firma del acuerdo con el Banco Central del Paraguay en abril de 2023 como un hito importante en las relaciones bilaterales.",
+    "id": "q_70b0569e85",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos Memorandos de Entendimiento (MoUs) se mencionan en el contexto del refuerzo de las relaciones bilaterales con la región de Iberoamérica en 2023?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "14",
+      "d": "16"
+    },
+    "correctAnswer": "c",
+    "explanation": "La página 5, en el apartado de Iberoamérica, menciona que el acuerdo con el Banco Central del Paraguay 'constituye un refuerzo para las relaciones bilaterales con la región (14 MoUs)'.\n\n\nEjemplo: Un informe sobre la expansión de la red de alianzas del Banco de España en Iberoamérica citaría la cifra de 14 MoUs como prueba del fortalecimiento de los vínculos institucionales.",
+    "id": "q_d91b2a44fe",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál es el periodo de vigencia del Plan Estratégico del Banco de España mencionado en relación con la prioridad de reforzar su posición en Iberoamérica?",
+    "options": {
+      "a": "2019-2023",
+      "b": "2020-2024",
+      "c": "2021-2025",
+      "d": "2022-2026"
+    },
+    "correctAnswer": "b",
+    "explanation": "La página 5 indica que el acuerdo con Paraguay está 'en línea con la prioridad del Plan Estratégico 2020-2024 de reforzar la posición del BE como banco central de referencia en Iberoamérica'.\n\n\nEjemplo: Para la planificación de objetivos a medio plazo, un departamento del Banco de España consultaría el Plan Estratégico 2020-2024 para alinear sus acciones con las prioridades institucionales.",
+    "id": "q_6f244664b4",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué mes y año se firmó el proyecto piloto para África financiado por la Unión Europea y en qué mes y año se inició su implementación?",
+    "options": {
+      "a": "Se firmó en noviembre de 2023 y se implementó en enero de 2024.",
+      "b": "Se firmó en diciembre de 2023 y se implementó en febrero de 2024.",
+      "c": "Se firmó en diciembre de 2022 y se implementó en febrero de 2023.",
+      "d": "Se firmó en enero de 2024 y se implementó en marzo de 2024."
+    },
+    "correctAnswer": "b",
+    "explanation": "La página 5 detalla que el proyecto piloto para África 'se firmó en diciembre de 2023 y que comenzará a implementarse en febrero de 2024'.\n\n\nEjemplo: El equipo de cooperación internacional del Banco de España organizaría los recursos para el proyecto piloto de África, asegurándose de que la implementación comience puntualmente en febrero de 2024 tras su firma en diciembre de 2023.",
+    "id": "q_ed5c25e6b8",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál de los siguientes países NO forma parte del 2º Programa de Cooperación del SEBC en los Balcanes Occidentales, según el listado proporcionado?",
+    "options": {
+      "a": "Albania",
+      "b": "Croacia",
+      "c": "Georgia",
+      "d": "Serbia"
+    },
+    "correctAnswer": "b",
+    "explanation": "La página 5 enumera los países participantes en el 2º Programa de Cooperación del SEBC en los Balcanes Occidentales como Albania, Bosnia y Herzegovina, Georgia, Kosovo, Macedonia del Norte, Moldavia, Montenegro y Serbia. Croacia no está incluida en esta lista.\n\n\nEjemplo: Un experto en la región de los Balcanes Occidentales para la cooperación internacional debería conocer con precisión qué países están cubiertos por programas específicos del SEBC para enfocar sus análisis y propuestas.",
+    "id": "q_f54fe6d0cf",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "Además de los Balcanes Occidentales, ¿cuáles son los otros dos países candidatos a la UE que incrementaron la asistencia técnica recibida del Banco de España?",
+    "options": {
+      "a": "Croacia y Rumanía",
+      "b": "Ucrania y Turquía",
+      "c": "Bulgaria y Albania",
+      "d": "Moldavia y Georgia"
+    },
+    "correctAnswer": "b",
+    "explanation": "La página 5 menciona que 'incrementa la asistencia técnica prestada a otros países candidatos a la UE, como Ucrania y Turquía'.\n\n\nEjemplo: La evaluación de la política de asistencia técnica del Banco de España incluiría un análisis del apoyo brindado a Ucrania y Turquía, reflejando el compromiso con los países candidatos a la UE.",
+    "id": "q_e6e03879fe",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue el número total de beneficiarios de las actividades de cooperación internacional del Banco de España en 2023?",
+    "options": {
+      "a": "2.564",
+      "b": "3.246",
+      "c": "4.128",
+      "d": "37"
+    },
+    "correctAnswer": "b",
+    "explanation": "El cuadro 'LA COOPERACIÓN, EN CIFRAS' en la página 5 indica claramente que el número de 'Beneficiarios' fue de '3.246'.\n\n\nEjemplo: Para un informe de impacto de la cooperación internacional, el dato de 3.246 beneficiarios es crucial para demostrar el alcance de la labor del Banco de España.",
+    "id": "q_9fd9534b69",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos empleados del Banco de España participaron en las actividades de cooperación internacional en 2023?",
+    "options": {
+      "a": "37",
+      "b": "266",
+      "c": "765",
+      "d": "869"
+    },
+    "correctAnswer": "c",
+    "explanation": "El cuadro 'LA COOPERACIÓN, EN CIFRAS' en la página 5 especifica que 'Empleados del Banco de España' involucrados fueron '765'.\n\n\nEjemplo: El departamento de Recursos Humanos podría utilizar el dato de 765 empleados para destacar el compromiso del personal del Banco de España con las iniciativas de cooperación internacional.",
+    "id": "q_52cde2f805",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué mes del año 2023 se realizó la misión de cooperación internacional al Banco Nacional de Angola (BNA)?",
+    "options": {
+      "a": "Mayo",
+      "b": "Junio",
+      "c": "Julio",
+      "d": "Agosto"
+    },
+    "correctAnswer": "b",
+    "explanation": "La página 6, en el apartado 'Antecedentes' de las Misiones, indica que 'En junio 2023, y dando respuesta a una petición del Banco Nacional de Angola (BNA) [...] un equipo de dos responsables [...] se desplazaron a Luanda (Angola)'.\n\n\nEjemplo: Un plan de viajes para el personal del Banco de España incluiría la misión a Luanda en junio de 2023 como una actividad clave de cooperación con el Banco Nacional de Angola.",
+    "id": "q_7f588d437c",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Quiénes fueron los dos responsables de la Central de Balances del Departamento de Estadística del Banco de España que se desplazaron a Luanda para la misión al Banco Nacional de Angola (BNA)?",
+    "options": {
+      "a": "José Manuel Marqués y Pablo Hernández de Cos",
+      "b": "Manuel Ortega y José Cantero Sienra",
+      "c": "Manuel Ortega y Alfredo Maldonado García-Verdugo",
+      "d": "Alfredo Maldonado y Malgorzata Lange"
+    },
+    "correctAnswer": "c",
+    "explanation": "La página 6 identifica explícitamente a los dos responsables enviados a Luanda: 'Manuel Ortega y Alfredo Maldonado García-Verdugo. División de Central de Balances'.\n\n\nEjemplo: En una presentación sobre la asistencia técnica proporcionada a bancos centrales africanos, se podría mencionar a Manuel Ortega y Alfredo Maldonado como expertos que contribuyeron al desarrollo de la Central de Balances del BNA.",
+    "id": "q_81b8bc7e3c",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes áreas temáticas NO se menciona como una de las que registraron un notable volumen de actividad en la cooperación internacional en 2023?",
+    "options": {
+      "a": "Soporte y transversales.",
+      "b": "Ámbito Operativo.",
+      "c": "Supervisión bancaria.",
+      "d": "Economía y Estadística."
+    },
+    "correctAnswer": "c",
+    "explanation": "La página 5 detalla las áreas temáticas con mayor interés: 'soporte y transversales', 'ámbito Operativo' y 'Economía y Estadística'. La supervisión bancaria no se menciona específicamente en esta lista.\n\n\nEjemplo: Al planificar futuras actividades de cooperación, el Banco de España podría revisar las áreas que tradicionalmente han tenido mayor volumen, como las de soporte o el ámbito operativo, para optimizar la asignación de recursos.",
+    "id": "q_3d6251f036",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué fechas tuvo lugar la visita del Banco Central de Túnez al Banco de España en 2023?",
+    "options": {
+      "a": "Del 9 al 11 de abril de 2023.",
+      "b": "Del 15 al 17 de mayo de 2023.",
+      "c": "Del 9 al 11 de mayo de 2023.",
+      "d": "Del 1 al 3 de junio de 2023."
+    },
+    "correctAnswer": "c",
+    "explanation": "La página 2, en el índice de Actividades bilaterales, menciona la 'Visita del Banco Central de Túnez, del 9 al 11 de mayo de 2023'.\n\n\nEjemplo: El departamento de protocolo del Banco de España mantendría un registro de visitas institucionales, incluyendo la estancia del Banco Central de Túnez del 9 al 11 de mayo de 2023 para coordinar la logística.",
+    "id": "q_6cebf34583",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue el número total de actividades de cooperación internacional registradas, abarcando categorías como multilaterales, asistencias técnicas, consultas, misiones y visitas, según los datos de 'La Cooperación, en Cifras'?",
+    "options": {
+      "a": "238",
+      "b": "266",
+      "c": "254",
+      "d": "247"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica explícitamente que el número total de ACTIVIDADES fue de 266, lo cual incluye la suma de las actividades multilaterales, asistencias técnicas, consultas, misiones y visitas.\n\n\nEjemplo: Un analista está revisando el informe de actividades de cooperación internacional del Banco de España y necesita conocer el volumen total de interacciones registradas para el periodo. La cifra de 266 actividades le proporciona una visión consolidada del alcance operativo.",
+    "id": "q_518c0bb378",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "Conforme a la sección 'La Cooperación, en Cifras', ¿cuántos beneficiarios se registraron en el ámbito de la cooperación internacional?",
+    "options": {
+      "a": "3.246",
+      "b": "3.765",
+      "c": "2.660",
+      "d": "3.000"
+    },
+    "correctAnswer": "a",
+    "explanation": "El documento especifica que el número de beneficiarios asciende a 3.246, una cifra concreta dentro de las estadísticas de cooperación internacional.\n\n\nEjemplo: Para evaluar el impacto y la huella de la cooperación internacional del Banco de España, se considera el número de individuos o entidades que se han beneficiado directamente de las iniciativas. La cifra de 3.246 beneficiarios refleja la amplitud del alcance de estos programas.",
+    "id": "q_02627bf821",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué mes y año se realizó la misión del Banco de España al Banco Nacional de Angola (BNA) para apoyar el desarrollo de su Central de Balances?",
+    "options": {
+      "a": "Mayo de 2023",
+      "b": "Julio de 2023",
+      "c": "Junio de 2023",
+      "d": "Agosto de 2023"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica claramente: 'En junio 2023, y dando respuesta a una petición del Banco Nacional de Angola (BNA) de una cooperación internacional de apoyo para el desarrollo de su Central de Balances, un equipo de dos responsables... se desplazaron a Luanda (Angola)'.\n\n\nEjemplo: El departamento de planificación estratégica del Banco de España está elaborando un cronograma de sus misiones de cooperación para el año fiscal. Para registrar correctamente la asistencia al BNA, consultan el informe que especifica la realización de la misión en junio de 2023.",
+    "id": "q_3bcc3031ee",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cómo se estructuró la visita de cooperación técnica del Banco de España al Banco Nacional de Angola (BNA) en cuanto a duración de las fases principales?",
+    "options": {
+      "a": "Un día para compartir experiencias y dos días para el workshop.",
+      "b": "Tres días para compartir experiencias y un día para el workshop.",
+      "c": "Los primeros dos días para compartir experiencias e identificar áreas de mejora, y un día en formato workshop.",
+      "d": "Un día para identificar fortalezas y un día para discutir la infraestructura tecnológica."
+    },
+    "correctAnswer": "c",
+    "explanation": "El fragmento señala: 'La visita estuvo estructurada en dos fases: los primeros dos días, donde el BE compartió experiencias e intentó identificar áreas de mejora... y un día, en formato workshop entre los representantes de la Central de Balances del BE y del BNA, y compañías angoleñas'.\n\n\nEjemplo: Un equipo de gestión de proyectos está revisando el informe de una misión de cooperación técnica. Para replicar el modelo exitoso, analizan que la visita al BNA consistió en dos días iniciales para el intercambio de conocimientos y un día final dedicado a un workshop con stakeholders.",
+    "id": "q_a967ae85b0",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "Según la información proporcionada, ¿cuántos expertos aproximadamente conforman el equipo del Banco Nacional de Angola (BNA) que asegura el funcionamiento de las estadísticas nacionales de Angola?",
+    "options": {
+      "a": "Más de 30 expertos altamente cualificados.",
+      "b": "Aproximadamente 20 expertos con formación nacional.",
+      "c": "Algo menos de 30 expertos, muy cualificados y formados en universidades extranjeras.",
+      "d": "Exactamente 30 expertos con experiencia limitada en estadísticas."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto detalla: 'Entre bastidores, un equipo de algo menos de 30 expertos, muy cualificados y formados en universidades extranjeras, aseguran el funcionamiento de las estadísticas nacionales de Angola.'\n\n\nEjemplo: Durante un análisis comparativo de las capacidades técnicas entre bancos centrales, un investigador observa el perfil del equipo del BNA. La información de que son 'algo menos de 30 expertos, muy cualificados y formados en universidades extranjeras' le permite apreciar el nivel de preparación del personal angoleño en estadísticas nacionales.",
+    "id": "q_196858f371",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuándo y dónde se formalizó el Acuerdo no normativo de cooperación internacional entre el Banco de España y el Banco Central del Paraguay (BCP)?",
+    "options": {
+      "a": "El 14 de marzo de 2023 en Madrid.",
+      "b": "El 14 de abril de 2023 en Washington.",
+      "c": "El 14 de mayo de 2022 en Asunción.",
+      "d": "El 14 de abril de 2022 en Washington."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece: 'El 14 de abril de 2023, en el marco de las reuniones de primavera del Fondo Monetario Internacional y el Banco Mundial en Washington, se firmó un Acuerdo no normativo en materia de cooperación internacional entre el Banco de España y el Banco Central del Paraguay.'\n\n\nEjemplo: Un historiador del Banco de España está documentando los hitos de cooperación internacional. Para la relación con el BCP, registra la fecha exacta del 14 de abril de 2023 y el lugar de la firma en Washington, destacando su relevancia en el contexto de las reuniones del FMI y el Banco Mundial.",
+    "id": "q_73466d82da",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Quiénes rubricaron el Memorando de Colaboración por parte del Banco Central del Paraguay (BCP) en el acuerdo con el Banco de España?",
+    "options": {
+      "a": "El presidente D. José Cantero Sienra y el director de operaciones.",
+      "b": "El gobernador Pablo Hernández de Cos y el presidente D. José Cantero Sienra.",
+      "c": "El presidente D. José Cantero Sienra y el gerente general D. Holger Insfrán Ibarrola.",
+      "d": "D. Holger Insfrán Ibarrola y el gerente de estadísticas."
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento especifica: 'Este Memorando de Colaboración fue rubricado por el gobernador del Banco de España, Pablo Hernández de Cos, y por el presidente y el gerente general del Banco Central del Paraguay, D. José Cantero Sienra y D. Holger Insfrán Ibarrola, respectivamente.' La pregunta se centra en los firmantes del BCP.\n\n\nEjemplo: En una ceremonia de firma de un acuerdo bilateral, es crucial identificar a los representantes autorizados de cada institución. Para el BCP, los firmantes fueron su presidente, D. José Cantero Sienra, y su gerente general, D. Holger Insfrán Ibarrola, lo que confiere validez y rango al memorando.",
+    "id": "q_14760d7702",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos acuerdos de cooperación suma el Banco de España con instituciones de la región iberoamericana, incluyendo el recientemente firmado con el Banco Central del Paraguay?",
+    "options": {
+      "a": "Doce acuerdos.",
+      "b": "Catorce acuerdos.",
+      "c": "Dieciséis acuerdos.",
+      "d": "Diez acuerdos."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto afirma: 'el Banco de España suma un total de catorce acuerdos de cooperación con instituciones de la región [iberoamericana], principalmente bancos centrales'.\n\n\nEjemplo: El departamento de relaciones institucionales del Banco de España elabora un informe sobre su presencia y alcance en Iberoamérica. La cifra de catorce acuerdos de cooperación con bancos centrales de la región es un indicador clave de su estrategia de fortalecimiento de impacto institucional en el continente.",
+    "id": "q_b572f867a7",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "La colaboración entre el Departamento Jurídico del Banco de España y el Departamento Jurídico del Bank of Albania (BoA) se llevó a cabo en el marco de qué programa y con qué financiación.",
+    "options": {
+      "a": "Programa de los Balcanes, financiado por el Banco Central Europeo.",
+      "b": "Programa de los Balcanes, financiado por la Comisión Europea.",
+      "c": "Iniciativa de Balcanes Occidentales, financiada por el Fondo Monetario Internacional.",
+      "d": "Programa de Apoyo a la Integración Europea, con financiación bilateral del Banco de España."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto señala: 'tuvimos desde el Departamento Jurídico la suerte de poder colaborar con el Departamento Jurídico del Bank of Albania (BoA), en el marco del Programa de Balcanes financiado por la Comisión.'\n\n\nEjemplo: Un gestor de proyectos busca financiamiento para una iniciativa de cooperación en los Balcanes. Al revisar colaboraciones anteriores, identifica que la ayuda al Bank of Albania se enmarcó en el 'Programa de Balcanes financiado por la Comisión [Europea]', lo que le orienta sobre posibles fuentes de financiación y marcos operativos.",
+    "id": "q_7dfb68a5bc",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuándo y dónde se celebró el evento formativo sobre auditoría interna en el marco del 'Programme for Strengthening the Central Bank Capacities in the Western Balkans'?",
+    "options": {
+      "a": "Del 9 al 11 de abril de 2023 en Riga (Letonia).",
+      "b": "Del 9 al 11 de mayo de 2023 en Vilna (Lituania).",
+      "c": "Del 9 al 11 de junio de 2023 en Tallin (Estonia).",
+      "d": "Del 9 al 11 de marzo de 2023 en Varsovia (Polonia)."
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento especifica: 'DURANTE los días 9 a 11 de mayo de 2023, tuvo lugar en Vilna (Lituania) un evento formativo sobre auditoría interna en el marco del Programme for Strengthening the Central Bank Capacities in the Western Balkans...'\n\n\nEjemplo: Un auditor interno del Banco de España está preparando su informe de participación en eventos formativos del año. Para documentar su asistencia a este seminario, confirma la fecha exacta del 9 al 11 de mayo de 2023 y el lugar, Vilna, Lituania, según el registro oficial del evento.",
+    "id": "q_de75f92daa",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Quién financió el evento formativo sobre auditoría interna que tuvo lugar en Vilna (Lituania) en mayo de 2023?",
+    "options": {
+      "a": "El Banco Central Europeo.",
+      "b": "El Fondo Monetario Internacional.",
+      "c": "La Comisión Europea.",
+      "d": "El Banco Mundial."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica claramente que el evento 'financiado por la Comisión Europea, contó con la participación de auditores internos...'\n\n\nEjemplo: La oficina de proyectos de cooperación del Banco de España está buscando fuentes de financiación para futuras iniciativas. Al revisar el caso del evento en Vilna, identifican que fue financiado por la Comisión Europea, lo que sugiere una vía potencial para obtener recursos para programas similares en el futuro.",
+    "id": "q_ee55b2e287",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue el tema específico de la presentación realizada por Paco Oviedo y Miguel Alonso, representantes del Banco de España, en el evento formativo de Vilna?",
+    "options": {
+      "a": "La gestión de riesgos en la auditoría de sistemas de pago.",
+      "b": "El rol de la auditoría interna en el nuevo modelo de prestación de servicios en la nube.",
+      "c": "La auditoría de infraestructuras de mercado y estabilidad financiera.",
+      "d": "La aplicación de técnicas de auditoría forense en el sector bancario."
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento establece: 'Por parte del Banco de España, Paco Oviedo y Miguel Alonso realizaron una presentación sobre el rol de la auditoría interna en el nuevo modelo de prestación de servicios en la nube'.\n\n\nEjemplo: Un departamento de auditoría interna está investigando las mejores prácticas para auditar servicios en la nube. Consultan el informe del evento de Vilna y encuentran que la presentación del Banco de España abordó específicamente 'el rol de la auditoría interna en el nuevo modelo de prestación de servicios en la nube', lo que les proporciona una referencia relevante.",
+    "id": "q_b765966efc",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué institución organizó el evento de formación centrado en Tecnologías de la Información (TI) en abril de 2023, dirigido a los bancos centrales de los Balcanes Occidentales?",
+    "options": {
+      "a": "El Banco Central Europeo (ECB).",
+      "b": "El Banco de España.",
+      "c": "El Banco de Bulgaria.",
+      "d": "El Banco de Rumanía."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica: 'En abril de 2023, dentro del Programme for Strengthening the Central Bank Capacities in the Western Balkans... tuvimos la oportunidad de participar en un evento de formación centrado en las Tecnologías de la Información (TI) organizado por el Banco de Bulgaria...'\n\n\nEjemplo: Un experto en cooperación técnica está investigando qué bancos centrales lideran iniciativas de formación en TI en regiones específicas. Descubre que el evento para los Balcanes Occidentales en abril de 2023 fue organizado por el Banco de Bulgaria, lo que lo identifica como un actor clave en la capacitación tecnológica de la región.",
+    "id": "q_21cb88645a",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue el tema de la contribución del Banco de España en el evento de formación en Tecnologías de la Información (TI) organizado por el Banco de Bulgaria en abril de 2023?",
+    "options": {
+      "a": "La arquitectura de sistemas de seguridad bancaria.",
+      "b": "El despliegue de Microsoft Teams y la infraestructura necesaria de Microsoft 365.",
+      "c": "La gestión de proyectos de ciberseguridad avanzada.",
+      "d": "El mantenimiento de aplicaciones en entornos de banca central."
+    },
+    "correctAnswer": "b",
+    "explanation": "El fragmento declara: 'Nuestra contribución tenía como objetivo compartir la experiencia española en el despliegue de Microsoft Teams, un servicio en la nube, junto con la infraestructura necesaria de Microsoft 365.'\n\n\nEjemplo: Un banco central en proceso de modernización de su infraestructura de comunicación y colaboración está evaluando la adopción de herramientas en la nube. Al revisar informes de cooperación, encuentra la experiencia del Banco de España en el despliegue de Microsoft Teams y Microsoft 365, lo que le ofrece un caso de estudio relevante y lecciones aprendidas.",
+    "id": "q_dade906065",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "Según la información cuantitativa proporcionada en 'La Cooperación, en Cifras', ¿cuántos empleados del Banco de España participaron en las actividades de cooperación internacional?",
+    "options": {
+      "a": "266",
+      "b": "869",
+      "c": "765",
+      "d": "37"
+    },
+    "correctAnswer": "c",
+    "explanation": "El apartado 'La Cooperación, en Cifras' indica específicamente que 'Empleados del Banco de España: 765', detallando el número de personal implicado en las actividades de cooperación.\n\n\nEjemplo: El departamento de recursos humanos del Banco de España desea evaluar la dedicación de su personal a las iniciativas de cooperación internacional. La cifra de 765 empleados proporciona un indicador claro del compromiso interno con esta área.",
+    "id": "q_0be0bfbd99",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos departamentos del Banco de España estuvieron involucrados en las actividades de cooperación internacional, según los datos de 'La Cooperación, en Cifras'?",
+    "options": {
+      "a": "23",
+      "b": "37",
+      "c": "48",
+      "d": "149"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto detalla que 'Departamentos del Banco de España: 37', lo que indica el número exacto de áreas organizativas que participaron en las actividades de cooperación internacional.\n\n\nEjemplo: Para un informe de coordinación interdepartamental, se necesita saber la amplitud de la colaboración interna en proyectos de cooperación. La mención de 37 departamentos proporciona una métrica de la transversalidad de estas actividades en el Banco de España.",
+    "id": "q_cebd3a2a5a",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "Conforme a los indicadores de 'La Cooperación, en Cifras', ¿cuántos días de trabajo fueron dedicados a las actividades de cooperación internacional?",
+    "options": {
+      "a": "765",
+      "b": "869",
+      "c": "266",
+      "d": "3.246"
+    },
+    "correctAnswer": "b",
+    "explanation": "El documento especifica que 'Días de trabajo: 869', reflejando el volumen de tiempo empleado en las iniciativas de cooperación internacional.\n\n\nEjemplo: Un responsable de proyectos evalúa la inversión de tiempo y recursos en las actividades de cooperación internacional. El dato de 869 días de trabajo le permite cuantificar el esfuerzo temporal que el Banco de España ha dedicado a estos programas.",
+    "id": "q_bf77954fb9",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos acuerdos no normativos de cooperación se registraron en el período cubierto por 'La Cooperación, en Cifras'?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "5"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica explícitamente 'Acuerdo no normativo de cooperación: 1', lo que señala el número de este tipo particular de acuerdo.\n\n\nEjemplo: Un analista jurídico busca precedentes sobre los tipos de acuerdos de colaboración internacional. La existencia de '1 Acuerdo no normativo de cooperación' en el informe le confirma la utilización de este instrumento específico por parte del Banco de España.",
+    "id": "q_bf22f04d0e",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "En el evento de formación en Tecnologías de la Información organizado por el Banco de Bulgaria, ¿qué países de los Balcanes fueron los receptores de la formación?",
+    "options": {
+      "a": "Serbia, Croacia, Eslovenia, Bosnia y Herzegovina, Albania y Macedonia.",
+      "b": "Albania, Montenegro, Macedonia, Serbia, Kosovo y Bosnia y Herzegovina.",
+      "c": "Bulgaria, Rumanía, Eslovaquia, Albania, Montenegro y Macedonia.",
+      "d": "Kosovo, Croacia, Montenegro, Serbia, Bosnia y Herzegovina y Albania."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que el evento de formación en Tecnologías de la Información estuvo dirigido a los bancos centrales de Albania, Montenegro, Macedonia, Serbia, Kosovo y Bosnia y Herzegovina.\n\n\nEjemplo: Un analista del Banco de España prepara una presentación sobre ciberseguridad para ser impartida en un seminario internacional, y debe asegurarse de que el contenido se ajuste al perfil de los países balcánicos que, según la agenda oficial, son los principales asistentes, tales como Albania y Serbia, entre otros.",
+    "id": "q_e42d128c8b",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "Durante el evento de formación en Tecnologías de la Información organizado por el Banco de Bulgaria, ¿cuál fue la contribución principal del Banco de España?",
+    "options": {
+      "a": "La presentación de proyectos sobre arquitectura de sistemas y servicios en la nube.",
+      "b": "El intercambio de la experiencia española en la implementación de un sistema de gestión de proyectos bancarios.",
+      "c": "El compartir la experiencia española en el despliegue de Microsoft Teams y la infraestructura de Microsoft 365, con énfasis en las lecciones aprendidas.",
+      "d": "Una ponencia sobre estrategias avanzadas de ciberseguridad para infraestructuras críticas."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que la contribución del Banco de España 'tenía como objetivo compartir la experiencia española en el despliegue de Microsoft Teams, un servicio en la nube, junto con la infraestructura necesaria de Microsoft 365', haciendo 'especial énfasis en cuáles habían sido las lecciones aprendidas'.\n\n\nEjemplo: El equipo de TI de un banco central está considerando implementar una nueva plataforma de comunicación colaborativa. Para tomar la mejor decisión, solicitan a colegas de otras instituciones, como el Banco de España, que compartan sus 'lecciones aprendidas' en proyectos similares, como la implementación de Microsoft Teams.",
+    "id": "q_46f538c874",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Quiénes fueron los representantes del Banco de España en el evento de formación sobre Tecnologías de la Información en Bulgaria?",
+    "options": {
+      "a": "Lorena Cuadrado Gutiérrez, de la Unidad de Ciberseguridad, y Juan Flores Gómez, de la Unidad de Puesto de Trabajo Digital.",
+      "b": "Un representante de la Unidad de Ciberseguridad y otro de la Unidad de Arquitectura de Sistemas.",
+      "c": "Juan Flores Gómez, de la Unidad de Gestión de Proyectos, y Lorena Cuadrado Gutiérrez, de la Unidad de Aplicaciones.",
+      "d": "Un experto en ciberseguridad y otro en servicios en la nube, ambos del Banco de España."
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto menciona explícitamente a Lorena Cuadrado Gutiérrez, de la Unidad de Ciberseguridad, y Juan Flores Gómez, de la Unidad de Puesto de Trabajo Digital, como los representantes del Banco de España en dicho evento.\n\n\nEjemplo: Para un evento internacional sobre avances tecnológicos en la banca central, la organización solicita la lista de ponentes. El Banco de España designa a dos de sus expertos, Lorena Cuadrado Gutiérrez y Juan Flores Gómez, especificando sus unidades de Ciberseguridad y Puesto de Trabajo Digital, respectivamente, para reflejar su área de especialización.",
+    "id": "q_e592ef23a8",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué fecha y ciudad se celebró la edición especial del Fostering Women’s Leadership in Central Banking en el marco de las asambleas anuales del FMI?",
+    "options": {
+      "a": "El 12 de octubre en Madrid.",
+      "b": "El 12 de octubre en Marrakech.",
+      "c": "El 23 de octubre en Málaga.",
+      "d": "El 16 de octubre en Marrakech."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que 'El pasado 12 de octubre se celebró en Marrakech una edición especial del Fostering Women’s Leadership in Central Banking, encuentro organizado por Bank Al-Maghrib y el Banco de España en el marco excepcional de las asambleas anuales del FMI, que tuvieron lugar en dicha ciudad marroquí'.\n\n\nEjemplo: Un historiador económico investiga la evolución de la participación femenina en la banca central. Al revisar las actas de eventos relevantes, identifica que la edición especial de un programa de liderazgo se llevó a cabo el 12 de octubre en Marrakech, coincidiendo con un importante foro financiero internacional.",
+    "id": "q_61aee23889",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuáles fueron los bancos centrales coorganizadores de la edición especial del Fostering Women’s Leadership in Central Banking en Marrakech?",
+    "options": {
+      "a": "El Banco de España y el FMI.",
+      "b": "Bank Al-Maghrib y el Banco Central Europeo.",
+      "c": "El Banco de España y Bank Al-Maghrib.",
+      "d": "El Banco de España y la Reserva Federal de EEUU."
+    },
+    "correctAnswer": "c",
+    "explanation": "El fragmento establece que el encuentro fue 'organizado por Bank Al-Maghrib y el Banco de España' y que esta iniciativa de cooperación internacional se había ampliado 'de la mano de cada uno de los coorganizadores, Banco de España y Bank-Al-Maghrib, respectivamente'.\n\n\nEjemplo: Antes de participar en una conferencia internacional sobre diversidad de género en el sector financiero, un delegado del Banco Central de México consulta el programa. Observa que el evento está siendo coorganizado por el Banco de España y Bank Al-Maghrib, lo que sugiere un enfoque en la cooperación entre Europa y el norte de África.",
+    "id": "q_ef6f0de529",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué declaración general se realizó en el marco singular de las reuniones anuales del FMI, donde se celebró la edición especial del Fostering Women’s Leadership in Central Banking?",
+    "options": {
+      "a": "La Declaración de Málaga sobre Liderazgo Femenino.",
+      "b": "Los Principios de Marrakech sobre la Cooperación global.",
+      "c": "La Agenda para la Igualdad de Género en la Banca Central.",
+      "d": "El Manifiesto de Madrid sobre Diversidad Económica."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto menciona que 'Esta edición especial se llevó a cabo en el marco singular de las reuniones anuales del FMI, en la que se realizó una declaración general sobre los denominados Principios de Marrakech sobre la Cooperación global'.\n\n\nEjemplo: En una reunión preparatoria para una cumbre económica, los representantes de los bancos centrales revisan los acuerdos internacionales recientes. Se hace referencia a los 'Principios de Marrakech sobre la Cooperación global' como un marco fundamental para fomentar la colaboración multilateral en tiempos de incertidumbre económica.",
+    "id": "q_dc898c6c29",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Quiénes intervinieron especialmente en la presentación de la iniciativa Fostering Women's Leadership in Central Banking, además de los gobernadores del Banco de España y Bank Al-Maghrib?",
+    "options": {
+      "a": "La presidenta del Banco Central Europeo y la directora gerente del FMI.",
+      "b": "La presidenta del Comité Monetario y Financiero del FMI y la primera subdirectora gerente del FMI.",
+      "c": "La Sra. Nadia Calviño como ministra de Economía y la Dra. Gita Gopinath como economista principal del Banco Mundial.",
+      "d": "La gobernadora de la Reserva Federal de EEUU y la presidenta del Banco Mundial."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que la presentación de esta iniciativa contó con 'la intervención especial de la presidenta del Comité Monetario y Financiero del FMI, la Sra. Nadia Calviño, y de la primera subdirectora gerente del FMI, la Dra. Gita Gopinath'.\n\n\nEjemplo: Durante un debate sobre el papel de las mujeres en las instituciones financieras globales, se mencionan las figuras clave que han impulsado iniciativas importantes. Se recuerda la participación de Nadia Calviño y Gita Gopinath en la presentación de una plataforma para el liderazgo femenino en la banca central, destacando su influencia en el ámbito del FMI.",
+    "id": "q_171927d13f",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuándo se celebró la primera edición del Taller Internacional de Tecnología del Billete (TITBI)?",
+    "options": {
+      "a": "Del 23 al 27 de octubre de 2024.",
+      "b": "Del 16 al 18 de octubre de 2023.",
+      "c": "Del 23 al 27 de octubre de 2023.",
+      "d": "Del 9 al 11 de mayo de 2023."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica claramente que 'El pasado mes de octubre de 2023, del 23 al 27, se celebró la primera edición del Taller Internacional de Tecnología del Billete (TITBI)'.\n\n\nEjemplo: El Departamento de Emisión de un banco central planifica su calendario de formación anual. Al revisar los talleres especializados, comprueban que la primera edición del TITBI tuvo lugar en octubre de 2023, lo que les permite anticipar futuras ediciones y preparar la participación de sus técnicos.",
+    "id": "q_96484d8e0d",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos especialistas y de cuántos bancos centrales y casas de la moneda participaron en la primera edición del TITBI?",
+    "options": {
+      "a": "36 especialistas de 21 instituciones.",
+      "b": "29 especialistas de 15 bancos centrales y casas de la moneda.",
+      "c": "122 especialistas de más de un centenar de países.",
+      "d": "29 especialistas de 21 instituciones."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que la primera edición del TITBI 'convocó a 29 especialistas en el diseño y la fabricación de billetes, procedentes de 15 bancos centrales y casas de la moneda latinoamericanos, del BCE, IMBISA y FNMT'.\n\n\nEjemplo: Un responsable de formación evalúa el alcance de un evento técnico. Analiza la asistencia al TITBI, observando que la participación de 29 especialistas de 15 instituciones diferentes indica un buen nivel de convocatoria y representación de bancos centrales y casas de moneda de la región y Europa.",
+    "id": "q_884fc670de",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué significado tienen las siglas IMBISA y FNMT, según el glosario proporcionado?",
+    "options": {
+      "a": "IMBISA: Institución Monetaria de Billetes S.A.; FNMT: Federación Nacional de Moneda y Tesorería.",
+      "b": "IMBISA: Imprenta de Billetes S.A., Medio Propio del Banco de España; FNMT: Fábrica Nacional de Moneda y Timbre - Real Casa de la Moneda.",
+      "c": "IMBISA: Instituto Monetario del Billete y Sistemas Avanzados; FNMT: Fondo Nacional de Medios de Pago y Transacciones.",
+      "d": "IMBISA: Inversiones en Material Bancario S.A.; FNMT: Financiera Nacional de Moneda y Títulos."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto proporciona las definiciones exactas en las notas al pie de página: '1 Imprenta de Billetes S.A., Medio Propio del Banco de España.' y '2 Fábrica Nacional de Moneda y Timbre - Real Casa de la Moneda.'.\n\n\nEjemplo: Un nuevo empleado en el Departamento de Efectivo del Banco de España revisa la documentación interna. Es esencial que comprenda las siglas de las entidades con las que colabora, como IMBISA, que es la Imprenta de Billetes S.A. y medio propio del Banco de España, y la FNMT, la Fábrica Nacional de Moneda y Timbre.",
+    "id": "q_93441b8e7c",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué fechas y en qué ciudad se celebró la reunión de expertos en gestión documental y archivos de la banca central, coorganizada por el CEMLA y el Banco de España?",
+    "options": {
+      "a": "Del 23 al 27 de octubre de 2023, en Madrid.",
+      "b": "Del 16 al 18 de octubre de 2023, en Madrid.",
+      "c": "Del 12 de octubre de 2023, en Marrakech.",
+      "d": "Del 9 al 11 de mayo de 2023, en Kenia."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que fue una 'Reunión de expertos celebrada en Madrid, del 16 al 18 de octubre de 2023, organizada de manera conjunta entre el CEMLA y el Banco de España'.\n\n\nEjemplo: El responsable del Archivo Histórico del Banco de España prepara un informe sobre la cooperación internacional. Incluye la participación en la reunión de expertos en gestión documental y archivos celebrada en Madrid del 16 al 18 de octubre de 2023, destacando la colaboración con el CEMLA.",
+    "id": "q_fdff3a834e",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántas instituciones y países estuvieron representados en la reunión de expertos en gestión documental y archivos de la banca central coorganizada por el CEMLA y el Banco de España?",
+    "options": {
+      "a": "21 instituciones de 17 países.",
+      "b": "15 instituciones de 29 países.",
+      "c": "36 instituciones de 21 países.",
+      "d": "122 instituciones de más de un centenar de países."
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto indica que la reunión 'Contó con la participación de 36 participantes de 21 instituciones de 17 países de Latinoamérica, el Caribe y Europa'. La pregunta se centra en instituciones y países, no en el número total de participantes.\n\n\nEjemplo: Para evaluar la repercusión de un seminario, se analiza la diversidad de la audiencia. La participación de 21 instituciones de 17 países diferentes en el encuentro de gestión documental, por ejemplo, demuestra un alcance geográfico y sectorial considerable.",
+    "id": "q_1196973d42",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Desde qué año preside y gestiona el Banco de España el IORWG (International Operational Risk Working Group), en coordinación con la Reserva Federal de Filadelfia?",
+    "options": {
+      "a": "Desde el año 2005.",
+      "b": "Desde el año 2010.",
+      "c": "Desde el año 2018.",
+      "d": "Desde el año 2023."
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto afirma que el IORWG 'está presidido y gestionado por el Banco de España (División de Riesgo Operacional y Continuidad de Negocio) desde el año 2005, en coordinación con la Reserva Federal de Filadelfia'.\n\n\nEjemplo: Un analista de riesgos operacionales investiga la historia de los foros internacionales sobre la materia. Descubre que el Banco de España ha liderado el IORWG desde 2005, lo que subraya su compromiso a largo plazo con la gestión del riesgo no-financiero a nivel global.",
+    "id": "q_4518e61c08",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál es el objetivo principal del IORWG (International Operational Risk Working Group)?",
+    "options": {
+      "a": "Ser un centro de competencia técnica y un foro de discusión sobre los últimos desarrollos en la gestión del riesgo no-financiero.",
+      "b": "Desarrollar nuevas políticas monetarias para mitigar el riesgo financiero en bancos centrales.",
+      "c": "Coordinar la implementación de sistemas de ciberseguridad entre los bancos centrales del Eurosistema.",
+      "d": "Establecer estándares internacionales para la gestión del riesgo crediticio y de mercado."
+    },
+    "correctAnswer": "a",
+    "explanation": "El texto declara que el objetivo del IORWG es 'ser un centro de competencia técnica y un foro de discusión sobre los últimos desarrollos en la gestión del riesgo no-financiero: riesgo operacional, ciberseguridad, riesgo de proveedores, riesgos medioambientales y sociales, gobernanza de los riesgos, resiliencia…'.\n\n\nEjemplo: El departamento de riesgo de un banco central busca información sobre las mejores prácticas en la gestión de la resiliencia operativa. Recurren al IORWG, sabiendo que su objetivo es proporcionar un foro y un centro de competencia para abordar los desafíos relacionados con los riesgos no-financieros, como la resiliencia.",
+    "id": "q_9d055b2764",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes instituciones NO es mencionada como miembro de las 122 instituciones que componen el IORWG?",
+    "options": {
+      "a": "El Fondo Monetario Internacional.",
+      "b": "El Banco Mundial.",
+      "c": "El Banco Central Europeo.",
+      "d": "El Banco Interamericano de Desarrollo (BID)."
+    },
+    "correctAnswer": "d",
+    "explanation": "El texto enumera los miembros destacados del IORWG como 'el Fondo Monetario Internacional, el Banco Mundial, el Banco de Pagos Internacionales y el Banco Central Europeo', pero no menciona el Banco Interamericano de Desarrollo (BID).\n\n\nEjemplo: Un investigador está analizando la composición de los grupos de trabajo internacionales sobre riesgo operacional. Al revisar la lista de miembros del IORWG, identifica que si bien grandes instituciones como el FMI y el Banco Mundial están presentes, el BID no figura entre las específicamente mencionadas en la descripción del grupo.",
+    "id": "q_8603b55266",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué ciudad y año se celebró la primera conferencia anual del IORWG?",
+    "options": {
+      "a": "Río de Janeiro en 2010.",
+      "b": "Madrid en 2005.",
+      "c": "Kenia en 2023.",
+      "d": "Jerusalén en 2014."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que los hallazgos y conclusiones del IORWG se difunden en una conferencia celebrada cada año, 'desde la primera, acogida en Madrid (en 2005)'.\n\n\nEjemplo: Para un evento de celebración del 20 aniversario del IORWG, el comité organizador revisa los hitos históricos. Destacan la primera conferencia anual, celebrada en Madrid en 2005, como el punto de partida de las reuniones globales del grupo de trabajo.",
+    "id": "q_65d5a6aac5",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue la localización y fecha de la última conferencia anual del IORWG mencionada en el texto, y que aparece en la foto?",
+    "options": {
+      "a": "Singapur en 2018.",
+      "b": "Río de Janeiro en 2010.",
+      "c": "Kenia en 2023, del 9 al 11 de mayo.",
+      "d": "Jerusalén en 2014."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto menciona la 'última organizada hasta el momento, en Kenia (2023)' y la foto está titulada 'Foto de la última conferencia anual del IORWG, celebrada del 9 al 11 de mayo de 2023, en Kenia'.\n\n\nEjemplo: Un miembro del IORWG necesita confirmar los acuerdos de la última reunión. Consulta el informe de la conferencia de Kenia, celebrada del 9 al 11 de mayo de 2023, para revisar las decisiones tomadas y las conclusiones alcanzadas.",
+    "id": "q_c7b172f597",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué división del Banco de España preside, desarrolla e impulsa la labor del IORWG?",
+    "options": {
+      "a": "La División de Asuntos Internacionales.",
+      "b": "La División de Política Monetaria.",
+      "c": "La División de Riesgo Operacional y Continuidad de Negocio.",
+      "d": "La División de Supervisión Bancaria."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece que el IORWG 'está presidido y gestionado por el Banco de España (División de Riesgo Operacional y Continuidad de Negocio) desde el año 2005' y que 'Todo ello se preside, desarrolla e impulsa desde la División de Riesgo Operacional y Continuidad de Negocio del Banco de España'.\n\n\nEjemplo: Un periodista financiero investiga el liderazgo del Banco de España en foros internacionales de riesgo. Descubre que la División de Riesgo Operacional y Continuidad de Negocio es la encargada de presidir y desarrollar las actividades del IORWG, un referente mundial en la materia.",
+    "id": "q_6b77d41276",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuándo y dónde se celebró la última conferencia anual del IORWG mencionada en el texto?",
+    "options": {
+      "a": "Del 9 al 11 de mayo de 2022, en Nairobi (Kenia).",
+      "b": "Del 10 al 12 de junio de 2023, en Sudáfrica.",
+      "c": "Del 9 al 11 de mayo de 2023, en Kenia.",
+      "d": "Del 15 al 17 de abril de 2023, en la sede del Banco de España."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que la última conferencia anual del IORWG se celebró \"del 9 al 11 de mayo de 2023, en Kenia\".\n\n\nEjemplo: Un planificador de eventos para bancos centrales revisa las actas de reuniones anteriores para confirmar la fecha y el lugar de la última conferencia del IORWG, encontrando que fue en Kenia en mayo de 2023.",
+    "id": "q_d4ce131dbe",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué representantes del Banco de España asistieron a la última conferencia anual del IORWG celebrada en Kenia en mayo de 2023?",
+    "options": {
+      "a": "Sonsoles Eirea y Olga Blázquez.",
+      "b": "Ana Rodríguez y Ruth Benito.",
+      "c": "Patrick Njoroge y Sheila Mbijjewe.",
+      "d": "Carolyne Ngamau y Beth Kithinji."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto menciona explícitamente entre los asistentes en primera fila a \"Ana Rodríguez y Ruth Benito (Banco de España)\".\n\n\nEjemplo: Tras la conferencia, el departamento de Recursos Humanos del Banco de España registra la participación internacional de sus empleados. En los informes, se indica que Ana Rodríguez y Ruth Benito fueron las delegadas en la reunión del IORWG en Kenia.",
+    "id": "q_06963c5a12",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál de los siguientes temas NO fue tratado en la última conferencia anual del IORWG en Kenia?",
+    "options": {
+      "a": "La gestión eficiente y segura de la información.",
+      "b": "Los retos de la transformación digital, incluyendo inteligencia artificial y robotización.",
+      "c": "El modelo tecnológico del Banco de España y sus servicios de Administración Electrónica.",
+      "d": "La política monetaria y las operaciones de mercado abierto en el Eurosistema."
+    },
+    "correctAnswer": "d",
+    "explanation": "El texto detalla los temas tratados: \"gestión eficiente y segura de la información, los procesos y servicios de archivo, ejemplos de proyectos singulares de Gestión de Documentos y Archivo, los retos de la transformación digital —inteligencia artificial, robotización— y preservación, el modelo tecnológico del Banco de España y sus servicios de Administración Electrónica\". No se menciona la política monetaria ni las operaciones de mercado abierto.\n\n\nEjemplo: En el informe post-conferencia del IORWG, se listan las ponencias y talleres. Un tema sobre política monetaria del Eurosistema no aparecería en la agenda, ya que la conferencia se centró en gestión documental y tecnología.",
+    "id": "q_98f6a77970",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué año el Seminario Internacional de Banca Central (SIBC) organizado por el Banco de España cumplió dos décadas desde su consolidación?",
+    "options": {
+      "a": "En 2024.",
+      "b": "En 2003.",
+      "c": "En 2023.",
+      "d": "En 2022."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que \"En 2023, el Seminario Internacional de Banca Central (SIBC) organizado por el Banco de España ha cumplido dos décadas\".\n\n\nEjemplo: Para celebrar la trayectoria del SIBC, el Banco de España organiza un evento conmemorativo en el que se destaca que la edición de 2023 marcó el vigésimo aniversario de su consolidación como foro especializado.",
+    "id": "q_30b8262615",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos participantes alcanzó la edición especial de 2023 del Seminario Internacional de Banca Central (SIBC)?",
+    "options": {
+      "a": "20.",
+      "b": "18.",
+      "c": "373.",
+      "d": "11."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma que \"En esta edición especial [de 2023] se ha alcanzado la cifra de 373 participantes.\"\n\n\nEjemplo: Al finalizar el SIBC 2023, la organización publica un comunicado donde se destaca el éxito de la convocatoria, informando que un total de 373 expertos y responsables asistieron al seminario.",
+    "id": "q_745ce15149",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos bancos centrales de América Latina participaron en la edición de 2023 del Seminario Internacional de Banca Central (SIBC)?",
+    "options": {
+      "a": "7.",
+      "b": "11.",
+      "c": "18.",
+      "d": "2."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que, entre los participantes de América Latina, se incluyeron \"11 bancos centrales, 7 superintendencias financieras y 2 instituciones de carácter monetario de la región\".\n\n\nEjemplo: En el informe de participación regional del SIBC 2023, se detalla que de la región latinoamericana, 11 bancos centrales enviaron representantes, mostrando la relevancia del foro para la zona.",
+    "id": "q_0903878f07",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes instituciones fue mencionada como participante en el panel de análisis sobre la gestión de la política monetaria en América Latina durante el SIBC 2023?",
+    "options": {
+      "a": "El Banco Mundial (BM).",
+      "b": "El Banco de Desarrollo de América Latina (CAF).",
+      "c": "El Banco Interamericano de Desarrollo (BID).",
+      "d": "El Fondo Monetario Internacional (FMI)."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que el panel contó con destacados economistas procedentes de la Organización para la Cooperación y el Desarrollo Económico (OCDE) y de distintas instituciones de la región, mencionando específicamente al \"Banco de Desarrollo de América Latina (CAF), el Fondo Latinoamericano de Reservas (FLAR) y la Secretaría Ejecutiva del Consejo Monetario Centroamericano (SECMCA)\".\n\n\nEjemplo: Durante el SIBC 2023, en el panel dedicado a la política monetaria en América Latina, un experto del Banco de Desarrollo de América Latina (CAF) presentó un análisis sobre la estabilidad de precios en la región.",
+    "id": "q_77cec81acd",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué instituciones coorganizaron el V Curso de Estabilidad Financiera celebrado en Madrid en octubre de 2023?",
+    "options": {
+      "a": "El Banco de España y el Fondo Monetario Internacional (FMI).",
+      "b": "El Banco de España y el Centro de Estudios Monetarios de Latinoamérica (CEMLA).",
+      "c": "El Banco Central Europeo (BCE) y el Banco de España.",
+      "d": "El Banco Mundial (BM) y el Centro de Estudios Monetarios de Latinoamérica (CEMLA)."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece que el V Curso de Estabilidad Financiera fue \"coorganizado por el Banco de España y el Centro de Estudios Monetarios de Latinoamérica (CEMLA)\".\n\n\nEjemplo: Para la difusión de la próxima edición del curso, se utiliza un cartel promocional que incluye los logotipos de ambas instituciones, destacando que el Banco de España y el CEMLA son los coorganizadores principales del evento.",
+    "id": "q_5c70fd6eaa",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuándo y dónde se celebró el V Curso de Estabilidad Financiera coorganizado por el Banco de España y el CEMLA?",
+    "options": {
+      "a": "Del 23 al 27 de octubre de 2022, en Ciudad de México.",
+      "b": "Del 23 al 27 de octubre de 2023, en Madrid.",
+      "c": "Del 20 al 24 de noviembre de 2023, en Bogotá.",
+      "d": "Del 15 al 19 de septiembre de 2023, en Filipinas."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que el V Curso de Estabilidad Financiera \"tuvo lugar en Madrid, del 23 al 27 de octubre de 2023\".\n\n\nEjemplo: Un asistente al curso recibe un certificado de participación que indica claramente que el evento se realizó en Madrid durante la última semana de octubre de 2023.",
+    "id": "q_3ba2423e6c",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué periodo de tiempo tuvo lugar la primera visita al Banco de España de una delegación del Gobierno y del Banco Central de Bangladesh, junto a expertos del Banco Mundial, para conocer la experiencia española en gestión de activos problemáticos?",
+    "options": {
+      "a": "A finales del año 2023.",
+      "b": "A mediados del año 2023.",
+      "c": "A comienzos del año 2023.",
+      "d": "En el segundo trimestre de 2022."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma: \"En el comienzo del año 2023, tuvimos la oportunidad de participar en la primera visita al Banco de España de una delegación del Gobierno y del Banco Central de Bangladesh, junto a expertos del Banco Mundial.\"\n\n\nEjemplo: En la memoria de actividades del Banco de España de 2023, se registra la visita de la delegación de Bangladesh como una de las primeras actividades de cooperación bilateral del año.",
+    "id": "q_b7aedf0dc4",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué dirección general del Banco de España se encargó de explicar las medidas supervisoras y regulatorias implementadas en España y el Eurosistema a la delegación de Bangladesh?",
+    "options": {
+      "a": "La Dirección General de Estabilidad Financiera.",
+      "b": "La Dirección General de Sistemas de Información.",
+      "c": "La Dirección General de Supervisión.",
+      "d": "La Dirección General de Operaciones."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto señala: \"Nosotras, como parte de la Dirección General de Supervisión, nos encargamos de explicarles las medidas supervisoras y regulatorias implantadas en los últimos años, en España y en el Eurosistema...\".\n\n\nEjemplo: Durante la visita, un experto del Banco Central de Bangladesh pregunta sobre la implementación de las normativas de solvencia. La respuesta es proporcionada por un representante de la Dirección General de Supervisión, que detalla las políticas macroprudenciales aplicadas.",
+    "id": "q_cd8fcf50ec",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes entidades NO formó parte de la delegación de altas personalidades de Bangladesh que visitó el Banco de España para conocer la experiencia en la gestión de activos problemáticos?",
+    "options": {
+      "a": "El Banco Central de Bangladesh.",
+      "b": "El Ministerio de Finanzas de Bangladesh.",
+      "c": "La Autoridad de Regulación Financiera de Bangladesh.",
+      "d": "La Comisión de Valores de Bangladesh."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto menciona que la delegación estaba compuesta por personalidades del \"Banco Central, el Ministerio de Finanzas y su Comisión de valores, además de los representantes del Banco Mundial y el IFC (International Finance Corporation)\". No se menciona la Autoridad de Regulación Financiera con ese nombre específico, aunque podría ser una denominación genérica, es la menos precisa según el texto.\n\n\nEjemplo: Antes de la visita, el Banco de España recibe la lista de los miembros de la delegación. Entre los nombres, figuran el Gobernador del Banco Central, el Viceministro de Finanzas y el Presidente de la Comisión de Valores, pero no hay una 'Autoridad de Regulación Financiera' como entidad independiente listada.",
+    "id": "q_a3a731e5d7",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué fechas recibió el Banco de España la visita de cuatro representantes del Banco Central de Montenegro?",
+    "options": {
+      "a": "Los días 17 y 18 de abril de 2023.",
+      "b": "Los días 17 y 18 de mayo de 2023.",
+      "c": "Los días 10 y 11 de junio de 2023.",
+      "d": "Los días 23 y 24 de marzo de 2023."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que \"Los días 17 y 18 de mayo de 2023, el Departamento de Intervención General recibió la visita de cuatro representantes del Banco Central de Montenegro...\".\n\n\nEjemplo: Un responsable de protocolo del Banco de España confirma en su agenda que la visita del Banco Central de Montenegro estaba programada para mediados de mayo de 2023, específicamente el 17 y 18.",
+    "id": "q_252b89e053",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué departamento del Banco de España recibió la visita de los representantes del Banco Central de Montenegro en mayo de 2023?",
+    "options": {
+      "a": "El Departamento de Operaciones.",
+      "b": "El Departamento de Sistemas de Información.",
+      "c": "El Departamento de Intervención General.",
+      "d": "El Departamento de Supervisión."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto especifica que \"el Departamento de Intervención General recibió la visita de cuatro representantes del Banco Central de Montenegro...\".\n\n\nEjemplo: Tras la visita, el informe interno del Banco de España detalla que el Departamento de Intervención General fue el anfitrión de la delegación de Montenegro, compartiendo su experiencia en costes y contabilidad del Eurosistema.",
+    "id": "q_21d09e10a2",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue el tema central de la sesión del primer día de la visita del Banco Central de Montenegro al Banco de España en mayo de 2023?",
+    "options": {
+      "a": "Los desafíos de la transformación digital y la Inteligencia Artificial.",
+      "b": "La gestión de riesgos de mercado y crédito en el Eurosistema.",
+      "c": "La metodología de costes del Eurosistema y su aplicación práctica en el Banco de España.",
+      "d": "La política monetaria y la estabilidad financiera en la Eurozona."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto señala: \"La sesión del primer día se centró en la metodología de costes del Eurosistema y en su aplicación práctica en el Banco de España.\"\n\n\nEjemplo: Durante la visita, los representantes de Montenegro reciben una presentación exhaustiva que explica los principios, objetivos y fases del modelo de costes del Eurosistema, con ejemplos concretos de su implementación en el Banco de España.",
+    "id": "q_06384dbe43",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue la finalidad principal de la visita de un representante del Banco del Uruguay al Banco de España en el ámbito de Tecnología de la Información en octubre?",
+    "options": {
+      "a": "Evaluar la política monetaria del Banco de España.",
+      "b": "Fortalecer la cooperación y compartir experiencias en el entorno de la transformación digital.",
+      "c": "Analizar la gestión de activos problemáticos.",
+      "d": "Estudiar el modelo de costes y contabilidad del Eurosistema."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que la visita se realizó \"con la finalidad de fortalecer la cooperación y de compartir experiencias en el entorno de la transformación digital\".\n\n\nEjemplo: El representante del Banco del Uruguay participa en múltiples sesiones enfocadas en la estrategia de digitalización del Banco de España, mostrando su interés en implementar soluciones similares en su institución.",
+    "id": "q_714392d107",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál de las siguientes áreas del Departamento de Sistemas de Información del Banco de España NO participó activamente en las sesiones de la visita del Banco del Uruguay en octubre?",
+    "options": {
+      "a": "Digitalización e innovación.",
+      "b": "Analítica y calidad de software.",
+      "c": "Arquitecturas y tecnologías de la información.",
+      "d": "Gestión de riesgos operativos y ciberseguridad."
+    },
+    "correctAnswer": "d",
+    "explanation": "El texto menciona que participaron activamente las áreas de \"digitalización e innovación, analítica y calidad de software. Las sesiones también contaron con la presencia de expertos de las áreas de arquitecturas y tecnologías de la información\". No se menciona directamente la gestión de riesgos operativos y ciberseguridad como área participante activa en este contexto de transformación digital.\n\n\nEjemplo: En el listado de asistentes y ponentes internos para las jornadas con el Banco del Uruguay, se observan especialistas de digitalización, analítica y arquitecturas de TI, pero ningún representante del área de gestión de riesgos operativos, ya que el enfoque era la transformación digital.",
+    "id": "q_2c022bdfc6",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue el tema principal de discusión durante la primera sesión de la visita del Banco Central del Uruguay al Banco de España, según el texto?",
+    "options": {
+      "a": "El esquema de redistribución de ingresos monetarios entre bancos centrales del Eurosistema.",
+      "b": "La contabilidad dentro del ámbito del Eurosistema y del SEBC.",
+      "c": "La distribución de los costes anuales entre las funciones operativas y la asignación de costes indirectos.",
+      "d": "La preparación de los estados financieros según las directrices europeas."
+    },
+    "correctAnswer": "c",
+    "explanation": "La primera sesión repasó los cálculos que se elaboran en las distintas fases del modelo hasta llegar al resultado final, con la distribución de los costes anuales entre todas las funciones operativas, y hubo una discusión sobre las dificultades para asignar correctamente los costes indirectos (o costes de las funciones de apoyo) a las correspondientes funciones operativas.\n\n\nEjemplo: Un analista financiero de un banco central realiza una auditoría interna para determinar cómo se distribuyen los gastos generales de administración y soporte (costes indirectos) entre sus distintas áreas operativas, como la emisión de moneda o la gestión de reservas, buscando la metodología más precisa para asignar dichos costes.",
+    "id": "q_6cd997ce78",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué entidad abordó los aspectos de contabilidad dentro del Eurosistema y del SEBC en la segunda sesión de la visita del Banco Central del Uruguay?",
+    "options": {
+      "a": "La Oficina de Evaluación y Planificación Estratégica.",
+      "b": "El equipo de la Unidad de Estados Financieros y Operaciones SEBC.",
+      "c": "El Departamento de Recursos Humanos.",
+      "d": "La División de Formación, Desarrollo y Comunicación Interna."
+    },
+    "correctAnswer": "b",
+    "explanation": "En la segunda sesión, el equipo de la Unidad de Estados Financieros y Operaciones SEBC abordó distintos aspectos de la contabilidad dentro del ámbito del Eurosistema y del SEBC, comentando las reglas y principios básicos del marco contable y de las principales partidas del Balance.\n\n\nEjemplo: Durante una reunión técnica, el personal encargado de los estados financieros del Banco Central Europeo presenta las directrices contables específicas que rigen las operaciones monetarias conjuntas a los representantes del Banco Central del Uruguay.",
+    "id": "q_dd5a55ee1a",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué institución financiera valoró positivamente la visita al Banco de España de cara a su conocimiento y la adopción de mejores metodologías en su camino hacia la integración en la Unión Europea?",
+    "options": {
+      "a": "El Banco Central del Uruguay.",
+      "b": "El Banco Central de Honduras.",
+      "c": "El Banco Central de Montenegro.",
+      "d": "El Banco Central de El Salvador."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que la visita 'constituyó una oportunidad para intercambiar experiencias, y el Banco Central de Montenegro la ha valorado positivamente de cara a su conocimiento y la adopción de mejores metodologías en su camino hacia la integración en la Unión Europea.'\n\n\nEjemplo: Antes de su adhesión a la UE, el Banco Central de un país candidato implementa nuevas prácticas en su contabilidad siguiendo las directrices del Eurosistema, basándose en la formación recibida en el Banco de España para alinear sus operaciones con los estándares europeos.",
+    "id": "q_70d517a7f0",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál es el número y año de la Revista de Cooperación Internacional en la que se publicó el fragmento del documento?",
+    "options": {
+      "a": "Número 4, Año 2023.",
+      "b": "Número 5, Año 2024.",
+      "c": "Número 5, Año 2023.",
+      "d": "Número 4, Año 2024."
+    },
+    "correctAnswer": "b",
+    "explanation": "El encabezado de las páginas 16, 17, 18 y 19 indica explícitamente 'REVISTA DE COOPERACIÓN INTERNACIONAL · Número 5 · Año 2024'.\n\n\nEjemplo: Un investigador busca información sobre la cooperación internacional en bancos centrales y consulta el índice de publicaciones periódicas, identificando la edición de 2024 de la Revista de Cooperación Internacional como la quinta entrega del año.",
+    "id": "q_503ae9e567",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué cargo ostenta María Gutiérrez de Ojesto, quien compartió la labor de su oficina en el ámbito estratégico y del programa de evaluaciones en el Banco de España?",
+    "options": {
+      "a": "Directora del Departamento de Recursos Humanos.",
+      "b": "Responsable de la Oficina de Evaluación y Planificación Estratégica.",
+      "c": "Subdirectora del Departamento de Recursos Humanos.",
+      "d": "Jefa de la Unidad de Estados Financieros y Operaciones SEBC."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto afirma que 'La visita comenzó con la participación de María Gutiérrez de Ojesto, responsable de la Oficina de Evaluación y Planificación Estratégica, que tuvo la ocasión de compartir la labor que la oficina realiza en el ámbito estratégico y del programa de evaluaciones'.\n\n\nEjemplo: En una conferencia interna sobre la visión a largo plazo del Banco, María Gutiérrez de Ojesto presenta los resultados de la última evaluación estratégica, destacando las áreas de mejora identificadas por su oficina.",
+    "id": "q_0c625f4b3b",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Quiénes son el director y la subdirectora del Departamento de Recursos Humanos del Banco de España, según se menciona en el texto?",
+    "options": {
+      "a": "Rodrigo Morás y María Gutiérrez de Ojesto.",
+      "b": "Juan Manuel Delgado y Nieves Guil.",
+      "c": "Juan Manuel Delgado y María Gutiérrez de Ojesto.",
+      "d": "Nieves Guil y Rodrigo Morás."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto especifica que 'La participación del Departamento de Recursos Humanos comenzó con el encuentro que mantuvieron el director y la subdirectora del Departamento, Juan Manuel Delgado y Nieves Guil, respectivamente'.\n\n\nEjemplo: En la reunión anual del personal, Juan Manuel Delgado y Nieves Guil exponen la nueva política de conciliación laboral implementada por el Departamento de Recursos Humanos del Banco de España para el próximo ejercicio.",
+    "id": "q_74dcfac271",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuáles son las herramientas de valoración competencial que la División de Formación, Desarrollo y Comunicación Interna compartió como parte de su modelo de talento y liderazgo?",
+    "options": {
+      "a": "CRM y ERP.",
+      "b": "PDI y 360º.",
+      "c": "Balanced Scorecard y OKRs.",
+      "d": "Lean y Six Sigma."
+    },
+    "correctAnswer": "b",
+    "explanation": "La División de Formación, Desarrollo y Comunicación Interna compartió las herramientas de valoración competencial (PDI y 360º) como parte de la oferta de programas de talento que incluye desarrollo directivo, Hipatia y mentoring, coaching directivo y agile.\n\n\nEjemplo: Para evaluar el desempeño de sus directivos, el Banco de España implementa una revisión de 360 grados, complementada con un Plan de Desarrollo Individual (PDI) para identificar áreas de mejora y potenciar habilidades.",
+    "id": "q_eb447a3ac1",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué año se desarrolló la actividad de asistencia técnica en materia de digitalización de documentos contables, en la que participó el Banco Central de Honduras junto al Banco de Guatemala?",
+    "options": {
+      "a": "2021.",
+      "b": "2022.",
+      "c": "2023.",
+      "d": "2024."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto menciona que 'Estas sesiones fueron la continuación a la actividad de asistencia técnica en materia de digitalización de documentos contables que se desarrolló en el año 2022, dentro del marco de cooperación establecido por CEMLA, en la que también participó el Banco de Guatemala.'\n\n\nEjemplo: En el marco de un programa de modernización tecnológica, el Banco Central de Honduras, siguiendo la experiencia de 2022, busca replicar el éxito de la digitalización de sus archivos contables con la ayuda de expertos internacionales.",
+    "id": "q_194634c79f",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Bajo qué marco de cooperación se estableció la actividad de asistencia técnica en materia de digitalización de documentos contables en la que participó el Banco Central de Honduras en 2022?",
+    "options": {
+      "a": "FMI.",
+      "b": "Banco Mundial.",
+      "c": "CEMLA.",
+      "d": "BID."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que la actividad se desarrolló 'dentro del marco de cooperación establecido por CEMLA'.\n\n\nEjemplo: El Banco Central de Honduras asiste a un seminario organizado por CEMLA sobre mejores prácticas en la digitalización de registros financieros, lo que refuerza su compromiso con la modernización contable.",
+    "id": "q_b9566a79f3",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué proceso de implantación están llevando a cabo los compañeros hondureños en su sistema contable, según el texto?",
+    "options": {
+      "a": "Normas Internas de Fiscalización Financiera.",
+      "b": "Nuevas Iniciativas de Inversión Financiera.",
+      "c": "Normas Internacionales de Información Financiera.",
+      "d": "Normas Integrales de Innovación Fiscal."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto afirma que los compañeros hondureños están 'sumidos en la actualidad en un proceso de implantación de las Normas Internacionales de Información Financiera a su sistema contable'.\n\n\nEjemplo: El departamento de contaduría del Banco Central de Honduras actualiza sus sistemas y procedimientos para asegurar que todos sus reportes financieros cumplan con los criterios de las Normas Internacionales de Información Financiera, buscando mayor transparencia y comparabilidad.",
+    "id": "q_31c8c17cf8",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué fechas del año 2023 el Banco de España recibió la visita de un representante del Banco Central de Reserva de El Salvador?",
+    "options": {
+      "a": "Del 9 al 11 de mayo.",
+      "b": "Del 22 al 24 de agosto.",
+      "c": "Durante el mes de septiembre.",
+      "d": "Del 15 al 17 de julio."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto establece claramente que 'Del 22 al 24 de agosto de 2023, el Banco de España recibió la visita de un representante del Banco Central de Reserva de El Salvador.'\n\n\nEjemplo: Un representante del Banco Central de El Salvador planifica su viaje a Madrid para finales de agosto de 2023, con el objetivo de conocer las operaciones de sistemas de pago del Banco de España, según la agenda de cooperación internacional.",
+    "id": "q_e788c561b4",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Desde qué triple vertiente el Banco de España efectúa las actuaciones encaminadas a impulsar la eficiencia y seguridad de los instrumentos y sistemas de pago, según el interés del Banco Central de Reserva de El Salvador?",
+    "options": {
+      "a": "Como emisor, regulador y distribuidor.",
+      "b": "Como supervisor, catalizador y vigilante.",
+      "c": "Como inversor, operador y analista.",
+      "d": "Como legislador, ejecutor y auditor."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto detalla que las actuaciones se efectúan 'desde una triple vertiente: como supervisor, como catalizador (impulsando actuaciones por parte tanto del sector privado como del público) y como vigilante (verificando que se cumplen unos determinados estándares/objetivos de seguridad y eficiencia)'.\n\n\nEjemplo: Para asegurar la integridad de las transacciones financieras, el Banco de España no solo supervisa el cumplimiento de las normativas de pago, sino que también fomenta la innovación en el sector y verifica constantemente que los sistemas operen con los más altos estándares de seguridad.",
+    "id": "q_f46cae8a32",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue el detalle entregado por la visita de El Salvador a los especialistas del Banco de España?",
+    "options": {
+      "a": "Una réplica del Monseñor Óscar Romero.",
+      "b": "Un café de origen salvadoreño de edición limitada.",
+      "c": "Un imán con la reproducción pintada a mano de un torogoz, el ave nacional de El Salvador.",
+      "d": "Una colección de monedas conmemorativas de El Salvador."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto describe el 'Detalle entregado por la visita de El Salvador a los especialistas del Banco de España: imán, reproducción pintada a mano de un torogoz, el ave nacional de El Salvador.'\n\n\nEjemplo: Como agradecimiento por el intercambio de conocimientos, el representante del Banco Central de Reserva de El Salvador obsequia a sus anfitriones del Banco de España un recuerdo cultural, destacando un imán con la imagen del torogoz, símbolo de su país.",
+    "id": "q_fc6ec481de",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué Plan de Comunicación compartió la División de Formación, Desarrollo y Comunicación Interna durante las jornadas de la visita?",
+    "options": {
+      "a": "Plan de Comunicación de 2023.",
+      "b": "Plan de Transformación Digital.",
+      "c": "Plan de Comunicación de 2024.",
+      "d": "Plan Estratégico de Diversidad."
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que 'Comunicación Interna expuso las principales funciones que desarrolla el área y cómo se estructuran y se plantean las campañas de comunicación interna compartiendo el Plan de Comunicación de 2024.'\n\n\nEjemplo: En una reunión interna, la División de Comunicación del Banco de España presenta el esquema de campañas y eventos programados para el año entrante, detallado en su Plan de Comunicación de 2024, para coordinar los esfuerzos informativos.",
+    "id": "q_cf451afe45",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué fechas exactas de mayo de 2023 representantes del Banco de Túnez llevaron a cabo una visita al Banco de España?",
+    "options": {
+      "a": "Del 1 al 3 de mayo de 2023.",
+      "b": "Del 9 al 11 de mayo de 2023.",
+      "c": "Del 15 al 17 de mayo de 2023.",
+      "d": "Del 22 al 24 de mayo de 2023."
+    },
+    "correctAnswer": "b",
+    "explanation": "El encabezado de la sección específica sobre esta visita indica: 'Visita del Banco Central de Túnez, del 9 al 11 de mayo de 2023'.\n\n\nEjemplo: Un plan de colaboración internacional entre bancos centrales establece que la delegación del Banco de Túnez visitará las instalaciones del Banco de España durante la segunda semana de mayo de 2023 para una serie de talleres técnicos.",
+    "id": "q_b426cf4418",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál fue la finalidad principal de la visita de los representantes del Banco de Túnez al Banco de España en mayo de 2023?",
+    "options": {
+      "a": "Conocer la política monetaria común del Eurosistema.",
+      "b": "Fortalecer la cooperación y conocer la gestión del dato y el proceso de recogida de datos y producción estadística.",
+      "c": "Analizar el modelo de talento y liderazgo del Banco de España.",
+      "d": "Estudiar la estructura de retribuciones y beneficios sociales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto indica que la visita se realizó 'con la finalidad de fortalecer la cooperación y de conocer la gestión del dato y el proceso de recogida de datos y producción estadística en Banco de España desde la vertiente organizativa, funcional y tecnológica'.\n\n\nEjemplo: El Banco Central de Túnez, buscando modernizar su infraestructura de datos, envía a sus expertos al Banco de España para observar directamente cómo se recopilan, procesan y difunden las estadísticas económicas de manera eficiente y segura.",
+    "id": "q_163073197a",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué proyecto del Banco Central Europeo para la integración de la información estadística en el Sistema Europeo de Bancos Centrales (SEBC) fue detallado durante la visita del Banco de Túnez?",
+    "options": {
+      "a": "ECBStat.",
+      "b": "Eurostat.",
+      "c": "IReF.",
+      "d": "TARGET."
+    },
+    "correctAnswer": "c",
+    "explanation": "En la vertiente funcional, 'se entró en el detalle del proyecto del Banco Central Europeo para la integración de la información estadística en el Sistema Europeo de Bancos Centrales (IReF, por sus siglas en inglés)'.\n\n\nEjemplo: Durante la exposición sobre la armonización estadística europea, los expertos del Banco de España explican a la delegación tunecina cómo el proyecto IReF simplificará y estandarizará la recopilación de datos de los bancos centrales miembros del Eurosistema.",
+    "id": "q_12f38eb775",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿A qué unidad se transmitió un agradecimiento especial por su ayuda fundamental en la exitosa organización de la visita del Banco Central de Túnez?",
+    "options": {
+      "a": "Unidad de Estados Financieros y Operaciones SEBC.",
+      "b": "Oficina de Evaluación y Planificación Estratégica.",
+      "c": "Unidad de Cooperación Internacional.",
+      "d": "Unidad de Relaciones Laborales."
+    },
+    "correctAnswer": "c",
+    "explanation": "Al final de la sección, se menciona: 'Queremos trasmitir un agradecimiento especial a la Unidad de Cooperación Internacional, cuya ayuda fue fundamental en la exitosa organización de esta importante iniciativa.'\n\n\nEjemplo: La planificación logística y el éxito de la agenda de la delegación tunecina fueron posibles gracias al meticuloso trabajo de la Unidad de Cooperación Internacional del Banco de España, que coordinó todos los aspectos de la visita.",
+    "id": "q_1233e064d2",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿En qué periodo específico se llevó a cabo la visita del Banco Central de Túnez al Banco de España, según la información proporcionada?",
+    "options": {
+      "a": "Del 9 al 11 de abril de 2023",
+      "b": "Del 9 al 11 de mayo de 2023",
+      "c": "Del 10 al 12 de mayo de 2023",
+      "d": "Del 8 al 10 de junio de 2023"
+    },
+    "correctAnswer": "b",
+    "explanation": "La visita del Banco Central de Túnez se realizó del 9 al 11 de mayo de 2023, tal como se especifica en el texto.\n\n\nEjemplo: Un planificador de eventos consultaría esta fecha para determinar el momento exacto en que se realizaron las jornadas intensivas de colaboración, asegurando la precisión en los registros históricos o en la elaboración de informes futuros.",
+    "id": "q_8bbe14f536",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué significan las siglas IReF en el contexto de la integración de la información estadística en el Sistema Europeo de Bancos Centrales?",
+    "options": {
+      "a": "Interfaz de Reportes Financieros",
+      "b": "Integración de la Información Estadística en el Sistema Europeo de Bancos Centrales",
+      "c": "Iniciativa de Regulación Económica Financiera",
+      "d": "Infraestructura de Recursos Estadísticos Fundamentales"
+    },
+    "correctAnswer": "b",
+    "explanation": "Las siglas IReF corresponden a la \"integración de la información estadística en el Sistema Europeo de Bancos Centrales\", según se aclara explícitamente en el texto.\n\n\nEjemplo: Un nuevo analista de datos en el Banco de España que se incorpora al equipo encargado de la recopilación y estandarización de estadísticas bancarias, utilizaría esta definición para comprender el marco bajo el cual opera su trabajo y la terminología específica del proyecto.",
+    "id": "q_c94d60f1b2",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál es el cargo que ostenta Malgorzata Lange en el Banco Central de Chile, según el texto?",
+    "options": {
+      "a": "Directora de Análisis Internacional",
+      "b": "Jefa de la Unidad de Relaciones Internacionales",
+      "c": "Subgobernadora de Cooperación Externa",
+      "d": "Presidenta del Comité de Estrategia Global"
+    },
+    "correctAnswer": "b",
+    "explanation": "Malgorzata Lange es identificada en el texto como \"Jefa de la Unidad de Relaciones Internacionales del Banco Central de Chile\".\n\n\nEjemplo: Si un periodista desea citar la opinión de la Sra. Lange sobre la cooperación internacional, debe referirse a su título exacto para asegurar la veracidad y el rigor en la atribución de la fuente.",
+    "id": "q_551e20cbfc",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál es el número y el año de la \"REVISTA DE COOPERACIÓN INTERNACIONAL\" que se menciona en la página 19 del fragmento?",
+    "options": {
+      "a": "Número 4 · Año 2023",
+      "b": "Número 5 · Año 2024",
+      "c": "Número 5 · Año 2023",
+      "d": "Número 6 · Año 2024"
+    },
+    "correctAnswer": "b",
+    "explanation": "El encabezado de la página 19 indica claramente \"REVISTA DE COOPERACIÓN INTERNACIONAL · Número 5 · Año 2024\".\n\n\nEjemplo: Un investigador que busca citar este artículo en una publicación académica debe incluir el número y el año correctos de la revista para permitir que otros localicen la fuente de manera precisa y verifiquen la información.",
+    "id": "q_cf39be9713",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué cargos ostenta Margarita Delgado Tejero al momento de la publicación del balance sobre la cooperación internacional?",
+    "options": {
+      "a": "Gobernadora del Banco de España y Miembro del Comité de Inversiones",
+      "b": "Subgobernadora del Banco de España y Vocal del Comité de Relaciones Exteriores",
+      "c": "Subgobernadora del Banco de España y Presidenta del Comité de Cooperación Internacional",
+      "d": "Directora General de Asuntos Internacionales y Presidenta del Comité Estratégico"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto identifica a Margarita Delgado Tejero como \"Subgobernadora del Banco de España y presidenta del Comité de Cooperación Internacional\".\n\n\nEjemplo: Un nuevo miembro del personal del Banco de España que necesite contactar a la autoridad competente en materia de cooperación internacional se referirá a esta descripción de cargos para identificar a la persona y la función adecuadas.",
+    "id": "q_ee424b53ea",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "Según el balance presentado por la Subgobernadora, ¿durante cuántos años se ha impulsado y desarrollado la actividad de cooperación internacional de forma significativa?",
+    "options": {
+      "a": "Cuatro años",
+      "b": "Cinco años",
+      "c": "Seis años",
+      "d": "Siete años"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto indica que se ha dado impulso y desarrollo a la actividad de cooperación internacional en los \"seis últimos años\".\n\n\nEjemplo: Al evaluar la trayectoria y el progreso de las iniciativas de cooperación internacional del Banco de España, un comité de auditoría utilizaría este dato para contextualizar el periodo de mayor actividad y los resultados obtenidos.",
+    "id": "q_b05fa00fe0",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos Memoranda de Colaboración se han negociado y firmado desde el año 2019 hasta la fecha de publicación, según el informe de la Subgobernadora?",
+    "options": {
+      "a": "Nueve",
+      "b": "Diez",
+      "c": "Once",
+      "d": "Doce"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto establece que \"desde 2019 hasta la fecha, se han negociado y firmado un total de once Memoranda de Colaboración\".\n\n\nEjemplo: El departamento jurídico del Banco de España mantendría un registro de estos once Memoranda, asegurando su correcta archivación y seguimiento de los compromisos adquiridos en cada uno de ellos.",
+    "id": "q_552f4d1550",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "De los Memoranda de Colaboración firmados desde 2019, ¿cuántos corresponden específicamente a acuerdos suscritos con bancos centrales e instituciones financieras de Latinoamérica?",
+    "options": {
+      "a": "Siete",
+      "b": "Ocho",
+      "c": "Nueve",
+      "d": "Diez"
+    },
+    "correctAnswer": "c",
+    "explanation": "El fragmento especifica que de los Memoranda firmados, se destacan \"especialmente, los nueve acuerdos de cooperación suscritos con bancos centrales y con instituciones financieras de Latinoamérica\".\n\n\nEjemplo: Un responsable de las relaciones institucionales con América Latina en el Banco de España utilizaría esta cifra para cuantificar la intensidad de la colaboración en la región y planificar futuras alianzas estratégicas.",
+    "id": "q_d6468b289b",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuántos bancos centrales del SEBC participan, junto con el Banco Central Europeo (BCE), en los dos proyectos de fortalecimiento institucional para los Balcanes Occidentales?",
+    "options": {
+      "a": "15 bancos centrales",
+      "b": "18 bancos centrales",
+      "c": "20 bancos centrales",
+      "d": "22 bancos centrales"
+    },
+    "correctAnswer": "c",
+    "explanation": "El texto detalla que los proyectos de fortalecimiento institucional para los Balcanes Occidentales involucran a \"un total de 20 bancos centrales del SEBC junto con el Banco Central Europeo (BCE)\".\n\n\nEjemplo: Un coordinador de proyectos de asistencia técnica para los Balcanes Occidentales en el SEBC utilizaría este dato para la gestión de recursos y la asignación de responsabilidades entre las instituciones participantes.",
+    "id": "q_adc70cb1af",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "En el reciente proyecto piloto para África, ¿cuántos bancos centrales del SEBC, además del Banco Central Europeo (BCE), facilitarán asistencia técnica?",
+    "options": {
+      "a": "Seis",
+      "b": "Siete",
+      "c": "Ocho",
+      "d": "Nueve"
+    },
+    "correctAnswer": "c",
+    "explanation": "El documento establece que el proyecto piloto para África contará con la participación de \"ocho bancos centrales del SEBC, junto con el BCE\".\n\n\nEjemplo: Un planificador de la estrategia de la UE en África consultaría este número para conocer la magnitud de la implicación del SEBC en la asistencia técnica y para coordinar esfuerzos con otras iniciativas.",
+    "id": "q_855f9db861",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "De las siguientes instituciones, ¿cuál NO figura explícitamente en la lista de entidades de Latinoamérica con las que el Banco de España ha firmado Memoranda de Colaboración desde 2019?",
+    "options": {
+      "a": "Banco de Desarrollo de América Latina y el Caribe (CAF)",
+      "b": "Banco Central de Chile",
+      "c": "Fondo Latinoamericano de Reservas (FLAR)",
+      "d": "Banco Central de Argentina"
+    },
+    "correctAnswer": "b",
+    "explanation": "El texto menciona explícitamente el CAF, FLAR, SECMCA, y los bancos centrales de Colombia, Argentina, Uruguay, Ecuador, Bolivia y Paraguay. El Banco Central de Chile es mencionado en la entrevista a Malgorzata Lange en un contexto de \"intercambio y diálogo\", pero no como una de las instituciones con las que se firmó un Memorandum de Colaboración en el marco de los \"nueve acuerdos de cooperación suscritos\" mencionados por la Subgobernadora.\n\n\nEjemplo: Un abogado especializado en derecho internacional bancario que revisa los acuerdos formales del Banco de España con la región latinoamericana, verificaría esta lista para confirmar qué entidades tienen un Memorandum de Colaboración oficialmente suscrito, distinguiéndolas de aquellas con las que existe un diálogo o intercambio continuo.",
+    "id": "q_0861bf15e0",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál es la dirección de correo electrónico habilitada para comentarios y sugerencias sobre la \"Revista de COOPERACIÓN INTERNACIONAL\"?",
+    "options": {
+      "a": "colaboracion.internacional@bde.es",
+      "b": "revistas.cooperacion@bde.es",
+      "c": "cooperacion.internacional@bde.es",
+      "d": "contacto.internacional@bde.es"
+    },
+    "correctAnswer": "c",
+    "explanation": "La sección \"Comentarios y sugerencias\" en la página 22 indica claramente la dirección de correo electrónico \"cooperacion.internacional@bde.es\".\n\n\nEjemplo: Un lector que desee enviar una propuesta de mejora o una consulta sobre el contenido de la revista utilizaría esta dirección para asegurar que su comunicación llegue al departamento correcto dentro del Banco de España.",
+    "id": "q_27476e228c",
+    "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Cuál es la dirección postal del Banco de España que se indica como dirección de la \"Revista de COOPERACIÓN INTERNACIONAL\"?",
+    "options": {
+      "a": "Calle de la Moneda, 24 - 28014 Madrid",
+      "b": "Calle de Alcalá, 48 - 28014 Madrid",
+      "c": "Plaza de Cibeles, 1 - 28014 Madrid",
+      "d": "Paseo del Prado, 30 - 28014 Madrid"
+    },
+    "correctAnswer": "b",
+    "explanation": "La sección \"Dirección\" en la página 22 especifica \"Calle de Alcalá, 48 - 28014 Madrid\" como la dirección del Banco de España para la revista.\n\n\nEjemplo: Una editorial que necesite enviar correspondencia física o paquetería relacionada con la publicación de la revista debe usar esta dirección exacta para asegurar una entrega correcta.",
+    "id": "q_97c79f172b",
+    "source": "cooperacion_internacional_5_final.md"
   }
 ]
