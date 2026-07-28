@@ -21084,5 +21084,317 @@
     "explanation": "La sección \"Dirección\" en la página 22 especifica \"Calle de Alcalá, 48 - 28014 Madrid\" como la dirección del Banco de España para la revista.\n\n\nEjemplo: Una editorial que necesite enviar correspondencia física o paquetería relacionada con la publicación de la revista debe usar esta dirección exacta para asegurar una entrega correcta.",
     "id": "q_97c79f172b",
     "source": "cooperacion_internacional_5_final.md"
+  },
+  {
+    "question": "¿Qué modelo organizativo de supervisión financiera se aplica en España en relación con la distribución de competencias entre organismos?",
+    "options": {
+      "a": "Modelo de supervisión única concentrada exclusivamente en el Banco de España.",
+      "b": "Modelo sectorial (banca, mercado de valores y seguros) complementado con el Mecanismo Único de Supervisión (MUS) a nivel europeo.",
+      "c": "Modelo de supervisión por objetivos o 'Twin Peaks' de dos autoridades independientes.",
+      "d": "Modelo de supervisión descentralizado por Comunidades Autónomas."
+    },
+    "correctAnswer": "b",
+    "explanation": "En España rige un modelo de supervisión sectorial (Banco de España para entidades de crédito, CNMV para mercados de valores y DGSFP para seguros/fondos de pensiones), conviviendo desde 2014 con el Mecanismo Único de Supervisión (MUS) del BCE para la supervisión bancaria europea.\n\n\nEjemplo: Si una entidad financiera opera en crédito y banca, queda bajo el perímetro del Banco de España/MUS; si emite fondos de inversión o valores negociables, la supervisión de esa actividad concreta recae sobre la CNMV.",
+    "source": "El modelo de supervisión en España - Banco de España.md",
+    "id": "q_e76d2b31e2"
+  },
+  {
+    "question": "¿Qué autoridad es la encargada de la supervisión de los mercados de valores y los servicios de inversión en España?",
+    "options": {
+      "a": "El Banco de España.",
+      "b": "La Dirección General de Seguros y Fondos de Pensiones (DGSFP).",
+      "c": "La Comisión Nacional del Mercado de Valores (CNMV).",
+      "d": "El Ministerio de Economía, Comercio y Empresa directamente."
+    },
+    "correctAnswer": "c",
+    "explanation": "La CNMV es la autoridad pública responsable de supervisar e inspeccionar los mercados de valores españoles y la actividad de cuantas personas físicas y jurídicas intervienen en el tráfico de los mismos.\n\n\nEjemplo: Una Sociedad de Valores que gestiona carteras de clientes en la Bolsa de Madrid está regulada y supervisada de forma continua por la CNMV.",
+    "source": "El modelo de supervisión en España - Banco de España.md",
+    "id": "q_0a954ad7f6"
+  },
+  {
+    "question": "¿Qué función ejerce la Dirección General de Seguros y Fondos de Pensiones (DGSFP) dentro del esquema de supervisión sectorial español?",
+    "options": {
+      "a": "La supervisión macroprudencial de las entidades bancarias sistémicas.",
+      "b": "La supervisión de las entidades aseguradoras, reaseguradoras y fondos de pensiones.",
+      "c": "El control operativo de los sistemas de pagos y liquidación de valores.",
+      "d": "La gestión directa de las coberturas del Fondo de Garantía de Depósitos (FGD)."
+    },
+    "correctAnswer": "b",
+    "explanation": "La DGSFP, dependiente del Ministerio de Economía, es el órgano encargado de la supervisión y control del sector asegurador y de los fondos de pensiones en el modelo sectorial español.\n\n\nEjemplo: Cuando una aseguradora lanza un nuevo plan de pensiones individual, los requisitos de solvencia y transparencia de ese fondo son inspeccionados por la DGSFP.",
+    "source": "El modelo de supervisión en España - Banco de España.md",
+    "id": "q_ce4a139925"
+  },
+  {
+    "question": "En el marco del Mecanismo Único de Supervisión (MUS), ¿quién asume la supervisión directa de las entidades de crédito españolas clasificadas como significativas?",
+    "options": {
+      "a": "El Banco de España en exclusiva.",
+      "b": "El Banco Central Europeo (BCE).",
+      "c": "La Comisión Nacional del Mercado de Valores (CNMV).",
+      "d": "La Autoridad Bancaria Europea (EBA)."
+    },
+    "correctAnswer": "b",
+    "explanation": "Dentro del MUS (primer pilar de la Unión Bancaria), el Banco Central Europeo (BCE) supervisa directamente a las entidades significativas de los países participantes, mientras que el Banco de España supervisa a las menos significativas en coordinación con el BCE.\n\n\nEjemplo: Banco Santander o BBVA son supervisados directamente por el BCE a través de Equipos Conjuntos de Supervisión (JST), mientras que una caja de ahorros de pequeño tamaño es supervisada por el Banco de España bajo el marco del MUS.",
+    "source": "El modelo de supervisión en España - Banco de España.md",
+    "id": "q_c1a0674207"
+  },
+  {
+    "question": "¿Cuál es una de las razones fundamentales que justifican la existencia de la supervisión pública del sistema bancario?",
+    "options": {
+      "a": "Garantizar la rentabilidad mínima anual a los accionistas bancarios.",
+      "b": "Proteger a los depositantes y preservar la estabilidad e integridad del sistema financiero para prevenir crisis sistémicas.",
+      "c": "Fijar por ley los tipos de interés de los préstamos hipotecarios de todas las entidades de crédito.",
+      "d": "Eliminar completamente el riesgo comercial y operativo en la actividad bancaria."
+    },
+    "correctAnswer": "b",
+    "explanation": "La supervisión bancaria se justifica por la necesidad de proteger a los depositantes e inversores, garantizar la confianza del público y mitigar el riesgo sistémico (efecto contagio) derivado de la asimetría de información y el apalancamiento de las entidades crediticias.\n\n\nEjemplo: Si un banco experimenta dificultades operativas, la supervisión preventiva evita que los clientes retiren masivamente sus depósitos ('pánico bancario') y contagien al resto del sistema financiero.",
+    "source": "Razones para la existencia de la supervisión bancaria - Banco de España.md",
+    "id": "q_c85e10923d"
+  },
+  {
+    "question": "¿Qué competencia se define como la función de 'prestamista en última instancia' asignada a las autoridades monetarias dentro del esquema de supervisión bancaria?",
+    "options": {
+      "a": "La capacidad de rescatar fondos de pensiones privados con pérdidas de capital.",
+      "b": "La facultad del banco central de proporcionar liquidez de emergencia con carácter transitorio a entidades sólidas con problemas puntuales de liquidez.",
+      "c": "La compra directa de participaciones accionariales de bancos en quiebra.",
+      "d": "La concesión de créditos subvencionados a clientes particulares insolventes."
+    },
+    "correctAnswer": "b",
+    "explanation": "La función de prestamista en última instancia (ELA) permite al banco central proveer liquidez temporal a entidades financieramente solventes pero que afrontan tensiones excepcionales de liquidez, protegiendo así la estabilidad del sistema.\n\n\nEjemplo: En una situación puntual de tensión en los mercados interbancarios, un banco solvente pero con falta de efectivo temporal acude a la ventanilla de liquidez de emergencia del Banco de España/BCE aportando colateral adecuado.",
+    "source": "Razones para la existencia de la supervisión bancaria - Banco de España.md",
+    "id": "q_b2352a29bb"
+  },
+  {
+    "question": "¿A quién beneficia principalmente la existencia de un marco legal de garantía de depositantes de las entidades de crédito?",
+    "options": {
+      "a": "Exclusivamente a los administradores y directivos del banco.",
+      "b": "A los depositantes e inversores, al reforzar la confianza y garantizar sus fondos hasta el límite legal en caso de insolvencia de la entidad.",
+      "c": "A los auditores externos encargados de certificar el balance del banco.",
+      "d": "A los competidores extranjeros de las entidades nacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El marco legal del Fondo de Garantía de Depósitos beneficia a los depositantes proporcionando una cobertura de reembolso (hasta 100.000 € por depositante y entidad) y promoviendo la estabilidad global y eficiencia del sistema financiero.\n\n\nEjemplo: Ante la intervención o quiebra de una entidad de crédito, un particular que tenía 45.000 € ahorrados en una cuenta corriente recupera su dinero íntegramente gracias al Fondo de Garantía de Depósitos.",
+    "source": "Razones para la existencia de la supervisión bancaria - Banco de España.md",
+    "id": "q_1e58a56c5a"
+  },
+  {
+    "question": "¿Cómo se denomina el proceso encadenado mediante el cual las decisiones del banco central afectan a la economía general y finalmente al nivel general de precios?",
+    "options": {
+      "a": "Proceso de apalancamiento cuantitativo.",
+      "b": "Mecanismo de transmisión de la política monetaria.",
+      "c": "Canal de arbitraje financiero internacional.",
+      "d": "Ciclo de liquidación de activos reales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El mecanismo de transmisión de la política monetaria abarca la secuencia de canales e impulsos a través de los cuales las modificaciones en los tipos oficiales y herramientas del banco central acaban influyendo en la oferta, demanda y precios.\n\n\nEjemplo: Cuando el BCE sube los tipos oficiales 50 puntos básicos, este impulso se traslada al Euribor a corto plazo, encareciendo los nuevos créditos e hipotecas a tipo variable, lo que frena el consumo y estabiliza los precios a medio plazo.",
+    "source": "¿Cómo actúa la política monetaria_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_61f94d358a"
+  },
+  {
+    "question": "En el mecanismo de transmisión de la política monetaria, ¿con qué frecuencia el Consejo de Gobierno del Banco Central Europeo (BCE) celebra reuniones ordinarias de política monetaria para fijar los tipos de interés oficiales?",
+    "options": {
+      "a": "Cada semana.",
+      "b": "Cada seis semanas.",
+      "c": "Una vez al trimestre.",
+      "d": "Una vez al año."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Consejo de Gobierno del BCE mantiene reuniones de política monetaria fijadas con una periodicidad aproximada de cada seis semanas para determinar el nivel de los tipos oficiales e instrumentos complementarios.\n\n\nEjemplo: Tras evaluar los datos macroeconómicos más recientes en su reunión ordinaria de cada seis semanas en Fráncfort, el Consejo de Gobierno del BCE decide si mantiene o modifica los tipos oficiales.",
+    "source": "¿Cómo actúa la política monetaria_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_103c0b9ebe"
+  },
+  {
+    "question": "¿En qué consiste la herramienta de política monetaria conocida como 'forward guidance'?",
+    "options": {
+      "a": "La compra directa e incondicional de acciones en bolsa por parte del banco central.",
+      "b": "La orientación pública que proporciona el banco central sobre la trayectoria futura esperada de sus tipos oficiales de interés.",
+      "c": "La fijación de techos máximos a las comisiones bancarias de las hipotecas.",
+      "d": "La liquidación forzosa de reservas excedentarias de las entidades comerciales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El 'forward guidance' u orientación prospectiva es una herramienta de comunicación mediante la cual el banco central orienta a los mercados financieros sobre las expectativas futuras sobre la evolución de sus tipos de interés y política monetaria.\n\n\nEjemplo: El banco central comunica que prevé mantener los tipos de interés en sus niveles actuales durante un período prolongado hasta que la inflación converja al 2%, orientando así las expectativas a largo plazo del mercado interbancario.",
+    "source": "¿Cómo actúa la política monetaria_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_b7d1e3d180"
+  },
+  {
+    "question": "¿Cómo influye una variación en los tipos de interés oficiales del banco central sobre los préstamos hipotecarios referenciados a tipo variable (como el Euribor a 12 meses)?",
+    "options": {
+      "a": "No tiene ningún efecto ya que los tipos hipotecarios los fija directamente el Gobierno.",
+      "b": "Se traslada de forma directa e intensa a los tipos de interés interbancarios a corto plazo (como el Euribor), afectando al coste de revisión de dichas hipotecas.",
+      "c": "Provoca automáticamente una prórroga en el plazo de amortización sin alterar la cuota.",
+      "d": "Afecta exclusivamente a los bonos corporativos a más de 10 años."
+    },
+    "correctAnswer": "b",
+    "explanation": "Los tipos oficiales influyen inmediatamente en los tipos interbancarios de corto plazo (como Euribor 12M). Al revisarse la cuota de un préstamo a tipo variable indexado al Euribor, la variación se refleja en el coste periódico del servicio de la deuda del cliente.\n\n\nEjemplo: Si el Euribor a 12 meses sube del 1% al 3,5% tras las subidas de tipos oficiales, la cuota mensual de una hipoteca variable de 150.000 € se incrementará proporcionalmente al aplicarse el nuevo tipo en la revisión anual.",
+    "source": "¿Cómo actúa la política monetaria_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_16731cf5b5"
+  },
+  {
+    "question": "¿A través de qué canal de transmisión influyen los tipos de interés oficiales sobre el valor del euro frente a otras divisas extranjeras?",
+    "options": {
+      "a": "Canal del crédito hipotecario minorista.",
+      "b": "Canal del tipo de cambio impulsado por los flujos internacionales de capital.",
+      "c": "Canal del balance de depósitos garantizados.",
+      "d": "Canal de la masa salarial del sector público."
+    },
+    "correctAnswer": "b",
+    "explanation": "Los diferenciales de tipos de interés atraen o expulsan flujos internacionales de capital hacia activos denominados en euros. Un aumento de tipos tiende a apreciar la moneda (haciendo más baratas las importaciones), afectando a la demanda externa y a la inflación final.\n\n\nEjemplo: Si el BCE sube tipos mientras que la Reserva Federal de EE.UU. los mantiene, los inversores globales demandan más euros para comprar renta fija europea, apreciando el euro frente al dólar y abaratando las importaciones de petróleo.",
+    "source": "¿Cómo actúa la política monetaria_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_bf17f0cc1e"
+  },
+  {
+    "question": "¿Qué fenómeno económico se ha observado en los últimos años respecto a la pendiente de la curva de Phillips?",
+    "options": {
+      "a": "Un aumento extraordinario de la pendiente que acentúa la sensibilidad de la inflación al desempleo.",
+      "b": "Un aplanamiento de la curva de Phillips, lo que indica un menor impacto del desempleo o de la brecha de producción (output gap) sobre la inflación.",
+      "c": "La desaparición completa de la inflación sin importar el ritmo de emisión monetaria.",
+      "d": "Una inversión permanente que hace que a mayor desempleo exista siempre mayor inflación."
+    },
+    "correctAnswer": "b",
+    "explanation": "En las últimas décadas se ha observado un aplanamiento de la curva de Phillips. Esto implica que las variaciones en la holgura económica (desempleo u output gap) generan impactos más moderados sobre las presiones inflacionistas que en épocas pasadas.\n\n\nEjemplo: Durante la recuperación económica tras una recesión, la reducción de la tasa de desempleo genera incrementos salariales e inflacionistas sensiblemente más moderados de los que predecía la curva de Phillips histórica.",
+    "source": "¿Cómo se relaciona la curva de Phillips con la política monetaria_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_1414cd54fe"
+  },
+  {
+    "question": "¿Qué instrumento directo utilizan la mayoría de los bancos centrales modernos (incluido el BCE) como principal herramienta para conducir la política monetaria e influir en la inflación?",
+    "options": {
+      "a": "La fijación directa de los salarios mínimos de las empresas privadas.",
+      "b": "La fijación de los tipos de interés oficiales, dejando que la cantidad de dinero sea determinada por el mercado.",
+      "c": "El control estricto y racionamiento del agregado monetario M1.",
+      "d": "La regulación de los precios máximos de los alimentos de consumo directo."
+    },
+    "correctAnswer": "b",
+    "explanation": "Desde la década de 1990, los bancos centrales abandonaron el control cuantitativo de agregados monetarios y adoptaron esquemas de objetivos de inflación basados en la modificación de los tipos de interés oficiales.\n\n\nEjemplo: Para moderar la inflación, el BCE eleva el tipo de la facilidad de depósito del 2,5% al 3%, lo que encarece el crédito bancario y ralentiza el ritmo de demanda en la economía.",
+    "source": "¿Cómo se relaciona la curva de Phillips con la política monetaria_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_ca021269fe"
+  },
+  {
+    "question": "¿Qué estrategia de política monetaria prevalecía en la mayoría de los bancos centrales antes de la década de 1990?",
+    "options": {
+      "a": "El objetivo explícito de inflación guiado exclusivamente por tipos de interés a largo plazo.",
+      "b": "El control directo de los agregados monetarios (fijando las cantidades de dinero en circulación).",
+      "c": "La fijación de tipos de cambio fijos respaldados al 100% por reservas de oro físico en poder del banco central.",
+      "d": "La regulación directa del saldo crediticio de las tarjetas de plástico."
+    },
+    "correctAnswer": "b",
+    "explanation": "Antes de la década de 1990, los bancos centrales procuraban controlar la economía fijando la cantidad de dinero (agregados monetarios) en circulación. Posteriormente se demostró que el esquema de objetivos de inflación apoyado en tipos de interés resulta sustancialmente más eficaz.\n\n\nEjemplo: En los años 70 y 80, un banco central fijaba una meta anual de crecimiento de la masa monetaria M3 del 5%, permitiendo que las fuerzas del mercado ajustaran el tipo de interés resultante según la demanda de liquidez.",
+    "source": "¿La política monetaria se condujo siempre de la misma manera_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_3c96e54bd5"
+  },
+  {
+    "question": "¿Por qué motivo los bancos centrales pasaron del control de agregados monetarios a los esquemas de objetivos de inflación basados en tipos de interés?",
+    "options": {
+      "a": "Porque el control de agregados monetarios impedía la impresión física de billetes.",
+      "b": "Porque los esquemas de objetivos de inflación basados en la fijación de tipos de interés resultaron más exitosos y estables para mantener la estabilidad de precios a medio plazo.",
+      "c": "Debido a una prohibición expresa contenida en los estatutos fundacionales del Fondo Monetario Internacional.",
+      "d": "Para evitar que los mercados comerciales determinen el volumen de crédito bancario."
+    },
+    "correctAnswer": "b",
+    "explanation": "La inestabilidad en la demanda de dinero hizo ineficaz el control estricto de los agregados. Los esquemas de metas de inflación con ajuste de tipos oficiales demostraron una mayor precisión para anclar expectativas y estabilizar precios.\n\n\nEjemplo: Al fijar el BCE el tipo de interés del dinero al 2%, las entidades bancarias solicitan exactamente la liquidez que necesitan en el mercado, manteniendo la estabilidad de precios sin rigideces cuantitativas artificiales.",
+    "source": "¿La política monetaria se condujo siempre de la misma manera_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_b96aa99658"
+  },
+  {
+    "question": "¿Qué relación económica básica representa la curva de Phillips original formulada por A.W. Phillips en 1958?",
+    "options": {
+      "a": "Una relación positiva entre la tasa de desempleo y la oferta de liquidez bancaria.",
+      "b": "Una relación inversa o negativa entre la tasa de desempleo y el ritmo de incremento de los salarios (o de la inflación).",
+      "c": "Una equivalencia directa entre el volumen de deuda pública y el tipo de interés de demora.",
+      "d": "La correlación entre la masa monetaria M3 y el saldo de la balanza por cuenta corriente."
+    },
+    "correctAnswer": "b",
+    "explanation": "A.W. Phillips (1958) identificó una relación empírica negativa entre el desempleo y el crecimiento salarial en el Reino Unido: a menor desempleo, mayor crecimiento salarial e inflación, y viceversa.\n\n\nEjemplo: En una economía en plena expansión con una tasa de desempleo muy baja (por debajo del 4%), las empresas deben ofrecer mayores salarios para atraer empleados, impulsando al alza la inflación de costes.",
+    "source": "¿Qué es la curva de Phillips_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_e060fdcf92"
+  },
+  {
+    "question": "En la representación gráfica convencional de la curva de Phillips, ¿qué variables se sitúan en los ejes de abscisas (horizontal) y de ordenadas (vertical) respectivamente?",
+    "options": {
+      "a": "En abscisas la tasa de inflación y en ordenadas la tasa de desempleo.",
+      "b": "En abscisas la tasa de desempleo y en ordenadas la tasa de inflación.",
+      "c": "En abscisas el tipo de interés oficial y en ordenadas la masa monetaria M2.",
+      "d": "En abscisas el déficit público y en ordenadas el crecimiento del PIB real."
+    },
+    "correctAnswer": "b",
+    "explanation": "Por convención, el eje de abscisas (horizontal) mide la tasa de desempleo (u output gap) y el eje de ordenadas (vertical) representa la tasa de inflación (o variación del nivel salarial).\n\n\nEjemplo: En un gráfico de la curva de Phillips, desplazar la posición hacia la derecha a lo largo del eje horizontal refleja un aumento del desempleo, lo que se traduce en un nivel más bajo en el eje vertical (menor inflación).",
+    "source": "¿Qué es la curva de Phillips_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_7b7defd165"
+  },
+  {
+    "question": "¿Qué importante aportación realizó Milton Friedman a la teoría de la curva de Phillips?",
+    "options": {
+      "a": "Demostró que la curva de Phillips es completamente horizontal a corto plazo.",
+      "b": "Señala que la curva no es constante a lo largo del tiempo, ya que las expectativas de inflación de los agentes económicos modifican la relación observada.",
+      "c": "Negó la existencia de cualquier relación entre la oferta de dinero y los precios.",
+      "d": "Introdujo el concepto de tipo de interés negativo para operaciones de crédito."
+    },
+    "correctAnswer": "b",
+    "explanation": "Milton Friedman introdujo el papel determinante de las expectativas de inflación: si los trabajadores y empresas anticipan mayor inflación futura, la curva de Phillips se desplaza hacia arriba, haciendo ineficaz intentar reducir el desempleo mediante inflación a largo plazo.\n\n\nEjemplo: Si los sindicatos esperan una inflación del 4% el próximo año, exigirán aumentos salariales de al menos el 4% incluso aunque el desempleo sea elevado, desplazando la curva de Phillips hacia niveles de mayor inflación para el mismo desempleo.",
+    "source": "¿Qué es la curva de Phillips_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_26b806cfbc"
+  },
+  {
+    "question": "¿Cómo se determina o cuantifica la curva de Phillips existente en una economía en un momento determinado?",
+    "options": {
+      "a": "Se observa directamente a través del Boletín Oficial del Estado en una tabla oficial.",
+      "b": "No se puede observar directamente, sino que debe inferirse mediante modelos econométricos aplicados a los datos agregados.",
+      "c": "Corresponde exactamente a la suma de los tipos de interés de las operaciones de crédito hipotecario.",
+      "d": "Se fija por decreto del Ministerio de Trabajo en función de los convenios colectivos firmados."
+    },
+    "correctAnswer": "b",
+    "explanation": "La curva de Phillips no es una variable estadística observable en directo, sino un concepto abstracto que los economistas estiman e infieren mediante técnicas y modelos econométricos a partir de series históricas de precios y empleo.\n\n\nEjemplo: El departamento de análisis del Banco de España utiliza modelos de regresión y series temporales trimestrales de IPC y tasa de paro para estimar la pendiente y posición actual de la curva de Phillips en España.",
+    "source": "¿Qué es la curva de Phillips_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_c6ee08396e"
+  },
+  {
+    "question": "¿Cómo se define la deflación en el ámbito macroeconómico?",
+    "options": {
+      "a": "Una desaceleración puntual en la tasa de crecimiento del PIB sin variación en los precios.",
+      "b": "Una caída generalizada y continuada en el tiempo del nivel general de precios en la economía.",
+      "c": "Un aumento extraordinario de la tasa de inflación por encima del 10% anual.",
+      "d": "El ajuste a la baja de las tarifas impositivas del impuesto sobre la renta."
+    },
+    "correctAnswer": "b",
+    "explanation": "La deflación se define como un fenómeno de inflación negativa, caracterizado por el descenso continuado y general de los precios de bienes y servicios en el conjunto de la economía.\n\n\nEjemplo: Si el índice de precios al consumo (IPC) registra variaciones interanuales negativas (como -0.5%, -1.2%, -0.8%) durante varios trimestres consecutivos, la economía se encuentra en un proceso de deflación.",
+    "source": "¿Qué es la deflación y por qué es importante evitarla_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_9850bda5ea"
+  },
+  {
+    "question": "¿Por qué la deflación puede desencadenar una espiral o círculo vicioso perjudicial para la actividad económica y el empleo?",
+    "options": {
+      "a": "Porque provoca un aumento inmediato e incontrolable del gasto público de los ayuntamientos.",
+      "b": "Porque los consumidores e inversores posponen sus compras esperando precios aún más bajos, lo que reduce las ventas, beneficios, salarios y empleo.",
+      "c": "Porque obliga a los bancos centrales a subir los tipos de interés oficiales al nivel máximo histórico.",
+      "d": "Porque anula el valor nominal de los billetes de papel en circulación."
+    },
+    "correctAnswer": "b",
+    "explanation": "La expectativa de precios decrecientes hace que los hogares pospongan decisiones de consumo e inversión. Al caer la demanda, las empresas bajan precios, recortan márgenes, reducen salarios y despiden trabajadores, retroalimentando la caída de precios y actividad.\n\n\nEjemplo: Si un comprador planea adquirir una vivienda o vehículo pero sabe que cada mes baja un 1% su precio, aplazará la compra. El concesionario, ante la falta de clientes, baja precios y recorta plantilla, reduciendo la renta y consumo global.",
+    "source": "¿Qué es la deflación y por qué es importante evitarla_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_6dbd434d06"
+  },
+  {
+    "question": "¿Cómo afecta la deflación a los agentes económicos (familias y empresas) endeudados?",
+    "options": {
+      "a": "Les beneficia al reducir automáticamente la deuda nominal pendiente de pago en la misma proporción.",
+      "b": "Incrementa la carga real de sus deudas, al aumentar el valor de la deuda en términos del poder adquisitivo o cesta de consumo.",
+      "c": "Cancela de oficio los préstamos hipotecarios contraídos con entidades bancarias públicas.",
+      "d": "No produce ningún efecto sobre el saldo nominal ni sobre la capacidad de pago."
+    },
+    "correctAnswer": "b",
+    "explanation": "En un entorno deflacionista, mientras las rentas y salarios disminuyen o se estancan, el importe nominal de las deudas permanece fijo. Por tanto, la carga real de la deuda aumenta, dificultando el servicio de préstamos y elevando el riesgo de morosidad y quiebra.\n\n\nEjemplo: Un trabajador con una hipoteca de 1.000 € mensuales sufre una rebaja salarial por la deflación. La cuota hipotecaria sigue siendo de 1.000 €, exigiendo un porcentaje mayor de su salario neto disponible.",
+    "source": "¿Qué es la deflación y por qué es importante evitarla_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_56ca6cc362"
+  },
+  {
+    "question": "¿Qué objetivo numérico de inflación a medio plazo persigue el Banco Central Europeo (BCE) para mantener la estabilidad de precios y ofrecer un margen de seguridad frente al riesgo de deflación?",
+    "options": {
+      "a": "Exactamente 0% para impedir cualquier subida de precios.",
+      "b": "Una tasa de inflación del 2% a medio plazo.",
+      "c": "Una tasa de inflación variable del 5% al 8% anual.",
+      "d": "Un tipo de interés fijo del 1,5% para la facilidad marginal de crédito."
+    },
+    "correctAnswer": "b",
+    "explanation": "El BCE tiene como objetivo principal de política monetaria mantener una tasa de inflación del 2% a medio plazo. Este objetivo proporciona un margen de protección adecuado frente a los riesgos de deflación y distorsiones operativas.\n\n\nEjemplo: Anclar las expectativas de inflación en el 2% garantiza que pequeños shocks negativos en la demanda no empujen al IPC a terreno negativo (deflación), manteniendo la fluidez del crédito y del crecimiento sostenible.",
+    "source": "¿Qué es la deflación y por qué es importante evitarla_ - Política monetaria y estabilidad de precios - Preguntas frecuentes - Banco de España.md",
+    "id": "q_176c75d084"
   }
 ]
