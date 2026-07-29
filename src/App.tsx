@@ -17,7 +17,12 @@ import {
   Check,
   ThumbsDown,
   Filter,
-  Trash2
+  Trash2,
+  Download,
+  Upload,
+  Share2,
+  Eye,
+  Sparkles
 } from "lucide-react";
 import rawQuestions from "./data/questions.json";
 
@@ -47,7 +52,7 @@ interface TestHistoryEntry {
   questions: Question[];
   userAnswers: { [qId: string]: string };
   passed: boolean;
-  type: "random" | "mistakes" | "all" | "study";
+  type: "random" | "mistakes" | "all" | "study" | "unseen";
 }
 
 interface QuestionStats {
@@ -76,6 +81,8 @@ export default function App() {
   const [flaggedIds, setFlaggedIds] = useState<string[]>([]);
   const [showSourcePanel, setShowSourcePanel] = useState(false);
   const [showFlaggedPanel, setShowFlaggedPanel] = useState(false);
+  const [showSyncPanel, setShowSyncPanel] = useState(false);
+  const [syncCodeInput, setSyncCodeInput] = useState("");
 
   // Derived active question pool
   const baseQuestions = (rawQuestions as Question[]).filter(
@@ -103,7 +110,7 @@ export default function App() {
   const [markedForLater, setMarkedForLater] = useState<{ [qId: string]: boolean }>({});
   const [timeLeft, setTimeLeft] = useState(5400); // 1h 30m in seconds
   const [isTestActive, setIsTestActive] = useState(false);
-  const [testType, setTestType] = useState<"random" | "mistakes" | "all" | "study">("random");
+  const [testType, setTestType] = useState<"random" | "mistakes" | "all" | "study" | "unseen">("random");
   
   // History and Stats states
   const [history, setHistory] = useState<TestHistoryEntry[]>([]);
@@ -226,8 +233,76 @@ export default function App() {
     }, 2000);
   };
 
+  // Coverage and Unseen Questions Calculation
+  const seenQuestionsCount = dbQuestions.filter((q) => (questionStats[q.id]?.attempts || 0) > 0).length;
+  const unseenQuestionsList = dbQuestions.filter((q) => !(questionStats[q.id]?.attempts > 0));
+  const unseenCount = unseenQuestionsList.length;
+  const coveragePercent = dbQuestions.length > 0 ? Math.round((seenQuestionsCount / dbQuestions.length) * 100) : 0;
+
+  // Export User Progress Backup
+  const exportUserData = () => {
+    const backupObj = {
+      version: "1.0",
+      timestamp: new Date().toISOString(),
+      history,
+      questionStats,
+      disabledSources,
+      flaggedIds,
+      theme
+    };
+    const jsonStr = JSON.stringify(backupObj, null, 2);
+    const blob = new Blob([jsonStr], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `opotest_bde_backup_${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+    triggerToast("Copia de seguridad descargada 📥");
+  };
+
+  // Import User Progress Backup
+  const importUserData = (str: string) => {
+    try {
+      const parsed = JSON.parse(str);
+      if (parsed.history && Array.isArray(parsed.history)) {
+        setHistory(parsed.history);
+        localStorage.setItem("bde_test_history", JSON.stringify(parsed.history));
+      }
+      if (parsed.questionStats && typeof parsed.questionStats === "object") {
+        setQuestionStats(parsed.questionStats);
+        localStorage.setItem("bde_question_stats", JSON.stringify(parsed.questionStats));
+      }
+      if (parsed.disabledSources && Array.isArray(parsed.disabledSources)) {
+        setDisabledSources(parsed.disabledSources);
+        localStorage.setItem("bde_disabled_sources", JSON.stringify(parsed.disabledSources));
+      }
+      if (parsed.flaggedIds && Array.isArray(parsed.flaggedIds)) {
+        setFlaggedIds(parsed.flaggedIds);
+        localStorage.setItem("bde_flagged_ids", JSON.stringify(parsed.flaggedIds));
+      }
+      triggerToast("¡Copia de seguridad restaurada al 100%! 🎉");
+      return true;
+    } catch (e) {
+      triggerToast("Error: Formato de copia de seguridad no válido");
+      return false;
+    }
+  };
+
+  // Handle Backup File Upload
+  const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (event) => {
+      const content = event.target?.result as string;
+      if (content) importUserData(content);
+    };
+    reader.readAsText(file);
+  };
+
   // Start Test
-  const startNewTest = (type: "random" | "mistakes" | "all" | "study") => {
+  const startNewTest = (type: "random" | "mistakes" | "all" | "study" | "unseen") => {
     if (dbQuestions.length === 0) return;
 
     let selectedQuestions: Question[] = [];
@@ -235,6 +310,14 @@ export default function App() {
     if (type === "random") {
       // Shuffle and pick 50
       const shuffled = [...dbQuestions].sort(() => 0.5 - Math.random());
+      selectedQuestions = shuffled.slice(0, Math.min(50, shuffled.length));
+    } else if (type === "unseen") {
+      // Pick up to 50 unseen questions
+      if (unseenQuestionsList.length === 0) {
+        triggerToast("¡Felicidades! Ya has realizado el 100% de las preguntas al menos una vez.");
+        return;
+      }
+      const shuffled = [...unseenQuestionsList].sort(() => 0.5 - Math.random());
       selectedQuestions = shuffled.slice(0, Math.min(50, shuffled.length));
     } else if (type === "all" || type === "study") {
       // All questions sequential (sorted by ID or source for clean order)
@@ -413,7 +496,7 @@ export default function App() {
       correct,
       incorrect,
       blank,
-      passed: score >= 6.5
+      passed: score >= 7.0
     };
   };
 
@@ -612,8 +695,22 @@ export default function App() {
               </div>
 
               <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "0.75rem" }}>
-                <button onClick={() => startNewTest("random")} className="action-btn action-btn-primary" style={{ gridColumn: "span 2" }}>
-                  <BookOpen size={18} /> Iniciar Test Rápido (50 preg.)
+                <button
+                  onClick={() => startNewTest("unseen")}
+                  className="action-btn action-btn-primary"
+                  style={{
+                    gridColumn: "span 2",
+                    background: "linear-gradient(135deg, #eab308 0%, #ca8a04 100%)",
+                    color: "#000",
+                    fontWeight: 700
+                  }}
+                  disabled={unseenCount === 0}
+                >
+                  <Sparkles size={18} /> Test Preguntas Pendientes ({unseenCount} sin ver)
+                </button>
+
+                <button onClick={() => startNewTest("random")} className="action-btn action-btn-secondary" style={{ gridColumn: "span 2" }}>
+                  <BookOpen size={18} /> Iniciar Test Rápido (50 preg. aleatorias)
                 </button>
                 
                 <button onClick={() => startNewTest("all")} className="action-btn action-btn-secondary">
@@ -634,6 +731,116 @@ export default function App() {
                 </button>
               </div>
           </div>
+
+            {/* ── Cobertura del Temario Card ─────────────────────────────── */}
+            <div className="card" style={{ marginBottom: "1rem" }}>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "0.6rem" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: "0.6rem" }}>
+                  <Eye size={18} style={{ color: "var(--color-gold)" }} />
+                  <strong>Cobertura del Temario</strong>
+                </div>
+                <span className="badge badge-success" style={{ fontSize: "0.75rem", padding: "0.2rem 0.55rem" }}>
+                  {coveragePercent}% completado
+                </span>
+              </div>
+
+              <div className="progress-bar-container" style={{ height: "10px", marginBottom: "0.75rem" }}>
+                <div
+                  className="progress-bar-fill"
+                  style={{
+                    width: `${coveragePercent}%`,
+                    backgroundColor: "var(--color-gold)",
+                    borderRadius: "4px"
+                  }}
+                ></div>
+              </div>
+
+              <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.8rem", color: "var(--text-secondary)" }}>
+                <span>Preguntas vistas al menos una vez: <strong style={{ color: "var(--text-primary)" }}>{seenQuestionsCount}</strong></span>
+                <span>Pendientes: <strong style={{ color: "var(--color-gold)" }}>{unseenCount}</strong></span>
+              </div>
+            </div>
+
+            {/* ── Copia de Seguridad y Sincronización ─────────────────────── */}
+            <div className="card" style={{ marginBottom: "1rem", borderColor: "rgba(234,179,8,0.3)" }}>
+              <div
+                onClick={() => setShowSyncPanel((p) => !p)}
+                style={{ display: "flex", justifyContent: "space-between", alignItems: "center", cursor: "pointer" }}
+              >
+                <div style={{ display: "flex", alignItems: "center", gap: "0.6rem" }}>
+                  <Share2 size={16} style={{ color: "var(--color-gold)" }} />
+                  <strong>Copia de Seguridad y Sincronización</strong>
+                </div>
+                {showSyncPanel ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+              </div>
+
+              {showSyncPanel && (
+                <div style={{ marginTop: "1rem", display: "flex", flexDirection: "column", gap: "0.85rem" }}>
+                  <p style={{ fontSize: "0.8rem", color: "var(--text-secondary)", margin: 0 }}>
+                    Exporta todo tu progreso (preguntas descartadas, historial, nota media y estadísticas) para usarlo en otro dispositivo o guardarlo sin perder nada.
+                  </p>
+
+                  <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "0.75rem" }}>
+                    <button
+                      onClick={exportUserData}
+                      className="action-btn action-btn-secondary"
+                      style={{ fontSize: "0.8rem", padding: "0.6rem 0.8rem" }}
+                    >
+                      <Download size={15} /> Descargar Backup (JSON)
+                    </button>
+
+                    <label
+                      className="action-btn action-btn-secondary"
+                      style={{ fontSize: "0.8rem", padding: "0.6rem 0.8rem", cursor: "pointer", textAlign: "center" }}
+                    >
+                      <Upload size={15} /> Restaurar Backup
+                      <input
+                        type="file"
+                        accept=".json"
+                        onChange={handleFileUpload}
+                        style={{ display: "none" }}
+                      />
+                    </label>
+                  </div>
+
+                  <div style={{ borderTop: "1px dashed var(--border-color)", paddingTop: "0.75rem" }}>
+                    <label style={{ fontSize: "0.75rem", color: "var(--text-secondary)", display: "block", marginBottom: "0.35rem" }}>
+                      O pega aquí el código/JSON de copia de seguridad:
+                    </label>
+                    <div style={{ display: "flex", gap: "0.5rem" }}>
+                      <input
+                        type="text"
+                        placeholder="Pega el contenido del backup aquí..."
+                        value={syncCodeInput}
+                        onChange={(e) => setSyncCodeInput(e.target.value)}
+                        style={{
+                          flex: 1,
+                          padding: "0.45rem 0.6rem",
+                          fontSize: "0.78rem",
+                          borderRadius: "var(--border-radius-sm)",
+                          border: "1px solid var(--border-color)",
+                          backgroundColor: "var(--bg-secondary)",
+                          color: "var(--text-primary)"
+                        }}
+                      />
+                      <button
+                        onClick={() => {
+                          if (syncCodeInput.trim()) {
+                            if (importUserData(syncCodeInput.trim())) {
+                              setSyncCodeInput("");
+                            }
+                          }
+                        }}
+                        className="action-btn action-btn-primary"
+                        style={{ width: "auto", padding: "0.45rem 0.9rem", fontSize: "0.78rem" }}
+                      >
+                        Restaurar
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              )}
+            </div>
 
           {/* ── Opción 1: Gestor de Fuentes ──────────────────────────────── */}
           <div className="card" style={{ marginBottom: "1rem" }}>
@@ -807,6 +1014,8 @@ export default function App() {
                           ? "Test Rápido"
                           : entry.type === "all"
                           ? "Test Completo"
+                          : entry.type === "unseen"
+                          ? "Test Pendientes"
                           : "Repaso de Fallos"} • {formatTime(entry.timeSpent)}
                       </div>
                     </div>
@@ -1083,7 +1292,7 @@ export default function App() {
                 <span className="result-score-max">/10</span>
               </div>
               <div className={`result-verdict ${selectedHistoryEntry.passed ? "verdict-passed" : "verdict-failed"}`}>
-                {selectedHistoryEntry.passed ? "¡Enhorabuena, has superado la nota de corte!" : "No has alcanzado la nota de corte (6.5)"}
+                {selectedHistoryEntry.passed ? "¡Enhorabuena, has superado la nota de corte (7.0)!" : "No has alcanzado la nota de corte (7.0)"}
               </div>
 
               <div className="detailed-stats-grid">
