@@ -22826,5 +22826,226 @@
     "correctAnswer": "a",
     "explanation": "Según la normativa oficial del Banco de España y el temario de la prueba de conocimientos básicos, la respuesta correcta es la opción (A): 'En torno al 20%.'. Esta opción recoge con exactitud la norma, función u organización aplicable a la cuestión planteada.\n\n\nEjemplo: En la práctica y según la estructura organizativa del Banco de España y el Sistema Europeo de Bancos Centrales (SEBC), esta regulación garantiza el cumplimiento estricto del marco normativo en las oposiciones oficiales.",
     "source": "Examen Oficial BdE 2025 - Convocatoria Ordinaria.md"
+  },
+  {
+    "question": "¿En qué consiste el Proceso de Revisión y Evaluación Supervisora (SREP, por sus siglas en inglés) que aplica el Banco de España y el BCE?",
+    "options": {
+      "a": "Es un procedimiento sancionador automático para entidades con pérdidas en el ejercicio económico.",
+      "b": "Es una evaluación continuada y recurrente del perfil de riesgo de la entidad, su modelo de negocio, gobernanza interna y adecuación de capital y liquidez.",
+      "c": "Es una auditoría contable anual realizada por empresas privadas independientes para fijar el impuesto sobre sociedades.",
+      "d": "Es la inspección in situ de los sistemas informáticos de la sucursal central exclusivamente."
+    },
+    "correctAnswer": "b",
+    "explanation": "El SREP (Supervisory Review and Evaluation Process) es un pilar fundamental de la supervisión continuada continuada a distancia. Evalúa cuatro elementos clave: el modelo de negocio, la gobernanza y controles internos, los riesgos para el capital y los riesgos para la liquidez y financiación, determinando los requerimientos adicionales de capital (Pilar 2).\n\n\nEjemplo: Tras el ejercicio SREP, si el equipo supervisor detecta deficiencias en la gestión del riesgo crediticio de un banco, le exige mantener una ratio de capital P2R (Pillar 2 Requirement) adicional del 1.25% sobre el capital mínimo legal.",
+    "source": "funcion supervisora.md",
+    "id": "q_722e419c1c"
+  },
+  {
+    "question": "Dentro de la metodología del SREP, ¿cuál de las siguientes directrices de la Autoridad Bancaria Europea (EBA) sirve de marco de referencia para las Autoridades Nacionales Competentes?",
+    "options": {
+      "a": "Directrices EBA/GL/2022/03 sobre procedimientos y metodologías comunes para el SREP.",
+      "b": "Directiva MIFID II sobre transparencia de mercados de renta variable.",
+      "c": "Reglamento de Solvencia II para entidades aseguradoras y reaseguradoras.",
+      "d": "Directrices Basilea I sobre ponderaciones de activos ponderados por riesgo exclusivamente de deuda pública."
+    },
+    "correctAnswer": "a",
+    "explanation": "El SREP se desarrolla de conformidad con las Directrices comunes fijadas por la EBA (EBA/GL/2022/03), garantizando que las autoridades competentes del Espacio Económico Europeo apliquen criterios homogéneos y comparables al evaluar la solvencia y liquidez de las entidades.\n\n\nEjemplo: Tanto si el Banco de España evalúa una entidad menos significativa (LSI) como si el BCE supervisa un grupo bancario internacional, las metodologías del SREP se alinean con las directrices armonizadas EBA/GL/2022/03.",
+    "source": "funcion supervisora.md",
+    "id": "q_1057369afd"
+  },
+  {
+    "question": "En el marco del Mecanismo Único de Supervisión (MUS), ¿qué órgano dentro del Banco Central Europeo es responsable de la planificación y ejecución de las tareas supervisoras?",
+    "options": {
+      "a": "El Comité Ejecutivo del BCE en exclusiva sin consulta a las Autoridades Nacionales.",
+      "b": "El Consejo de Supervisión (Supervisory Board), integrado por la presidencia, vicepresidencia, cuatro representantes del BCE y representantes de las ANC de los países participantes.",
+      "c": "La Junta Única de Resolución (JUR).",
+      "d": "El Consejo General de Gobernadores del Banco de Pagos Internacionales (BPI)."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Consejo de Supervisión del BCE elabora y propone las decisiones supervisoras en el marco del MUS. Está compuesto por un presidente, un vicepresidente, cuatro representantes del BCE y un representante de la autoridad competente nacional (ANC) de cada país participante (como el Banco de España).\n\n\nEjemplo: Antes de que el Consejo de Gobierno del BCE apruebe de forma definitiva la exigencia de capital P2R para un banco español significativo, la propuesta es debatida y votada en el Consejo de Supervisión.",
+    "source": "funcion supervisora.md",
+    "id": "q_ca9f5e3137"
+  },
+  {
+    "question": "¿Cuál de los siguientes criterios clasifica automáticamente a una entidad de crédito como 'significativa' para quedar bajo la supervisión directa del BCE en el MUS?",
+    "options": {
+      "a": "Tener más de 500 empleados en plantilla.",
+      "b": "Que el valor total de sus activos supere los 30.000 millones de euros o represente más del 20% del PIB del Estado miembro (salvo que los activos sean inferiores a 5.000M€).",
+      "c": "Tener un margen bruto de explotación superior a 100 millones de euros.",
+      "d": "Haber emitido tarjetas de crédito de débito inmediato en al menos 3 provincias."
+    },
+    "correctAnswer": "b",
+    "explanation": "Una entidad es considerada significativa (SI) si cumple cualquiera de los criterios: 1) Activos > 30.000M€; 2) Ratio de activos / PIB nacional > 20% (con activos > 5.000M€); 3) Ser una de las 3 entidades más significativas del país; 4) Solicitar o recibir asistencia financiera pública directa del MEDE/FEEF; 5) Importancia de sus actividades transfronterizas.\n\n\nEjemplo: Un banco español con activos totales de 45.000 millones de euros supera el umbral de 30.000M€, por lo que pasa a ser supervisado directamente por el BCE mediante un Equipo Conjunto de Supervisión (JST).",
+    "source": "funcion supervisora.md",
+    "id": "q_ce0e0335b8"
+  },
+  {
+    "question": "¿Cómo se estructuran los equipos operativos encargados de la supervisión continuada día a día de las entidades significativas (SI) dentro del MUS?",
+    "options": {
+      "a": "Mediante Comités de Auditoría Externa independientes elegidos en junta de accionistas.",
+      "b": "Mediante los Equipos Conjuntos de Supervisión (JST, Joint Supervisory Teams), dirigidos por un coordinador del BCE e integrados por personal del BCE y de las Autoridades Nacionales Competentes.",
+      "c": "Mediante inspecciones sorpresa bianuales ejecutadas por inspectores de la Comisión Europea.",
+      "d": "Mediante una comisión mixta del Congreso de los Diputados y el Senado."
+    },
+    "correctAnswer": "b",
+    "explanation": "La supervisión diaria de cada entidad significativa corre a cargo de un JST (Joint Supervisory Team), liderado por un coordinador del BCE (que no pertenece al país de origen de la entidad) y compuesto por supervisores tanto del BCE como del Banco de España.\n\n\nEjemplo: En la supervisión diaria de Caixabank o Banco Santander, el JST está formado por inspectores del Banco de España y del BCE trabajando conjuntamente en el seguimiento de riesgos, solvencia y gobierno corporativo.",
+    "source": "funcion supervisora.md",
+    "id": "q_d6dc33c74a"
+  },
+  {
+    "question": "¿Qué función supervisora le corresponde al Banco de España en relación con las entidades de crédito clasificadas como 'menos significativas' (LSI)?",
+    "options": {
+      "a": "El Banco de España no tiene ninguna competencia sobre las LSI, que son supervisadas por la CNMV.",
+      "b": "El Banco de España ejerce la supervisión directa de las LSI bajo la supervisión y marco general del BCE.",
+      "c": "Las LSI quedan exentas de cumplir las normas de solvencia y capital de Basilea III.",
+      "d": "El Banco de España solo supervisa a las LSI si cotizan en la Bolsa de Nueva York."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Banco de España supervisa directamente a las entidades menos significativas (LSI, Less Significant Institutions) en España, aplicando la metodología y directrices generales establecidas por el BCE en el marco del MUS.\n\n\nEjemplo: Una caja de ahorros regional de pequeño tamaño con 2.000 millones de euros en activos es supervisada directamente por el departamento de inspección del Banco de España bajo el marco armonizado del MUS.",
+    "source": "funcion supervisora.md",
+    "id": "q_a2d2b7389a"
+  },
+  {
+    "question": "¿En qué se diferencia la supervisión 'in situ' de la supervisión continuada 'a distancia'?",
+    "options": {
+      "a": "La supervisión in situ no analiza datos financieros ni contables.",
+      "b": "La supervisión in situ consiste en inspecciones profundas realizadas en las propias dependencias de la entidad o de sus filiales para verificar áreas o modelos específicos.",
+      "c": "La supervisión continuada a distancia se realiza únicamente una vez cada 10 años.",
+      "d": "La supervisión in situ es ejecutada exclusivamente por auditores fiscales del Ministerio de Hacienda."
+    },
+    "correctAnswer": "b",
+    "explanation": "Las inspecciones in situ son análisis pormenorizados y profundos que se llevan a cabo en la sede y oficinas de las entidades. Permiten verificar la exactitud de la información declarada, la calidad de los activos, la eficacia del control interno y la validez de los modelos internos de riesgo (como en el examen de modelos TRIM/OSI).\n\n\nEjemplo: Un equipo de inspectores del Banco de España se desplaza durante 3 meses a la sede central de un banco para revisar individualmente la cartera de préstamos hipotecarios dudosos y el funcionamiento de sus sistemas de gobernanza.",
+    "source": "funcion supervisora.md",
+    "id": "q_c594cabd42"
+  },
+  {
+    "question": "¿Qué objetivo persiguen las revisiones horizontales o transversales dentro de la supervisión bancaria a distancia?",
+    "options": {
+      "a": "Analizar de manera homogénea y comparativa un área o aspecto prioritario de riesgo en todo o en un grupo representativo de entidades del sistema.",
+      "b": "Imponer multas automáticas a todas las entidades del sector bancario por igual.",
+      "c": "Sustituir a los consejos de administración de los bancos por funcionarios públicos.",
+      "d": "Publicar las contraseñas de acceso a la banca electrónica de los clientes."
+    },
+    "correctAnswer": "a",
+    "explanation": "Las revisiones horizontales (transversales) analizan un riesgo específico (ej. riesgo ciberseguridad, riesgo climático o modelos de valoración de derivados) de forma simultánea e idéntica en múltiples entidades, permitiendo detectar mejores prácticas y desviaciones del estándar del sector.\n\n\nEjemplo: El Banco de España realiza una revisión horizontal sobre el impacto de la subida de tipos de interés en las carteras hipotecarias a tipo variable abarcando a las 15 principales entidades del país.",
+    "source": "funcion supervisora.md",
+    "id": "q_e1a7b81bfa"
+  },
+  {
+    "question": "¿Cuál es la distribución básica de competencias en el modelo sectorial de supervisión financiera en España?",
+    "options": {
+      "a": "El Banco de España supervisa banca, seguros y bolsa de forma unificada.",
+      "b": "Banco de España (entidades de crédito y pago), CNMV (mercados de valores y servicios de inversión) y DGSFP (aseguradoras y fondos de pensiones).",
+      "c": "La CNMV supervisa a los bancos y el Banco de España supervisa las aseguradoras.",
+      "d": "La Agencia Tributaria supervisa todos los mercados financieros nacionales."
+    },
+    "correctAnswer": "b",
+    "explanation": "El modelo español es un sistema de supervisión sectorial tripartito: 1) Banco de España (solvencia y conducta de entidades de crédito, pago y dinero electrónico); 2) CNMV (transparencia y eficiencia de mercados de valores e instituciones de inversión colectiva); 3) DGSFP (solvencia y comportamiento de aseguradoras, reaseguradoras y planes/fondos de pensiones).\n\n\nEjemplo: Si un banco comercial comercializa una hipoteca, la supervisa el Banco de España; si comercializa un fondo de inversión de renta variable, la conducta en el mercado de valores queda sujeta al control de la CNMV.",
+    "source": "El modelo de supervision en  España - Banco de España.md",
+    "id": "q_349a08e79d"
+  },
+  {
+    "question": "¿Qué función desempeña AMCESFI (Autoridad Macroprudencial Consejo de Coordinación Financiera) en el sistema financiero español?",
+    "options": {
+      "a": "La fijación de los sueldos mínimos de los empleados bancarios.",
+      "b": "La identificación, prevención y mitigación del riesgo sistémico para preservar la estabilidad financiera global a nivel macroprudencial.",
+      "c": "La gestión directa de los depósitos en efectivo de las comunidades autónomas.",
+      "d": "La liquidación judicial de empresas no financieras en quiebra."
+    },
+    "correctAnswer": "b",
+    "explanation": "AMCESFI es la autoridad macroprudencial nacional encargada del análisis y seguimiento del riesgo sistémico del sistema financiero en su conjunto, facilitando la coordinación entre el Ministerio de Economía, Banco de España, CNMV y DGSFP para adoptar medidas macroprudenciales (como colchones de capital anticíclico).\n\n\nEjemplo: Ante un crecimiento desmedido del crédito al consumo en España, AMCESFI analiza la situación y emite recomendaciones para activar herramientas macroprudenciales preventivas.",
+    "source": "El modelo de supervision en  España - Banco de España.md",
+    "id": "q_1d21dcffea"
+  },
+  {
+    "question": "¿Cuáles son los dos riesgos intrínsecos fundamentales de la actividad bancaria tradicional derivados del cambio de plazos en la intermediación?",
+    "options": {
+      "a": "El riesgo cambiario y el riesgo de inflación cero.",
+      "b": "El riesgo de insolvencia de los prestatarios y el riesgo de liquidez originado por la transformación de plazos.",
+      "c": "El riesgo de auditoría interna y el riesgo impositivo directo.",
+      "d": "El riesgo de deflación y el riesgo impositivo de actos jurídicos documentados."
+    },
+    "correctAnswer": "b",
+    "explanation": "La intermediación bancaria tradicional capta depósitos a corto plazo (vencimiento a la vista o corto) y concede préstamos a largo plazo. Esto genera dos riesgos críticos: el riesgo de insolvencia (que los prestatarios no devuelvan los créditos) y el riesgo de liquidez (que los depositantes retiren sus fondos antes del vencimiento de los préstamos).\n\n\nEjemplo: Un banco utiliza depósitos a la vista retirables en cualquier momento para financiar hipotecas a 30 años. Si muchos depositantes exigen su dinero a la vez, el banco sufre un grave riesgo de liquidez aun siendo patrimonialmente solvente.",
+    "source": "Razones para la existencia de la supe rvisión bancaria - Banco de España.md",
+    "id": "q_d9716b7657"
+  },
+  {
+    "question": "¿Por qué el apalancamiento financiero propio del negocio bancario exige una supervisión prudencial especialmente estricta?",
+    "options": {
+      "a": "Porque los bancos no utilizan billetes ni monedas de euro en sus operaciones.",
+      "b": "Porque la proporción de fondos propios respecto al total de activos es reducida, por lo que quebrantos moderados en los activos pueden consumir rápidamente el capital y amenazar la solvencia.",
+      "c": "Porque los administradores bancarios son nombrados por ley por el Parlamento Europeo.",
+      "d": "Porque impide el funcionamiento de la bolsa de valores."
+    },
+    "correctAnswer": "b",
+    "explanation": "Debido al elevado apalancamiento (la mayor parte del activo se financia con deuda/depósitos y solo una pequeña fracción con recursos propios), una pérdida relativamente pequeña en la cartera de activos (ej. un 5% de morosidad sin provisionar) puede absorber todo el capital social de la entidad.\n\n\nEjemplo: Si un banco con un 8% de Fondos Propios sufre una pérdida del 9% en sus activos financieros por impagos, la entidad entra en situación de patrimonio neto negativo e insolvencia técnica si no se recapitaliza.",
+    "source": "Razones para la existencia de la supe rvisión bancaria - Banco de España.md",
+    "id": "q_77e9e0937a"
+  },
+  {
+    "question": "¿Qué norma de referencia y compromiso de calidad rige la elaboración y difusión de estadísticas por parte del Banco de España dentro del SEBC?",
+    "options": {
+      "a": "El Código de Buenas Prácticas del Fondo Monetario Internacional exclusivamente.",
+      "b": "El Compromiso público sobre estadísticas europeas del Sistema Europeo de Bancos Centrales (SEBC).",
+      "c": "El Plan General Contable de las PYMES españolas.",
+      "d": "La Ley Reguladora de las Haciendas Locales."
+    },
+    "correctAnswer": "b",
+    "explanation": "La función estadística del Banco de España se rige por el Compromiso público sobre estadísticas europeas del SEBC, que garantiza principios de imparcialidad, independencia objetiva, secreto estadístico, fiabilidad y accesibilidad en las publicaciones económicas.\n\n\nEjemplo: La publicación del Boletín Estadístico mensual del Banco de España se realiza conforme a calendarios preanunciados y criterios metodológicos estrictos del SEBC.",
+    "source": "Estadisticas del Banco de E spaña - Banco de España.md",
+    "id": "q_c8345cc5d6"
+  },
+  {
+    "question": "¿Qué indicador estadístico elaborado por el Banco de España mide la ratio de deuda pública del conjunto de las Administraciones Públicas sobre el producto interior bruto?",
+    "options": {
+      "a": "El indicador Euribor a 3 meses.",
+      "b": "La Deuda PDE (Procedimiento de Deficit Excesivo) de las AAPP en % del PIBpm.",
+      "c": "El tipo sintético de depósitos de sociedades no financieras.",
+      "d": "La ratio de mora del crédito hipotecario al consumo."
+    },
+    "correctAnswer": "b",
+    "explanation": "El Banco de España publica trimestralmente la Deuda de las Administraciones Públicas según el Protocolo sobre el Procedimiento de Déficit Excesivo (PDE), expresada en porcentaje del PIB nominal a precios de mercado (PIBpm), según la metodología del Protocolo del Tratado de Funcionamiento de la Unión Europea.\n\n\nEjemplo: Cuando se publica que la Deuda PDE de las AAPP españolas se sitúa en el 101.6% del PIB, este dato oficial es recopilado por el Banco de España y enviado a Eurostat para la supervisión del marco presupuestario europeo.",
+    "source": "Estadisticas del Banco de E spaña - Banco de España.md",
+    "id": "q_2683eb4794"
+  },
+  {
+    "question": "¿Qué diferencia existe entre la Tasa Anual Equivalente (TAE) y el Tipo Efectivo Definición Restringida (TEDR) en las estadísticas de tipos de interés de las entidades de crédito?",
+    "options": {
+      "a": "La TAE excluye los tipos de interés de las hipotecas y el TEDR los incluye.",
+      "b": "El TEDR equivale a la TAE pero excluyendo las comisiones y los gastos asociados a las operaciones crediticias o de depósito.",
+      "c": "El TEDR solo se aplica a operaciones con el Banco Central Europeo.",
+      "d": "La TAE la fijan los clientes y el TEDR lo impone el Banco de España por decreto."
+    },
+    "correctAnswer": "b",
+    "explanation": "En las estadísticas bancarias armoniadas del SEBC, la TAE incluye el tipo de interés nominal más las comisiones y gastos bancarios asociados. El TEDR (Tipo Efectivo Definición Restringida) mide exclusivamente el componente de tipo de interés estricto, excluyendo comisiones por apertura, estudio o gastos de seguro obligatorios.\n\n\nEjemplo: Un préstamo personal contratado al 6.00% nominal con una comisión de apertura del 1.50% tiene una TAE del 6.80%, pero su TEDR estadístico es del 6.00% ya que descuenta los gastos no financieros.",
+    "source": "tipos.md",
+    "id": "q_c7ac1d83c9"
+  },
+  {
+    "question": "¿Qué es el tipo de interés €STR (Euro Short-Term Rate) publicado por el Banco Central Europeo?",
+    "options": {
+      "a": "El tipo de interés de las hipotecas fijas a 30 años en España.",
+      "b": "El tipo de interés de referencia a corto plazo que refleja el coste del endeudamiento no garantizado de un día (overnight) de los bancos de la eurozona.",
+      "c": "La rentabilidad anual garantizada de los títulos de Deuda del Estado a 10 años.",
+      "d": "El tipo de cambio fijo entre el Euro y el Franco Suizo."
+    },
+    "correctAnswer": "b",
+    "explanation": "El €STR (Euro Short-Term Rate) es el tipo de interés de referencia a un día (overnight) calculado por el BCE sobre la base de las transacciones reales en el mercado monetario no garantizado en euros celebradas por las entidades bancarias.\n\n\nEjemplo: Si un banco de la eurozona toma prestados 50 millones de euros a un día sin colateral de otro banco al 2.185%, esa transacción real computa para el cálculo ponderado del €STR publicado diariamente por el BCE.",
+    "source": "tipos.md",
+    "id": "q_fd9739149f"
+  },
+  {
+    "question": "¿Qué son los 'tipos sintéticos de interés' que publica el Banco de España para hogares y sociedades no financieras (SNF)?",
+    "options": {
+      "a": "Tipos teóricos calculados mediante inteligencia artificial sin basarse en contratos reales.",
+      "b": "Indicadores agregados ponderados que resumen los tipos de interés de las distintas modalidades de préstamos o depósitos en una sola cifra representativa del sector.",
+      "c": "Tipos punitivos aplicados a entidades bancarias intervenidas judicialmente.",
+      "d": "El tipo de interés legal del dinero fijado en los Presupuestos Generales del Estado."
+    },
+    "correctAnswer": "b",
+    "explanation": "Los tipos sintéticos son promedios ponderados por los volúmenes de las distintas modalidades de operaciones (crédito al consumo, hipotecas, préstamos comerciales a corto y largo plazo). Permiten analizar de un solo vistazo el coste medio global del crédito o la rentabilidad global de los depósitos para hogares o empresas.\n\n\nEjemplo: El tipo sintético de préstamos a hogares (ej. 3.91%) combina en una sola cifra ponderada los tipos aplicados en hipotecas nuevas, créditos al consumo y otros préstamos a familias durante el mes de referencia.",
+    "source": "tipos.md",
+    "id": "q_a5843f4f27"
   }
 ]
