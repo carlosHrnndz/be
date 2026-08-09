@@ -23047,5 +23047,330 @@
     "explanation": "Los tipos sintéticos son promedios ponderados por los volúmenes de las distintas modalidades de operaciones (crédito al consumo, hipotecas, préstamos comerciales a corto y largo plazo). Permiten analizar de un solo vistazo el coste medio global del crédito o la rentabilidad global de los depósitos para hogares o empresas.\n\n\nEjemplo: El tipo sintético de préstamos a hogares (ej. 3.91%) combina en una sola cifra ponderada los tipos aplicados en hipotecas nuevas, créditos al consumo y otros préstamos a familias durante el mes de referencia.",
     "source": "tipos.md",
     "id": "q_a5843f4f27"
+  },
+  {
+    "question": "¿Qué denominación recibe el ejercicio anual de prueba de resistencia que realiza el Banco de España para evaluar la solvencia prospectiva de las entidades menos significativas (LSIs)?",
+    "options": {
+      "a": "FLESB (Forward Looking Exercise on Spanish Banks).",
+      "b": "MREL (Minimum Requirement for Eligible Liabilities).",
+      "c": "ASBA (Association of Supervisors of Bank Americas).",
+      "d": "SEPBLAC (Servicio Ejecutivo de Prevención del Blanqueo)."
+    },
+    "correctAnswer": "a",
+    "explanation": "Anualmente, el Banco de España realiza una prueba de resistencia a las entidades menos significativas (LSIs) denominada FLESB (Forward Looking Exercise on Spanish Banks), evaluando su capacidad de resistencia en escenarios macroeconómicos adversos.\n\n\nEjemplo: En el marco del SREP anual, el Banco de España somete a las cajas de ahorros y cooperativas de crédito españolas a la prueba FLESB simulando una caída del PIB y un repunte del desempleo.",
+    "source": "funcion supervisora.md",
+    "id": "q_5e1fa3f2ee"
+  },
+  {
+    "question": "¿Qué diferencia existe entre el Requerimiento de Pilar 2 (P2R) y la Orientación de Pilar 2 (P2G) en el resultado del ejercicio SREP?",
+    "options": {
+      "a": "El P2R es una exigencia legal de capital obligatoria cuyo incumplimiento acarrea sanciones, mientras que la P2G es una recomendación prospectiva de capital no vinculante.",
+      "b": "El P2R lo fija la CNMV y la P2G la fija el Ministerio de Hacienda.",
+      "c": "La P2G obliga a repartir el 100% de los dividendos a los accionistas.",
+      "d": "El P2R se aplica exclusivamente a seguros y la P2G a fondos de pensiones."
+    },
+    "correctAnswer": "a",
+    "explanation": "En el SREP, el P2R (Pillar 2 Requirement) es un requerimiento obligatorio de fondos propios adicionales para cubrir riesgos infravalorados por el Pilar 1. La P2G (Pillar 2 Guidance) es una orientación prospectiva de capital recomendada para absorber pérdidas en escenarios de estrés sin valor sancionador directo.\n\n\nEjemplo: Un banco con un P2R del 1.5% debe mantener imperativamente ese capital mínimo adicional; si su nivel de capital cae por debajo de la P2G (ej. 1.0%), no incurre en infracción legal pero el supervisor exige explicaciones y un plan de actuación.",
+    "source": "funcion supervisora.md",
+    "id": "q_3fa8f784a4"
+  },
+  {
+    "question": "¿Qué directiva europea establece el marco armonizado para la recuperación y resolución de entidades de crédito y empresas de servicios de inversión?",
+    "options": {
+      "a": "Directiva 2014/59/UE (BRRD, Bank Recovery and Resolution Directive).",
+      "b": "Directiva Solvencia II (2009/138/CE).",
+      "c": "Directiva de Servicios de Pago PSD2 (2015/2366/UE).",
+      "d": "Reglamento Marco del FMI de 1944."
+    },
+    "correctAnswer": "a",
+    "explanation": "La Directiva 2014/59/UE (BRRD) introdujo el marco europeo de recuperación y resolución bancaria para garantizar que las entidades inviables puedan ser resueltas minimizando el impacto en los contribuyentes y protegiendo la estabilidad financiera.\n\n\nEjemplo: Ante la inviabilidad inminente de un banco, las autoridades aplican la BRRD mediante la recapitalización interna (bail-in) subordinando y convirtiendo instrumentos de deuda en acciones antes de usar fondos públicos.",
+    "source": "funcion supervisora.md",
+    "id": "q_3fc23785ad"
+  },
+  {
+    "question": "¿En qué consiste el requerimiento MREL exigido a las entidades de crédito dentro del marco de resolución bancaria?",
+    "options": {
+      "a": "Un porcentaje mínimo de depósitos que deben mantenerse en billetes físicos en la caja del banco.",
+      "b": "Un requerimiento mínimo de fondos propios y pasivos admisibles capaces de absorber pérdidas y recapitalizar la entidad en caso de resolución.",
+      "c": "La tasa anual obligatoria que pagan los bancos a la Comisión Nacional del Mercado de Valores.",
+      "d": "El porcentaje máximo de créditos concedidos a administraciones públicas."
+    },
+    "correctAnswer": "b",
+    "explanation": "El requerimiento MREL garantiza que una entidad disponga en todo momento de suficiente volumen de capital y pasivos capaces de ser objeto de absorción de pérdidas (bail-inable liabilities) para recapitalizar la entidad sin recurrir al rescate público.\n\n\nEjemplo: Un grupo bancario emite participaciones preferentes y deuda sénior no preferente computables como MREL para cumplir con la ratio fijada por la Junta Única de Resolución.",
+    "source": "funcion supervisora.md",
+    "id": "q_39c77e488a"
+  },
+  {
+    "question": "¿Qué organismo ostenta las competencias específicas en materia de prevención del blanqueo de capitales e infracciones monetarias en España?",
+    "options": {
+      "a": "La Dirección General de Seguros y Fondos de Pensiones.",
+      "b": "El Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias (SEPBLAC).",
+      "c": "El Comité de Basilea de Supervisión Bancaria.",
+      "d": "La Junta de Cooperación de los Reguladores Financieros."
+    },
+    "correctAnswer": "b",
+    "explanation": "El SEPBLAC es la Unidad de Inteligencia Financiera de España y autoridad supervisora en materia de prevención del blanqueo de capitales y financiación del terrorismo, colaborando con el Banco de España en las inspecciones sectoriales.\n\n\nEjemplo: El SEPBLAC supervisa que los bancos dispongan de procedimientos eficaces de identificación del titular real y diligencia debida en operaciones sospechosas.",
+    "source": "funcion supervisora.md",
+    "id": "q_77bc98f615"
+  },
+  {
+    "question": "¿Qué papel desempeña la Asociación de Supervisores Bancarios de las Américas (ASBA) en el ámbito supervisor internacional?",
+    "options": {
+      "a": "Es un foro multilateral que reúne a supervisores de América del Norte, Central, Sur y Caribe (así como supervisores asociados como el Banco de España) para promover mejores prácticas de supervisión.",
+      "b": "Es el órgano emisor único del dólar estadounidense.",
+      "c": "Es un tribunal internacional que juzga delitos fiscales corporativos.",
+      "d": "Es la bolsa de valores unificada del continente americano."
+    },
+    "correctAnswer": "a",
+    "explanation": "ASBA reúne a autoridades supervisoras del continente americano e iberoamericano (incluyendo al Banco de España como miembro asociado) para promover y difundir prácticas de supervisión bancaria en línea con los estándares internacionales de Basilea.\n\n\nEjemplo: El Banco de España participa activamente en los programas de capacitación y grupos de trabajo técnicos de ASBA para fortalecer la supervisión bancaria en Iberoamérica.",
+    "source": "funcion supervisora.md",
+    "id": "q_4ee2ba7d7e"
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones describe correctamente un límite fundamental del alcance de la supervisión prudencial ejercida por el Banco de España?",
+    "options": {
+      "a": "La supervisión sustituye las decisiones comerciales de los gestores y fija los precios de los productos financieros.",
+      "b": "La supervisión persigue la estabilidad del sistema y la mitigación de crisis, pero no asume la gestión ni garantiza que ninguna entidad individual pueda llegar a ser inviable.",
+      "c": "La supervisión fija las tarifas salariales de los directivos de los bancos privados.",
+      "d": "La supervisión exime a los administradores de su responsabilidad penal y mercantil."
+    },
+    "correctAnswer": "b",
+    "explanation": "La supervisión prudencial supervisa el cumplimiento del marco legal y mitiga riesgos sistémicos, pero no gestiona las entidades ni busca eliminar el riesgo empresarial. La responsabilidad de la marcha de la entidad recae exclusivamente en sus administradores y gestores.\n\n\nEjemplo: Si un banco toma malas decisiones comerciales y sufre pérdidas de gestión dentro del marco legal, el supervisor exige provisiones y capital, pero no co-gestiona el negocio ni garantiza que no pueda quebrar.",
+    "source": "funcion supervisora.md",
+    "id": "q_fb4b96e505"
+  },
+  {
+    "question": "¿Quién es responsable de elaborar y presentar anualmente el Plan de Recuperación de una entidad de crédito?",
+    "options": {
+      "a": "El propio banco o grupo bancario, que debe remitirlo al supervisor para su evaluación.",
+      "b": "La Junta Única de Resolución en exclusiva.",
+      "c": "El Ministerio de Economía, Comercio y Empresa.",
+      "d": "La Comisión Nacional del Mercado de Valores."
+    },
+    "correctAnswer": "a",
+    "explanation": "El Plan de Recuperación es elaborado por la propia entidad de crédito y contempla las medidas que adoptaría para restablecer su posición financiera en caso de deterioro grave de su solvencia o liquidez. El supervisor (BCE/BdE) lo evalúa anualmente.\n\n\nEjemplo: En su Plan de Recuperación, un banco contempla la venta de activos no estratégicos o la suspensión de dividendos si su ratio de capital CET1 cae por debajo del 10.5%.",
+    "source": "funcion supervisora.md",
+    "id": "q_04b5c09abc"
+  },
+  {
+    "question": "¿En qué se diferencia un Plan de Recuperación de un Plan de Resolución?",
+    "options": {
+      "a": "El Plan de Recuperación lo elabora la entidad para evitar su inviabilidad; el Plan de Resolución lo elabora la autoridad de resolución (JUR/FROB) para gestionar una quiebra ordenada si la entidad deviene inviable.",
+      "b": "El Plan de Resolución solo se aplica a empresas textiles y el de recuperación a aseguradoras.",
+      "c": "El Plan de Recuperación se elabora en dólares y el de resolución en francos suizos.",
+      "d": "No existe ninguna diferencia entre ambos instrumentos."
+    },
+    "correctAnswer": "a",
+    "explanation": "El Plan de Recuperación (elaborado por la entidad) busca mantener la viabilidad de la empresa en funcionamiento (*going concern*). El Plan de Resolución (elaborado por la autoridad de resolución) planifica las medidas de intervención e instrumento de resolución si la entidad falla (*gone concern*).\n\n\nEjemplo: Mientras el banco actualiza su plan de recuperación interno, la Junta Única de Resolución (JUR) diseña en paralelo la estrategia de resolución (bail-in o banco puente) aplicable si la entidad quebrase.",
+    "source": "funcion supervisora.md",
+    "id": "q_a2f4b2a00f"
+  },
+  {
+    "question": "¿Qué objetivo persigue la activación del Colchón de Capital Anticíclico por parte de la autoridad macroprudencial (Banco de España / AMCESFI)?",
+    "options": {
+      "a": "Acumular capital adicional durante las fases de expansión crediticia para poder liberarlo en las fases de recesión y absorber pérdidas sin restringir el crédito.",
+      "b": "Subir los impuestos directos a los consumidores en periodos navideños.",
+      "c": "Reducir los depósitos de los clientes en un 50% durante las crisis.",
+      "d": "Fijar un tipo de interés único para todas las tarjetas de crédito."
+    },
+    "correctAnswer": "a",
+    "explanation": "El colchón anticíclico exige a los bancos acumular capital adicional en períodos de crecimiento exuberante del crédito. Durante una recesión, el supervisor libera este colchón para que los bancos absorban pérdidas y sigan concediendo préstamos.\n\n\nEjemplo: Ante un crecimiento del crédito privado del 12% anual, el Banco de España fija el colchón anticíclico en el 0.5% sobre los activos ponderados por riesgo, liberándolo a 0% cuando llega una contracción económica.",
+    "source": "funcion supervisora.md",
+    "id": "q_9c65a28026"
+  },
+  {
+    "question": "¿Qué finalidad tienen las inspecciones in situ de modelos internos de riesgo (revisiones TRIM u OSI)?",
+    "options": {
+      "a": "Verificar la validez, precisión y cumplimiento normativo de los modelos internos homologados que usan las entidades para calcular sus activos ponderados por riesgo (APR).",
+      "b": "Evaluar la velocidad de la conexión a internet en las sucursales bancarias.",
+      "c": "Revisar los contratos de limpieza y mantenimiento de los edificios bancarios.",
+      "d": "Comprobar la tipografía empleada en las campañas publicitarias del banco."
+    },
+    "correctAnswer": "a",
+    "explanation": "Las inspecciones de modelos internos (OSI / Targeted Review of Internal Models - TRIM) evalúan si los algoritmos y modelos cuantitativos (IRB) aprobados a un banco para calcular sus requerimientos de capital respetan la regulación prudencial de Basilea III.\n\n\nEjemplo: Supervisores in situ examinan las bases de datos históricas de probabilidad de impago (PD) y pérdida en caso de impago (LGD) empleadas por un banco para validar la asignación del capital regulatorio.",
+    "source": "funcion supervisora.md",
+    "id": "q_cb79cae858"
+  },
+  {
+    "question": "¿Cómo se aplica el principio de proporcionalidad en el ejercicio de la supervisión prudencial del Banco de España?",
+    "options": {
+      "a": "Modulando la intensidad, frecuencia y detalle de las actuaciones supervisoras en función del tamaño, complejidad sistémica, modelo de negocio y perfil de riesgo de cada entidad.",
+      "b": "Supervisando exactamente con las mismas exigencias diarias a una caja rural pequeña que a un banco global sistémico.",
+      "c": "Eximiendo de toda supervisión a las entidades que tengan más de 100 años de antigüedad.",
+      "d": "Racionando el número de preguntas que los clientes pueden hacer en ventanilla."
+    },
+    "correctAnswer": "a",
+    "explanation": "El principio de proporcionalidad exige que la supervisión adapte los requerimientos y la frecuencia de control a la escala y complejidad de la entidad, evitando cargas burocráticas desproporcionadas en entidades pequeñas (LSIs) sin relajar la seguridad prudencial.\n\n\nEjemplo: Una cooperativa de crédito local con operaciones sencillas presenta informes de autoevaluación de capital (ICAAP) simplificados en comparación con un banco sistémico global.",
+    "source": "funcion supervisora.md",
+    "id": "q_dcbefc56a1"
+  },
+  {
+    "question": "¿Qué cubre el Pilar 1 frente al Pilar 2 en el marco regulatorio prudencial de Basilea III / CRD IV?",
+    "options": {
+      "a": "El Pilar 1 cubre los requerimientos mínimos regulatorios estandarizados (riesgo de crédito, mercado y operativo); el Pilar 2 cubre riesgos adicionales específicos o infravalorados identificados en el SREP.",
+      "b": "El Pilar 1 se refiere a la liquidez y el Pilar 2 a los impuestos del banco.",
+      "c": "El Pilar 1 lo fijan las provincias y el Pilar 2 el Ayuntamiento de Madrid.",
+      "d": "El Pilar 1 es obligatorio solo para aseguradoras."
+    },
+    "correctAnswer": "a",
+    "explanation": "El Pilar 1 establece la exigencia mínima legal del 8% de capital sobre los activos ponderados por riesgo. El Pilar 2 (SREP) permite al supervisor exigir capital adicional (P2R) para cubrir riesgos no capturados adecuadamente por el Pilar 1 (como riesgo de tipo de interés en la cartera de inversión o riesgo de concentración).\n\n\nEjemplo: Si un banco tiene una alta concentración de créditos en un único sector económico, el supervisor le exige un recargo de Pilar 2 (P2R) adicional al 8% genérico del Pilar 1.",
+    "source": "funcion supervisora.md",
+    "id": "q_6c08b5986e"
+  },
+  {
+    "question": "¿Qué estructura de control interno exige la supervisión bancaria prudencial a las entidades crediticias?",
+    "options": {
+      "a": "Un esquema de tres líneas de defensa: 1ª línea (unidades de negocio), 2ª línea (gestión de riesgos y cumplimiento normativo) y 3ª línea (auditoría interna independiente).",
+      "b": "Un único departamento que asuma las ventas y la auditoría sin separación de funciones.",
+      "c": "Un control delegado externamente a las asociaciones de consumidores.",
+      "d": "La aprobación de cada crédito comercial por votación popular de los vecinos."
+    },
+    "correctAnswer": "a",
+    "explanation": "El modelo de las tres líneas de defensa garantiza la independencia del control: las unidades operativas asumen el riesgo (1ª línea), la función de riesgos y cumplimiento supervisa y establece límites (2ª línea), y la auditoría interna evalúa objetivamente el sistema de control (3ª línea).\n\n\nEjemplo: Cuando un gestor comercial otorga un préstamo, la unidad de riesgos (2ª línea) verifica los límites de crédito, y la auditoría interna (3ª línea) comprueba posteriormente la solidez del proceso.",
+    "source": "funcion supervisora.md",
+    "id": "q_e6ace25a82"
+  },
+  {
+    "question": "¿Qué significan las siglas ICAAP e ILAAP dentro del proceso de autoevaluación supervisora que deben realizar las entidades?",
+    "options": {
+      "a": "ICAAP (Proceso de Autoevaluación del Capital Interno) e ILAAP (Proceso de Autoevaluación de la Liquidez Interna).",
+      "b": "Impuesto sobre Capital Anual e Impuesto sobre Liquidez Anual Aplicado.",
+      "c": "Informe Cambiario de Activos e Informe de Liquidez de Acciones Preferentes.",
+      "d": "Índice Consolidado de Ahorro e Índice de Liquidez Bancaria."
+    },
+    "correctAnswer": "a",
+    "explanation": "El ICAAP (Internal Capital Adequacy Assessment Process) y el ILAAP (Internal Liquidity Adequacy Assessment Process) son las autoevaluaciones documentadas que las entidades envían anualmente al supervisor demostrando que poseen capital y liquidez suficientes para sus riesgos estratégicos.\n\n\nEjemplo: El consejo de administración del banco aprueba el documento ICAAP/ILAAP y lo remite al Banco de España/BCE como insumo clave para la evaluación SREP.",
+    "source": "funcion supervisora.md",
+    "id": "q_2a13a2e80d"
+  },
+  {
+    "question": "¿Quién tiene la potestad de incoar y resolver expedientes sancionadores por infracciones muy graves o graves de la normativa de ordenación y disciplina bancaria en España?",
+    "options": {
+      "a": "El Banco de España y el Banco Central Europeo (según el reparto de competencias en el MUS y la gravedad de la infracción).",
+      "b": "Los juzgados de paz de cada municipio.",
+      "c": "La Comisión de Valores y Bolsa de Nueva York.",
+      "d": "Las agencias privadas de calificación de riesgo."
+    },
+    "correctAnswer": "a",
+    "explanation": "El régimen sancionador bancario faculta al BCE (para entidades significativas e infracciones de normativa europea directa) y al Banco de España (conforme a la Ley 10/2014 de ordenación, supervisión y solvencia) para sancionar a entidades y directivos por incumplimientos regulatorios.\n\n\nEjemplo: Ante una infracción grave en la remisión de información regulada, el Banco de España incoa expediente sancionador pudiendo imponer multas económicas a la entidad y sus consejeros.",
+    "source": "funcion supervisora.md",
+    "id": "q_151cbe3fec"
+  },
+  {
+    "question": "¿A cuánto asciende el Colchón de Conservación de Capital (Capital Conservation Buffer) fijado con carácter general por la normativa macroprudencial?",
+    "options": {
+      "a": "El 2.5% de los activos ponderados por riesgo, compuesto por capital de nivel 1 ordinario (CET1).",
+      "b": "El 15% del total del pasivo exigible.",
+      "c": "El 0.1% de los beneficios netos de la entidad.",
+      "d": "Un importe fijo de 100 millones de euros."
+    },
+    "correctAnswer": "a",
+    "explanation": "El colchón de conservación de capital (CCoB) es un requerimiento obligatorio del 2.5% de capital CET1 sobre los activos ponderados por riesgo (APR), situado por encima del requisito mínimo legal del 4.5% del Pilar 1.\n\n\nEjemplo: Si un banco no mantiene el colchón de conservación del 2.5%, el supervisor restringe automáticamente el reparto discrecional de dividendos y bonus mediante el importe máximo distribuible (MDA).",
+    "source": "funcion supervisora.md",
+    "id": "q_0e4968b9a4"
+  },
+  {
+    "question": "Además de las entidades de crédito, ¿qué otros tipos de entidades financieras supervisa el Banco de España en materia prudencial y de conducta?",
+    "options": {
+      "a": "Las Entidades de Pago y las Entidades de Dinero Electrónico (EDE).",
+      "b": "Las empresas aseguradoras de automóviles exclusivamente.",
+      "c": "Las tiendas de comercio minorista de electrodomésticos.",
+      "d": "Las agencias de viajes internacionales."
+    },
+    "correctAnswer": "a",
+    "explanation": "El perímetro de supervisión del Banco de España abarca entidades de crédito, establecimientos financieros de crédito (EFC), entidades de pago (EP), entidades de dinero electrónico (EDE) y sociedades de garantía recíproca.\n\n\nEjemplo: Una plataforma fintech que emite tarjetas prepago de dinero electrónico debe obtener autorización e inscripción en el registro oficial del Banco de España y someterse a su supervisión.",
+    "source": "El modelo de supervision en  España - Banco de España.md",
+    "id": "q_ff6eb3cf65"
+  },
+  {
+    "question": "¿Qué se entiende por 'riesgo sistémico' en la supervisión del sistema financiero?",
+    "options": {
+      "a": "El riesgo de que una avería informática en un ordenador personal borre un archivo de texto.",
+      "b": "El riesgo de que una perturbación o quiebra en una entidad u órgano financiero desencadene un colapso en cadena o inestabilidad grave en el conjunto del sistema económico.",
+      "c": "El riesgo de que los tipos de cambio de las monedas extranjeras se mantengan estables durante varios años.",
+      "d": "El coste de imprimir catálogos publicitarios impresos."
+    },
+    "correctAnswer": "b",
+    "explanation": "El riesgo sistémico representa la posibilidad de que el fallo de una institución interconectada o un shock exógeno provoque un efecto dominó (contagio) que paralice los servicios de pago y crédito del sistema financiero global.\n\n\nEjemplo: La quiebra no regulada de un gran banco interconectado podría congelar el mercado interbancario; la supervisión prudencial y macroprudencial actúa para evitar esa falla sistémica.",
+    "source": "Razones para la existencia de la supe rvisión bancaria - Banco de España.md",
+    "id": "q_aba981f24c"
+  },
+  {
+    "question": "¿Cuál es la cobertura máxima garantizada por el Fondo de Garantía de Depósitos de Entidades de Crédito en España por depositante y entidad?",
+    "options": {
+      "a": "Hasta 100.000 euros por depositante y entidad de crédito.",
+      "b": "Hasta 10.000 euros por familia independientemente del número de bancos.",
+      "c": "Cobertura ilimitada del 100% de cualquier saldo bancario.",
+      "d": "Hasta 500.000 euros exclusivamente para clientes corporativos."
+    },
+    "correctAnswer": "a",
+    "explanation": "Conforme a la normativa europea y española, el Fondo de Garantía de Depósitos (FGD) garantiza el reembolso de los depósitos en dinero hasta un límite máximo de 100.000 € por titular y por entidad de crédito en caso de insolvencia de la entidad.\n\n\nEjemplo: Si un cliente posee dos cuentas corrientes de 60.000 € y 50.000 € (total 110.000 €) en un mismo banco que es declarado en quiebra, el FGD le reembolsará hasta el tope de 100.000 €.",
+    "source": "Razones para la existencia de la supe rvisión bancaria - Banco de España.md",
+    "id": "q_aae3cfb160"
+  },
+  {
+    "question": "¿Qué publicación periódica del Banco de España constituye la principal fuente de series históricas de datos monetarios, bancarios y financieros de la economía española?",
+    "options": {
+      "a": "El Boletín Estadístico del Banco de España.",
+      "b": "La Memoria de Reclamaciones de la DGSFP.",
+      "c": "El Diario Oficial de la Unión Europea.",
+      "d": "El Registro Mercantil Central."
+    },
+    "correctAnswer": "a",
+    "explanation": "El Boletín Estadístico es la publicación periódica oficial donde el Banco de España difunde los cuadros estadísticos de balance, créditos, depósitos, tipos de interés y agregados financieros del sector público y privado.\n\n\nEjemplo: Analistas e investigadores consultan mensualmente las series históricas del Boletín Estadístico para analizar la evolución del crédito hipotecario y los tipos de interés en España.",
+    "source": "Estadisticas del Banco de E spaña - Banco de España.md",
+    "id": "q_2c9edc5e80"
+  },
+  {
+    "question": "¿Cómo se define el índice Euribor (Euro Interbank Offered Rate) en las estadísticas del Banco de España y el SEBC?",
+    "options": {
+      "a": "El tipo de interés de referencia al que las entidades bancarias europeas prestan fondos no garantizados entre sí en el mercado interbancario a plazos determinados (1M, 3M, 6M, 12M).",
+      "b": "El precio medio del barril de petróleo expresado en euros.",
+      "c": "El tipo de interés que paga el Tesoro Público por las Letras del Estado a 3 meses.",
+      "d": "El beneficio neto medio de las empresas cotizadas en el IBEX 35."
+    },
+    "correctAnswer": "a",
+    "explanation": "El Euribor es la tasa de referencia interbancaria calculada a partir de las cotizaciones proporcionadas por un panel de bancos de la eurozona para préstamos interbancarios a distintos plazos de vencimiento.\n\n\nEjemplo: El Euribor a 12 meses (ej. 2.855%) se toma como tipo de referencia estándar para la revisión de cuotas en la mayoría de préstamos hipotecarios a tipo variable en España.",
+    "source": "tipos.md",
+    "id": "q_471d672bca"
+  },
+  {
+    "question": "¿Qué norma del Banco de España actualizó el marco relativo a la transparencia e información estadística de los tipos de interés aplicados por las Instituciones Financieras Monetarias (IFM)?",
+    "options": {
+      "a": "Circular 1/2025 del Banco de España.",
+      "b": "Ley de Enjuiciamiento Civil 1/2000.",
+      "c": "Orden Ministerial de 1985 sobre cheques de viaje.",
+      "d": "Reglamento del Congreso de los Diputados de 1982."
+    },
+    "correctAnswer": "a",
+    "explanation": "La Circular 1/2025 del Banco de España modifica la normativa estadística aplicable a las entidades de crédito para la declaración homogénea de tipos de interés aplicados en operaciones de crédito y depósito (TAE y TEDR).\n\n\nEjemplo: En cumplimiento de la Circular 1/2025, las entidades financieras adaptan sus sistemas de información para reportar al Banco de España los tipos aplicados en nuevos créditos sostenibles.",
+    "source": "tipos.md",
+    "id": "q_b92605e984"
+  },
+  {
+    "question": "¿Qué mide el tipo de interés IRS (Interest Rate Swap) a 5 años utilizado como referencia en los mercados de valores?",
+    "options": {
+      "a": "El coste de intercambiar flujos de tipo de interés fijo por tipo flotante a un plazo de 5 años en el mercado de derivados de tipos de interés.",
+      "b": "El interés de los préstamos al consumo para la compra de vehículos de segunda mano.",
+      "c": "El dividendo garantizado de las acciones bancarias de la eurozona.",
+      "d": "La comisión por descubierto en cuenta corriente a 5 días."
+    },
+    "correctAnswer": "a",
+    "explanation": "El tipo IRS (Interest Rate Swap) a 5 años refleja la cotización de los permutas financieras de tipos de interés a 5 años, sirviendo como referencia clave para fijar el coste de las hipotecas y créditos corporativos a tipo fijo a medio plazo.\n\n\nEjemplo: Cuando un banco diseña una oferta de hipoteca a tipo fijo durante 5 años, toma como referencia el tipo IRS a 5 años más un diferencial comercial.",
+    "source": "tipos.md",
+    "id": "q_47107c897c"
+  },
+  {
+    "question": "¿Qué nuevo componente de riesgo supervisor se ha integrado de forma prioritaria en las revisiones SREP y pruebas de resistencia del BCE y del Banco de España?",
+    "options": {
+      "a": "La evaluación del impacto de los riesgos climáticos, medioambientales y de transición (ESG) en la solidez prudencial de las entidades.",
+      "b": "La prohibición de emitir tarjetas de plástico de color azul.",
+      "c": "El control impositivo del número de impresoras de papel por oficina.",
+      "d": "La fijación del tipo de cambio con la libra esterlina."
+    },
+    "correctAnswer": "a",
+    "explanation": "El BCE y el Banco de España han incorporado el riesgo climático y medioambiental en el SREP, evaluando cómo los eventos físicos (inundaciones, sequías) y los riesgos de transición hacia una economía descarbonizada pueden afectar a la morosidad y activos del sector bancario.\n\n\nEjemplo: En el SREP, el supervisor evalúa si un banco tiene concentrado su crédito en sectores altamente contaminantes expuestos a penalizaciones regulatorias o depreciación de activos.",
+    "source": "funcion supervisora.md",
+    "id": "q_6956db88e4"
   }
 ]
